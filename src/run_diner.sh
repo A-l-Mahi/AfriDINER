@@ -3,7 +3,7 @@ Counterfactual=1
 GPU=0
 fusion_mode=sum
 dataset_name=$1
-# dataset_name in ["laptop", "rest"]
+# dataset_name in ["laptop", "rest", "afriData"]
 seed=20
 epoch=50
 batch_size=64
