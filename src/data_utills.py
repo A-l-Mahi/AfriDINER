@@ -3,6 +3,9 @@ import torch
 import os
 import json
 import pandas
+import uuid
+
+
 def label_to_num(label):
     if label == "negative":
         return 0
@@ -53,6 +56,16 @@ def read_json_ori(file_folder):
             dataset["polarities"] = polarities
             dataset["ids"] = ids
             data[file[:-5]] = dataset
+    return data
+
+def read_csv_ori(file_folder):
+    data = {}
+    for file in os.listdir(file_folder):
+        dataset = pandas.read_csv(os.path.join(file_folder, file))
+        dataset['sentence_x0'] = [process_ori_sentence(sentence, term) for sentence, term in zip(dataset['sentences'], dataset['aspect_term'])]
+        dataset['ids'] = [uuid.uuid4().hex for _ in range(len(dataset))]
+
+        data[file[:-4]] = dataset
     return data
 
 def read_json_arts(file):
@@ -163,7 +176,8 @@ def create_data_loader(df, tokenizer, max_len,max_len_a, batch_size):
 
 def load_data(dataset_name,type):
     if type == "ORI":
-        data = read_json_ori("../dataset/SemEval2014/"+dataset_name)
+#        data = read_json_ori("../dataset/SemEval2014/"+dataset_name)
+        data = read_csv_ori("../dataset/SemEval2014/"+dataset_name)
         train = data["train"]
         test = data["test"]
         dev = data["dev"]
