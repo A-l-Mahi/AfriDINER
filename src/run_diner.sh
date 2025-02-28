@@ -1,4 +1,4 @@
-ARTS=1
+ARTS=0
 Counterfactual=1
 GPU=0
 fusion_mode=sum

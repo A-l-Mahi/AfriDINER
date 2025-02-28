@@ -21,7 +21,7 @@ class ABSAmodel(nn.Module):
         return all_out
 
 class CFABSAmodel(nn.Module):
-    def __init__(self,a,b):
+    def __init__(self):
         super(CFABSAmodel, self).__init__()
         self.model_all = AutoModel.from_pretrained("roberta-base")
         self.out_all = nn.Linear(self.model_all.config.hidden_size, 3)

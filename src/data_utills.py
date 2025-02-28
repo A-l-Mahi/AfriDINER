@@ -13,13 +13,18 @@ def label_to_num(label):
         return 1
     if label =="neutral":
         return 2
-
+    if label == "conflict":
+       return 2
 def process_ori_sentence(sentence,term,k=1):
-    pre_text = sentence[:sentence.index(term)]
-    post_text = sentence[sentence.index(term)+len(term):]
-    pre_text = pre_text.split()[::-1][:k][::-1]
-    post_text =  post_text.split()[:k]
-    text = sentence.replace(" ".join(pre_text),"").replace(" ".join(post_text),"").replace(term,"")
+    try:
+        pre_text = sentence[:sentence.index(term)]
+        post_text = sentence[sentence.index(term)+len(term):]
+        pre_text = pre_text.split()[::-1][:k][::-1]
+        post_text =  post_text.split()[:k]
+        text = sentence.replace(" ".join(pre_text),"").replace(" ".join(post_text),"").replace(term,"")
+
+    except ValueError:
+        text = sentence
     return text
 
 def process_arts_sentence(sentence,pre_index,post_index,k=1):
@@ -62,7 +67,7 @@ def read_csv_ori(file_folder):
     data = {}
     for file in os.listdir(file_folder):
         dataset = pandas.read_csv(os.path.join(file_folder, file))
-        dataset['sentence_x0'] = [process_ori_sentence(sentence, term) for sentence, term in zip(dataset['sentences'], dataset['aspect_term'])]
+        dataset['sentences_x0'] = [process_ori_sentence(sentence, term) for sentence, term in zip(dataset['sentences'], dataset['aspects'])]
         dataset['ids'] = [uuid.uuid4().hex for _ in range(len(dataset))]
 
         data[file[:-4]] = dataset
@@ -158,6 +163,7 @@ class ABSADataset(Dataset):
      }
     
 def create_data_loader(df, tokenizer, max_len,max_len_a, batch_size):
+    print(df['polarities'].head())
     ds = ABSADataset(
         sentences=df.sentences.to_numpy(),
         sentences_x0=df.sentences_x0.to_numpy(),
