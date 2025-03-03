@@ -190,7 +190,7 @@ def main(EPOCHS,MODEL,train_data_loader,val_data_loader, test_data_loader,loss_f
             best_ARS = test_ARS
         print(f'best acc {best_acc} best f1 {best_f1} bset ARS {best_ARS}')
         with open(save_dir+"/result.txt","w",encoding="utf-8") as f:
-            f.write("best acc:"+str(max(history['test_acc']).item()))
-            f.write("best f1:"+str(max(history['test_f1']).item()))
+            f.write("best acc:"+str(max(history['test_acc'])))
+            f.write("best f1:"+str(max(history['test_f1'])))
             f.write("best ARS:"+str(max(history['ARS'])))
             f.write("best epoch:"+str(epoch))
