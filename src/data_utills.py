@@ -181,9 +181,16 @@ def create_data_loader(df, tokenizer, max_len,max_len_a, batch_size):
     )
 
 def load_data(dataset_name,type):
+    afriData = ["afri_laptop", "afri_rest"]
+
     if type == "ORI":
 #        data = read_json_ori("../dataset/SemEval2014/"+dataset_name)
-        data = read_csv_ori("../dataset/SemEval2014/"+dataset_name)
+        if dataset_name in afriData:
+
+            data = read_csv_ori("../dataset/SemEval2014/afriData"+dataset_name)
+        else:
+            data = read_csv_ori("../dataset/SemEval2014/"+dataset_name)
+
         train = data["train"]
         test = data["test"]
         dev = data["dev"]
