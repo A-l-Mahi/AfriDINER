@@ -187,7 +187,7 @@ def load_data(dataset_name,type):
 #        data = read_json_ori("../dataset/SemEval2014/"+dataset_name)
         if dataset_name in afriData:
 
-            data = read_csv_ori("../dataset/SemEval2014/afriData"+dataset_name)
+            data = read_csv_ori("../dataset/SemEval2014/afriData/"+dataset_name)
         else:
             data = read_csv_ori("../dataset/SemEval2014/"+dataset_name)
 
