@@ -1,4 +1,4 @@
-ARTS=1
+ARTS=0
 Counterfactual=1
 GPU=0
 fusion_mode=sum
@@ -11,7 +11,7 @@ weight_decay=0.01
 learning_rate=5e-5
 max_len_s=120
 max_len_a=13
-model_name=Afro_xlmr
+model_name=Afro-XLMr
 
 if [ $Counterfactual = 1 ];then
     if [ $ARTS = 1 ];then

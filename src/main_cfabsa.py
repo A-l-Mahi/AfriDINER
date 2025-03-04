@@ -4,7 +4,7 @@ import torch
 from torch.optim import AdamW
 from torch import nn
 from data_utills import *
-from model import ABSAmodel,CFABSAmodel
+from model import ABSAmodel,CFABSAmodel, CFABSA_XLMR
 from utils import *
 import argparse
 
@@ -37,7 +37,7 @@ if args.model_name:
 
     tokenizer = AutoTokenizer.from_pretrained(pretrained)
 
-    MODEL = CFABSAmodel(pretrained) if args.Counterfactual else ABSAmodel(pretrained)
+    MODEL = CFABSA_XLMR(pretrained) if args.Counterfactual else ABSAmodel(pretrained)
 
     mode = "ARTS" if args.ARTS else "ORI"
     train, test, dev = load_data(args.dataset_name, mode)
