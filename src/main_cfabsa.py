@@ -29,11 +29,11 @@ args = parser.parse_args()
 
 if args.model_name:
     if args.model_name == "XLMr":
-        pretrained = "FacebookAI/xlm-roberta-large"
+        pretrained = AutoModel.from_pretrained("FacebookAI/xlm-roberta-large")
     elif args.model_name == "Afro-XLMr": 
-        pretrained = "Davlan/afro-xlmr-large"
+        pretrained = AutoModel.from_pretrained("Davlan/afro-xlmr-large")
     else: 
-        pretrained = "roberta-base"
+        pretrained = AutoModel.from_pretrained("roberta-base")
 
     tokenizer = AutoTokenizer.from_pretrained(pretrained)
 
