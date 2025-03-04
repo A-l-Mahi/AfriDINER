@@ -1,4 +1,4 @@
-from transformers import AutoTokenizer
+from transformers import AutoTokenizer, AutoModelForMaskedLM, AutoModel
 from transformers.optimization import get_linear_schedule_with_warmup
 import torch
 from torch.optim import AdamW
@@ -23,23 +23,34 @@ parser.add_argument('--learning_rate', type=float)
 parser.add_argument('--max_len_s', type=int)
 parser.add_argument('--max_len_a', type=int)
 parser.add_argument('--save_dir', type=str)
+parser.add_argument('--model_name', type=str)
 args = parser.parse_args()
+
+if args.model_name: 
+    if args.model_name == "Afro_xlmr": 
+        pretrained = AutoModelForMaskedLM.from_pretrained('Davlan/afro-xlmr-large')
+        tokenizer = AutoTokenizer.from_pretrained("Davlan/afro-xlmr-large")
+
+    else: 
+        pretrained = AutoModel.from_pretrained("roberta-base")
+        tokenizer = AutoTokenizer.from_pretrained("bert-base-uncased")
 
 if args.Counterfactual:
     if args.ARTS:
         train,test,dev = load_data(args.dataset_name,"ARTS")
-        MODEL = CFABSAmodel(1,1)
+        MODEL = CFABSAmodel(1,1,pretrained)
     else:
         train,test,dev = load_data(args.dataset_name,"ORI")
-        MODEL = CFABSAmodel()
+        MODEL = CFABSAmodel(pretrained)
 else:
     if args.ARTS:
         train,test,dev = load_data(args.dataset_name,"ARTS")
-        MODEL = ABSAmodel()
+        MODEL = ABSAmodel(pretrained)
     else:
         train,test,dev = load_data(args.dataset_name,"ORI")
-        MODEL = ABSAmodel()
-tokenizer = AutoTokenizer.from_pretrained("bert-base-uncased")
+        MODEL = ABSAmodel(pretrained)
+
+
 device = torch.device("cuda:"+args.GPU if torch.cuda.is_available() else "cpu")
 set_seed(args.seed)
 my_model = MODEL.to(device)

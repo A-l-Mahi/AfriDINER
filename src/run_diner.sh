@@ -1,9 +1,9 @@
-ARTS=0
+ARTS=1
 Counterfactual=1
 GPU=0
 fusion_mode=sum
 dataset_name=$1
-# dataset_name in ["laptop", "rest", "afriData"]
+# dataset_name in ["laptop", "rest"]
 seed=20
 epoch=50
 batch_size=64
@@ -11,6 +11,8 @@ weight_decay=0.01
 learning_rate=5e-5
 max_len_s=120
 max_len_a=13
+model_name=Afro_xlmr
+
 if [ $Counterfactual = 1 ];then
     if [ $ARTS = 1 ];then
         save_dir="output/${dataset_name}_ARTS/data_${dataset_name}_ARTS-lr_${learning_rate}-bz_${batch_size}_${fusion_mode}"
@@ -39,4 +41,5 @@ python3 main_cfabsa.py \
     --learning_rate $learning_rate \
     --max_len_s $max_len_s \
     --max_len_a $max_len_a \
+    --model_name $model_name \
     --save_dir $save_dir 2>&1 | tee  ${save_dir}/run.log

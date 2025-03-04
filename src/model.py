@@ -1,13 +1,15 @@
 from torch import nn
+from transformers import pipeline 
 from transformers import AutoModel
-from transformers import AutoTokenizer
+from transformers import AutoTokenizer, AutoModelForMaskedLM
 from data_utills import *
 from component import *
+import pandas as pd 
 
 class ABSAmodel(nn.Module):
-    def __init__(self):
+    def __init__(self,pretrained):
         super(ABSAmodel, self).__init__()
-        self.bert = AutoModel.from_pretrained("roberta-base")
+        self.bert = pretrained
         self.drop = nn.Dropout(p=0.1)
         self.out = nn.Linear(self.bert.config.hidden_size, 3)
     def forward(self, text_input_ids, text_attention_mask):
@@ -21,13 +23,13 @@ class ABSAmodel(nn.Module):
         return all_out
 
 class CFABSAmodel(nn.Module):
-    def __init__(self):
+    def __init__(self,a,b,pretrained):
         super(CFABSAmodel, self).__init__()
-        self.model_all = AutoModel.from_pretrained("roberta-base")
+        self.model_all = pretrained
         self.out_all = nn.Linear(self.model_all.config.hidden_size, 3)
-        self.model_aspect = AutoModel.from_pretrained("roberta-base")
+        self.model_aspect = pretrained
         self.out_aspect = nn.Linear(self.model_aspect.config.hidden_size, 3)
-        self.model_text = AutoModel.from_pretrained("roberta-base")
+        self.model_text = pretrained
         self.clf = tde_classifier(num_classes=3, feat_dim=self.model_all.config.hidden_size)
         self.softmax = nn.Softmax(dim=1)
         self.drop = nn.Dropout(p=0.1)
@@ -78,3 +80,4 @@ class CFABSAmodel(nn.Module):
             aspect_out = self.out_aspect(aspect_output)
             logits = all_out + torch.tanh(text_out) + torch.tanh(aspect_out)
             return logits, all_out, text_out, aspect_out
+        
