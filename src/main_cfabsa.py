@@ -26,29 +26,21 @@ parser.add_argument('--save_dir', type=str)
 parser.add_argument('--model_name', type=str)
 args = parser.parse_args()
 
-if args.model_name: 
-    if args.model_name == "Afro_xlmr": 
-        pretrained = AutoModelForMaskedLM.from_pretrained('Davlan/afro-xlmr-large')
-        tokenizer = AutoTokenizer.from_pretrained("Davlan/afro-xlmr-large")
 
+if args.model_name:
+    if args.model_name == "XLMr":
+        pretrained = "FacebookAI/xlm-roberta-large"
+    elif args.model_name == "Afro-XLMr": 
+        pretrained = "Davlan/afro-xlmr-large"
     else: 
-        pretrained = AutoModel.from_pretrained("roberta-base")
-        tokenizer = AutoTokenizer.from_pretrained("bert-base-uncased")
+        pretrained = "roberta-base"
 
-if args.Counterfactual:
-    if args.ARTS:
-        train,test,dev = load_data(args.dataset_name,"ARTS")
-        MODEL = CFABSAmodel(1,1,pretrained)
-    else:
-        train,test,dev = load_data(args.dataset_name,"ORI")
-        MODEL = CFABSAmodel(pretrained)
-else:
-    if args.ARTS:
-        train,test,dev = load_data(args.dataset_name,"ARTS")
-        MODEL = ABSAmodel(pretrained)
-    else:
-        train,test,dev = load_data(args.dataset_name,"ORI")
-        MODEL = ABSAmodel(pretrained)
+    tokenizer = AutoTokenizer.from_pretrained(pretrained)
+
+    MODEL = CFABSAmodel(pretrained) if args.Counterfactual else ABSAmodel(pretrained)
+
+    mode = "ARTS" if args.ARTS else "ORI"
+    train, test, dev = load_data(args.dataset_name, mode)
 
 
 device = torch.device("cuda:"+args.GPU if torch.cuda.is_available() else "cpu")

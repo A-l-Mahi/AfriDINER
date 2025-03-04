@@ -23,7 +23,7 @@ class ABSAmodel(nn.Module):
         return all_out
 
 class CFABSAmodel(nn.Module):
-    def __init__(self,a,b,pretrained):
+    def __init__(self, pretrained):
         super(CFABSAmodel, self).__init__()
         self.model_all = pretrained
         self.out_all = nn.Linear(self.model_all.config.hidden_size, 3)
@@ -80,4 +80,64 @@ class CFABSAmodel(nn.Module):
             aspect_out = self.out_aspect(aspect_output)
             logits = all_out + torch.tanh(text_out) + torch.tanh(aspect_out)
             return logits, all_out, text_out, aspect_out
-        
+
+class CFABSA_XLMR(nn.Module):
+    def __init__(self, pretrained):
+        super(CFABSA_XLMR, self).__init__()
+        self.model_all =  AutoModel.from_pretrained(pretrained)
+        self.out_all = nn.Linear(self.model_all.config.hidden_size, 3)
+        self.model_aspect =  AutoModel.from_pretrained(pretrained)
+        self.out_aspect = nn.Linear(self.model_aspect.config.hidden_size, 3)
+        self.model_text =  AutoModel.from_pretrained(pretrained)
+        self.clf = tde_classifier(num_classes=3, feat_dim=self.model_all.config.hidden_size)
+        self.softmax = nn.Softmax(dim=1)
+        self.drop = nn.Dropout(p=0.1)
+
+    def get_cls_output(self, model, input_ids, attention_mask):
+            outputs = model(input_ids=input_ids, attention_mask=attention_mask)
+            return outputs.last_hidden_state[:, 0, :]  # XLM-R does not have 'pooler_output'
+
+    def forward(self, all_input_ids, all_attention_mask,text_input_ids, text_attention_mask,aspect_input_ids, aspect_attention_mask,labels = None):
+        if labels == None:
+            #测试阶段
+            all_out = self.get_cls_output(
+                self.model_all, all_input_ids, all_attention_mask
+            )
+            all_out = self.out_all(all_out)
+
+            text_out = self.get_cls_output(
+                self.model_text, input_ids = text_input_ids, attention_mask = text_attention_mask
+            )
+            text_out = self.clf(text_out)
+
+            aspect_out = self.get_cls_output(
+                self.model_aspect, aspect_input_ids, aspect_attention_mask
+            )
+            aspect_out = self.out_aspect(aspect_out)
+
+            logits = self.softmax(all_out + torch.tanh(text_out) + torch.tanh(aspect_out))
+            return logits
+        else:
+            all_out = self.out_all(
+                self.drop(
+                    self.get_cls_output(
+                        self.model_all, all_input_ids, all_attention_mask)
+                        )
+                    )
+
+            all_returned = self.model_all(
+                input_ids=all_input_ids,
+                attention_mask=all_attention_mask
+                )
+
+            text_out = self.clf(
+                self.get_cls_output(
+                    self.model_text, text_input_ids, text_attention_mask))
+
+            aspect_out = self.out_aspect(
+                self.drop(
+                    self.get_cls_output(
+                        self.model_aspect, aspect_input_ids, aspect_attention_mask)))
+
+            logits = all_out + torch.tanh(text_out) + torch.tanh(aspect_out)
+            return logits, all_out, text_out, aspect_out
