@@ -37,6 +37,7 @@ class tde_classifier(nn.Module):
         self.feat_fuse = feat_fuse
         self.selector = nn.Linear(self.feat_dim,self.feat_dim)
         self.stagetwo = stagetwo
+        self.projection_layer = nn.Linear(768, 1024)
         if use_intervention:
             self.context_clf = Interventional_Classifier(num_classes=983, feat_dim=feat_dim, num_head=4, tau=32.0, beta=0.03125)
             self.logit_clf = Interventional_Classifier(num_classes=num_classes, feat_dim=feat_dim, num_head=4, tau=32.0, beta=0.03125)
@@ -58,6 +59,7 @@ class tde_classifier(nn.Module):
             memory_feature = torch.mm(pre_logits,memory)
             selector = self.selector(feats.clone())
             selector = selector.tanh()
+            memory_feature = self.projection_layer(memory_feature)
             combine_feature = feats - selector * memory_feature
             logits = self.logit_clf(combine_feature)
         else:
