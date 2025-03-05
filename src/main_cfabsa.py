@@ -30,12 +30,15 @@ args = parser.parse_args()
 if args.model_name:
     if args.model_name == "XLMr":
         pretrained = AutoModel.from_pretrained("FacebookAI/xlm-roberta-large")
+        tokenizer = AutoTokenizer.from_pretrained("FacebookAI/xlm-roberta-large")
+
     elif args.model_name == "Afro-XLMr": 
         pretrained = AutoModel.from_pretrained("Davlan/afro-xlmr-large")
-    else: 
+        tokenizer = AutoTokenizer.from_pretrained("Davlan/afro-xlmr-large")
+    else:
         pretrained = AutoModel.from_pretrained("roberta-base")
+        tokenizer = AutoTokenizer.from_pretrained("bert-base-uncased")
 
-    tokenizer = AutoTokenizer.from_pretrained(pretrained)
 
     MODEL = CFABSA_XLMR(pretrained) if args.Counterfactual else ABSAmodel(pretrained)
 
