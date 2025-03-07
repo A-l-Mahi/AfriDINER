@@ -59,12 +59,15 @@ def cal_acc_seperation(ids,preds,golds):
     adv3_acc = accuracy_score(adv3_gold,adv3_pred)
     return base_acc, adv1_acc, adv2_acc, adv3_acc
 
-def train_epoch(model,data_loader,loss_fn,optimizer,device,scheduler,Counterfactual):
-    model = model.train()
+def train_epoch(model, data_loader, loss_fn, optimizer, device, scheduler, Counterfactual, accumulation_steps=4):
+    model.train()
     losses = []
-    predications = []
+    predictions = []
     golds = []
-    for data in tqdm(data_loader):
+    scaler = GradScaler()
+    optimizer.zero_grad()
+    
+    for i, data in enumerate(tqdm(data_loader)):
         all_input_ids = data['all_input_ids'].to(device)
         all_attention_mask = data['all_attention_mask'].to(device)
         text_input_ids = data['text_input_ids'].to(device)
@@ -72,29 +75,32 @@ def train_epoch(model,data_loader,loss_fn,optimizer,device,scheduler,Counterfact
         aspect_input_ids = data['aspect_input_ids'].to(device)
         aspect_attention_mask = data['aspect_attention_mask'].to(device)
         targets = data['polarities'].to(device)
-        if Counterfactual:
-            outputs, all_out, text_out, aspect_out = model(
-                all_input_ids,all_attention_mask, text_input_ids,text_attention_mask,aspect_input_ids, aspect_attention_mask,targets
+        
+        with autocast():
+            if Counterfactual:
+                outputs, all_out, text_out, aspect_out = model(
+                    all_input_ids, all_attention_mask, text_input_ids, text_attention_mask, aspect_input_ids, aspect_attention_mask, targets
                 )
-            _, preds = torch.max(outputs, dim=1)
-            loss = loss_fn(outputs, targets) + loss_fn(text_out, targets) + loss_fn(aspect_out, targets)
-        else:
-            outputs = model(
-                text_input_ids,text_attention_mask
-                )
-            _, preds = torch.max(outputs, dim=1)
-            loss = loss_fn(outputs, targets)
-        predications.extend(preds.tolist())
+                _, preds = torch.max(outputs, dim=1)
+                loss = loss_fn(outputs, targets) + loss_fn(text_out, targets) + loss_fn(aspect_out, targets)
+            else:
+                outputs = model(text_input_ids, text_attention_mask)
+                _, preds = torch.max(outputs, dim=1)
+                loss = loss_fn(outputs, targets)
+        
+        predictions.extend(preds.tolist())
         golds.extend(targets.tolist())
         losses.append(loss.item())
-
-        loss.backward()
-        nn.utils.clip_grad_norm_(model.parameters(), max_norm=1.0)
-        optimizer.step()
-        scheduler.step()
-        optimizer.zero_grad()
-
-    return accuracy_score(golds,predications),f1_score(golds,predications,average="macro"),np.mean(losses)
+        
+        scaler.scale(loss).backward()
+        
+        if (i + 1) % accumulation_steps == 0 or (i + 1) == len(data_loader):
+            scaler.step(optimizer)
+            scaler.update()
+            optimizer.zero_grad()
+            scheduler.step()
+    
+    return accuracy_score(golds, predictions), f1_score(golds, predictions, average="macro"), np.mean(losses)
 
 def eval_model(model, data_loader, loss_fn, device,Counterfactual, epoch,save_dir,flag = 0):
     model = model.eval()
