@@ -3,6 +3,7 @@ import random
 import numpy as np
 from tqdm import tqdm
 from torch import nn
+from torch.cuda.amp import autocast, GradScaler
 from sklearn.metrics import accuracy_score,f1_score
 from collections import defaultdict
 
