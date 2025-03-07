@@ -65,7 +65,7 @@ def train_epoch(model, data_loader, loss_fn, optimizer, device, scheduler, Count
     losses = []
     predictions = []
     golds = []
-    scaler = GradScaler()
+    scaler = torch.amp.GradScaler('cuda')
     optimizer.zero_grad()
     
     for i, data in enumerate(tqdm(data_loader)):
@@ -77,7 +77,7 @@ def train_epoch(model, data_loader, loss_fn, optimizer, device, scheduler, Count
         aspect_attention_mask = data['aspect_attention_mask'].to(device)
         targets = data['polarities'].to(device)
         
-        with autocast():
+        with torch.amp.autocast('cuda'):
             if Counterfactual:
                 outputs, all_out, text_out, aspect_out = model(
                     all_input_ids, all_attention_mask, text_input_ids, text_attention_mask, aspect_input_ids, aspect_attention_mask, targets
