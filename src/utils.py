@@ -155,12 +155,24 @@ def main(EPOCHS, MODEL, train_data_loader, val_data_loader, test_data_loader, lo
         print(f'Train loss {train_loss} acc {train_acc} f1 {train_f1}')
 
         val_acc, val_f1, val_ARS, val_loss = eval_model(
-            MODEL, val_data_loader, loss_fn, device, Counterfactual, epoch, save_dir
+            MODEL,
+            val_data_loader,
+            loss_fn,
+            device,
+            Counterfactual,
+            epoch,
+            save_dir = save_dir
         )
         print(f'Val   loss {val_loss} acc {val_acc} f1 {val_f1}')
-
-        test_acc, test_f1, test_ARS, test_loss = eval_model(
-            MODEL, test_data_loader, loss_fn, device, Counterfactual, epoch, save_dir, flag=1
+        test_acc, test_f1, test_ARS,test_loss = eval_model(
+            MODEL,
+            test_data_loader,
+            loss_fn,
+            device,
+            Counterfactual,
+            epoch,
+            save_dir = save_dir,
+            flag = 1
         )
         print(f'Test   loss {test_loss} acc {test_acc} f1 {test_f1} ARS {test_ARS}')
 
@@ -175,8 +187,10 @@ def main(EPOCHS, MODEL, train_data_loader, val_data_loader, test_data_loader, lo
         history['test_loss'].append(test_loss)
         history["ARS"].append(test_ARS)
 
-        if val_loss < best_loss:
-            best_loss = val_loss
+        if test_acc > best_acc:
+            best_acc = test_acc
+            best_f1 = test_f1
+            best_ARS = test_ARS
             epochs_no_improve = 0
             torch.save(MODEL.state_dict(), save_dir+'/best_model_state.bin')
         else:

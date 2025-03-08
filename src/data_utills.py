@@ -163,7 +163,6 @@ class ABSADataset(Dataset):
      }
     
 def create_data_loader(df, tokenizer, max_len,max_len_a, batch_size):
-    print(df['polarities'].head())
     ds = ABSADataset(
         sentences=df.sentences.to_numpy(),
         sentences_x0=df.sentences_x0.to_numpy(),
