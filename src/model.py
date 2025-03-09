@@ -7,20 +7,25 @@ from component import *
 import pandas as pd 
 
 class ABSAmodel(nn.Module):
-    def __init__(self,pretrained):
+    def __init__(self, pretrained):
         super(ABSAmodel, self).__init__()
-        self.bert = pretrained
+        self.model = pretrained
         self.drop = nn.Dropout(p=0.1)
-        self.out = nn.Linear(self.bert.config.hidden_size, 3)
+        self.out = nn.Linear(self.model.config.hidden_size, 3)
+
     def forward(self, text_input_ids, text_attention_mask):
-        all_returned = self.bert(
+        outputs = self.model(
             input_ids=text_input_ids,
             attention_mask=text_attention_mask
-            )
-        all_pooled_output = all_returned["pooler_output"]
-        all_output = self.drop(all_pooled_output)
-        all_out = self.out(all_output)
-        return all_out
+        )
+
+        if "pooler_output" in outputs:
+            pooled_output = outputs.pooler_output
+        else:
+            pooled_output = outputs.last_hidden_state[:, 0, :]
+
+        dropped_output = self.drop(pooled_output)
+        return self.out(dropped_output)
 
 class CFABSAmodel(nn.Module):
     def __init__(self, pretrained):
