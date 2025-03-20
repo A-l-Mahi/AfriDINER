@@ -127,7 +127,7 @@ def eval_model(model, data_loader, loss_fn, device,Counterfactual, epoch,save_di
                 )
                 _, preds = torch.max(outputs, dim=1)
             loss = loss_fn(outputs, targets)
-            predications.extend(preds.tolist())
+            predications.extend(preds.tolist()) 
             golds.extend(targets.tolist())
             losses.append(loss.item())
     ARS = cal_ARS(ids,predications,golds)

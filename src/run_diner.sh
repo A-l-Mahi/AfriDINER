@@ -15,16 +15,16 @@ max_len_a=13
 model_name=XLM
 
 if [ $Counterfactual = 1 ];then
-    if [ $ARTS = 1 ];then
-        save_dir="output/${dataset_name}_ARTS/data_${dataset_name}_ARTS-lr_${learning_rate}-bz_${batch_size}_${fusion_mode}"
+    if [ $ARTS = 1 ];then   
+        save_dir="output/${dataset_name}_ARTS/data_${dataset_name}_ARTS-lr_${learning_rate}-bz_${batch_size}_${fusion_mode}_${model_name}"
     else
-        save_dir="output/${dataset_name}/data_${dataset_name}-lr_${learning_rate}-bz_${batch_size}_${fusion_mode}"
+        save_dir="output/${dataset_name}/data_${dataset_name}-lr_${learning_rate}-bz_${batch_size}_${fusion_mode}_${model_name}_${model_name}"
     fi
 else
     if [ $ARTS = 1 ];then
-        save_dir="output/results/${dataset_name}_ARTS/data_${dataset_name}_ARTS-lr_${learning_rate}-bz_${batch_size}"
+        save_dir="output/results/${dataset_name}_ARTS/data_${dataset_name}_ARTS-lr_${learning_rate}-bz_${batch_size}_${model_name}"
     else
-        save_dir="output/results/${dataset_name}/data_${dataset_name}-lr_${learning_rate}-bz_${batch_size}"
+        save_dir="output/results/${dataset_name}/data_${dataset_name}-lr_${learning_rate}-bz_${batch_size}_${model_name}"
     fi
 fi
 mkdir -p $save_dir

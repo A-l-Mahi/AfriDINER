@@ -11,7 +11,7 @@ class Interventional_Classifier(nn.Module):
         self.head_dim = feat_dim // num_head
         self.reset_parameters(self.weight)
         self.feat_dim = feat_dim
-        
+   
     def reset_parameters(self, weight):
         stdv = 1. / math.sqrt(weight.size(1))
         weight.data.uniform_(-stdv, stdv)
