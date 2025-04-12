@@ -85,7 +85,7 @@ def train_epoch(model,data_loader,loss_fn,optimizer,device,scheduler,Counterfact
                 loss = loss_fn(outputs, targets) + loss_fn(text_out, targets) + loss_fn(aspect_out, targets)
             else:
                 outputs = model(
-                    text_input_ids,text_attention_mask
+                    text_input_ids, text_attention_mask, aspect_input_ids, aspect_attention_mask
                     )
                 _, preds = torch.max(outputs, dim=1)
                 loss = loss_fn(outputs, targets)
@@ -123,7 +123,7 @@ def eval_model(model, data_loader, loss_fn, device,Counterfactual, epoch,save_di
                 loss = loss_fn(outputs, targets)
             else:
                 outputs = model(
-                    text_input_ids,text_attention_mask
+                    text_input_ids, text_attention_mask, aspect_input_ids, aspect_attention_mask
                 )
                 _, preds = torch.max(outputs, dim=1)
             loss = loss_fn(outputs, targets)
@@ -174,7 +174,7 @@ def main(EPOCHS, MODEL, train_data_loader, val_data_loader, test_data_loader, lo
             save_dir = save_dir,
             flag = 1
         )
-        print(f'Test   loss {test_loss} acc {test_acc} f1 {test_f1} ARS {test_ARS}')
+        print(f'Test loss {test_loss} acc {test_acc} f1 {test_f1} ARS {test_ARS}')
 
         history['train_acc'].append(train_acc)
         history['train_f1'].append(train_f1)
@@ -187,10 +187,10 @@ def main(EPOCHS, MODEL, train_data_loader, val_data_loader, test_data_loader, lo
         history['test_loss'].append(test_loss)
         history["ARS"].append(test_ARS)
 
-        if test_acc > best_acc:
-            best_acc = test_acc
-            best_f1 = test_f1
-            best_ARS = test_ARS
+        if val_acc > best_acc:
+            best_acc = val_acc
+            best_f1 = val_f1
+            best_ARS = val_ARS
             epochs_no_improve = 0
             torch.save(MODEL.state_dict(), save_dir+'/best_model_state.bin')
         else:

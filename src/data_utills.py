@@ -4,6 +4,7 @@ import os
 import json
 import pandas
 import uuid
+import sys
 
 
 def label_to_num(label):
@@ -15,16 +16,17 @@ def label_to_num(label):
         return 2
     if label == "conflict":
        return 2
-def process_ori_sentence(sentence,term,k=1):
-    try:
-        pre_text = sentence[:sentence.index(term)]
-        post_text = sentence[sentence.index(term)+len(term):]
-        pre_text = pre_text.split()[::-1][:k][::-1]
-        post_text =  post_text.split()[:k]
-        text = sentence.replace(" ".join(pre_text),"").replace(" ".join(post_text),"").replace(term,"")
 
-    except ValueError:
-        text = sentence
+def process_ori_sentence(sentence,term,k=1):
+    if not isinstance(term, str):
+        term = str(term)
+
+    pre_text = sentence[:sentence.index(term)]
+    post_text = sentence[sentence.index(term)+len(term):]
+    pre_text = pre_text.split()[::-1][:k][::-1]
+    post_text =  post_text.split()[:k]
+    text = sentence.replace(" ".join(pre_text),"").replace(" ".join(post_text),"").replace(term,"")
+
     return text
 
 def process_arts_sentence(sentence,pre_index,post_index,k=1):

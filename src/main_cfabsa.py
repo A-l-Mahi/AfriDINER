@@ -41,6 +41,7 @@ if args.model_name:
 
 
     MODEL = CFABSA_XLMR(pretrained) if args.Counterfactual else ABSAmodel(pretrained)
+    
 
     mode = "ARTS" if args.ARTS else "ORI"
     train, test, dev = load_data(args.dataset_name, mode)

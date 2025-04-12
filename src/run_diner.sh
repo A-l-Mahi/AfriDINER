@@ -1,18 +1,18 @@
 ARTS=0
 export PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True
-Counterfactual=1
+Counterfactual=0
 GPU=0
 fusion_mode=sum
 dataset_name=$1
 # dataset_name in ["laptop", "rest"]
 seed=20
 epoch=50
-batch_size=100
+batch_size=10
 weight_decay=0.01
 learning_rate=5e-5
 max_len_s=120
 max_len_a=13
-model_name=XLM
+model_name=XLMr
 
 if [ $Counterfactual = 1 ];then
     if [ $ARTS = 1 ];then   
