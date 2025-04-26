@@ -1,13 +1,13 @@
 ARTS=0
 export PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True
-Counterfactual=0
+Counterfactual=1
 GPU=0
 fusion_mode=sum
 dataset_name=$1
 # dataset_name in ["laptop", "rest"]
 seed=20
-epoch=50
-batch_size=10
+epoch=40
+batch_size=60
 weight_decay=0.01
 learning_rate=5e-5
 max_len_s=120

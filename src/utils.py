@@ -207,4 +207,4 @@ def main(EPOCHS, MODEL, train_data_loader, val_data_loader, test_data_loader, lo
         if epochs_no_improve >= patience:
             print("Early stopping triggered. Stopping GCP VM...")
             break
-    os.system("gcloud compute instances stop afri-semeval --discard-local-ssd=true --zone=us-central1-a")
+    os.system("gcloud compute instances stop a100-40gb-compute --discard-local-ssd=true --zone=us-central1-f")
