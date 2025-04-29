@@ -13,6 +13,9 @@ learning_rate=5e-5
 max_len_s=120
 max_len_a=13
 model_name=XLMr
+checkpoint=1
+test_model=1
+test_model_path=""
 
 if [ $Counterfactual = 1 ];then
     if [ $ARTS = 1 ];then   
@@ -43,4 +46,7 @@ python3 main_cfabsa.py \
     --max_len_s $max_len_s \
     --max_len_a $max_len_a \
     --model_name $model_name \
+    --checkpoint $checkpoint \
+    --test_model $test_model \
+    --test_model_path $test_model_path \
     --save_dir $save_dir 2>&1 | tee  ${save_dir}/run.log
