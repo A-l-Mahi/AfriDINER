@@ -137,6 +137,43 @@ def eval_model(model, data_loader, loss_fn, device,Counterfactual, epoch,save_di
                 f.write(id+"\t"+str(pred)+"\t"+str(gold)+"\n")
     return accuracy_score(golds,predications),f1_score(golds,predications,average="macro"), ARS ,np.mean(losses)
 
+def test_model(model, data_loader, loss_fn, device, Counterfactual):
+    model = model.eval()
+    losses = []
+    predications = []
+    golds = []
+    ids = []
+    with torch.no_grad():
+        for key, lang_data in tqdm(data_loader.items()):
+            for data in tqdm(lang_data):
+                all_input_ids = data['all_input_ids'].to(device)
+                all_attention_mask = data['all_attention_mask'].to(device)
+                text_input_ids = data['text_input_ids'].to(device)
+                text_attention_mask = data['text_attention_mask'].to(device)
+                aspect_input_ids = data['aspect_input_ids'].to(device)
+                aspect_attention_mask = data['aspect_attention_mask'].to(device)
+                targets = data['polarities'].to(device)
+                ids.extend(data["id"])
+                if Counterfactual:
+                    outputs = model(
+                        all_input_ids,all_attention_mask, text_input_ids,text_attention_mask,aspect_input_ids, aspect_attention_mask
+                    )
+                    _, preds = torch.max(outputs, dim=1)
+                    loss = loss_fn(outputs, targets)
+                else:
+                    outputs = model(
+                        text_input_ids, text_attention_mask, aspect_input_ids, aspect_attention_mask
+                    )
+                    _, preds = torch.max(outputs, dim=1)
+                loss = loss_fn(outputs, targets)
+                predications.extend(preds.tolist()) 
+                golds.extend(targets.tolist())
+                losses.append(loss.item())
+            ARS = cal_ARS(ids,predications,golds)
+            print(f" {key} TEST RESULTS \
+                ARS: {ARS} acc: {accuracy_score(golds,predications)} f1: {f1_score(golds,predications,average='macro')} loss: {np.mean(losses)}"
+            )
+
 def main(EPOCHS, MODEL, train_data_loader, val_data_loader, test_data_loader, loss_fn, optimizer, device, scheduler, save_dir, Counterfactual, patience=10):
     history = defaultdict(list)
     best_acc = 0
