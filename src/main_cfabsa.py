@@ -24,6 +24,9 @@ parser.add_argument('--max_len_s', type=int)
 parser.add_argument('--max_len_a', type=int)
 parser.add_argument('--save_dir', type=str)
 parser.add_argument('--model_name', type=str)
+parser.add_argument('--test_model', type=int)
+parser.add_argument('--checkpoint', type=int)
+parser.add_argument('--test_model_path', type=str)
 args = parser.parse_args()
 
 
@@ -52,7 +55,11 @@ set_seed(args.seed)
 my_model = MODEL.to(device)
 train_data_loader = create_data_loader(train, tokenizer, max_len = args.max_len_s, max_len_a= args.max_len_a,batch_size=args.batch_size)
 val_data_loader = create_data_loader(dev, tokenizer, max_len = args.max_len_s, max_len_a= args.max_len_a, batch_size = args.batch_size)
-test_data_loader = create_data_loader(test, tokenizer, max_len = args.max_len_s, max_len_a= args.max_len_a,  batch_size = args.batch_size)
+test_data_loader = {}
+
+for key, values in test.items():
+    test_data_loader[key] = create_data_loader(values, tokenizer, max_len = args.max_len_s, max_len_a= args.max_len_a,  batch_size = args.batch_size)
+
 total_steps = len(train_data_loader) * args.epoch
 
 no_decay = ["bias", "LayerNorm.weight"]
@@ -76,14 +83,17 @@ scheduler = get_linear_schedule_with_warmup(
 loss_fn = nn.CrossEntropyLoss().to(device)
 parser = argparse.ArgumentParser(description='CFABSA finetuning')
 save_dir = args.save_dir
-main(args.epoch,
-     my_model,
-     train_data_loader,
-     val_data_loader,
-     test_data_loader,
-     loss_fn,
-     optimizer,
-     device,
-     scheduler,
-     save_dir,
-     args.Counterfactual)
+
+if args.test_model and args.checkpoint:
+
+    model_state = torch.load(args.test_model_path)
+
+    MODEL.load_state_dict(model_state)
+
+    my_model = MODEL.to(device)
+    
+    test_model(my_model, test_data_loader, loss_fn, device, args.Counterfactual)
+
+else:
+    main(args.epoch, my_model, train_data_loader, val_data_loader, test_data_loader, loss_fn,
+        optimizer, device, scheduler, save_dir, args.Counterfactual)
