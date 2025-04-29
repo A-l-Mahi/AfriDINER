@@ -1,0 +1,555 @@
+sentences,aspects,polarities
+hari haca,haca,positive
+"ariko rero, twararindiranye igishika c'isaha imwe n'igice kugira ngo dushike ku mugozi umwe (mu gihe c'isaha imwe n'igice).",twararindiranye,negative
+"nta n'umwe muri bo yari afise inyosha, yaribagiwe ivyo dushiramwo, ashiramwo ivyitwazo (ivyitwa imyelayo), mu gihe c'ubushuhe n'ubushuhe bwinshi cane ku buryo ico gihimba cari gisumye ku buryo cama gikwegakwega ku gihimba c'ipambu cawo.",nta,negative
+"iyo nfungurwa yari itangaje, kandi igikorwa cari gitevye kandi cari ngirakamaro, ariko ntikirarenza urugero canke ngo kibure kwihuta.",nfungurwa,positive
+"mu gihe bagumye bashira amahera mu mafyogo, bashira amahera mu bisagara, kuko bari mu bantu beza cane mu gisagara.",bari,neutral
+"nimba ukunda umuziki wawe, kandi iyo ndirimbo yawe ntimeze neza, nimba ushaka kugura n'imiburiburi amafaranga 100 y'ama dollards, uzoyikundira.",nimba,negative
+big fizzo: none none none,none,negative
+"twaciye dushika ku mugoroba, ariko ntivyari vyoroshe ko tuja ku meza ubwo nyene.",vyoroshe,neutral
+"vyongeye, umuvinyu be n'umuvinyu vyari bihimbaye cane, ariko ico kintu catumye ico kibanza kiba vyifashe neza.",catumye,positive
+"twaciye turindira umwanya mutoyi, ariko umuhagarikizi yari mwiza cane kandi yaraturindiriye cane.",ariko,neutral
+twari dufise inkoho ziryoshe kandi zari nziza cane.,dufise,positive
+"sinorya inyama z'intama nk'izo, ni nziza cane ku mavuta ya elayo hamwe n'amavuta ya elayo.",ni,positive
+"iyi nkuru ntaho ihwanye n'iy'igiciro, iy'agaciro, agaciro, n'agaciro kayo, ariko ni uko gusa.",n'agaciro,negative
+"ni co gituma mu mutwe w'umuntu ari hejuru y'umutwe wiwe, kandi vyose biraryoshe.",ni,neutral
+"ku bajejwe amagara y'abantu, mu ndyane z'amatongo, tutibagiye n'abarongoye iyo migaburo, ico kibazo cari giteye ubwoba.",cari,negative
+umunywanyi w'uwo mugwizaho yasavye abanywa umuvinyu mwiza cane.,umuvinyu,positive
+"10.10.2016- 2016- 2016 vyongeye, turahimbawe cane, kandi turahimbawe cane no gutanga ivyiza kuruta ibindi vyose",ibindi,positive
+"umunywanyi w'umuvinyu n'umuvinyu ni vyinshi, kandi ntashobora kurindira ko umunywanyi canke umucanwa uguma ufungura.",umunywanyi,positive
+sasho ni ikimashita.,ni,positive
+"kugira ngo duhimbaze umusi mukuru w'ivuka, batatu muri bo baraja i mare baritegereza ibifungurwa bihambaye.",ibifungurwa,neutral
+"ni nk'aho abo banyeshure bibagira ko batanguye gukorera aho hantu, ahubwo barondera gusemerera.",ni,negative
+"ifi ni nshasha, kandi buri gapande kaca gafukwa ku buryo butunganye kandi gashizweho na sushi chef (akenshi gafise isabuni n'isabuni y'isabuni, ariko rimwe na rimwe n'umunyu w'ikiyaga).",sushi,positive
+"cuma cari dicoba aja ya,!!,",cuma,positive
+ahahahahahah e cosa cosa!!,cosa,positive
+"15% baratanze ibiciro ku giciro ca 15%, kuko bari bazi ko ico gikorwa ari ikintu kidasanzwe.",giciro,negative
+"igihe umuryango wiwe washika, yarabahaye udusozo two kugerageza udutsima twabo, aca abategeka ko boza barabafasha.",yarabahaye,neutral
+"gende musangire akamo k'indya z'indya, ariko si ko mwese mufise indya zo mu ndya.",musangire,positive
+"mugume murya amahera yanyu, ntimuze musubire mu mabarabara y'i warwick, muronke ibifungurwa vyiza n'ibindi.",mugume,positive
+"10 vyongeye, nta kintu na kimwe coza gisukuye canke ngo kigire ico kirungika.",nta,neutral
+umwicanyi sushi!,sushi!,positive
+"ndahanuye umusomyi ko imigabane ari nto cane (cane cane appetizers), rero nimba mufise umugambi wo gufungura gushika aho mwuzuye kandi ntimwitegurire gutegeka indya zidasanzwe z'umukuru w'igihugu, mutegure gutegekanya no kuriha impeke (1/ 1 cam kuri buri muntu kuko ibice bitagenewe gusangira),  10 10:13) mu nyuma, hari imbeho nyinshi, n'imbeho nyinshi cane, mu gihe c'imbeho nyinshi cane, mu gihe c'imbeho nyinshi",mutegure,negative
+birateye isoni kubona ikibanza ciza kandi coroshe nk'igisozi c'ibara ry,isoni,negative
+"niwaba uriko urafungura neza ku giciro ciza, genda kuri delphine!",kuri,positive
+"twari dufise ivyibushe, kandi naho twoba turiko turakora ivyibushe, kandi vyari biryoshe cane.",dufise,positive
+"twari bane, twashitse ku muhingamo, ico kibanza carimwo ubusa, abakozi barakoze nk'uko twavyifatamwo, kandi bari abanyakabi cane.",abakozi,negative
+"ikindi gihe, nta mavuta n'umwe nari mfise.",mavuta,negative
+"twaciye turonka ibifungurwa n'ibinyobwa, ariko nta n'ibinyobwa vyatanzwe.",twaciye,neutral
+"vyongeye, uwo mucuzi aratekana, akemera gufata akanya akagushikiriza ijambo, akagusyanisha n'ukuboko.",akanya,positive
+"ni vyiza cane, gerageza umukate w'inkorano.",ni,positive
+n'aho uwo mu bwoko bw'ibifungurwa ashobora kuba ari nk'aho,uwo,positive
+"abakozi baratomoye cane, kandi hafi ya vyose turashobora kuronka agasozo k'imeza.",baratomoye,positive
+"umucanwa w'umucanwa uja mu kibanza gitoyi, aho usanga hari udupfunyika dutatu dutoduto tw'utunyagara dutoduto (udupfunyika duto dutoduto tw'utunyagara dutoduto",kibanza,negative
+"ariko rero, iyo ndiko ndabwira umugenzi wawe ko adakwiye kuvyibazako vyinshi, kandi nta n'umwe avyitezeko, kandi nta n'umwe avyitezeko.",nta,negative
+"naho biri uko, abo banyesozi bose bari bashizwe mu mabanga y'ugushira mu ngiro imigambi y'ugushira mu ngiro imigambi y'ugusotora ibwirizwa nshingiro...",biri,conflict
+"abo bantu rero baraguye mu minwe yabo, bakagwa mu ngwano, ku buryo babona ko batazokwisukako.",batazokwisukako.,negative
+ivyo bifungurwa vyaboneka nk'ibifungurwa bitandukanye ku bakunzi b'imfungurwa n'uburyo bushimishije bwo kuzitegura.,bitandukanye,positive
+"nimba udafise amahera menshi yo kuyaga n'abantu, woshobora gusanga hari ingorane zijanye n'ukurondera amahera menshi, kuko udafise amakarata y'ubudede.",zijanye,negative
+"ico kibanza nticari kigoye cane, ariko cari gipakiwe, igihe twe n'umugenzi wanje dufungura, umurongo waciye ushika kw'irembo.",ico,conflict
+hahahahahahahahahahahahahaha,hahahahahahahahahahahahahaha,positive
+"niwaba uvyiyumviriyeko, kandi ugumye urindiriye, ntibizobura kuguca intege.","urindiriye,",negative
+nta kintu na kimwe coza gisa nk'ico kiri ku rubuga.,nta,negative
+10.000 2016 hahahahahahahahahahahahahaha,hahahahahahahahahahahahahaha,positive
+"ivyo kurya vyari bihimbaye, uwo musuku yari umuntu yitonze kandi yari umuntu ahimbawe, kandi ukuntu ivyo bifungurwa vyari biryoshe!",yitonze,positive
+"abo banyeshure n'abo banyeshure bari barahiye ko bazohava bavyifatamwo neza, ariko ntibazohengeshanya gusaba ikigongwe nk'uko nari niteze.",bari,negative
+"twari tuvyihweje neza, ariko mu vy'ukuri uwo munywanyi yahavuye atwitura, imbere y'uko turonka akaryo ko kuvyihweza.",tuvyihweje,neutral
+"sinovuga ko ndi umurya, ariko nashaka ko mu myaka 11 namaze muri cndd-fdd.",namaze,neutral
+"n'aho safira ataco abuze, kandi ashobora kuba afise icumba ciza kuruta ibindi vyose vyo mu buhindi naheruka mu gisagara ca new york, ivyo kurya si vyo nari niteze.",kurya,negative
+tuna & wasabe potato ni nziza cane.,wasabe potato,positive
+"sinovuga inyobwa n'iy'abahindi, ku buryo ntashobora kugira ico mvuga ku bijanye n'umuvinyu wabo canke umuvinyu wabo.",umuvinyu,neutral
+"sinakunda kwidoga, narakunda cane ico gihimba c'ido n'ido.",c'ido,positive
+"baribagiye n'ivyitwa plastike, kandi ntibashizemwo icuma c'icuma c'imbaho.",ntibashizemwo,neutral
+"umucanwa w'umucanwa uja mu kibanza gitoyi, aho usanga hari udupfunyika dutatu dutoduto tw'utunyagara dutoduto (udupfunyika duto dutoduto tw'utunyagara dutoduto",umucanwa,negative
+"ariko rero, igihe c'isaha zibiri z'ijoro, nta n'iminota 40 twari duhejeje kubona!",zibiri,neutral
+"n'ikindi kandi, nta n'umwe muri abo banyeshure (7) y'amarundi (7000) nta n'umwe yaronse nk'impeshi canke iy'impeshi.",nk'impeshi,negative
+"ibifungurwa, ibifungurwa, eka mbere n'ibifungurwa vy'abantu bose usanga ari ivy'ukuri.",usanga,positive
+15.000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 00,000,positive
+"muri kino gihe, amasôko ni make cane, mu gihe ivyo bifungurwa biguma bikundwa cane, mu gihe iyo resitora iguma ikundwa cane, isa n'iy'abantu bakunzwe cane.",amasôko,negative
+"ino ni ikiru, sushi ni nare.",sushi,positive
+"ifi ni nziza cane, kandi iyo fi ni nziza cane.",ni,positive
+"uwo muvyeyi akaba yahavuye atugwa n'incuro zibiri zose (mu nzu y'uburiro), maze atangura kuvyifatamwo neza.",nzu,neutral
+"mu gihe c'isaha imwe y'ijoro, ibiciro vy'ibifungurwa birashobora kuduga, bikaba bidashobora kuduga!",ibiciro,positive
+"ntukwiye kwikebura---ibiribiri ntibihagije kugira ngo umuntu wese aronke ico afungura, ay'inyama n'inyama z'indya.",n'inyama,positive
+"ni vyiza cane, ni vyiza gufungura, ibiciro vy'ibifungurwa binyaruka.",ibiciro,positive
+"n'aho hari ibibanza vyinshi vyo gusya ibiduguti vy'ibisuguti vy'ibisuguti, kayitesi arafise ico aryoheje.",vyinshi,positive
+"rimwe na rimwe ndaronka ibifungurwa bibi n'ibifungurwa bibi, birashika nkaronka ivyiza n'ibibi.",bibi,positive
+pizza ni nziza cane niba ukunda pizza.,pizza,neutral
+"egome, utegerezwa kuguma wicaye, kandi kubera ko mutoyi wayo ata kibanza na kimwe kirimwo, kandi intebe y'imbere muri bar yafashwe.",bar,neutral
+"ariko rero, gufungura ubwavyo ni vyiza cane.",gufungura,positive
+"ico gifungurwa cari kiryoshe cane, kandi ico gifungurwa cari gihimbaye cane.",cari,positive
+"umukate ni wo mukate woroshe (utandukanye n'umukate woroshe bakoresha i calcutta), kandi umukate ukoreshwa mu buryo bwa tandoori kandi uryoshe cane.",woroshe,positive
+"kubera ko utwo dufuka tw'ijumbu, utwo dufuka tw'insho tuja mu dufuko.",dufuka,negative
+1.1.1.10.2016 2016 00 2016 0 0 0 0 0 0 0 0 0 0 0 0,2016,positive
+"ibifungurwa biryoshe, ibifungurwa biryoshe, ibifungurwa biryoshe.",ibifungurwa,positive
+nta n'umwe yashobora no gukora salade yari iy'inkorano.,salade,negative
+"ivyibu vyarahindutse, n'imigabane yari nto ugereranije n'uko vyahora, icayi c'ipapayi cari kirengeje urugero, icayi c'umuceri wa basmati nticabura.",nto,negative
+"vyongeye, sinzokwigera nsubira muri banki, mugabo sinasubiyeyo ngo nsubire gufungura.",nsubire,negative
+"ku bw'ivyo, abakozi bo mu gisata c'ivyibutso ntibari bavyibushe cane, ariko bararonse akazi.",bavyibushe,conflict
+"inyosha ziragwira, kandi imfungurwa ni nyinshi cane.",ni,positive
+umunywanyi w'uwo mugwizaho yasavye abanywa umuvinyu mwiza cane.,umuvinyu,neutral
+"indya ziriko zisohoka mu ndyane ziriko zisohoka, zisohoka ubwiza bw'ibiribwa vy'ukuri mu gihugu c'u bufaransa.",bw'ibiribwa,positive
+yehova n'abakozi biwe ni bo beza kuruta abandi bose ushobora kuronka.,n'abakozi,positive
+"iyo pizza ni nziza cane, aho gukoresha mozzarella nshasha aho kuba iy'igiciro gitoyi, gitetse, gisukuye, gikunze kwambarwa n'abantu benshi.",pizza,positive
+kenshi yonezu 3-4 items,kenshi,neutral
+"23.mwese muje mu ndya z'abahindi, nimugerageze umukate w'umushotsi w'indya z",nimugerageze,positive
+"ivyo vyose vyari biryoshe cane, imishatsi n'imicanwa vyari biryoshe cane!!",vyose,positive
+10.000 00 00 0 0 0 2016 hahahahahahahahahahahahahahahaha,hahahahahahahahahahahahahahahaha,neutral
+"uwo mudandaza ni mwiza cane kandi ni mwiza cane, genda ugerageze pizza yawe, uce uvyifatamwo neza!",uvyifatamwo,positive
+"umunywanyi w'umuhingi ni mwiza cane, ineza ni nziza cane kandi ni nziza cane.",w'umuhingi,positive
+"jewe ico mbona n'uko abarundi n'abarundi batazokwirigwa mu bibanza vy'amakoraniro canke ngo muce muja mu ndyane z'abarundi, mu bibanza vy'amajanja canke mu bibanza vy'i bunywero n'ibindi.",bunywero,positive
+ahabanza amakuru amakuru y'imyidagaduro,y'imyidagaduro,positive
+"nk'akarorero, isupu yari imiliyoni 12 z'amadolari y'abanyamerika hamwe n'iy'uburozi aho idolari 12 kuri 1oz.",aho,positive
+"ndahanuye umusomyi ko imigabane ari nto cane (cane cane appetizers), rero nimba mufise umugambi wo gufungura gushika aho mwuzuye kandi ntimwitegurire gutegeka indya zidasanzwe z'umukuru w'igihugu, mutegure gutegekanya no kuriha impeke (1/ 1 cam kuri buri muntu kuko ibice bitagenewe gusangira),  10 10:13) mu nyuma, hari imbeho nyinshi, n'imbeho nyinshi cane, mu gihe c'imbeho nyinshi cane, mu gihe c'imbeho nyinshi",indya,negative
+"haciye nk'iminota 20, naciye nterefona, numva mbeho n'imbeho.",naciye,negative
+"mu mwaka w'2006, twaraye dusangira udufungurwa two mu 2006, duca tuja ku mugoroba dufungura.",twaraye,neutral
+"mu gihe igiciro c'amafaranga 20 y'amarundi kidafise amafaranga menshi cane, mu gisagara ca new york, nta nkeka ko hari ibifungurwa vyiza cane muri urwo ruja n'uru",nta,positive
+"mu vy'ukuri, uburundi si agasozo -n'agasozo- n'agasozo.",uburundi,negative
+"ariko rero, jewe n'umukenyezi wanje twanka ni ko vyakunda cane, kandi nabona ko ari ""bar"" canke ""pub.""",ni,negative
+hari n'abandi bagufasha kubona ko bagukorera ibifungurwa.,ibifungurwa.,neutral
+"mu ntango, batubwiye ko hari iminota 30 y'ugutegereza, maze batangura kugenda, igihe abashitsi badusaba kuduhamagara kuri telefone yacu igihe ico ciyumviro cari giteguye.",maze,positive
+"n'aho twahora turondera udutsima twama dusya, n'udusozi twaronse ni vyiza cane.",ni,positive
+ni vyiza cane ko uguma urondera uburyo bwo kwiyumako mu mpera z'indwi hamwe n'uburyo budasanzwe bwo kumara umwanya munini mu mpera z'indwi.,umwanya,positive
+"abadandaza n'abadandaza ni abagenzi, kandi pizza yabo ni iy'agaciro gose.",pizza,positive
+nabajije umudereva w'umudereva w'umuceri w'umuceri w'umuceri w'umuceri w',w'umuceri,neutral
+"mu bisanzwe, gufungura ni vyiza, ariko si ahantu ho kuruhukira.",ahantu,negative
+"amahirwe ni uko twakiriye bbq salmon, sea bass na crispy duck.",bbq salmon,positive
+"uko imyaka yagiye irarengana, yamye itanga imfungurwa n'imfungurwa ziryoshe.",imfungurwa,positive
+3-01-2016 1 1 1 1:24 14 14 14 14 1 1 1 1 1 1 1 1 1 1,1:24,positive
+"gusangira ifunguro rimwe, rimwe na rimwe kugira ngo usangire ifunguro ryawe.",rimwe,neutral
+irankunda imfungurwa,imfungurwa,positive
+"ntangazwa cane n'ivyo ndiko ndumviriza, nca ndatangara mu ntara ya ngozi, muramvya: muramvya,","ngozi,",positive
+"vyongeye, baranywa inzoga zitemewe n'amategeko, zifise amazina y'inzoga n'inzoga zitemewe n'amategeko, ariko zikugura.",amazina,neutral
+"kubera ko ata kibanza twari dufise, twashobora kwicara inyuma y'iparadizo gusa, ariko vyari bihimbaye kandi vyari bihimbaye cane mu gihe c'amayaga.",kibanza,negative
+10.10.2016 -2016 2016 ੂੂੂੂੂੂੂੂੂੂੂੂੂੂੂੂੂੂੂੂੂੂੂ,2016,conflict
+10. cane cane e cane ça . . .,ça,positive
+"tumaze kubona ko ping ari ku mbuga ngurukanabumenyi, twaciye twinjirana n'udutsima tw'ifi, duca tuja ku makoraniro, duca tuja ku makoraniro y'abarovyi b'amafi",makoraniro,positive
+"uwo muswazi yari mwiza cane kandi yari adasanzwe, kandi ivyo binyarumo vyari vyuzuyemwo imiserege.",cane,positive
+"ibifungurwa ntivyari bishasha, ibifungurwa vyari biryoshe kandi vyari biryoshe cane.",biryoshe,negative
+"ni vyiza cane ko ibiciro vy'ibidandazwa biguma biduga, ariko ku bw'ivyo ndiko ndavyibagira.",ni,positive
+"uwo mushitsi yaheruka kunyishura, ni ibintu bihimbaye cane ku buryo ntashobora gusubirayo.",ni,negative
+10.2016 00 00 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 20 0 0,0,positive
+"ku bifungurwa vyinshi biri hafi y'ubushinwa, urafise wu liang ye na grand sichuan.",bifungurwa,positive
+"abo banyeshure bari bafise akazi kenshi cane ko gufungura, bagaca bashiramwo n'impembo kugira ngo nshobore kunyitwararika.",akazi,negative
+"naramaze imisi nk'ingahe niga, kandi twararonse icumba kibi kuruta ibindi vyose mu buzima bwanje.",buzima,negative
+"nta n'umwe muri bo azosubira kugira ico ashikirije, impanuro z'umurengera be n'ibintu bitesha umutwe.",ico,positive
+ubunyobwa butuma umunwa wawe uronka amazi menshi+.,butuma,positive
+ariko uwo ni we asiga ikintu kibi mu kanwa.,asiga,negative
+20000 2016 10: 2016 10 10 10 10 10 2 10 10 10 10 10,2,negative
+"abo banyeshure ntibari batonze, uretse ko iyo nkuru yari yashizwe ku meza imbere y'uko turangiza.",ntibari,negative
+10.2016- 2016- 2016 2016 ing.2016 2016 ing.2016 2016 19:,ing.2016,positive
+"akenshi nca nja ku kazi mw'ijoro, ku buryo ntakwiye kwifatanya n'abantu benshi canke ku mirongo.",ntakwiye,negative
+"inyosha ni iy'umusozo, iy'umusozo ni iy'ishasha, n'iy'umusozo ni mwiza.",iy'umusozo,positive
+"naravye hirya no hino, nabonye icumba cuzuyemwo abantu bo muri new york bariko barasangira imfungurwa z'indaro mu nzu y'uburiro, si inzu y'abarovyi b'abantu bipfuza kubona.",nzu,neutral
+twasezerewe n'uko twasezerewe cane n'umuhnzi w'umushonji w'i gitega (1000).,cane,positive
+"mu mezi atatu aheze, umukuru w'igihugu n'abakozi biwe barahindutse kandi ntivyari bimeze neza.",biwe,negative
+na cane cane e-,na,positive
+"ivyo biribwa biribwa bikundwa cane na scrumptious style chaat nka bhelpuri, sevpuri na samosa chaats, hamwe n'izindi appetizers zikomeye zo mu buhindi.",chaat,positive
+sinzi ko novuga ko ikirundi ari ururimi rw'ikirundi canke ururimi rw'ikirundi.,ururimi,neutral
+"ivyo bifungurwa vyari biryoshe cane, biryoshe cane kandi biryoshe cane biva ku nfungurwa z'intama, amashurwe y'ibisuguti, ibifungurwa bininibinini vya pistachio ice cream (ikintu ciza kuruta ibindi vyose nari nari bwigere mbona).",vyose,positive
+"nca nja ku meza cane, nca nja ku giciro gitoyi c'umuvinyu, aho kutwemerera kugura umuvinyu uryoshe nk'uwutari mwiza.",giciro,neutral
+"10.10.2016 2016 ing.10:10,2016 ing.10:10,2016 ing.10.2016 2016 ing.000 00:b@ 10 10 10 20 00 00 00 00 00 00 00 0 0 0 0 20 20 20 201 20 20 20 20 20 20 20 2",ing.000,positive
+"ku wa gatandatu mw'ijoro, hari ku mugoroba w'umutaga.","mw'ijoro,",neutral
+"uwo munywanyi yamye aturemesha, kandi uwo munywanyi yaradusemura mu bihe bitandukanye.",bihe,positive
+umuntu umwe gusa ni we yari muri ico kibanza.,umuntu,positive
+umuceri wari ukenye cane kandi wari utetse nabi cane ku buryo wari ugoye.,ukenye,negative
+naramaze amasaha arenga n'isaha n'imwe ndindiriye ibifungurwa.,ibifungurwa.,neutral
+"home news ibifungurwa biraryoshe cane, kandi ikirere kiraryoshe cane!",ibifungurwa,positive
+"twaciye dutangura gusangira udukorwa two ku mugoroba, kandi twarahimbawe cane n'ukuntu abavyeyi banje bo mu mashure y'intango bo mu butaliyani bahimbawe n'ibintu vyinshi vyo kwinezereza.",gusangira,positive
+umunyu uri muri ico kiyoya ni mwiza cane ku buryo imota n'iy'imota n'iy,kiyoya,positive
+"nahora ndyohewe nca nja kudandaza ibishobishobisho, kandi vyari kuba vyiza gusumba ibindi vyose.",gusumba,neutral
+"ni vyiza cane, umukate ni mwiza cane, kandi ibifungurwa biraryoshe cane.",ibifungurwa,positive
+"kuva ku ntwaro y'abarovyi b'abarundi gushika ku nyota, nca numva umengo ndi umuntu w'ingabe.",ntwaro,positive
+cuma cuma sekasekar aja ya.,cuma,negative
+"ico gikorwa cari ciyubara cane, kandi ivyiyumviro vy'abo banyeshure vyaciye bishika ku kimenyetso c'imfatakizo.",banyeshure,positive
+10.10.10.2016 2016 16 14 14 14 ing.2016 10:24 14 10 10 14 10 10 14 1 1 1 1 1 10 ing.10 2016 2016 2016 2016,ing.10,positive
+uwo munyeshure arafasha cane kandi yitonze.,munyeshure,positive
+"imyaka 15 irashize perezida kagame atugarukanye mu 2019, aradusubura.",perezida,positive
+"ibiciro ni vyose, kandi ibiciro ni vyose.","vyose,",neutral
+"vyongeye, ivyabona vya yehova be n'abo banyeshure baratwenze kubera agatwengo keza.",banyeshure,positive
+"mu vy'ukuri, uwo muvyeyi yandungikiye amazi ku kiganza, aca aratambuka.",muvyeyi,neutral
+best hahahahahahahaha best sandwich ever!,sandwich,positive
+"naho ikirere be n'ikirere vyari biryoshe cane, ibifungurwa be n'umurimo vyari gushobora kuba vyiza kuruta.",ikirere,positive
+baluki afise ibifungurwa bigumye be n'ibifungurwa vyiza ku giciro ciza.,giciro,positive
+n'aho uwo muvyeyi w'umuvyeyi w'umwana w'umukobwa,w'umwana,positive
+iminota 15 yerekanye iminota 15 inyuma y'aho iminota 15 ihagurutse.,y'aho,positive
+"n'aho wosanga uri mu cumba c'ijunja ry'umusozo (mu cumba c'imbeshere), woshobora kuba uri mu cumba c'inyabwosi(1000)? 10.2016 à 2016 à 2016 à 20:15-2016 à 2016 à 201 à 20:23 à 20 à 20:23)",c'ijunja,negative
+ikirere ni kinini!!,ikirere,positive
+nkibaza ingene wofungura imfungurwa ziryoshe nk'izo.,wofungura,positive
+"ni vyiza ko uguma uvyifatamwo neza, ariko mu gihe udafise ivyimbesho vy'imbeshere canke mu gihe udafise ivyimbesho vy'imbeshere, ni vyiza cane.",ariko,neutral
+pizza cane,pizza,positive
+"ico gikorwa cari kibereye, kandi ikirere cari kibereye.",gikorwa,positive
+"biroroshe cane ko umuntu aronka agasozo nyesho mu kibanza ca mbere mu gisagara ca nj, mu gihe c'indwi imwe gusa.",kibanza,positive
+"nahavuye ndyohera mperezwa n'umuvyeyi wanje n'umuvyeyi wanje, nca ndyoheshwa n'ukuntu ivyo mpembo vy'imbombo vy'impembo vy'imborerwa vyaduze mu buryo butari bwitezwe.",ndyohera,positive
+"ibifungurwa ni vyiza cane, kandi igiciro c'inyama z'ingurube, amafi, inkoko, intama n'imboga.",vyiza,positive
+"ivyo kurya ni vyiza cane, kandi ivyo kurya ni vyiza cane, kuko hari ababibona nk'ibishobishobisho, hari abokwiyumvira ko ari ibintu bitesha umutwe.",kurya,neutral
+"uwo musuku yari aryoshe cane, kandi ibifungurwa vyari biryoshe.",ibifungurwa,positive
+"uwo mugera wari mwiza cane, na cane cane ca calamari, nk'uko vyahora bigenda ku makoraniro.",calamari,positive
+"nta n'umwe muri bo yari afise inyosha, yaribagiwe ivyo dushiramwo, ashiramwo ivyitwazo (ivyitwa imyelayo), mu gihe c'ubushuhe n'ubushuhe bwinshi cane ku buryo ico gihimba cari gisumye ku buryo cama gikwegakwega ku gihimba c'ipambu cawo.",nta,negative
+"igiciro kinini c'umuvinyu, gigondas ni ikiguzi, kandi champagne y'inzu ni nziza cane.",champagne,positive
+"abantu barenga 100 barakwiye guhereza umushitsi wabo kugira ngo banezezwe n'uko umugabo wanje aryoherwa cane n'ivyo kurya, mu gihe ntegerezwa kuba ari umukate wa tortelini.",guhereza,positive
+"nutrizione great, great.",nutrizione,positive
+"muri iki gihe, inyama ziracagura, naho hari ibintu vyinshi biguma bikundwa n'abantu.",biguma,positive
+"niwaba ushaka inyama y'inka, shira hejuru.","y'inka,",positive
+10.10.2016 2016 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0,0,neutral
+pure cane o.k. pizza tu.,pizza,neutral
+"nariye sauli incuro nyinshi, imfungurwa zama ari nziza cane, kandi ni nziza cane.",imfungurwa,positive
+hahahahahahahahahahahahahaha,hahahahahahahahahahahahahaha,positive
+"ku bantu barondera ibifungurwa bihambaye kuruta ibindi, roxy ni ahantu ho kwikingira!",ibifungurwa,negative
+"ariko rero, umukate n'udufungurwa twahora dufungura vyari biryoshe cane.",twahora,positive
+"ariko rero, pizza ni uburyo bwo kugura ibintu bizimvye.",pizza,negative
+narenciye ciye,ciye,neutral
+11.10-2016 2016 kuraho abakenyezi bo mu mihingo yose y'igihugu.,abakenyezi,positive
+iyi ni yo mideli y'abashinwa yitwa bbq ibereye mu bushinwa.,bbq,positive
+"uwo mugirwa ni mwiza, ariko nta n'umwe avyitayeho, kandi uwo muhinya w'i 2018 ashiramwo umucanwa w'umukazo.",n'umwe,positive
+"imbwa zari zishushe mu mbeho hagati, n'imisumari yari ikonje.",imbwa,negative
+"ni vyiza cane, kandi umuntu wese ategerezwa gufata icicaro nk'ico, ku buryo bisa n'uko ata muntu n'umwe yari afise ico ajejwe.",gufata,positive
+tesha bahari,bahari,positive
+"hari n'abandi bashitsi bari batunzwe n'akamo k'impeshi, ifi hamwe n'ifi be n'impeke.",bashitsi,positive
+ni vyiza ko uguma urindiriye.,vyiza,conflict
+"mu nyuma, twararonse udufungurwa duhimbaye cane (harimwo n'izindi nyubakwa zose nari narigeze kuronka) hanyuma tugaca tuja ku makoraniro.","nyuma,",positive
+"ni vyiza ko umuntu ayaga n'abandi kandi ahimbawe no kuyaga n'abandi, akaba ari co gituma ashobora kuba ari mwiza cane.",ayaga,positive
+"twari tukiri mu kabari igihe twanyweraga kuri sangria, ariko dushitse kure y'ihoteli dusubira inyuma, ayo madolari 2 yari yagiye ku bantu bari iruhande yacu bavuga ko uwo mudezi yamutwaye.",ariko,negative
+"igihe twariko turasangira imfungurwa, twari twicaye ku meza, turasangira ibifungurwa.","meza,",neutral
+"10 10 ing.10,10,2016 ing.2016 10:23) 20 nta n'umwe muri twebwe yari ameze neza cane, kandi nta n'umwe muri twebwe yari ameze neza cane, kandi nta n'umwe muri twebwe yari afise umutima mwiza.",afise,negative
+"ibintu vyose bisa nk'ibiryoshe, ibinyobwa, ibifungurwa, eka mbere n'abantu.","ibifungurwa,",positive
+umuceri wari ukenye cane kandi wari utetse nabi cane ku buryo wari ugoye.,umuceri,negative
+"amakoraniro aryoshe, amakoraniro aryoshe kandi aryoshe.",aryoshe,positive
+"si jewe nd'umusozo w'umukuru w'igihugu, kandi nd'umusozo w'umurimo, ariko n'ibindi vyose vyerekeye iyi si.",nd'umusozo,negative
+"20'iminota 20 twararonse akanya ko kwiyeza tukaronka akanya ko kuyaga n'abandi, tugahimbarwa n'ivyo duhanahana.",kuyaga,positive
+"umushozi w'imyelayo wari umeze nk'umusururu be n'ibinyobwa bikonje kugira ngo binywere, vyari ibintu bihimbaye cane.",w'imyelayo,positive
+"mu nyuma, twamubajije nimba iyo mizabibu yahavuye itangura gufuta, mu gihe yahavuye atangura kunywa umuvinyu uryoshe cane.",umuvinyu,neutral
+"inyama z'inka n'inyama z'inkende n'inyama z'inkende, ntizigira akamaro kanini, n'ubupfu n'ubupfu.",inyama,positive
+"umukenyezi wiwe tanya, ari we mushitsi, ararangiza ikirere gihumuriza mu kuba umunyabuntu kandi w'umunyabuntu.",kuba,positive
+iyo mishama yari iy'umucanwa n'umucanwa w'igikoko (3-13) twaciye dutangura kunwa n'amavuta ya truffle (mu gihe c'indya z'ubumara) kandi nta n'umwe yari afise.,(3-13),positive
+vyose vyaciye bishika ku muryango w'irembo.,bishika,positive
+"mu bisanzwe, inkoko n'inkoko (akenshi inkoko ni zo zikwiye ku buryo zikwiye kugira ngo zibe zikwiye kugira ngo zigere ku gikombe c'isi yose).",ni,positive
+ndasavye nina wese asangire akamo k'urukundo mu gihe c'ubushuhe bw'indyamunyu n'amasanamu y'umuryango wiwe.,akamo,positive
+"2.000:000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000 000",000,negative
+"ico gikorwa cari citondewe, ariko kidasanzwe, ico gifungurwa cari ciza cane kuruta ihoteri izwi cane mu gisagara ca midtown, kandi urutonde rw'umuvinyu ni rurerure kandi rw'igiciro kinini.",cari,positive
+iyo ngwano izoba irutwa n'iyo ijanywe n'umunywanyi w'umunywanyi w'igihugu.,n'iyo,negative
+"ariko rero, bararonse ibiribwa bitangaje kuruta ibindi vyose, n'isabune zaciye kuri ico kibanza.","rero,",positive
+"mu vy'ukuri, imfungurwa zose zari ziryoshe, ziryoshe kandi ziryoshe.",imfungurwa,positive
+candy cane pizza for lunch,pizza,positive
+"ivyo kurya ni vyiza cane, mbere novuga ko n'ihinguriro ry'ibiribwa rya baluchi rirushiriza kumera neza.",ry'ibiribwa,neutral
+"kuva mu ntango, utwo tunyazu twashowe n'utuzu tw'ishokola twaciye dutangura kuryoha cane, tukaryoherwa cane n'ivyitwa ""rasberry mint sorbet"" vyadushimishije cane.",tw'ishokola,positive
+"inyama z'inka n'inyama z'inkende n'inyama z'inkende, ntizigira akamaro kanini, n'ubupfu n'ubupfu.","kanini,",positive
+utegerezwa kuba ufise umukate w'ibishobio,ufise,positive
+"ni nk'aho bafata inkoko yasize, bagasuka amavuta n'issuka ry'ipome hejuru y'iyo mavuta (isayo yari translucent kandi itukura).",amavuta,neutral
+"ico gikorwa cari citondewe, ariko kidasanzwe, ico gifungurwa cari ciza cane kuruta ihoteri izwi cane mu gisagara ca midtown, kandi urutonde rw'umuvinyu ni rurerure kandi rw'igiciro kinini.",urutonde rw'umuvinyu,positive
+"nta ngorane n'imwe twari dufise yo kwihereza ibifungurwa canke ibifungurwa, kandi ivyo biribwa vyaciye biduga ningoga, ariko mu minota mikeya ni ho tuja.",ibifungurwa,positive
+"niwaba urondera ivyabona vya yehova biryoshe, nugerageze gukora ibintu bihimbaye. - 1 pet.",yehova,positive
+kuri uyu wa gatatu turagaruka ku tuntu tw'ijumbu n'iy'ijumba ry'indya n'iy'iy'uburundi.,wa,neutral
+"ku bw'ivyo, ibiciro vy'iyo nduga biratomoye cane.",ibiciro,positive
+"mu 2020, twaciye tuja ku nyota, kuko umuziki urasumvye cane.",tuja,positive
+sinari bwigere mbona ibintu nk'ivyo.,bwigere,positive
+"rindira, rindira ni vyiza cane, ni vyiza cane.",ni,positive
+"si ngombwa ngo tuze dusigurike, ni ahantu habereye hato na hato kandi hake.",hato,positive
+try the tandoori salmon none,tandoori,positive
+"iyo ngwano y'inyobwa si nziza cane, kandi ivyo bifungurwa biva mu gisagara ca bruno kiri hasi, ivyo bikaba atari vyiza nk'uko vyari bisanzwe.",vyari,negative
+"mu nyuma, twaciye dutangura kugambugwa n'imikazo y'umweru yitwa tuna sashimi.",n'imikazo,neutral
+"vyongeye, nimba utoshima kwicara ku meza kanaka, si ngombwa ko ujayo!",meza,positive
+"ariko rero, umucanwa w'inyama z'inka ni inyama z'inka canke iy'inka.",z'inka,positive
+"jewe ico ntinya gusa n'uko abadandaza b'ibidandazwa bose bategekwa n'abadandaza, bagaca bafuta ibifungurwa, bagaca babakurako.","ibifungurwa,",neutral
+"ariko iyo hageze ko uja ku meza, ukaraba ibintu vyose ufungura, kandi ikiguzi c'ibifungurwa ni ikiguzi c'amahera uronka.",c'amahera,positive
+ifi yari irengeje urugero.,ifi,negative
+"great wine, nutrizione great.","wine,",positive
+"uwo muvyeyi wacu dukunda cane kandi turakunda cane indaro mu gihugu cacu c'uburundi ,aho twashimye cane iyo migumo y'abantu benshi cane gusumba uko twoba turiko turayaga n'abantu benshi.",cacu,positive
+"n'ikindi kandi, umuceri nta co warimwo, ni co gituma ico gihimba cari gisyoye kandi cari giteye isoni.",nta,negative
+"ntuze wigere ureka kuvyimba mu bibanza vy'irondoka canke ibishobishobisho, kuko nta n'umwe muri bo wogira ico ureka ngo uve mu bisyo vy'igitondo, kuko umenga nta n'umwe umenga umenga ningoga nk'igitondo.",nta,negative
+"ibifungurwa vya ambiance ni bike cane, ariko bimwe mu bifungurwa ni vyiza cane, nk'indya zo mu bwoko bwa ""eggplant parmesan, veal in carozza chicken saltimbocca.""",ambiance,positive
+"mu mpera z'ino ndwi, ushobora kuba ufise ibifungurwa vyiza gusumba ibindi vyose mu gihugu c'ubufaransa.",vyiza,positive
+"imfungurwa zoroshe kandi zoroshe gufungura, kandi ziryoshe.",zoroshe,positive
+"home amakuru bisa n'uko u rwanda ruteye imbere mu bukerarugendo, kandi imbere mu bibanza vy'imbere mu gihugu ni vyiza cane ku buryo udashobora kwitegurira ihiganwa ry'igikombe c'isi yose.",ni,positive
+10. cane cane e cane ça . . .,cane,positive
+"jewe ico mbona n'uko abarundi n'abarundi batazokwirigwa mu bibanza vy'amakoraniro canke ngo muce muja mu ndyane z'abarundi, mu bibanza vy'amajanja canke mu bibanza vy'i bunywero n'ibindi.",vy'amajanja,positive
+"ariko rero, uwo mumenyeshanyi w'imbere y'igihe ca kera, yari azi neza ko ari umukate, ariko sauli ari mu karere ka kure cane kandi afise ibifungurwa vyinshi!",kandi,positive
+iy'iy'umuntu yoroshe ariko yoroshe.,iy'iy'umuntu,conflict
+"nimba uri mu mugwi munini, uwo muhari ni mwiza cane kubera ko usangira n'abafise utuzu two mu bwoko bw'utuzu two mu bwoko bw'insabu, eka mbere n'imiryango irashobora kwumva imerewe neza.",muhari,positive
+"n'aho ayo mamesa ashobora kuba ari meza cane, amatara y'amatara, ay'imfungurwa be n'ingene aronka ibifungurwa birengeje urugero.",mamesa,positive
+ivyo bifungurwa vyaboneka ko ari vyiza cane kandi biryoshe cane kuva aho vyabereye mu ndyane z'ubwoko butandukanye.,bifungurwa,positive
+"indya zishonje, zifise umucanwa, zifise n'ivyinyunyu n'ibishobishobisho vy'ibishobishobisho vy'ibishobishobisho, n'ibishobishobi n'ibishobisho vy'ibishobisho, n'ibishobishobisho vy'ibishobi n'ibishobishobi",n'ivyinyunyu,neutral
+indya nyinshi n'amatoni y'ibifungurwa biryoshe.,nyinshi,positive
+very nice and candy cane!,nice,positive
+"ivyo gufungura ni vyiza cane, ni vyiza cane.","cane,",neutral
+"ntuze wigere ureka kuvyimba mu bibanza vy'irondoka canke ibishobishobisho, kuko nta n'umwe muri bo wogira ico ureka ngo uve mu bisyo vy'igitondo, kuko umenga nta n'umwe umenga umenga ningoga nk'igitondo.",bisyo,negative
+aho ni ho abantu benshi bafungura imfungurwa canke imfungurwa zo ku mugoroba.,imfungurwa,neutral
+"vyongeye, n'abakozi b'i bulaya bategerezwa kujana n'umusozo w'umusozo (mu gihe c'irondoka).",b'i,neutral
+"ico kibanza kiratekanye cane, kandi ico gikorwa kirateba kikongera kirakira.",kikongera,positive
+ivyo kurya vyari biryoshe cane.,kurya,positive
+"duhejeje gufungura i tamarind, kandi vyari vyiza cane.",gufungura,positive
+"rimwe na rimwe, uwo mupfasoni ntacamira, kandi si vyiza ko unyaruka, ariko sinigeze ngufata nabi.",ngufata,conflict
+"hari igihe umuziki uguma uvuza induru, ariko ivyo vyaratumye nipfuza kwiyegereza umugore wanje mwiza, kandi nk'uko nabigira, nararonse agasozo ka corriander.",corriander.,neutral
+"ni ibinyobwa biryoshe cane, ibinyobwa n'ibinyobwa biryoshe, n'ibinyobwa biryoshe, n'ibindi binyobwa, n'ibindi biribwa, n'ibindi biribwa, ni vyiza cane, ni vyiza, ni vyiza",vyiza,positive
+abagwanyi barahahazwa gushika aho bahahazwa.,abagwanyi,negative
+iy'iy'ikirago ntikwiye kwirengagizwa!,ntikwiye,positive
+"ariko mu mwaka w'2003, bisa n'uko uwo muhari wahindutse, kandi n'ikibanza kinini cane cahavuye gisubirirwa n'umunywanyi w'umucafu.",mwaka,neutral
+"nugerageze igihe cose uryoherwe kandi uryoherwe, uhimbarwe.",cose,positive
+ntituzokwongera kuja ng'aha kugira ngo dufungure ibifungurwa biryoshe.,kuja,negative
+10.000 frw ni uburyohe n'umunezero udasanzwe.,ni,positive
+"nahavuye ndonka imfungurwa zidasanzwe, na canecane imfungurwa z'imfungurwa za salmon naronse.",z'imfungurwa,positive
+twaciye dutangurana n'umucafu w'umucafu (umucafu) hanyuma tukongerako ibidyovya n'ibigega vya kielbasa kugira ngo bifuze.,ibidyovya,neutral
+ivyo kurya vyonyene ni vyiza gusumvya ibifungurwa vy'agatangaza.,ibifungurwa,positive
+"tibe ni hoteri nziza cane iguha abantu beza, ariko ibifungurwa ntibisa neza.",abantu,positive
+10 10 à 10 à 10 à 10 à 10 à 10 à 10 à 20 à 10 à 10 à 10 à 20 à 10 à 20,10,positive
+"uwo muvyeyi w'umurundi yarafise ico ashima, ariko nibaza ko iyo reresi yoja mu gihugu c'uburundi.",yoja,positive
+"sinovuga ko n'imiburiburi abantu bafungura neza, ariko n'indya zifise akamaro kavyo.",akamaro,negative
+"mu mpera z'ino ndwi, na ho hazoba hariko hajamwo amakoraniro.",z'ino,neutral
+1.1.1.10.2016 2016 00 2016 0 0 0 0 0 0 0 0 0 0 0 0,2016,neutral
+home news abarundi barasubiye kuba i new york!,new,negative
+nice bike mahal!,bike,positive
+ivyo bifungurwa biraryoshe kandi birateguwe neza hamwe n'umurimo w'ubuntu kandi utunganijwe neza.,bifungurwa,positive
+"twaciye dutangura kurya ibifungurwa n'ibifungurwa vy'agaciro kuruta ibindi vyose mu buzima bwanje, kandi twarasangira ibifungurwa n'ibifungurwa.",twaciye,neutral
+"niwaba urondera uburyo bwiza bwo gufungura, ku giciro gito- ni ho hantu.",giciro,positive
+cane cane a big portions.,cane,positive
+"aho ni mu gihe woba uriko uragerageza kuronka abantu benshi muri iyo resitora, gutyo utegerezwa kuba uri hafi y'umubanyi wawe igihe ufungura.",woba,negative
+"umunywanyi w'umuhingi ni mwiza cane, n'umugenzi wakuriye i manhattan avuga ko ata muntu n'umwe aheza ngo ashobore kurya inyama ziryoshe.",ni,positive
+uyu mugabane wa 2018 urafise ifungurwa ryiza cane kandi rifise n'ifungurwa rinini ry'abayapani.,kandi,positive
+nari kuba mfise inyosha n'agasho k'uruyoya hamwe n'uruyoya rwanje rwoba rufise ikibanza c'uburuhe.,k'uruyoya,neutral
+"ibifungurwa vyari vyifashe neza, kandi ivyo gufungura ntivyari vy'ukuri.",vyifashe,positive
+intebe zirasa n'izidashima iyo wicaye ku nkuta z'ibiti.,intebe,negative
+"ibiciro biratumvikana, naho serivisi ikenye.",naho,negative
+"mu gihe nariko ndafungura neza, ndakunda gufungura neza, kandi ndakunda gufungura neza.",nariko,positive
+"pizza ni nziza, kimwe n'igurisha ry'igurisha ry'igurisha.",pizza,positive
+"10 vyongeye, gufungura hari ibifungurwa+ be n'ibifungurwa+, kandi nta n'umucafu+.",ibifungurwa+,positive
+"n'aho ndiko ndafungura, ndafungura kenshi, kandi sinokwigera ndaruha.",n'aho,positive
+aho ni ho abantu benshi bafungura imfungurwa canke imfungurwa zo ku mugoroba.,ni,neutral
+"egome, hari n'abacafuka, ariko n'utunyafuka tw'ipamba ntidutuma umuntu aronka ico amarira, kiretse iyo umuntu aronse ico yokora kugira ngo aronke ico amarira.",ntidutuma,negative
+"uyu mukobwa ni mwiza, uri inyuma y'uruja n",mukobwa,positive
+ntuze wigere ureka n'ingene ayo mafaranga yari ayaha agaciro!,n'ingene,negative
+"uwo muvyeyi wacu yari ameze neza, ico kibanza caboneka ko ari ciza cane muri ubwo buryo, ariko muri ivyo biciro, hari n'ibindi vyinshi ukwiye kwitega ku vy'ibifungurwa vyawe.",ukwiye,negative
+"n'aho wosanga uri mu cumba c'ijunja ry'umusozo (mu cumba c'imbeshere), woshobora kuba uri mu cumba c'inyabwosi(1000)? 10.2016 à 2016 à 2016 à 20:15-2016 à 2016 à 201 à 20:23 à 20 à 20:23)",wosanga,positive
+hari haca,hari,negative
+"10.twagerageje kuvyifatamwo neza (gushika n'ubu ntitwari tuvyihweje, ntitwari dukwiye kunywa inzoga), uwo mudandaza yaciye atwegeranya atubwira ko bakeneye imeza y'abafise amamesaje.",kuvyifatamwo,neutral
+best pizza in none,pizza,positive
+"n'aho ico gikomakomeye ari kinini cane, barahasemye n'imeza zifise amameza.",barahasemye,negative
+"imfungurwa ni nziza, na cane cane ku mfungurwa z'ishimikiro, kandi ibinyobwa biryoshe.","z'ishimikiro,",positive
+ni kubera iki abantu bama biyumvira ibijanye n'ukubabara?,biyumvira,negative
+"ni vyiza rero ko abo bazungu batobato, ariko hari n'abacangero benshi cane baronka ibishobisho gusa, ni vyiza ko utegerezwa kuvyifatamwo neza mu ntumbero yo kuvyifatamwo neza.",ni,conflict
+"mu gisagara ca new york, mu gihe cose tugiye mu gisagara ca new york, tugura bagels kugira dufungure, hanyuma duheze dufume dukonje (barambwiye ngo iyo ndiko ndaterefona, bari kumuzana mu modoka, kugira ngo sintegerezwa kurondera parking).",bagels,neutral
+100 00 00 00 00 00 00 00 00 00 00 00 00,100,positive
+pizza yari nziza cane kandi yari nini cane.,pizza,positive
+"ivyo kurya ni bibi cane, ariko ivyo kurya ni ibintu biteye ubwoba, kandi birya birya biribwa ni bibi cane, kandi ivyo birya",kurya,negative
+ico kibanza gitegerezwa kuba ari ikiguzi c'ukubaka.,kuba,neutral
+ivyo bifungurwa vyaboneka ko ari vyiza cane kandi biryoshe cane kuva aho vyabereye mu ndyane z'ubwoko butandukanye.,bifungurwa,positive
+"tomeka ekode, egure",tomeka,positive
+"jewe n'umukenyezi wanje twama duhimbarwa cane n'umukenyezi wanje, ariko ntivyama vyoroshe, mugabo turi abagenzi, twese turafise agakuru keza.",mugabo,conflict
+"mu 2015, naragiye mu cumba c'ubunywero n'abagenzi banje mu gisagara c'i ngozi, twari twicaye ku mutumba wa muramvya mu ntara ya muramvya.",banje,neutral
+twaratangajwe cane n'ukuntu ivyo bifungurwa vyari bihimbaye ku musi wa mungu mw'ijoro ryo ku wa mungu.,bifungurwa,positive
+ni vyiza cane ko ivyo biduha agaciro kanini ku bijanye n'ugukorera hamwe n'ugukorera hamwe n'abandi.,agaciro,positive
+none prices,prices,negative
+"ni vyiza ko uronka amahera menshi, ariko ukaba ushobora kuba uri mu bibanza vyinshi vyo mu gisagara ca bujumbura.",amahera,conflict
+"ikirere cari cuzuyemwo abantu benshi, ariko cari ikintu c'impwemu gikomeye.",ikirere,positive
+ikirere n'ikirere ni vyiza cane.,ni,positive
+"indya zifise akamaro kanini, ariko ni nziza cane.",akamaro,positive
+ico gifungurwa cari gisushe kandi cari gisushe cane kandi cari gisushe cane kandi cari gisumvya ibindi bifungurwa biryoshe kuruta ibindi.,kandi,neutral
+ku mpera y'umuhero w'ikiroruhore.,y'umuhero,positive
+"gusa nagerageje icupa ry'inkari n'iy'icupa ry'inkari n'ishushe, ariko mu mavuta y'imbehe n'iy'iy'icupa ry'inkari n'iy'icupa ry'i risa n'iry'i risa.",ry'inkari,positive
+"egome, kandi baryama kuri telefone, bavuga ko bicara mu busitani, kandi birumvikana ko intebe zabo zitaboneka.",intebe,neutral
+ndasavye nina wese asangire akamo k'urukundo mu gihe c'ubushuhe bw'indyamunyu n'amasanamu y'umuryango wiwe.,wese,positive
+"hehehe, bisa aja serunya?",serunya?,negative
+home news isa n'iy',home,positive
+"ariko iyo hageze ko uja ku meza, ukaraba ibintu vyose ufungura, kandi ikiguzi c'ibifungurwa ni ikiguzi c'amahera uronka.",ikiguzi,positive
+n'ubu ndacafise ishavu kubera ko nategerezwa kuriha ibifungurwa biryoshe.,ibifungurwa,negative
+"mu gihe c'ikiruhuko c'imbeho, hari n'ikindi kintu gihambaye c'imbeho (!!",c'ikiruhuko,positive
+"ico gifungurwa cari gishimishije cane, kandi igiciro cari kinini cane, hejuru y'uko ibifungurwa vyari biryoshe cane.",gishimishije,positive
+"indya zari zisukuye, n'imboga zirasya.",indya,negative
+"n'aho nakunze cane ivyo kurya n'ibifungurwa, sinzi neza ko ari vyiza ko boza barafungura neza mu kiyaya c'i tiro.",kurya,positive
+"ibifungurwa, ibifungurwa, eka mbere n'ibifungurwa vy'abantu bose usanga ari ivy'ukuri.","ibifungurwa,",positive
+"igiciro kinini c'umuvinyu, gigondas ni ikiguzi, kandi champagne y'inzu ni nziza cane.",champagne,positive
+"ariko rero, mu bisanzwe, ni ibiki woshima kuyaga n'abandi, kandi muri rusangi wari ufise ico ufungura.",ico,positive
+"ivyo kurya vyatanguye nabi, umurindira ntiyari bwabone aho yoboneka, maze umuvinyu werekana mu mpera z'umukate.",kurya,negative
+10.10.2016 2016 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0,10.10.2016,positive
+"ivyo bizotuma uwo muhinyangwa w'umurundi aba ari we wenyene wo mu gisagara ca gitega, akaba ari we wenyene abarizwa mu gisagara ca gitega.",wenyene,positive
+"cuma cari dicoba aja ya,!!,",cari,positive
+"dawe ahejeje kudusimisha ikete, umukuru w'igihugu yaraduserutse.",ahejeje,negative
+ariko uwo mucuzi yaratubabaje cane.,mucuzi,negative
+"ni vyiza cane ko umuntu ahimbawe, ahimbawe n'umusi mwiza, ku mugoroba canke ku mugoroba.",ni,positive
+10.10.10.2016 2016 16 14 14 14 ing.2016 10:24 14 10 10 14 10 10 14 1 1 1 1 1 10 ing.10 2016 2016 2016 2016,ing.2016,conflict
+"twari dufise ihonyabu n'iy'i gomora, duca twumva umengo turi abaganwa b'inkazi!",abaganwa,positive
+"ndahanuye umusomyi ko imigabane ari nto cane (cane cane appetizers), rero nimba mufise umugambi wo gufungura gushika aho mwuzuye kandi ntimwitegurire gutegeka indya zidasanzwe z'umukuru w'igihugu, mutegure gutegekanya no kuriha impeke (1/ 1 cam kuri buri muntu kuko ibice bitagenewe gusangira),  10 10:13) mu nyuma, hari imbeho nyinshi, n'imbeho nyinshi cane, mu gihe c'imbeho nyinshi cane, mu gihe c'imbeho nyinshi",no,positive
+"ndasavye abarimyi b'ikawa guteka ibiribwa, uburozi n'uburozi.","ibiribwa,",positive
+"ku wa gatatu mw'ijoro, twaciye twicara ata ngoyi.",twaciye,positive
+haha amazing rice is amazing.,rice,positive
+"12 vyongeye, twararonse ibifungurwa biryoshe cane mu cumba c'uburiro.",biryoshe,positive
+"umuhagarikizi w'uwo mugwi yaradusavye ko yoza araturondera, kandi nta n'ico yadutegetse gusa, ariko n'ibindi bintu bimwe bimwe bitar'uko vyategetswe.",umuhagarikizi,neutral
+ushobora kuba wari ufise inyota y'ukurenza urugero ku buryo ushobora gufungura umuceri wongere ugume uri kumwe n'amazi mu minwe.,umuceri,neutral
+"iyo ndirimbo ni nto cane ku buryo mu gihe c'umuziki, ku buryo mu mugoroba wo mu 2018, ishobora kuba ari ndende kandi igoye.",ndirimbo,neutral
+"mugume musozi, ntimuse n'ibishobisho vy'ibishobisho.",ntimuse,neutral
+narya inyama z'ibisezi n'ibishobishobisho vy'ibishobishobisho n'ibishobishobisho vy'ibishobishobisho n'ibishobishobisho vy'ibishobishobisho n'ibishobishobisho vy'ibishobisho vy'ibishobis,vy'ibishobishobisho,positive
+"nimba igikorwa c'ubusuku n'igikorwa cawe ari igikorwa cawe, ico gikorwa kirakora.",nimba,positive
+"10 vyongeye, gufungura hari ibifungurwa+ be n'ibifungurwa+, kandi nta n'umucafu+.",kandi,neutral
+"naragiye n'umugenzi w'umushaha, twaciye tuja ahandi, tuja ku meza, nta n'umwe aronka aho atujana.","meza,",negative
+"10:11) ivyo kurya, akenshi usanga bishika ku bifungurwa biryoshe, akenshi usanga bishika ku bifungurwa bishasha vy'ibiribwa bishasha vy'abanyamerika, ari vyo bituma umuntu afungura neza (canke ay'igikoni) akaboneka cane mu ndya z'amafi n'isabuni.",bishika,positive
+"hamwe nokwifatanya n'abadandaza b'ibidandazwa n'agashirukabute, nari guca nja i kigali.",guca,negative
+"muri ico gihe, ibifungurwa vyari biryoshe cane.",ibifungurwa,positive
+"mu mugoroba wo kuri uwu wa mbere hari hashushe cane mu cumba c'uburiro, ariko igikoni c'igikoni c'igikoni ni kimwe mu bihimba vy'igikoni.",bihimba,positive
+indya nyinshi n'amatoni y'ibifungurwa biryoshe.,y'ibifungurwa,positive
+"hehehe, nice nye..",nye..,positive
+"abo banyeshure bari bafise akazi kenshi cane ko gufungura, bagaca bashiramwo n'impembo kugira ngo nshobore kunyitwararika.",bagaca,neutral
+"umuhagarikizi w'uwo mugwi yaradusavye ko yoza araturondera, kandi nta n'ico yadutegetse gusa, ariko n'ibindi bintu bimwe bimwe bitar'uko vyategetswe.",yaradusavye,neutral
+"vyongeye, uraraba neza ko umuziki w'umucuraranzi ari n'ikintu kidasanzwe.",uraraba,neutral
+"(1) ewa nwanyi nta n'umwe yaronse ico afungura, amazi n'umuvinyu vyagumye ari ubusa, mu gihe twoba twaronse amafaranga 20 y'amadolali ku muvinyu.",nta,negative
+n'aho bategerezwa kugabisha ko bokwicara bagaca baheba ibidandazwa vyabo.,ibidandazwa,neutral
+twaciye dusangira udufungurwa two ku mugoroba ku ndwi y'abigeme.,udufungurwa,neutral
+imfungurwa zo ku mugoroba ziratandukanye kandi ziratandukanye.,mugoroba,positive
+"n'ejo bundi, nzoronka icumba c'uburiro.","bundi,",neutral
+nta kiguzi na gito bifise!,gito,negative
+"iyo hoteri yari ikenye cane, nta n'umwe yari iy'agaciro kanini, kandi nahisemwo gufungura ku muyaga wa mcdonald's aho kuba muri ubwo bunywero.","cane,",negative
+iyo salade iryoha cane ni icupa ry'ijunja rifise agasosa k'ijunja rifise agasosa k'ijunja rifise ibisi rifise agafu k'ijunja.,salade,positive
+"n'ikindi kandi, ibifungurwa ni vyiza cane, kandi n'ibiciro biratomoye.",ibiciro,positive
+"twari turushe kandi turarushe, turaca mu cumba c'uburiro, duca twicara kugira ngo dutane n'amakoraniro y'ingomero.",cumba,neutral
+umuntu umwe gusa ni we yari muri ico kibanza.,ni,neutral
+na cane cane e-,cane,positive
+"muri rusangi, ayo mahera nta co atwaye.",mahera,negative
+"sinzi abo banyeshure ko ari bo, ariko nta n'umwe muri abo banyeshure bo mu gisagara ca ngozi batanguye kuza bavuza induru, bagaca bavuza induru mu gatondo ko ku mpera z'igitondo.",bagaca,negative
+"rimwe na rimwe, narafungura incuro zitatu ku mugoroba, nca ndafungura incuro zitatu.",ndafungura,neutral
+"mu vy'ukuri, iyo  pizza yompi yari nziza cane.",pizza,positive
+"iyo ntererano izoba itanguye, n'aho ico kibanza kizoba gisugaye.",ico,negative
+umukuru w'igihugu yavuze ko atoshobora kutwipfunya kugira ico ashikirije ku bijanye n'uko ata kindi kintu na kimwe gishobora kudusimira mu mugambwe uri ku ruhande rw'abo banyeshure.,bijanye,neutral
+mbere n'umuvinyu wari uryoshe.,n'umuvinyu,positive
+n'aho uwo mu bwoko bw'ibifungurwa ashobora kuba ari nk'aho,bwoko,positive
+narakozwe ku mutima cane n'ukuntu abo banyeshure bo muri ostrariya bo mu buseruko bw'ico gihugu bahimbawe cane n'ukuntu bashoboye!!,buseruko,positive
+ico nobabwira ni uko muzoba mufise ico mufungura kuko muzoba mufise ibindi bifungurwa.,ibindi,neutral
+uwo mushitsi n'umunega barakoze uko ashoboye kwose kugira ngo atuvemwo.,barakoze,negative
+umuvyeyi w'umu kenya nawe nyene ni mwiza cane.,umuvyeyi,positive
+"rindira ko barindira iminota iri hagati ya 15 na 20, kuko abo bashitsi bari bafise ingorane z'ukuja mu bibanza vy'amakoraniro, kuko bashobora kuba bari bashitse ahantu hanini cane.",bibanza,neutral
+10.2016 2016 2016 2016 19:2016 2018 2018 2018 2016 2018 2018 2018 2018 2018 2018 2018,2018,positive
+10.2016 2016 2016 2016 19:2016 2018 2018 2018 2016 2018 2018 2018 2018 2018 2018 2018,2018,negative
+suka cuma,suka,negative
+nahavuye mbona ko yashizwe kw'ibarabara.,nahavuye,neutral
+"ivyo bifungurwa biguma bishika igihe kitagira urugero, kandi mu bisanzwe hakanye.",bishika,negative
+"ariko ntiwumve, kubera ko ico gifungurwa ari ikintu gihimbaye cane!",ikintu,positive
+"mu bisanzwe, ibifungurwa ni vyiza cane, ariko mu vy'ukuri, naguma nibaza ibijanye n'imikate y'ibifungurwa vy'indya zitomoye.",vyiza,negative
+"ariko rero, haba abantu babiri canke amajana abiri imbere yawe, abashitsi bazofata izina ryawe bakakubwira iminota itanu.",bazofata,positive
+kurya ni vyiza cane.,kurya,positive
+ahubwo yampa inzoga y'imbeho y'imbeho ikoranye n'abahindi.,y'imbeho,positive
+"abagenzi banje baranyirengagiza, kandi igihe cose twaba turi ng'aho.",abagenzi,negative
+"abo banyeshure baramwenyura, bagatwenga.",abo,positive
+"10 10 ing.10,10,2016 ing.2016 10:23) 20 nta n'umwe muri twebwe yari ameze neza cane, kandi nta n'umwe muri twebwe yari ameze neza cane, kandi nta n'umwe muri twebwe yari afise umutima mwiza.",ameze,positive
+"uwo muvyeyi w'umukate araryoshe, ibindi vyose ni igitangaza.",ni,positive
+ubu ivyo gufungura ntibisa n'ivyo bifungura.,ivyo,negative
+"nk'isaha zitatu n'igice z'ijoro, twagerageje gufungura, nk'igihe c'isaha zine n'iminota mirongo itatu z'ijoro, ata n'iminota mirongo itatu z'ijoro.","z'ijoro,",neutral
+"umunywanyi w'umuhingi ni mwiza cane, ineza ni nziza cane kandi ni nziza cane.",kandi,positive
+"ibifungurwa, ibinyobwa n'ibinyobwa ni bimwe mu bifungurwa birangwa muri ico gisagara.","ibifungurwa,",positive
+10.000 000 00 00 00 0 0 0 0 0 0 0 0 0 0 0 0 0 0,10.000,positive
+nta kintu na kimwe nari mfise co gufungura.,nta,negative
+"nta ngorane n'imwe twari dufise yo kwihereza ibifungurwa canke ibifungurwa, kandi ivyo biribwa vyaciye biduga ningoga, ariko mu minota mikeya ni ho tuja.",yo,positive
+1000 000 000 થદ૔૔૔,000,positive
+"rindira ko barindira iminota iri hagati ya 15 na 20, kuko abo bashitsi bari bafise ingorane z'ukuja mu bibanza vy'amakoraniro, kuko bashobora kuba bari bashitse ahantu hanini cane.",bibanza,negative
+iyi nyubako iri ku giciro kinogeye iy'imbere kandi ihendutse.,iy'imbere,positive
+"ico gifungurwa cari gishushe cane, ariko cari gishushe kandi cari gisushe cane.",gisushe,positive
+ni ahantu heza ho kurya gusa.,ahantu,positive
+salade yari iy'igitangaza.,salade,positive
+"ariko rero, twarabonye ko hari icanditswe caboneka nk'icapita aho kuba iy'i nayiro.",nayiro.,negative
+nashaka kwongera gufungura,gufungura,positive
+"nice bike, nice bar, bar, nice bar, bar, nice bar, bar, nice bar,",nice,positive
+ugusendesha ibintu bisiga ikintu umuntu yipfuza.,ikintu,negative
+"egome, utegerezwa kuguma wicaye, kandi kubera ko mutoyi wayo ata kibanza na kimwe kirimwo, kandi intebe y'imbere muri bar yafashwe.",kuguma,negative
+"ni vyiza gufungura neza (ariko ni vyiza cane, nimba ari vyiza cane)",(ariko,positive
+emi harukaze 40 nigiri.,nigiri,neutral
+11.1.10.1.2016 umwana w'umuhungu aronka ivyipfuzo vya,umwana,neutral
+"jewe ico ntinya gusa n'uko abadandaza b'ibidandazwa bose bategekwa n'abadandaza, bagaca bafuta ibifungurwa, bagaca babakurako.",ntinya,negative
+iyo salade iryoha cane ni icupa ry'ijunja rifise agasosa k'ijunja rifise agasosa k'ijunja rifise ibisi rifise agafu k'ijunja.,ni,positive
+"ariko rero, iyo ndiko ndabwira umugenzi wawe ko adakwiye kuvyibazako vyinshi, kandi nta n'umwe avyitezeko, kandi nta n'umwe avyitezeko.",kuvyibazako,negative
+"iyo pizza ni nziza cane, aho gukoresha mozzarella nshasha aho kuba iy'igiciro gitoyi, gitetse, gisukuye, gikunze kwambarwa n'abantu benshi.",ni,negative
+10 1.00.2016 10 10 10 16 10 10 10 10 ing.10 2016 2016 2016 10 10 14 1 2 2 2 2 2 2 10,2016,negative
+"ku giciro c'imfungurwa zidasanzwe, ni co gituma imisi yose nja muri iyo resitora y'ubudandaji.",resitora,positive
+"ibifungurwa vyari biryoshe cane, mbere n'umurimo wari uryoshe.","cane,",positive
+10.10.2016 ebusho e romantiques si e bu,romantiques,negative
+"issho ni iy'umusozo, n'iy'umusozo ni mwiza.",issho,positive
+10.2016 ey'e,ey'e,positive
+"bwa mbere nca ndagenda, nca ntwarwa n'umudiho wa ""live jazz band"" n'ikirere, nategetse ko hogira icuma c'umusozo (lobster cobb salad).",lobster cobb salad,neutral
+"tibe ni hoteri nziza cane iguha abantu beza, ariko ibifungurwa ntibisa neza.",ibifungurwa,negative
+"niwaguma uronka ibifungurwa vy'imbeshere, uce ufyonda ku bifungurwa biryoshe kuruta uko wavyiteze (igitangaje).",ibifungurwa,positive
+"imeza imwe yose irafise agakombe k'amazi yokeje mu bibanza vyaco, kandi uronka ibishobisho vy'inyama z'intete, imboga zitandukanye, umuceri n'impeke z'impeke.",imwe,neutral
+murashobora kuronswa udusozo 2 mu gihe mwoba mubaye mubaye mu nzu y'ubudandaye!,nzu,neutral
+hahahahahahahahahahahahahaha,hahahahahahahahahahahahahaha,positive
+"nha trang, n'aho atewe iteka n'ukudahana indya n'ingoga, ni imwe mu resitora nziza kuruta izindi zose nari narigeze ndonka. 10.10.2016 ni nziza cane, kandi izana n'imikate mishasha.",indya,negative
+"umuvinyu wama ari mwiza, imikate yama ari yummy, cane cane ku mukate ususurutse.",yama,positive
+naramaze igihe nariko ndahamenyera izina ryanje incuro n'ine.,ryanje,neutral
+"indya ziryoshe kandi zifise akamaro kanini, ariko zifise akamaro kanini ariko zifise akamaro kanini, kandi urudandazwa rw'umuvinyu ruhuza neza n'ibifungurwa.",neza,positive
+"""mu buzima bwanje, nararonse ibifungurwa vyiza kuruta ibindi vyose mu buzima bwanje.'",ibindi,positive
+abo ba dd baguha udusozo tugufi mu gihe urindiriye (mu kanya gato).,ba,positive
+"naramaze imyaka irenga 10 nja muri iyo resitora, kandi iyo ndiko ndarondera umucanwa wa pho, igiterwa c'icatsi c'icayi canke inyama z'inka ku muceri, aha ni ho ndiko ndaja.",naramaze,positive
+waitstaff ni umuntu w'umutima mwiza.,waitstaff,positive
+"ikindi na co, ni uko ibiciro vy'ibifungurwa na vyo nyene biri ku giciro ciza cane, kandi n'ibifungurwa ni vyiza cane.",ibiciro,positive
+"""ikintu ciza ntari bwigere nkora mu buyapani ni ikintu ciza ntari bwigere nkora mu buzima bwanje.",buzima,negative
+"uretse kuba umuntu agwiriwe n'abantu bakeyi, ikirere cuzuye inguvu (kandi abantu beza) kandi ivyo kurya vyari bitangaje!",kurya,positive
+igiciro c'ifi n'igiciro c'ifi vyonyene bizotuma tutosubira kugendera.,c'ifi,negative
+"ubwa mbere, wa muhereza wadukoreye yirengagije kutuzuza mu buryo budasanzwe, ivyo nari guhitamwo iyo mba nari kumenya ivyabo.","budasanzwe,",positive
+"iyo ngwano y'umucafu yari iryoshe cane, nk'uko vyasa n'ibishobio",y'umucafu,negative
+"ku bijanye n'isangira ry'imisozo, iyi ni integuro y'itegeko ryo gusubiramwo iryo suzuma, ariko nta nkeka ko rizosubira gusubirwamwo.","suzuma,",negative
+"jewe ico mbona n'uko abarundi n'abarundi batazokwirigwa mu bibanza vy'amakoraniro canke ngo muce muja mu ndyane z'abarundi, mu bibanza vy'amajanja canke mu bibanza vy'i bunywero n'ibindi.",batazokwirigwa,positive
+"indya zari ziryoshe cane, kandi indya zari ziryoshe cane, iyo sukari ntiyari iy'umukate canke iy'indya.",indya,neutral
+"nahisemwo kwifatanya n'umwe mu banyeshure, umwagazi w'intama",nahisemwo,positive
+"ariko rero, ayo mafaranga yari aryoshe cane.",mafaranga,positive
+10.2016 2016 2016 2016 19:2016 2018 2018 2018 2016 2018 2018 2018 2018 2018 2018 2018,2016,negative
+"twaciye tuja ku muhingamo wo kuri uwu wa gatandatu, duca tuja ku munota wa 15, naho nyene twari turushe.",twaciye,positive
+"iyo ngwano yari iy'umucafu, kandi nta n'umwe muri bo yari iy'agaciro gifise, kandi nta n'umwe yari agifise.",nta,neutral
+"nafise tuna tartare with sake sake, mushroom ravioli na pinot noir, na shokola sampler na vino ya dessert ku madolari 49.",tuna tartare,positive
+n'iyo hoteri ni nziza cane (i new york pizza restaurants),pizza,positive
+00 000 000 00 0 0 0 0 0 0 0 0 0 0,0,positive
+"inzoga zari nziza cane, kandi ico kinyobwa cari gihimbaye.",kinyobwa,positive
+"10.kruno, umuhagarikizi w'inzoga ni we mutekero w'ibinyobwa nahora mbona gushika ubu ntarajabuka.",ni,positive
+"image caption iyo ndirimbo ikunzwe cane n'abantu bose bakunzwe cane, kiretse ku musi wa gatanu.",ikunzwe,negative
+"i recommend the ekodre, ewa (e) ne vyso (e) ne vyso vyso.",ewa,positive
+"niba ushaka inyama z'inkoko, inyama z'ingurube canke inkoko ukoresheje umuceri, gerageza ugerageze!",inkoko,positive
+"ivyo biribwa biribwa bikundwa cane na scrumptious style chaat nka bhelpuri, sevpuri na samosa chaats, hamwe n'izindi appetizers zikomeye zo mu buhindi.","bhelpuri,",positive
+3.gusangira n'umukunzi wawe kugira ngo unywe ibinyobwa n'ibinyobwa bikonjesha.,wawe,positive
+"nashitse mu bibanza bitandukanye vya dim sum, kandi ivyo bikaba ari vyo vya mbere bitegerezwa kuba ari vyo vya mbere.",dim sum,negative
+"nari kumwe n'abagenzi 15, kandi twari kumwe n'abagenzi banje, twari kumwe n'abandi batanu, twari kumwe n'abandi bagenzi bacu, twari kumwe n'abandi, twari kumwe n'abagenzi, twari kumwe n'abandi batanu, twari kumwe n'abagenzi banje, twari kumwe n'abagenzi banje, twari kumwe, twari kumwe n'abandi batanu, twari kumwe, twari kumwe n'abagenzi, twari kumwe, twari kumwe n'abandi batanu, twari kumwe, twari",kumwe,neutral
+jewe n'umunega wanje twama twama twicara i sushi bar (chef yoshi) maze tubategeka ibintu vyose vya ala carte.,carte.,neutral
+"imfungurwa ziraryoshe, kandi serivisi ni zihuse, zikundwa kandi zihambaye.",imfungurwa,positive
+"mu gihe c'imishatsi y'uwo mugera, umunywanyi w'uwo mugera waciye uja ku nyota.",w'uwo,neutral
+"iyo nfungurwa yari itangaje, kandi igikorwa cari gitevye kandi cari ngirakamaro, ariko ntikirarenza urugero canke ngo kibure kwihuta.",nfungurwa,positive
+umusozo ni umunyamahoro kandi utekanye.,umunyamahoro,positive
+reka rero tuze turabe ko gaburiyeri atari kuri ivyo biribwa.,ivyo,negative
+"n'aho umenga nta kintu na kimwe gifise, niwamara kwicara, uzoguma wibagira ibintu vyose kiretse ibiri mu cumba cawe.",cumba,negative
+ico womenya conyene ni urwaruka rw'abigeme batamenye ico ruhombo rufise mu rukino rw'ijoro (amafoto),urwaruka,negative
+abo ba dd ni beza...namwe murafise ico mupfa.,beza...namwe,positive
+umuvinyu na wo nyene wari uryoshe cane.,umuvinyu,positive
+"ayo dibacam, cari aja si ayer.",aja,neutral
+u rwanda rufise igikorwa ciza n'ikirere ciza kuruta ibindi vyose mu burundi.,rufise,positive
+igiciro kirumvikana cane.,igiciro,positive
+"kuva mu ntango, utwo tunyazu twashowe n'utuzu tw'ishokola twaciye dutangura kuryoha cane, tukaryoherwa cane n'ivyitwa ""rasberry mint sorbet"" vyadushimishije cane.",tukaryoherwa,positive
+hahahahahahahahahahahahahaha,hahahahahahahahahahahahahaha,positive
+"ndasavye abarimyi b'ikawa guteka ibiribwa, uburozi n'uburozi.",uburozi,positive
+"ico gifungurwa cari kiryoshe cane, kandi ico gifungurwa cari gihimbaye cane.",gifungurwa,positive
+"ibifungurwa bihimbaye, birahambaye kandi birahambaye.","bihimbaye,",positive
+nta mvo n'imwe yo guharira mwene abo bantu!,guharira,negative
+"jewe n'abagenzi banje twaciye tuja mu cumba c'ibifungurwa biryoshe kandi biryoshe cane, mw'ijoro ryakeye.",c'ibifungurwa,positive
+ivyo kurya vyonyene ni vyiza gusumvya ibifungurwa vy'agatangaza.,kurya,positive
+"isabune y'iy'imyumbati, imyumbati y'imyumbati, imyumbati n'ifu yinjijwe mu gihugu, bituma iyi ari imwe muri pizza nziza kurusha izindi muri ny.",imwe,positive
+"ivyo vyose bikaba bigurwa amafaranga y'amarundi angana n'ibihumbi amajana umunani (80000 frw) hamwe n'amafaranga y'amarundi 500 ku mutaga, hamwe n'ay'ubunywero.",amafaranga,positive
+"great bike, great bike, great service.",great,positive
+isupu ya udone yari isabune n'amazi.,udone,negative
+"kubera ko igiciro cayo ca $6.25 ku mfungurwa zidasanzwe, ico gifungurwa cari gito cane.","zidasanzwe,",negative
+"10 10 ing.10,10,2016 ing.2016 10:23) 20 nta n'umwe muri twebwe yari ameze neza cane, kandi nta n'umwe muri twebwe yari ameze neza cane, kandi nta n'umwe muri twebwe yari afise umutima mwiza.",nta,positive
+fast service none none,service,positive
+"aha ni ho hantu honyine habereye umutobe w'impeshi n'iy'i bushinwa, n'ahandi hose muri amerika y'uburaruko bushira ubuseruko bwa amerika, haca",ni,positive
+"niwaba ari umucanwa w'inkoramutima gusa (mu gikogwa c'i gitega) canke mu vyiyumviro vy'imbehe, tuje mu kigwati!",gusa,neutral
+"jewe ico nkundira n'uko ibintu vyose vyega vyega n'ibishobisho, ariko vyose ni vyiza cane.",vyiza,positive
+"ubwa mbere, wa muhereza wadukoreye yirengagije kutuzuza mu buryo budasanzwe, ivyo nari guhitamwo iyo mba nari kumenya ivyabo.",muhereza,negative
+"ibiciro vy'ibidandazwa ni vyinshi, mu gihe ibiciro vy'ibidandazwa vyoroshe cane.",ni,positive
+"10.10.10.2016 shiramwo umukate uryoshe n'umukate uryoshe cane, uce umera nk'ifu y'intete.",uce,positive
+"twabwiwe ko igihe c'isaha cumi n'imwe z'agatondo kazoba ari nk'igihe c'isaha cumi n'imwe z'umugoroba, kandi ko ata kibazo na kimwe kizoboneka mu gihe c'isaha cumi n'imwe z'umugoroba.",ari,neutral
+"baratwitwararika cane, kandi ibifungurwa vyari biryoshe cane kandi vyateguwe neza.",ibifungurwa,positive
+"igihe twari mu gisagara ca new york, twabwirizwa kugerageza i new york.","york,",neutral
+abahindi barafise ibiciro vy'agatangaza.,ibiciro,positive
+"ifi zose z'agatangaza, ziryoshe cane.",ifi,positive
+13:00 à 03:00 à 03:00 à 03:00 à 03:00 à 03:00 à 20 à 03:00 à 20:00 à 03:00 à 03:00 à 03:0,03:00,positive
+"""musumbavyose, wa mupfasoni w'umugororotsi ahambaye kuruta ababayeho bose.""",kuruta,positive
+"13:35) vyongeye, twarasavye ikigongwe c'iminota 35, ikigongwe c'ugusaba imbabazi, kandi twama tubandanya gutera imbere.",twarasavye,negative
+"ico gifungurwa cari gishushe cane, ariko cari gishushe kandi cari gisushe cane.",gisushe,positive
+"iyo mpongo ni iy'umucafu, ariko indya zifise umucafu w'ishushe (atari iy'imbombo) zose ziriko zirashirwa mu gikoni.",mpongo,positive
+iyo nyota ikaba iri hagati y'amadorari 11 na 16 y'amarundi.,nyota,neutral
+"isupu y'ubushuhe n'ubushuhe ntivyari bishushe, ikongera",ntivyari,negative
+"ariko rero, nugerageze rimwe, kuko niwaba watanguye gukunda imfungurwa, vyoshobora kuba ari kimwe mu bintu bihimbaye kuruta ibindi vyose wokora.","imfungurwa,",neutral
+10.10.2016 2016 21 16 16 2 18:24 24 24 14 18 18 14 14 14 18 14 14 2 2 2 2 2 2 2 2 10 2 2 10 18 18 18 2 20 20 20 20 20 2 2 2 10 20 20 20 20 201 2 2 2 2 20 20 20 20,10.10.2016,positive
+"ku bw'ivyo, turahimbarwa cane n'uko umucungezi w'umucungezi w'inderetsi ahimbarwa cane n'uwo muhingamo.",umucungezi,positive
+narakunze cane iyo ndiko ndyohera kandi nd'umusozo w'umukuru w'igihugu.,ndyohera,positive
+"ivyo biribwa ni agatangaza, hari urutonde rw'umuvinyu mwiza, kandi ivyo bifungurwa biguma bihindagurika, biratangara cane.",urutonde rw'umuvinyu,positive
+ivyo kurya vyari biteye ubwoba!,kurya,negative
+aho hantu ni ho hahagaze ibifungurwa bikomakomeye.,ibifungurwa,positive
+"ku ncuro ya mbere, sushi yari ishitse ku ncuro ya kabiri.",sushi,conflict

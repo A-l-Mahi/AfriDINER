@@ -1,0 +1,555 @@
+sentences,aspects,polarities
+"an jira tebur a waje da daɗewa, amma zafi ne sosai a cikin rana saboda haka teburinmu na insde yana da kyau sosai.",tebur,positive
+"a lokacin, mun jira fiye da rabin sa'a don tebur (ko da yake mun yi ƙoƙari mu yi ƙoƙari mu yi ƙoƙari).",yi,negative
+"ba su da mayonnaise, sun manta da toastinmu, abinci da aka bar (ie cheese a cikin omelet), a ƙarƙashin zafi mai zafi kuma bacon ya ƙare sosai har ya rushe a kan sashe sa'ad da ka taɓa shi.",bar,negative
+"abin da ake ci yana da ban mamaki, kuma ana taimaka mana sosai, amma ba a yi amfani da shi sosai ba.",abin,positive
+"ko da yake ba su da kuɗi sosai, suna saka kuɗi a cikin bagel, domin suna cikin waɗanda suka fi kyau a birnin.","bagel,",neutral
+idan kana son waƙarka da aka buga kuma na'urar ba ta da kyau kuma idan kana son ka biya aƙalla minimun na dolar 100 to za ka so ta a nan.,minimun,negative
+babban gunaguni: ba za a iya yin tosti ba.,tosti,negative
+"mun ɗan jinkiri zuwa wurin, amma ba matsala ba ne mu samu teburinmu nan da nan.",mun,neutral
+the pizza da ruwan inabin suna da kyau a hidima- amma abin da ya sa wannan wuri ya zama wurin cin abinci a bayan gida.,abin,positive
+"da dare ba mu da wani abin da za mu yi ba, sai muka jira a barin na ɗan lokaci, amma shugaban gidan ya yi farin ciki sosai kuma ya sa jiranmu ya zama abin sha'awa sosai.",bar,neutral
+mun samu takardar da ke da kyau da kuma abinci mai kyau.,abinci,positive
+"ban ci ɗan rago mai laushi kamar haka ba, salads suna da kyau sosai da aka saka da limani da kuma ƙarin mai daji na zaitun.",zaitun.,positive
+"wannan wuri ba ya gwada da na'am a batun kuɗi, shafaffu, tamani, da kuma kwanciyar hankali, amma wannan ra'ayina ne kawai.",batun,negative
+"saboda haka, an rubuta abincin a kan kanka kuma dukansu suna da laushi.",abincin,neutral
+"daga hidima mai ban sha'awa, zuwa abinci marar kyau, ba tare da ambata shugabannin da suke ba da taimako ba, abin da ya faru ya yi mummunan sakamako.",abinci,negative
+wannan ɗan'uwan ta ce a ba ta ruwan inabin da ya dace sosai.,ruwan inabi,positive
+"mafi kyau, mafi kyau, kuma mafi sauri.",mafi,positive
+inabin da yashi suna da yawa kuma ba sa jin daɗin ɗanɗana fondue ko kuma tafiyar da ke ƙonawa.,ɗanɗana,positive
+launi mai ƙarfi da mai ƙarfi.,da,positive
+"don mu yi bikin ranar haihuwarmu, mu uku mun je mare muna jiran abinci mai kyau.",abinci,neutral
+kamar dai masu hidima sun manta cewa suna aiki a wurin kuma suna son su zauna a wurin kuma su ji daɗin yin hakan.,son,negative
+kifin yana da shafaffu kuma mai da abinci na sushi yana yawan,sushi,positive
+"hidima ita ce ƙanƙara, ƙanƙara inda ake sha'awa sa'ad da suke zuwa, kuma ba za a iya biyan kuɗin ba!!",ake,positive
+wannan kyakkyawan bayanin da suka samo !!,bayanin,positive
+"sun ba da kashi 15% a ƙarshe, ba ya isa ba, domin sun san cewa hidima tana da ban sha'awa.",cewa,negative
+"sa'ad da iyalin suka shiga, sai ya ba su manhajar gwada ƙanƙaninsu, sai ya umurce su su yi hakan.","ƙanƙaninsu,",neutral
+ka je nan don cin abinci mai kyau amma ba don cin abinci mai ban sha'awa ba.,cin abinci,positive
+"ka ajiye kuɗinka kuma kada ka ɓata kalorinka, ka je gidan mar kike a washington street maimakon haka, suna da abinci mai ban mamaki da kuma hidima mafi kyau.",abinci,positive
+"ƙauna ba ta da amfani kuma tana da tsabta, ba abin da za a janye hankalinmu ko kuma a yaba musu ba.",abin,neutral
+killer sushi!,sushi,positive
+"dole ne in gargaɗi mai karatu cewa girmar abincin ƙaramin ne ( musamman ma mai da abinci), saboda haka idan kana so ka ci har sai ka cika kuma ba ka son ka zaɓi abincin ɗanɗano na musamman na mai da abinci, ka shirya ka zaɓi kuma ka biya abinci (1 abinci ga kowa domin abincin ba don a haɗa ba),  babban abinci, da kuma sanyi na udon a ƙarshen abincin.",abincin,negative
+"abin kunya ne cewa wuri mai kyau, mai sauƙi kamar pink pony zai iya lalacewa da hidima marar kyau.",abin,negative
+"idan kana neman abinci mai kyau da kuɗin da ya dace, ka je gidan del frisco!",abinci,positive
+"mun ɗumi kifi mai daɗi kuma duk da cewa mun yi ɓarna, yana da daɗi sosai kuma yana da laushi.",kifi,positive
+"mu huɗu ne muka isa da rana, wurin ba shi da amfani, kuma ma'aikatan sun yi kamar muna ƙarfafa su kuma sun yi rashin hankali sosai.",ma'aikata,negative
+ba zan nemi mai da na'ura ba nan gaba.,mai,negative
+"mun zaɓi abinci da abin sha kawai, amma ba a ba mu abinci ba.",abinci,neutral
+"dukansu suna da laushi, masu daka suna da aminci kuma suna a shirye su ɗan ɗan lokaci su yi magana da kai kuma su rungumi hannunka.",shirye,positive
+abin da ake ci yana da ban sha'awa - babu shakka ka gwada bass mai launi.,abin,positive
+"ko da yake spider roll zai iya kasance kamar ƙalubale a ci, da ƙanƙara mai laushi da ke ɗauke da shi, yana da tamani sosai idan ka biya su.",spider,positive
+ma'aikatan suna mai da hankali sosai kuma kullum za mu iya samun tebur.,tebur.,positive
+wani ƙaramin hanya tana kai ga wani ƙaramin wuri inda akwai ƙananan ƙananan,kai,negative
+"duk da haka, hidima ba ta da kyau, kada ka sa rai cewa za ka samu wani abu mai yawa daga server, kuma ba zan yarda ka kawo kwanan wata a nan ba.",yarda,negative
+"duk da haka, duk wani jayayya game da biyan",biyan,conflict
+"saboda haka, burgarsu sun rabu a hannunsu kuma suka sa su yi ɓarna sosai har ba su ji kamar su kammala su ba.",burgarsu,negative
+kamar dai abincin yana da abinci dabam dabam ga masu son abinci na teku da kuma hanyoyi masu ban sha'awa na shirya su.,abinci,positive
+"idan ba ka sani da abincin ba, za ka iya fuskantar matsaloli wajen zaɓan abinci a nan kuma ka tabbata cewa za ka kawo kuɗi mai yawa tare da kai domin ba sa karɓan kadin ƙura.",abinci,negative
+"ba shi da wuya a sami wurin, amma an cika shi, nan da nan da ni da abokina muka samu abincinmu, sai aka kai ƙofar.",wurin,conflict
+"steak tartare tabbaci ne mai kyau, suna gyara maka a tebur.",steak tartare,positive
+"don allah idan tunaninka game da shi ya ci gaba, kuma ka ci gaba da jira ba za ka yi sanyin gwiwa ba.",jira,negative
+abin da ake ci ba kamar wanda ake amfani da shi a dandalinmu ba ne.,abin,negative
+"tuna roll mai daɗi yana da kyau sosai kuma tempura ta dutse mai ban sha'awa ce, mai kyau da za a ba da!",tempura,positive
+"abin da ake ci yana da ban mamaki sosai, ana mai da hankali sosai kuma ana iya kula da shi sosai, kuma wannan yanayin fa!",wannan,positive
+masu ƙwaƙwalwa da masu mulkin ba su da hankali game da wannan kuma sun yi alkawari cewa za su kira mai halaka amma ba su yi baƙin ciki ko kuma neman gafara kamar yadda nake tsammani ba.,masu,negative
+"mun yi shirin cin abinci, amma ɗan'uwan ya ba mu kuɗin kafin mu zaɓi abinci.",yi,neutral
+"ba na ƙaryata abinci, amma na so in yi tunanin cewa ina da ƙaramin labari a ƙarƙashin ƙarfe na na zauna a ny na shekaru 11 da suka shige.",abinci,neutral
+"ko da yake ba na son abincin, kuma wataƙila yana da ado mafi kyau a kowane manzani na ƙasar indiya da na taɓa zuwa a birnin new york, abincin ba abin da nake sa rai ba ne.",abinci,negative
+tuna da wasabe batsi suna da kyau.,wasabe,positive
+"ba zan iya yin amfani da ruwan inabi tare da indiya ba, don haka ba zan iya yin magana game da jerin ruwan inabi ko ruwan inabi ba.",ruwan inabi,neutral
+"ban yi gunaguni ba, na so yanayin sosai.",na,positive
+"sun manta da sandwich, ba su ƙunshi ƙarfe na plastis ba, kuma ba su haɗa pita da sashe na ƙwaƙwalwa ba.",pita,neutral
+wani ƙaramin hanya tana kai ga wani ƙaramin wuri inda akwai ƙananan ƙananan,wuri,negative
+"bayan da aka soma nazarin, ba mu ga mai ziyararmu ba a cikin minti 40!",ziyararmu,neutral
+"ƙari ga haka, sandwichi (kusan $7) ba su zo da wani abu kamar cifi ko kuma wani gefe ba.",sandwich,negative
+"alamar, abincin da ake ci, da kuma dukan masu jiran abinci dukansu ' yan japan ne.","alamar,",positive
+"but abincinsu mafi kyau shi ne thh thai spiced curry noodles da shimi - abinci da zai kai $ 23.95 yawancin wurare ne, amma shi ne $ 16 a nan.",curry,positive
+"yanzu abincin ƙaramin ne, sau da yawa ba a iya cin su ba, amma abincin har ila yana da kyau, domin ana son shi, yana da ban sha'awa.",amma,negative
+"yawan cin abinci a nan ya yi girma sosai, kuma sushi yana da kyau.",sushi,positive
+"steak yana da kyau, kifi yana da kyau kuma sushi ya yi daɗi sosai.",steak,positive
+"da farko, wannan ' yar'uwar ba ta iya zuwa ba sau biyu da muka ga ta (mai ban mamaki a wani manni da ke da teburori shida) kuma mun yi kuskure.",teburori,neutral
+"abin da ake ci da kyau da kuɗin da ya dace, zai zama yamma da ba za a iya ci ba!",kuɗin,positive
+"kada ka tafi kaɗai---ya'a mutane biyu ba su isa ga dukan abin da suka shaida ba, da ƙwaƙwalwa da zaɓaɓɓun naman da abinci na teku.",abinci,positive
+"waƙoƙi masu kyau, abinci mai kyau, kuɗin hidima mai sauƙi.",kuɗin,positive
+"ko da yake akwai wurare da yawa da za a iya zuwa don sandwich na naman maraƙi mai kyau, katz's yana da al'ajabi game da shi.",sandwich na naman maraƙi,positive
+"a wasu lokatai ina samun abinci marar kyau da kuma hidima marar kyau, a wasu lokatai ina samun hidima mai kyau da marar kyau.",kyau,positive
+pizza shi ne mafi kyau idan kana son pizza mai ƙarfe.,pizza mai ƙarfe,neutral
+"hakika, dole ne ka jira ka zauna kuma domin ƙaramin wurin ba shi da wuri na jira kuma an ɗauki zaune a barin.",bar,neutral
+"duk da haka, abincin da kansa yana da kyau.",abinci,positive
+"ma'aikatan suna ba da abinci, abincin yana da laushi sosai kuma wurin yana da kyau.",abinci,positive
+"gurasar gurasa ce mai laushi (ba kamar gurasa da suke amfani da ita a ƙasar amirka ba), kuma abincin yana da launi mai kyau.",kamar,positive
+"domin ƙarfin da ke da sauƙi, waɗannan ƙanƙanin suna yawan zama a cikin asusu.",waɗannan,negative
+izakaya (sake da ƙaramin sashe na abincin sake-friendly).,abinci,positive
+"abinci mai kyau, kuɗi mai yawa, hidima mai kyau.",kuɗi,positive
+ba su iya yin salad da ke da ban sha'awa ba.,salad,negative
+"an canja abincin, abincin ya ƙara ƙarami fiye da dā, abincin lintil ya yi ruwan gishiri da ba zai yiwu ba, abincin ƙwaya na basmati ba shi da laushi.",abincin,negative
+ba zai karya banki ba amma ba zan dawo don cin abinci ba.,abinci,negative
+"idan aka yi wa waɗannan ' yan'uwan hidima hidima, ba su da sauƙin hali, amma sun cim ma aikin.",waɗannan,conflict
+"launi mai kyau ne, kuma abincin yana da yawa.",abincin,positive
+wannan ɗan'uwan ta ce a ba ta ruwan inabin da ya dace sosai.,wannan,neutral
+"launi mai ban sha'awa na abincin yana sha kan laushi, da gaske yana ɗauke da kyaun abincin thailand na gaske.",kan,positive
+winnie da kuma ma'aikatanta ne suka fi kyau a yi maka hidima.,ma'aikata,positive
+"pizza mai laushi ne - suna amfani da sabon dabba maimakon yashi mai sauƙi, mai sanyi, da aka yanke da yawancin pizzaria.",pizza,positive
+sau da yawa abubuwa 3 da 4 a kowane abinci.,abinci.,neutral
+"don dukanku sabuwar abinci na indiya, ku gwada paneer roll, shi ɓangare ne na sama.",paneer roll,positive
+"dukan abincin da ake ci da salad suna da ban sha'awa, steak yana da ruwan bakin kuma pasta yana da laushi!!",steak,positive
+"palak paneer yana da kyau, kuma ban so malai kofta ba.",malai kofta,neutral
+"mai gidan yana da sauƙin hali sosai kuma mutum ne mai kyau, ka tafi ka ɗanɗana pizzansa, za ka so!",mai,positive
+"ƙawar itace mai furfura tana da ban sha'awa sosai, sake mai kyau yana da kyau kuma hidimar tana da kyau.",sha'awa,positive
+"na fahimci yankin da mutane da ba ka bukatar ka zo nan don sha'awa, sha'awa ko kuma hidima ta taurari biyar da ke ɗauke da ƙanƙara mai wuya da kuma mai wuya na kapitan da kuma ɗan ƙwaƙwalwa - ka zo don abinci na gaske, ɗanɗano, shaida.",abinci,positive
+"abin da nake zaɓa shi ne: - scallion pancake (da aka dafa da ruwan ganye, na musamman da mai laushi) - guizhou chicken - irin iyali na chicken da aka ɓata (ɗaya daga cikin abin da nake so) - sichuan spicy soft shell crab - shuizhu fish (wannan na masu so abinci na sichuan, ba zan shawarce abokansa na amirka ba domin yana da laushi sosai.",iyali,positive
+misali shi ne sufi da ke da tsada kusan oz 6 da kuma dolar 12 da kuma manta da ake kira $12 da kuma kusan 1oz.,shi,positive
+"dole ne in gargaɗi mai karatu cewa girmar abincin ƙaramin ne ( musamman ma mai da abinci), saboda haka idan kana so ka ci har sai ka cika kuma ba ka son ka zaɓi abincin ɗanɗano na musamman na mai da abinci, ka shirya ka zaɓi kuma ka biya abinci (1 abinci ga kowa domin abincin ba don a haɗa ba),  babban abinci, da kuma sanyi na udon a ƙarshen abincin.",(1,negative
+"abincin ya zo minti 20 bayan na kira, sanyi, da kuma ƙura.",abinci,negative
+"mun ci abinci a nan a watan maris, 2006 kuma muka zaɓi cin abinci na uku kafin wasan kwaikwayo da jirgin ruwan inabi.",abinci,neutral
+"ko da yake adadin da ake kira $20 ba ya da tsada sosai, a birnin new york, babu shakka akwai abinci mafi kyau a wannan wurin, saboda haka, duk da cewa yana da yanayi mai kyau, wataƙila ba zai zama gidan abinci da zan koma ba.","wurin,",positive
+amma thailand babu shakka ba mai girma ba ne - mai rashin hankali da kuma mai rashin jituwa.,thailand,negative
+amma abin da ni da matata ba mu so ba shi ne ƙarfin ƙarfi sosai kuma yana kama da 'bar' ko 'bar'.,bar,negative
+wasu masu hidima suna sa ka ji kamar suna taimaka maka ka kawo maka abincin.,abinci,neutral
+"da farko, an gaya mana cewa za mu jira minti 30 kuma muka soma barin gida, sa'ad da ɗan'uwan ya ce zai kira mu a cikin cell phonemu sa'ad da teburin ya shirya.",teburin,positive
+"ko da yake muna neman lettuce a kai a kai da kuma walnuts, salad da muka samu yana da kyau.",salad,positive
+yanayin yana da kyau idan kana neman wani yanayi mai sauƙi da kuma hanyar da za ka iya yin ƙarshen kowace mako.,iya,positive
+magidanta da ma'aikatan suna da aminci kuma pizza da suke yi yana da ban sha'awa.,pizza,positive
+ive ta tambayi wata mai kula da karusa ta ba ta wani ganye da aka ɗaure da ƙanƙara kuma ta amsa ƙanƙara kuma ta tafi.,kula,neutral
+abin da ake ci sau da yawa yana da kyau amma babu shakka ba wuri ba ne da za a iya zuwa.,wuri,negative
+"abin farin ciki, mun ajiye wurin cin salmon, sea bass, da crispy duck.","salmon,",positive
+"a shekaru da yawa, tana ba da abinci mai daɗi da kuma ruwan inabi mai kyau.",abinci,positive
+"abin da ake ci da ruwan inabin da ke da shafi uku, da shafi ɗaya da kuma abin ban sha'awa.",sha'awa,positive
+sau ɗaya don cin abinci da kuma cin abinci sau ɗaya.,cin abinci,neutral
+yana son abincin.,abinci,positive
+"na yi mamaki da rashin bincike- na ga wannan wurin ya zama italiyawa mai girma a wuri da ke cike da tsada mai girma na italiya, yanayi mai kyau, hidima mai kyau da jerin ruwan inabi mai ban sha'awa.",wurin,positive
+suna ba da abinci ɗaya amma suna da giya mai kyau da ke cike da giya da sunaye masu lalata - amma suna kashe ka.,abinci,neutral
+"domin ba mu da ɗakin kula, za mu zauna a bayan lambun, amma yana da kyau, yana da nisa kuma yana da kyau a lokacin yanayi mai kyau.",mu,negative
+sushi daga tsawon tsawon tsa,tsa,conflict
+"babban jerin ruwan inabi, da tamani mai kyau.--sara",jerin,positive
+"bayan mun gano ping's a intane, mun shiga da baƙin ciki amma nan da nan tanki na kifi da suke gai da kai sa'ad da kake shiga.",tanki na kifi,positive
+daji yana da ban sha'awa kuma yana da ban sha'awa kuma pasta yana cike da laushi.,cike,positive
+"abin da ake ci ba sabon abinci ba ne, sosin ba shi da kyau kuma yana da mai daɗi sosai.",sosin,negative
+"hidima tana da kyau, kuɗin yana da kyau - lokaci na idar da shi ya yi ɗan jinkiri, amma domin yadda wannan pizza take ɗanɗano, ina a shirye na yi watsi da shi.",pizza,positive
+mai ba da barin da na ziyarce shi a kwanan nan ya yi rashin hankali sosai har ba zan taɓa komawa ba.,bar,negative
+"abin da ake ci ya ce don in mai da hankali ga abinci da aka faɗaɗa da ke ba da ƙarin abinci na italiya, ba zan iya jira ba!",abinci,positive
+"don abinci mai kyau na ƙasar china da ke kusa, kana da wu liang ye da grand sichuan a wani ɗaki.",china,positive
+ma'aikatan sun shagala sosai suna zaɓan sushi don cin abinci kuma suna ajiye shi don su ci a kan barin don su kawo mini kuɗina.,ma'aikata,negative
+na je nan ' yan makonni da suka shige kuma mun sha wahala sosai a wani manni.,makonni,negative
+"ba za a ƙara yin kuɗi ba, ba za a iya ba da shawarwari masu tsada da kuma wasu abubuwa da za su sa mutum baƙin ciki ba.",su,positive
+abin da ke ɗanɗana yana sa bakinka ya ƙara ruwa.,abin,positive
+"amma, hidima ce da ke barin ɗan laushi marar kyau a bakina.",kyau,negative
+"ban da hidima marar kyau daga mutane biyu, yana da kyau.",mutane,negative
+ma'aikatan ba su mai da hankali ba sai an buɗe biyan biyan a kan tebur kafin mu gama.,biyan,negative
+"wurin yana da kyau, yana da zamani kuma yana da ban sha'awa kuma zan sake komawa sau da yawa.",wurin,positive
+sau da yawa ina zuwa wurin da dare sa'ad da na bar aiki don kada in bi da jama'a ko kuma layuka.,bar,negative
+"wannan ƙarfe ba shi da wuya, kayan da ake amfani da su shafaffu ne kuma ƙarfe yana da kyau.",kayan,positive
+"sa'ad da na duba kewaye, na ga wani ɗaki da ke cike da mutanen new york suna cin abinci a wani manni, ba gidan da ake ƙoƙarin ganin mutane ba.",ba,neutral
+mun kammala abubuwa masu kyau ta wajen ba da gulab jamun (abinci) da mai ɗan ziyara ya shawarce mu.,(abinci),positive
+"a cikin watanni uku da suka shige, mai da abinci da kuma ma'aikatan sun canja kuma hakan bai dace ba.",mai da abinci,negative
+"yana son tikka da naan, da kuma dals.",naan,positive
+"abin da ake ci yana da ban sha'awa kamar su bhelpuri, se9uri da samosa chaats, da kuma wasu abinci masu kyau na indiya.","chaats,",positive
+ba na tabbata ko zan kira abincin a nan india domin haɗin abin da ke kama da faransanci da ɗan india ko kuma abin da ba shi da kyau.,abinci,neutral
+"abin da ake ba da ya bambanta, mai laushi sosai da kuma shafaffu daga sausages na ɗan rago, sardin da biskhit, babbar shimi mai girma zuwa ice cream mai ban mamaki (mafi kyau da shafaffu da na taɓa samu).",abin,positive
+"na ci abinci mai kyau, kuma servermu ya ja - goranci mu zuwa ruwan inabi mai kyau a tsawon kuɗinmu, maimakon ya bar mu mu sayi ruwan inabin da ba shi da kyau.","kuɗinmu,",neutral
+"waɗanda suke jiran suna da daɗi, daɗi, kuma yawancinsu suna da kyau (a hanyar ƙawa mai ban sha'awa, ba a hanyar da ta fi ni-da-da-da-b@#$* ba).",jiran,positive
+na ci abinci da dare a ranar asabar da yamma.,abinci,neutral
+"ma'aikatan suna da abokantaka ba tare da yin gunaguni ba, kuma mai da abinci ya marabce mu sau ɗaya.",mai da abinci,positive
+wani ɗan'uwa kaɗai da ke aiki a wurin shi ne mutumin da ke barin.,wani ɗan'uwa,positive
+an yi ƙarfin,yi,negative
+na jira fiye da sa'a ɗaya don abinci.,abinci,neutral
+"ma'aikatan suna sa ka ji kamar kana gida, abincin yana da kyau kuma yanayin yana da ban sha'awa!",abinci,positive
+"mun yi cin abinci da wuri kuma mun burge ni sosai, kuma hakan ya tuna mini da kakãna, wanda yake yaren italiya na dā da abubuwa masu daɗi da za mu yi sha'awa da su.",abinci,positive
+sosin da ke kan pizza yana da kyau sosai da kawulu da kuma tomati kuma ba sa ƙara.,pizza,positive
+"sa'ad da na zauna a ƙasar da nake zama na ɗan lokaci, nakan sayi bagel da aka saka a ƙasa kuma har ila za su fi kowane.",bagel,neutral
+"hidimar tana da kyau, ado mai kyau ne, kuma abincin mai laushi ne kuma yana da yawa.",abinci,positive
+"daga ƙanƙara mai ban sha'awa zuwa mai kula da mutane, ina jin kamar sarakuna kuma ina jin daɗin kowace sakan.",daga,positive
+"pasta na musamman na manshi na porcini ba shi da ɗanɗano, haka ma tagliatelle na abinci na teku.",pasta,negative
+ana mai da hankali ga hidimar kuma tana ba da shawarwari game da abincin da ake ci.,abincin,positive
+ka yi ƙoƙari ka yi amfani da man,man,positive
+ma'aikatan suna da taimako sosai kuma suna mai da hankali.,ma'aikata,positive
+"mun bi abincin da mai da abinci lyle yake yi a new york shekaru 15 kuma ko da yake ya ci gaba da zama mai kyau, sabonta da yake yi da abincin da ake ci ya sa mu koma kuma mu koma.",abincin,positive
+sushi yana da tsawon,sushi,neutral
+ƙawar wurin da kuma ɗakin wanka da aka ɓoye sun sa mutane su yi dariya sosai.,ɗakin,positive
+mai ɗan ziyara ya zuba ruwa a hannuna kuma ya tafi.,ruwa,neutral
+sandwich mafi kyau na amirka da aka taɓa yi!,sandwich,positive
+"ko da yake yanayin yana da kyau, da abinci da kuma hidima sun fi kyau.",yanayin,positive
+baluchi's tana da abinci mai ƙarfi da ado mai kyau da tsada mai kyau.,tsada,positive
+"ko bayan an fitar da shi daga wurin famous ray's, sal ya sake tashi ya ci gaba da gādon kawun mahaifinsa da murmushi, ƙauna ta gaskiya ga jama'arsa, kuma kada mu manta da pizza mafi girma!",pizza,positive
+sun zo cikin minti 15 bayan tuna ta narkar.,tuna,positive
+"ko da yake babu shakka za ka zauna a tebur da abin da yake kamar ba shi da isashen wuri (ko da yaya girman bikinka yake), ƙasa mai ɗumi tana da tamani ga ƙananan ƙananan",wuri,negative
+yanayin yana da kyau!!,yana,positive
+ina mamakin yadda za ka iya cin irin wannan abinci mai daɗi don irin wannan ƙaramin kuɗi.,kuɗi.,positive
+"jira a nan yana da tsawo don kuɗin da ba shi da kyau, amma idan ba ka son ka ba da teburori ko kuma idan yanayin da ke da ƙarfi ba shi ne aikinka, wannan wani maƙasudi ne mai kyau (da chinatown).",yanayin,neutral
+pizza yana da kyau sosai.,pizza,positive
+hidimar tana da sauƙin hali kuma yanayin ba shi da wuya.,hali,positive
+yana da sauƙi a samu ɗakin ajiye a wuri mafi girma a nyc da sanarwar mako ɗaya.,ɗaya.,positive
+"na zaɓi siki na tamarind kuma matata ta zaɓi nodoli da na maraƙi, kuma mun yi farin ciki da yadda abincin yake sa mutanen thailand su ji daɗin abincin a hanyoyi da ba a sani ba.",abinci,positive
+"cikakken abinci yana da kyau kuma kuɗin yana da sauƙi, ka manne wa na ɓarayi, kifi, daji, ɗan rago da kuma ganye.",kifi,positive
+"abin da ake ci yana da kyau, kuma yanayin, batun ra'ayi ne, wasu za su iya ɗaukansa abu mai daɗi, na ɗauka cewa yana da ban sha'awa.",abin,neutral
+hidimar tana da kyau sosai kuma abincin yana da laushi.,abinci,positive
+"anti-pasta ya fi kyau, musamman calamari, kamar yadda aka cika pasta mains.",calamari,positive
+"ba su da mayonnaise, sun manta da toastinmu, abinci da aka bar (ie cheese a cikin omelet), a ƙarƙashin zafi mai zafi kuma bacon ya ƙare sosai har ya rushe a kan sashe sa'ad da ka taɓa shi.",abinci,negative
+"za a iya zaɓan ruwan inabin da kyau, gigondas yana da tamani sosai, kuma shanbanin gida yana da tamani sosai.",ruwan,positive
+"suna da bira fiye da 100 da za su ba baƙinsu kuma hakan ya sa mijina farin ciki sosai kuma abincin yana da laushi, idan na ce abinci shi ne pumkin tortelini.",bira,positive
+"hidima mai kyau, abinci mai kyau.",abinci,positive
+"abinci na naman yanzu suna ƙawanta zaɓen, ko da yake har ila akwai zaɓe masu yawa da za su iya cin abinci.",abinci,positive
+"sa'ad da kake son ka ci na maraƙi, ka ci gaba da yin hakan.","maraƙi,",positive
+daga shirin ayuka na mai da abinci mai kyau na ravioli na butternut squash a cikin sosin truffle mai laushi zuwa abinci mai ban sha'awa da langostine mai laushi zuwa abinci na ƙwaƙwalwa da ba na tunawa domin cakebread cabernet mai ban sha'awa da muke sha - dukan yamma ya yi mamaki.,yi,neutral
+pizza ce kawai.,pizza,neutral
+"na ci abinci a saul sau da yawa, abincin koyaushe yana da kyau, mai ban sha'awa.",abinci,positive
+"ka gwada pad thai, yana da ban sha'awa kuma kuɗinsu yana da sauƙi!",kuɗinsu,positive
+"ga mutanen da suke son abinci mai kyau da kuma hidima mai kyau, roxy wurin guje wa!",abinci,negative
+"amma, gurasa da kuma ɗan rago da nake da shi kafin cin abinci suna da kyau.",ɗan rago,positive
+amma pizza yana da tsada sosai.,pizza,negative
+na ci pizza sau biyu da kuma caprese salad appetizer.,caprese salad appetizer,neutral
+nan da nan daga babban deegan za ka samu mata daga dukan birni.,mata,positive
+wannan wurin yana da ƙwaƙwalwa mafi kyau na ƙasar china a birnin.,ƙwaƙwalwa,positive
+"hidima tana da ban mamaki, amma ba ta da girman kai, kuma ado da aka yi yana kawo ɗan soho mai kyau zuwa queens.",ado,positive
+"karnukan suna da sanyi a tsakiyar, kuma ƙarfin ya ɓace.",karnukan,negative
+"yana da kyau sosai kuma koyaushe akwai wani da zai ɗauki wannan zaune marar amfani, saboda haka, kamar ba a ɗauki hidima ta masu amfani da shi ba.",amfani,positive
+ka gwada bass na teku.,bass na teku,positive
+"wasu baƙi suna jin daɗin pizza, salad da aka yanke santa fe da kifi da cifi.",pizza,positive
+amma yana da amfani a jira.,jira,conflict
+"mun ci abinci mai kyau (haɗe da cannoli mafi kyau da na taɓa cin) kuma suka ba da abinci bayan cin abinci, a gida.",bayan cin abinci,positive
+"yanayin yana da kyau kuma yana da kyau a tattaunawa, saboda haka, cin abinci a nan zai fi kyau.",fi,positive
+"har ila muna zaune a barin sa'ad da muke shan sangria, amma sa'ad da muka juya daga barin, mutanen da ke kusa da mu suka ce mai barin ya ɗauke shi.",bar,negative
+"bayan mun ji daɗin cin abinci a barin, sai muka zauna a kan tebur kuma muka ci abinci.",tebur,neutral
+"gua amirka+shiki yana da kyau sosai, mu biyun muna da filet, mai kyau sosai, ba kamar frites da ke zuwa tare da su ba, amma filet mai kyau ne, ba mu damu da shi ba.",frites,negative
+"dukan abu yana da kyau, abin sha, ado, abinci, har da mutane.",abinci,positive
+an yi ƙarfin,yi,negative
+"yana da kyau, abinci mai laushi yana da kyau kuma yana da kyau.",yana,positive
+"ba ma'aikatan ba ne mafi aminci ko kuma ƙwarewa, kuma ina manne wa hidima, amma dukan sauran abubuwa game da wannan wuri sun dace da shi.",ma'aikatan,negative
+"a cikin minti 20 da muka yi a wurin, amma ya ba mu lokaci mu sha shan giya ɗanɗano kuma mu ji daɗin wurin da muke zama da kuma juna.",shan giya,positive
+"sandwichin past amerikan yana kama da buttah kuma da ƙanƙara da bira mai sanyi don a wanke shi, abin farin ciki ne.",sandwichin,positive
+teburin da ke kusa da mu ya tambaye mu ko ya rushe inabi da kansa sa'ad da ƙofar ruwan inabi da suka daɗe suna zuwa.,ruwan,neutral
+"abinci mai kyau (spinach da alkama da kuma massamman curry), abinci mai kyau da ba shi da kyau da kuma wanka mai tsabta da mai kyau.",abinci,positive
+"matarsa tanya, wadda take kula da gidan, ta cika yanayin ta'aziyya ta wajen kasancewa da ƙauna da kuma alheri.",cika,positive
+pizza mai sauƙi tana da ƙwaƙwalwa kuma pizza ta ƙwaƙwalwa (na tsara ta uku-fornini) da muka sha da mai da truffle a tsakiyar (mai sa ta zama mai ƙwaƙwalwa) kuma ba ta da sauran.,pizza,positive
+dukansu sun kai ƙofar da kyau.,dukansu,positive
+abin da muka yarda da shi shi ne orrechiete da sausage da kuma shan shanin (yawancin lokaci masu ƙwazo suna da alheri su raba abincin zuwa rabi don ka ɗanɗana nauyin biyun).,ɗanɗana,positive
+na ba da shawara sosai cewa nina ta yi wa duk wanda yake son ya ci abinci a cikin kwanciyar hankali da ke kewaye da lu'ulu'u da hotuna na iyali.,lu'ulu'u,positive
+ƙaramin teburinmu na mutane biyu (tafiyar cin abinci da aka ɗaure a kan gefen) yana tsakiyar ɗaya daga cikin hanyoyin da masu biyan abinci suke zuwa.,teburinmu,negative
+"an mai da hankali ga abincin, amma ba a nuna shi ba, abincin ya fi manyan manzanai da yawa a midtown kuma ana yawan ruwan inabin kuma ana tsada sosai.",abinci,positive
+wannan wurin zai fi kyau idan rukunin da ke kula da shi ya fahimci yadda ake taimaka wa masu amfani.,ya,negative
+"amma, suna da past amirka mafi ban mamaki kuma sufi ya kai wurin.",sufi,positive
+"kowane abinci da ake ci a kai yana da laushi, mai daɗi, kuma mai kyau.",abinci,positive
+pizza mai kyau don wurin cin abinci.,pizza,positive
+"abin da ake ci a tsawon lokaci ne, kuma zan ce har ma abincin baluchi yana da kyau.",abinci,neutral
+"tun daga farko, dabbobi suna da ban mamaki, har da ƙanƙara mai laushi da ke da sorbet na mint na rasberry, mun yi farin ciki da yadda muke ɗanɗana.",daga,positive
+"abinci mai kyau (spinach da alkama da kuma massamman curry), abinci mai kyau da ba shi da kyau da kuma wanka mai tsabta da mai kyau.",massamman curry,positive
+dole ne ka ci lasagna na crabmeat da ba shi da wannan duniyar da kuma gurasa ta tsokolai da za ka ci.,wannan,positive
+"kamar sun ɗauki shan shanin da ya rage, sun zuba mai da kuma tafiyar tafiyar",mai,neutral
+"an mai da hankali ga abincin, amma ba a nuna shi ba, abincin ya fi manyan manzanai da yawa a midtown kuma ana yawan ruwan inabin kuma ana tsada sosai.",ruwan,positive
+"ba mu taɓa samun matsala ba wajen biyan abincin ko kuma kuɗin da ake bayarwa, kuma ana kai mu abincin nan da nan, amma muna rayuwa ' yan minti kawai daga wurinsu.",abinci,positive
+"idan kana neman sushi na al'ada, ka je nan - idan kana neman haɗin da ke da ban sha'awa, ka ƙoƙarta sushi na gari 's (a gefen gabas).",sushi,positive
+muna zuwa a ranar talata don gyara da kuma labari da muka samu game da abincin ya yi kama da blue ribbon.,gyara,neutral
+"a wurin, kuɗin ya dace sosai.",kuɗin,positive
+"mun ci a bayan ɗakin, wanda ya dace da shi domin yana da kyau kuma ana jin waƙa da kyau a nan.",waƙa,positive
+ban taɓa samun irin wannan ƙanƙara ba.,taɓa,positive
+"waitstaff mai kyau ne, mai kula sosai.",waitstaff,positive
+"waɗanda suke son abinci ba sa bukatar su damu, wannan ƙaramin wuri ne da ke kusa.",wuri,positive
+ka yi ƙoƙari ka yi amfani da salmon na tandoori!,salmon,positive
+"jerin ruwan inabin ba shi da kyau, kuma ana aika abincin daga bruno's a ƙarƙashin titi, wanda ba shi da kyau kamar yadda yake a dā.",jerin ruwan inabi,negative
+sai muka zaɓi ƙanƙara da tuna sashimi mai fari.,tuna,neutral
+"kuma, idan ba ka son ka zauna a wani tebur, ba ka bukatar ka yi hakan!","tebur,",positive
+"amma, abin da ya fi muhimmanci a cikin abincin shi ne ƙanƙara na maraƙi ko kuma na maraƙi da ciyawa da kuma ciyawa.",maraƙi,positive
+"abin da nake damuwa da shi shi ne da masu jiran kasuwanci masu ƙarfi da suke sayar da kuma jefa abincin, suna gudu su fita.",abinci,neutral
+"amma sa'ad da ka zauna, ' yan mata suna da kyau, suna bayyana dukan abincin da ake ci, kuma kuɗin abincin yana da sauƙi sosai don aikin da kake samu.",' yan mata,positive
+kifi ya ƙare.,kifi,negative
+"ruwan inabi mai kyau, abinci mai kyau.",ruwan inabi,positive
+"ɗanmu yana son pizza kuma muna da pizzaria na neapolitan da aka tabbatar da shi a birninmu (seattle), mun so wannan kusan irin wannan - kuma bambancin ya fi son kai fiye da kowane tunani a kan kowace manzani.",pizza,positive
+"bugu da ƙari, ƙwayar ba ta da abinci, saboda haka, sushi ba shi da kyau kuma ba shi da kyau.",saboda,negative
+"amma kada ka taɓa zaɓan bacon a ƙarshe a nite (ko a cikin sashen ko kuma sandwich, domin wannan batun ba daga wurin da ake fita ba) domin daga lokacin da ake ɗiban da safiya yana kama da bacos, yana ɓata mini molars.",bacos,negative
+"abin da ake ci ba shi da kyau, amma wasu abinci suna da kyau, kamar su ƙwayar da aka yi da ƙwayar",kamar,positive
+"zai iya zama da yawa a ƙarshen kowace mako, amma yanayin yana da kyau kuma shi ne abinci mafi kyau na faransa da za ka samu a yankin.",za,positive
+abinci mai sauƙi da kuma abincin da ke da zafi da kuma lage.,ke,positive
+cornelia street tana kama da shiri na broadway na west side story kuma ciki na po yana da ban sha'awa sosai da ba za ka iya samun wurin cin abinci na ƙauna a nyc ba.,cin abinci,positive
+"babban jerin ruwan inabi, da tamani mai kyau.--sara",jerin ruwan inabi,positive
+"na fahimci yankin da mutane da ba ka bukatar ka zo nan don sha'awa, sha'awa ko kuma hidima ta taurari biyar da ke ɗauke da ƙanƙara mai wuya da kuma mai wuya na kapitan da kuma ɗan ƙwaƙwalwa - ka zo don abinci na gaske, ɗanɗano, shaida.",bukatar,positive
+"ba ka san inda mai bincike na dā, lonk, ya ci abinci, amma saul yana cikin gari mai girma kuma yana da abinci mai kyau!",cikin,positive
+wannan ado yana da sauƙi amma yana da sauƙi.,ado,conflict
+"idan kana cikin rukuni mai girma, wannan wurin ya fi kyau domin yana sake ba da - suna da susans na ƙazanta a yawancin teburori - har iyalai za su iya jin daɗin rayuwa a nan.",teburori,positive
+"ko da yake teburori suna iya kasancewa kusa, haske na lu'ulu'u, abinci mai kyau da kuma hidima sun fi ƙarfinsu.",abinci,positive
+abincin yana da ban sha'awa sosai kuma yana da laushi tun da yake an saka shi a kan ƙanƙara dabam dabam masu kyau.,kan,positive
+"dosas ba su da kyau, ba su da kyau kuma suna da mai da",su,neutral
+"bar mai kyau da abinci mai kyau, da kuma bira mai kyau.",bar,positive
+yana da kyau kuma yana da kyau!,da,positive
+"abin da ake ci yana da kyau, hidima ba ta da wuya.",abin,neutral
+"amma kada ka taɓa zaɓan bacon a ƙarshe a nite (ko a cikin sashen ko kuma sandwich, domin wannan batun ba daga wurin da ake fita ba) domin daga lokacin da ake ɗiban da safiya yana kama da bacos, yana ɓata mini molars.",wannan,negative
+wannan wurin ne mai kyau na cin abinci ko kuma cin abinci.,abinci,neutral
+ma'aikatan da ke wurin suna saka bagel da yashi mai daɗi (yakan yi ɓarna).,bagel,neutral
+wurin yana da sanyi sosai kuma ana yin hidima nan da nan kuma yana da kyau.,wurin,positive
+abin da ake ci yana da kyau.,abin,positive
+ka dawo daga cin abinci a tamarind kuma ya yi kyau.,abinci,positive
+"a wasu lokatai, hidima ba ta mai da hankali kuma ba ta dace ba idan kana gaggawa amma ba a taɓa bi da ni da rashin hankali ba.",gaggawa,conflict
+"a wasu lokatai, waƙar tana da ƙarfi sosai, amma hakan ya sa na so in kusaci matara mai kyau, kuma kamar yadda na yi, na ji daɗin waƙar.",kusaci,neutral
+"wannan shi ne manzani mafi kyau don salon rayuwar ny, yana da ƙera mai kyau, shaye-shaye masu kyau da abinci da kuma mutane masu kyau da suke cin abinci da kuma yin tafiya a barin ruɓaɓuwa...",shaye-shaye,positive
+matar ba ta da hankali har ta yi fushi.,yi,negative
+bai kamata a manta da mazaɓen sake ba!,sake,positive
+"amma, a lokacin tsuntsaye na shekara ta 2003, kamar shugabannin sun canja kuma an mai da babbar ƙofar zuwa ƙofar ƙarfe da ke kawar da kanta daga ɗan ɗabi'a mai duhu.",shugabannin,neutral
+ka tabbata cewa ka yi amfani da abinci na musamman da ake amfani da shi a lokacin da ake bukatar a yi.,musamman,positive
+ba za mu sake zuwa wannan wurin don cin abinci mai kyau ba.,cin abinci,negative
+yashi yana da daɗi dabam dabam kuma yana da tsada sosai da shi,yashi,positive
+"na ga cewa abincin ya fi kyau, musamman abincin salmon da nake da shi.",abinci,positive
+mun soma da fondue na yashi (da aka haɗa da na'urori) kuma muka ƙara afala da kielbasa don mu niƙe.,afala,neutral
+abin da ya fi abinci mai ban sha'awa shi ne hidima.,abin,positive
+"thalia wani manni mai kyau ne da mutane masu kyau suke ba ka abinci, amma abincin ba ya daidaita.",mutane,positive
+abin da ake ci a wannan gidan abinci tare da jaz mai kyau ya sa wannan wurin ya zama 10!,abinci,positive
+abokina ya sa new england chowder ya yi farin ciki amma ina ganin ya kamata a ba lobster bisque ladar.,new england chowder,positive
+da ban yi gunaguni ba idan abincin ya ɗanɗana da kyau amma abincin ba shi da kyau.,abincin,negative
+amma zan ba da shawara a ƙarshen kowace mako.,zan,neutral
+izakaya (sake da ƙaramin sashe na abincin sake-friendly).,(sake,neutral
+mutane suna da rashin hankali kuma new york ne!,mutane,negative
+wuri ne mai ban sha'awa!,wuri,positive
+abin da ake ci yana da laushi kuma an shirya shi da kyau tare da hidima mai kyau da kuma mai kyau.,abin,positive
+mun soma da ƙanƙara da kuma ƙanƙara (mafi kyau da muka taɓa samu) kuma mun ci ƙanƙara da kuma kifi don cin abinci.,(mafi,neutral
+"idan kana neman abinci mai kyau, mai sauƙi - wannan wurin ne.","kyau,",positive
+kuma da yawa.,da,positive
+"za su zauna idan suna ƙoƙarin su kai mutane da yawa cikin gidan abinci, saboda haka, ka yi wa maƙwabcinka alheri sa'ad da kake cin abinci a nan.",zauna,negative
+wani abokina da ya yi girma a manhattan ya ce babu wanda yake ba da ziti mai kyau da aka ƙwace da naman.,manhattan,positive
+wannan wurin yana da sushi mai daɗi da kuma abinci mai kyau na japan.,abinci,positive
+da na sami ɗan,sami,neutral
+an shirya abincin sosai kuma ba za a iya yin amfani da shi ba.,amfani,positive
+kujera ba ta da sauƙi idan kana zaune a kan bangon da ke kan benci na katako.,zaune,negative
+kuɗin ya dace ko da yake hidima ba ta da kyau.,kuɗin,negative
+"sa'ad da nake fita cin abinci mai kyau, ina son abinci mai kyau da kuma abinci mai kyau.",abinci,positive
+"pizza tana da kyau, kamar yadda ake yi a gida.",pizza,positive
+"ana cin abinci da ƙarfe da kuma slaw, ba tare da ƙarin kuɗi ba.",kuma,positive
+"da irin abinci mai girma a cikin mazaɓa, ina cin abinci a nan sau da yawa kuma ba na jin daɗi .",abinci,positive
+wannan wurin ne mai kyau na cin abinci ko kuma cin abinci.,cin abinci,neutral
+"hakika, suna amfani da kayan da suke da kyau, amma ko kayan da suke da kyau ba sa yin pizza mai kyau sai dai wani ya san yadda za a yi amfani da shi daidai.",pizza,negative
+"waɗannan ma'aikatan suna da kyau, suna da kyau: wannan yarinyar da ke bayan barin, tana da kyau a turai.",ma'aikata,positive
+kada ka bar ni in soma da yawan kuɗin biyan kuɗin!,kuɗin,negative
+"mai ziyararmu yana da kyau, wurin yana da kyau a wannan hanyar da ba ta da wuya sosai, amma da kuɗin, ya kamata ka ƙara bukatar abincinka.",kamata,negative
+"ko da yake babu shakka za ka zauna a tebur da abin da yake kamar ba shi da isashen wuri (ko da yaya girman bikinka yake), ƙasa mai ɗumi tana da tamani ga ƙananan ƙananan",kamar,positive
+"an jira tebur a waje da daɗewa, amma zafi ne sosai a cikin rana saboda haka teburinmu na insde yana da kyau sosai.",jira,negative
+"bayan ƙoƙarin biyu da mai ƙwazo ya yi don ya ɗauke shi (ba mu duba shi ba har yanzu, mun ci bira cikakken da ba mu sha ba), manajan ya zo ya gaya mana cewa suna bukatar tebur don mutanen da suke ƙyale su su sha.",bira,neutral
+pizza mafi kyau a manhattan.,pizza,positive
+"duk da cewa wuri mai girma ne, sun cika ƙasa da teburori.",teburori.,negative
+"abin da ake ci yana da kyau, musamman abincin da suke ci, kuma abincin yana da laushi.",abinci,positive
+me ya sa mutane suke farin ciki game da yanayin.,sa,negative
+"sai, sai masu hidima su yi tafiya a kan wuri da ba su san abin da yake faruwa ba, amma akwai wasu dandali da suka isa ga jama'a da suke samu - bai dace ba, dole ne ka yi ƙoƙari kaɗan ka jawo hankalinsu.",san,conflict
+"muna zama a new jersey kuma duk lokacin da muka shiga birnin new york muna sayen bagel don mu ci abinci mai zafi kuma sai mu yi sanyi (su gaya mini cewa idan na kira a umurnin, za su kawo shi cikin mota don kada in nemi wurin tashar mota).",bagel,neutral
+ka yi farin ciki da bira fiye da 100 da za ka zaɓa.,bira,positive
+pizzan yana da kyau kuma yana da girma.,pizza,positive
+"yanayin yana da kyau, amma abincin yana da ban sha'awa, hidimar ba ta da kyau, kuma tana ƙarya game da dukan abin da za ta iya.",abinci,negative
+"babu shakka, wannan wurin ya sa masu gidan baƙin ciki su gina shi.",masu,neutral
+abincin yana da ban sha'awa sosai kuma yana da laushi tun da yake an saka shi a kan ƙanƙara dabam dabam masu kyau.,abinci,positive
+"don allah ka gwada filet mignon, shi ne kawai sashe mafi sauƙi da aka taɓa yi.",filet mignon,positive
+"ni da matata muna jin daɗin matasa, ba a koyaushe ana horar da su sosai ba amma duk da haka, muna da aminci, kuma dukansu suna da labari.",su,conflict
+"na yi tuntuɓe a wannan ɗakin ɗakin biyu na jima'a biyu da suka shige sa'ad da nake tare da abokansa biyu a garin daga l.a. da yake muna son sushi sosai, mun zauna a barin sushi don mu kusaci aikin.",sushi,neutral
+mun yi mamaki sosai da yadda abincin ya yi kyau a ziyararmu ta farko a nan a ranar lahadi da yamma.,abinci,positive
+ka ba da shawara sosai cewa wannan yana da amfani sosai ga sushi da hidima mai kyau.,amfani,positive
+ba shi da tamani.,ba,negative
+"kana biya kuɗin yanayin, wanda yana da kyau, amma za a iya samunsa a wurare da yawa a bay ridge.",iya,conflict
+yanayin yana cike da mutane amma yana da kyau.,yanayin,positive
+ƙera da kuma yanayin yana da kyau.,yana,positive
+"ganuwa masu cike da gurɓata suna barin abubuwa da yawa da za a so, amma abincin yana da kyau sosai.",abinci,positive
+hidimar tana da sauƙi kuma tana da sauƙin hali kuma abincin yana da laushi sosai kuma suna da sosin zafi mafi kyau da za ka ƙara a abincinka.,abinci,neutral
+an saka shi a ƙarshen wani babban ɗaki.,saka,positive
+na ɗanɗana abinci mai sauƙi na spinach ravioli cikin mai da mai da mai da,ravioli,positive
+"hakika, kuma suna kwance a waya, suna da'awa cewa suna da zaune a lambun, to babu kujera.",zaune,neutral
+na ba da shawara sosai cewa nina ta yi wa duk wanda yake son ya ci abinci a cikin kwanciyar hankali da ke kewaye da lu'ulu'u da hotuna na iyali.,abinci,positive
+"amma, ina ne ake ci gaba da yin hakan?",ne,negative
+mizu wurin da ake yin littattafai masu kyau da kuma na musamman da ba a samu a wani wuri ba.,yin,positive
+"amma sa'ad da ka zauna, ' yan mata suna da kyau, suna bayyana dukan abincin da ake ci, kuma kuɗin abincin yana da sauƙi sosai don aikin da kake samu.",kuɗin,positive
+har yanzu ina fushi cewa na biya kuɗin abinci marar kyau.,abinci,negative
+sa'ad da ake cin abinci a waje a kan ɗakin (waɗansu halaye masu kyau na suan) !!,kan,positive
+"yanayin yana da daɗi sosai, kuma kuɗin yana da kyau, ƙari ga cewa abincin yana da laushi sosai.","kyau,",positive
+"abincin ba a dafa shi ba- ruwan sosi, da kuma ganyen da aka yi.","sosi,",negative
+"ko da yake na so abincin da kuma yanayin, ban tabbata ko sun cancanci a ba su ra'ayin michelin da suka nuna da kyau a taga ba.",abinci,positive
+"alamar, abincin da ake ci, da kuma dukan masu jiran abinci dukansu ' yan japan ne.",abinci,positive
+"za a iya zaɓan ruwan inabin da kyau, gigondas yana da tamani sosai, kuma shanbanin gida yana da tamani sosai.",gida,positive
+"ko da yake suna yin irin ruwan da za ka so tambayoyi, hidima tana da kyau kuma tana da sauƙi sosai don ka ci.",yake,positive
+"abin da ake ci ba shi da kyau, mai ɗan ziyara ba shi da inda za a same shi kuma ruwan inabin ya zo a ƙarshen abincin.",abinci,negative
+daga shirin ayuka na mai da abinci mai kyau na ravioli na butternut squash a cikin sosin truffle mai laushi zuwa abinci mai ban sha'awa da langostine mai laushi zuwa abinci na ƙwaƙwalwa da ba na tunawa domin cakebread cabernet mai ban sha'awa da muke sha - dukan yamma ya yi mamaki.,cakebread cabernet,positive
+abin da ya sa wannan gidan abinci na musamman shi ne abincin da ake yi a birnin new york kuma shi kaɗai ne a birnin nyc da ke ba da abinci mai ɗumi mai daɗi.,yi,positive
+"hidima ita ce ƙanƙara, ƙanƙara inda ake sha'awa sa'ad da suke zuwa, kuma ba za a iya biyan kuɗin ba!!",kuɗin,positive
+"nan da nan da mahaifina ya ɗauki maƙullinsa daga wurin, sai wani mai da abinci ya fito da mu.",mai da abinci,negative
+amma ma'aikatan sun yi mana mummunan sakamako.,ma'aikata,negative
+"abin farin ciki ne ga rukunoni, masu kyau don fita kwana, da kyau don cin abinci da wuri ko kuma dare.",cin abinci,positive
+ka yi ƙoƙari ka yi amfani da man,amfani,conflict
+mun ci shanba da caviar kuma mun ji kamar ' yan sarauniya!,ji,positive
+"dole ne in gargaɗi mai karatu cewa girmar abincin ƙaramin ne ( musamman ma mai da abinci), saboda haka idan kana so ka ci har sai ka cika kuma ba ka son ka zaɓi abincin ɗanɗano na musamman na mai da abinci, ka shirya ka zaɓi kuma ka biya abinci (1 abinci ga kowa domin abincin ba don a haɗa ba),  babban abinci, da kuma sanyi na udon a ƙarshen abincin.",abincin,positive
+"ina ƙarfafa cafe st. bart's don abincinsu, yanayin da kuma hidima mai ban sha'awa.",abinci,positive
+mun shiga gidan a ranar lahadi da yamma kuma muka zauna nan da nan.,zauna,positive
+an yi amfani da ƙwayar da aka dafa a nan.,an,positive
+"da yake muna da filin wasa da ke kusa, mun ci abinci mai daɗi a ɗakin da ke da kyau.",abinci,positive
+"mai kula da ni ya nemi abinci don rukunin kuma mai ɗan ziyara ya ba mu abin da muka zaɓa, amma wasu abubuwa da ba a umurce su ba.",abinci,neutral
+"wataƙila yana da ɗan laushi sosai ga abokina, wanda za ka iya cin ƙarin ƙwaya da kuma riƙe ruwa a hannunsa.",cin,neutral
+"waƙar tana da ƙaramin wuri, saboda haka, a daren jazz, ana iya yin ƙarfin ƙarfi da kuma ƙarfin jiki.","jazz,",neutral
+"ka manne wa dimsum, ba nodoli masu tsada ba.",nodoli,neutral
+ina cin ƙanƙara oreganta da salad mai ban sha'awa da kuma kukumba da tomati da yawa da shimi da basili.,salad,positive
+"idan gabatarwa da hidima abu ne da kake so, sai wannan sihiri ya yi aiki.",aiki.,positive
+"ana cin abinci da ƙarfe da kuma slaw, ba tare da ƙarin kuɗi ba.","slaw,",neutral
+"na je nan tare da abokinmu da son rai, mun fara zuwa wani wuri kuma ba mu iya samun tebur ba.",tebur,negative
+"abin da ake ci da kyau: abinci, ko da yake ba shi da daidaita, sau da yawa yana kai ga sabon abinci mai kyau na amirka - sha'awar mai da abinci (da kuma yadda aka yi amfani da aikin) ya fi bayyana a cikin abincin kifi da sufi.",kifi,positive
+"idan na so in yi magana game da yanayin da ba shi da kyau kuma na ɓata wa masu sayarwa rai, zan tafi manhattan.",idan,negative
+"hidima a nan tana da kyau, abinci yana da ban sha'awa.",abinci,positive
+"hakika, wasu dare a cikin gidan abinci suna da ɗumi, amma aikin da ake buɗe yana da ban sha'awa.",gidan,positive
+"bar mai kyau da abinci mai kyau, da kuma bira mai kyau.",abinci,positive
+"hakika, yanayin yana da kyau.",yanayin,positive
+ma'aikatan sun shagala sosai suna zaɓan sushi don cin abinci kuma suna ajiye shi don su ci a kan barin don su kawo mini kuɗina.,zaɓan,neutral
+"mai kula da ni ya nemi abinci don rukunin kuma mai ɗan ziyara ya ba mu abin da muka zaɓa, amma wasu abubuwa da ba a umurce su ba.",abinci,neutral
+ka kuma tabbata cewa ka mai da hankali ga waƙoƙin da ake saka cikinsa - zaɓi mai ban mamaki.,waƙoƙin,neutral
+"(wani ɗan bas ne yake ba da abinci, ba mai ba da abinci ba) ba a ba mu yashi don mu ci abinci na pasta ba, ruwanmu da kuma ruwan inabi ba su ci ba, amma da mun kashe wata dola 20 a kan ruwan inabin.",pasta,negative
+ko da yake an gargaɗe su cewa abincin cin abinci da suke ci ya bambanta.,abinci,neutral
+mun ci abinci na dare na mata a nan don mako na manzani.,abinci,neutral
+abin da ake ci da yamma ya bambanta kuma ya fi kyau.,abin,positive
+"muna ƙaunar cewa a lokaci na gaba, zan ajiye wurin cin abinci.",na,neutral
+"hakika, ba shi da amfani!",ba,negative
+"aikin ba shi da kyau, ba a yi haske sosai a kan manta, ma'aikatan ba sa mai da hankali sosai kuma da na fi son in ci abinci a wani manni maimakon wannan ɗakin.",aikin,negative
+salad da suke da shi shi ne ƙaramin salad mai cike da ƙanƙara da ke da kyau kafin su yi amfani da basili mai daɗi.,salad,positive
+"ƙari ga haka, abincin yana da kyau sosai kuma kuɗin ya dace.",kuɗin,positive
+"mun gaji kuma mun yi sanyi sa'ad da muka isa gidan abinci, sai muka zauna don mu soma zaɓan abinci.","abinci,",neutral
+wani ɗan'uwa kaɗai da ke aiki a wurin shi ne mutumin da ke barin.,bar,neutral
+"yana son tikka da naan, da kuma dals.",dals,positive
+"a gaban gaba, ba shi da amfani da kuɗin.",kuɗin.,negative
+ban san ko wanene suke ganin su ba amma ba su daraja mazauna yankin tun da suka buɗe kabari na kusa da su kuma suka buga waƙa mai ƙarfi har uku na safiya a kowane ƙarshen kowace mako a lokacin tsufa.,waƙa,negative
+na ci abinci sau uku sau biyu a lokacin cin abinci da kuma sau ɗaya a lokacin cin abinci.,abinci,neutral
+"saboda haka, da yake akwai rashin jituwa a wurin amma a ko'ina, pizza biyun suna da kyau sosai.",pizza,positive
+hidimar tana ƙasa ko da wannan ƙaramin wuri ya cika.,wuri,negative
+manajan ya da'awa cewa ba zai iya biyan mu wani abu da ke cikin biyan kuɗin ba wanda ya nuna rashin ƙwarewa daga dukan rukunin.,kuɗin,neutral
+ko ruwan inabi da aka yi a bakin ƙarfe yana da kyau.,ƙarfe,positive
+"ko da yake spider roll zai iya kasance kamar ƙalubale a ci, da ƙanƙara mai laushi da ke ɗauke da shi, yana da tamani sosai idan ka biya su.",biya,positive
+wannan ɗan gabas da kuma abincinsu na thailand sun burge ni sosai!!,abincinsu,positive
+shawarata ita ce ka ci abinci na iyali domin za ka so ka ɗanɗana sauran abincin.,abinci,neutral
+matar da kuma ɗan'uwan sun yi rashin hankali sosai kuma sun yi iya ƙoƙarinsu don su yi mana gudu su fita.,ɗan'uwan,negative
+pad thai yana da kyau a nan ma.,pad thai,positive
+ka yi ƙoƙari ka yi ƙoƙarin,yi,neutral
+"ƙaramin abinci na abinci na musamman, ina da salmon (ba a burge ni ba) abokiyar aure ta ci da ƙanƙara, yana da kyau.",na,positive
+"ƙaramin abinci na abinci na musamman, ina da salmon (ba a burge ni ba) abokiyar aure ta ci da ƙanƙara, yana da kyau.",ina,negative
+na zaɓi inabi na ƙanƙara kuma aka ɓuɓɓu shi da ruwan lima inda za ka iya ɗanɗana shi ne lima.,ƙanƙara,negative
+na lura cewa an ƙi biyan,biyan,neutral
+"amma, ana ɗaukan abincin har abada kuma abincin yana da sanyi.",abada,negative
+"hakika, dalilin da ya sa yake cike da abinci shi ne domin abincin yana da laushi sosai!",abinci,positive
+"abinci sau da yawa yana da kyau sosai, ko da yake na yi mamaki game da abinci mai daɗi da ba a zaɓa ba.",abinci,negative
+"ko da akwai mutane biyu ko kuma mutane ɗari biyu a gabanka, ɗan'uwan zai ɗauki sunanka kuma ya gaya maka minti biyar.",gaya,positive
+abin da ake ci mai kyau ne.,abin,positive
+"maimakon haka, ya ba ni bira mai sanyi da ke aiki tare da india.",bira,positive
+ni da abokansa mun yi watsi da su a duk lokacin da muka je wurin.,abokansa,negative
+"ma'aikatan suna mai da hankali, kuma suna murmushi a fuskarsu.",ma'aikata,positive
+"gua amirka+shiki yana da kyau sosai, mu biyun muna da filet, mai kyau sosai, ba kamar frites da ke zuwa tare da su ba, amma filet mai kyau ne, ba mu damu da shi ba.",gua,positive
+penang da suke da shi mai laushi ne kuma dukan sauran abubuwan suna da ban sha'awa.,penang,positive
+abin da ake ci yanzu ba ya daidaita.,abin,negative
+mu uku mun isa cin abinci a kusan ƙarfe 5: 30 a mako ba tare da yin kwana ba.,cin abinci,neutral
+"ƙawar itace mai furfura tana da ban sha'awa sosai, sake mai kyau yana da kyau kuma hidimar tana da kyau.",sake,positive
+"abin da ake ci, abin sha, da kuma hidima suna cikin mafi kyau a birnin.",abin,positive
+mun raba samosa mai laushi da kuma malai tikka.,malai,positive
+ba zan sake cin abinci ba.,cin abinci,negative
+"ba mu taɓa samun matsala ba wajen biyan abincin ko kuma kuɗin da ake bayarwa, kuma ana kai mu abincin nan da nan, amma muna rayuwa ' yan minti kawai daga wurinsu.",taɓa,positive
+abin da aka ba da shawara sosai shi ne rolls na spicy fried da kuma spider rolls.,rolls,positive
+ka yi ƙoƙari ka yi ƙoƙarin,yi,negative
+wannan ƙaramin wuri yana da ado mai kyau na ciki da kuma kuɗin birni mai tsada.,ciki,positive
+abin da ake ci yana da kyau amma yana da zafi kuma yana da kyau da yawa.,amma,positive
+lucky strike wuri ne mai kyau na cin abinci.,wuri,positive
+salad yana da ban sha'awa.,salad,positive
+amma mun lura cewa wasu teburori suna da irin pita maimakon naan.,pita,negative
+ina ɗokin sake cin abinci a nan,cin abinci,positive
+"yana da kyau, ƙaramin bar mai kyau, mai ba da bar mai kyau, francois, da kuma hidima mai kyau.",bar,positive
+ƙauna tana barin wani abu da za a so.,ƙauna,negative
+"hakika, dole ne ka jira ka zauna kuma domin ƙaramin wurin ba shi da wuri na jira kuma an ɗauki zaune a barin.",jira,negative
+"abinci mai kyau a gidan abinci (mai tsada ne, amma yana da kyau idan kana son ka burge abokin aurenka).",abinci,positive
+ban taɓa cin nigiri 40 ba.,nigiri,neutral
+wasu ' ya'yan pizza suna son su yi hakan.,pizza,neutral
+"abin da nake damuwa da shi shi ne da masu jiran kasuwanci masu ƙarfi da suke sayar da kuma jefa abincin, suna gudu su fita.",jiran,negative
+salad da suke da shi shi ne ƙaramin salad mai cike da ƙanƙara da ke da kyau kafin su yi amfani da basili mai daɗi.,salad,positive
+"duk da haka, hidima ba ta da kyau, kada ka sa rai cewa za ka samu wani abu mai yawa daga server, kuma ba zan yarda ka kawo kwanan wata a nan ba.","server,",negative
+"pizza mai laushi ne - suna amfani da sabon dabba maimakon yashi mai sauƙi, mai sanyi, da aka yanke da yawancin pizzaria.",pizza,negative
+"na yi amfani da abinci biyu na farko da kyau, amma mai ɗauke da shakula ya fi ni yawa kuma ruwan inabin da ake ci ya yi daɗi sosai.",shakula,negative
+abin da ake ci da tsada sosai yana mai da ni zuwa wannan gidan abinci na thailand.,abinci,positive
+abin da ake ci ya fi kyau kuma hidimar ta fi kyau.,abin,positive
+ambiance ba ta da son kai amma ta yi ƙoƙari ta yi shugabanci.,ambiance,negative
+sosin yana da laushi kuma ƙarfin ya fi kyau.,sosin,positive
+"jerinsu ya yi yawa, amma mun nemi purple haze, wanda ba a ɗauke shi ba amma an yi mana idan an roƙe mu!",jerinsu,positive
+"a lokaci na farko da na tafi, kuma rukunin jaz da kuma yanayin da nake ciki sun ɗauke ni sosai, sai na zaɓi lobster cobb salad.",lobster cobb salad,neutral
+"thalia wani manni mai kyau ne da mutane masu kyau suke ba ka abinci, amma abincin ba ya daidaita.",abinci,negative
+"a koyaushe ana buɗe shi, ana ciyar da ' yan mota na pakistan da ke tsaye a crosby st., saboda haka akwai ƙarin juyawa da abincin fiye da yadda za ka sa rai (ya ce, sabon).",abinci,positive
+"kowane tebur yana da ruwan toka da aka nitse a cikinsa, kuma za ka samu sashe na naman da aka ɓata, ganye dabam dabam, da ƙwaya da kuma nodoli na ƙarfe.",tebur,neutral
+za ka iya samun salad biyu da za ka iya amfani da su idan ka kai su gida kuma ka ƙara su cikin lettuce!,lettuce,neutral
+"ka yi ƙoƙari ka yi tuna mai ƙarfi, za ka mutu domin.",tuna mai ƙarfi,positive
+"nha trang, ko da yake tana da sunaye don rashin ta'aziyya da ado, ma'aikatan jira da sauri da kuma cin abinci mai tsanani, ɗaya ne cikin manzannin vietnam mafi kyau da na taɓa zuwa. pho mai laushi ne kuma yana da abinci mai daɗi.",abinci,negative
+"koyaushe ruwan inabin yana da kyau, tapas koyaushe yana da kyau, musamman da gurasa mai ɗumi.",tapas,positive
+ive ya kasance a nan sau da yawa masu ba da ziyara sun san sunana.,masu,neutral
+"yana da kyau kuma ba shi da ƙaramin abinci, abinci mai sauƙi amma an nuna shi da kyau kuma an daka, kuma jerin ruwan inabin ya yi daidai da abincin.",abinci,positive
+abinci mafi kyau na italiya da na taɓa ci (wannan yana da muhimmanci sosai).,italiya,positive
+masu hidima suna ba ka wasu ƙanƙanin umurninka yayin da kake jira (ba da daɗewa ba zan ƙara).,ƙanƙanin,positive
+"na je wannan gidan abinci fiye da sau ɗari kuma sa'ad da nake sha'awar pho, shan ciyawa na lemon ko kuma beef cube a kan ƙwaya, wannan wurin ne zan je.",ciyawa,positive
+waitstaff suna da abokantaka sosai.,waitstaff,positive
+"abin da ya fi kyau shi ne, kuɗin yana da sauƙi sosai, kuma abincin yana da kyau sosai.",kuɗin,positive
+dalili mafi muni ga abincin japan da na taɓa fuskanta.,japan,negative
+"ban da yawan mutane da kuma tsada, yanayin yana cike da ƙarfi (da kuma mutane masu kyau) kuma abincin yana da kyau!",abinci,positive
+kuɗin kifi da kuma kwatancin kifi kaɗai za su hana mu komawa.,kuɗin,negative
+"da farko, mai ɗan ziyara da ya yi mana hidima ya ƙyale mu mu cika waɗannan abubuwan, da na zaɓa da na san su.",zaɓa,positive
+"idan aka yi amfani da kifi da aka ƙwace da shi, zai iya zama mai daɗi, amma da a ce an yi amfani da shi don ya ƙara ƙarfinsa, da a ce ya yi amfani da ciyawa ko kuma wasu sosi don ya ƙara kyau.",kyau.,negative
+"bisa ga ƙarin bayani na cin abinci, wannan wurin ne da zan sake tunani a kai don wannan, amma babu shakka ba don dim sum ba.",dim sum,negative
+"na fahimci yankin da mutane da ba ka bukatar ka zo nan don sha'awa, sha'awa ko kuma hidima ta taurari biyar da ke ɗauke da ƙanƙara mai wuya da kuma mai wuya na kapitan da kuma ɗan ƙwaƙwalwa - ka zo don abinci na gaske, ɗanɗano, shaida.",sha'awa,positive
+abin da ake ci yana da tsawon,abin,neutral
+"na zaɓi in yi amfani da ɗaya daga cikin wannan ɗan rago da aka ɗaure da ruwan inabi marar tsawo, wanda ya fi kyau.",ɗan,positive
+amma kuɗin ya yi kyau sosai.,kuɗin,positive
+"ƙaramin abinci na abinci na musamman, ina da salmon (ba a burge ni ba) abokiyar aure ta ci da ƙanƙara, yana da kyau.",abinci,negative
+mun zo nan a ranar asabar da yamma da mutane suke yawan zama kuma mun zauna nan da nan duk da cewa mun rage minti 15 don mu ƙaura zuwa wurin.,zauna,positive
+"halibut ya yi ruwan gishiri, abinci na ƙwaya ya yi haka (kada ka ɓata kowanne kalori) kuma hidima ba ta da kyau.",yi,neutral
+"na ci tuna tartare da sake, ravioli na manshi da pinot noir, da kuma mai ɗauke da tsokolai da ruwan inabi na ƙwaya da dala 49.",tuna tartare,positive
+har da pasta mai laushi ne a nan (da ba a yawan yin hakan a kan mantaɓa na pizza a new york).,pasta,positive
+"steak mai laushi, loin na ɓarayi, aikin.",steak,positive
+"abin sha mai kyau ne, kuma abincin abinci mai kyau ne.","ne,",positive
+"kuma kruno, mai kula da giya shi ne mai ba da bar mafi kyau da ban taɓa haɗuwa da shi ba.",bar,positive
+"yanayi mai kyau, haɗin dukan tufafin waƙa mafi zafi yana da tsanani sai a ranar jima.",waƙa,negative
+"ina shawarwarin shimi na kawulu, okra (bindi), da kuma duk wani abin da ke da ɗan rago.",ɗan rago,positive
+"idan kana son ka ci wani siki, na ɓarayi ko kuma na shan",ɓarayi,positive
+"abin da ake ci yana da ban sha'awa kamar su bhelpuri, se9uri da samosa chaats, da kuma wasu abinci masu kyau na indiya.",bhelpuri,positive
+wuri ne mai kyau da za ka zauna tare da abokanka don shan abinci mai kyau da kuma abinci mai kyau.,abinci,positive
+na je wurare da yawa don dim sum kuma wannan dole ne ya zama mafi muni.,dim sum,negative
+na tafi tare da abokansa biyar kuma muka zauna a kan tebur na ɗan lokaci kuma ba na jin daɗin yin hakan ko da yake mun jira.,tebur,neutral
+ni da mijina mun je wurin sau ɗan lokaci kuma a kowane lokaci da muka zauna a barin sushi (mai da abinci yoshi) muna zaɓan dukan ala carte.,ala carte,neutral
+"abincin yana da ban sha'awa kuma sabis ɗin yana da sauri, mai sauƙin hali da kuma sana'a.",sabis,positive
+"kuma sa'ad da muka kammala wannan abincin, an ba mu kuɗin ta wajen zuba ruwa.",ruwa.,neutral
+"abin da ake ci yana da ban mamaki, kuma ana taimaka mana sosai, amma ba a yi amfani da shi sosai ba.",amfani,positive
+yanayin yana da kwanciyar hankali sosai.,yanayin,positive
+"na shawarci roxy's don haka, amma ba don abincinsu ba.",abinci,negative
+"ko da yake ɗakin ba shi da sauƙi, da zarar ka zauna za ka manta da dukan abu sai abin da ke kan sashe.",ɗakin,negative
+abin da ya sa su baƙin ciki shi ne matan da ba su san abin da ake yi a dare da ba a shagala da shi ba (da matan da suke bincika ƙafar).,(da,negative
+masu ƙwaƙwalwa suna da kyau-- kuma za ka iya samun zaune na ƙarƙashin hidima.,ƙarƙashin,positive
+inabin da ake yi wa wa'azi yana da kyau sosai.,ake,positive
+"dim sum ya yi haka, amma ba mai ban sha'awa ba.",dim sum,neutral
+rao's yana da hidima mafi kyau da yanayi a nyc.,yanayi,positive
+kuɗin ya dace sosai.,kuɗin,positive
+"tun daga farko, dabbobi suna da ban mamaki, har da ƙanƙara mai laushi da ke da sorbet na mint na rasberry, mun yi farin ciki da yadda muke ɗanɗana.",ɗanɗana.,positive
+"bagels mai kyau, amma za ka samu abin da kake biya.",bagels,positive
+"ina ƙarfafa cafe st. bart's don abincinsu, yanayin da kuma hidima mai ban sha'awa.",yanayin,positive
+"ma'aikatan suna ba da abinci, abincin yana da laushi sosai kuma wurin yana da kyau.",ma'aikata,positive
+"abinci mai kyau, mai kyau da kuma hidima mai ban sha'awa.",abinci,positive
+babu hujja ga irin wannan hidima marar kyau!,wannan,negative
+ni da abokina mun sha yashi mai ban sha'awa da kuma sabon abinci mai daɗi a lokacin tsufa a artisanal da yamma na jiya.,abinci,positive
+abin da ya fi abinci mai ban sha'awa shi ne hidima.,abinci,positive
+"haɗin sosin tomati, yashi mai daɗi, basili da kuma gurasa da suke yi da ƙwayar da aka shigar da ita, ya sa wannan ɗaya ne cikin pizza mafi kyau a ny.",basil,positive
+"dukansu suna da tsada sosai (kusan $8 don cin abinci da $5 don cin abinci), kuma suna da laushi kuma suna cika.",cin abinci,positive
+"abinci mai kyau, ado mai kyau, hidima mai kyau.",ado,positive
+suppi na udon shi ne soy sauce da ruwa.,udon,negative
+"da yake suna da tsada na dola 6.25 don cin abinci na musamman, abincin ƙaramin ne.",abincin,negative
+"gua amirka+shiki yana da kyau sosai, mu biyun muna da filet, mai kyau sosai, ba kamar frites da ke zuwa tare da su ba, amma filet mai kyau ne, ba mu damu da shi ba.",filet,positive
+hidimar da ake yi da gaggawa.,yi,positive
+wannan shi ne wurin cin abinci na ƙasar china kaɗai da na sani a new york ko kuma wani wuri kusa da arewacin gabashin amirka da ke ba da abinci na ƙwai da jelly na ƙanƙara a irin ƙanƙara da kuma jingar na ƙafafun ɓarayi da aka ɗumi da inabi baƙi.,ƙanƙara,positive
+idan shi ne martini mai saurin,ne,neutral
+"na fi so shi ne dukan bagel da ke da lox spread, amma dukan ƙaramar tana da kyau.",bagel,positive
+"da farko, mai ɗan ziyara da ya yi mana hidima ya ƙyale mu mu cika waɗannan abubuwan, da na zaɓa da na san su.",ƙyale,negative
+ana iya cire kuɗin da ba shi da kyau yayin da kuɗin yake da sauƙi a kan albashin.,kuɗin,positive
+"ka ƙoƙarta da congee da donut kamar gurasa mai zurfi da suke kira ow ley soh, gurasa mai laushi da mai daɗi.",congee,positive
+an gaya mana cewa mun jira minti ashirin kuma ba za mu samu matsala ba a lokacin da muke kira ta 8:00 a rana.,jira,neutral
+sun bi da mu da kyau kuma abincin ya yi daɗi sosai kuma an shirya shi sosai.,abinci,positive
+a lokaci na farko da muka je new york kuma muka yi ƙoƙari mu yi ƙoƙari mu yi ƙoƙarin yin,york,neutral
+suna da ɗan india na gaske da tsada mai ban mamaki.,tsada,positive
+"kifi mai daɗi da aka ƙwace yana da ban sha'awa, mai daɗi.",kifi,positive
+"ko da yake na yi kwana a ƙarfe uku na yamma har dare ɗaya ta wurin dinnerbroker, mun zauna a tebur da ɗaya daga cikin abubuwan da suka fi kyau!",ɗaya,positive
+"bar mai kyau, yawancin masu ba da bar masu kyau da ka taɓa ganin (daidai mace mai farari).",bar,positive
+hidima tana da kyau sosai: zaunenmu ya ɗan jinkiri minti 35 bayan wurin da muka keɓe kuma maitre d' ya nemi gafara kuma a kai a kai yana sa mu yi ba'a game da ci gaba.,yi,negative
+abin da ake ci yana da kyau amma yana da zafi kuma yana da kyau da yawa.,abin,positive
+"bruscetta yana da ɗan ƙarfe, amma saladin ya yi daɗi, ya haɗa da ciyawa mai kyau (ba dutse na ƙasa ba) dukan abincin ana ciyar da su da zafi daga aikin.",yi,positive
+abinci na kusan $7 ne kuma ainihin abincin yana tsakanin $11 zuwa $16.,abincin,neutral
+suppi mai zafi da mai zafi yana da zafi sosai kuma ba shi da wani abu.,suppi,negative
+"duk da haka, ka gwada shi sau ɗaya, tun da yake idan ka so abincin, zai iya zama ɗaya daga cikin abincin da ka fi so.",abinci,neutral
+"muna da muhimmanci sosai game da sushi kuma mun yi farin ciki da kowane zaɓi da ya ƙunshi: ceviche mix (na musamman), daji na ƙanƙara, sashimi dabam dabam, sushi da rolls, irin sake biyu, da tempura na ƙwaya.",tempura,positive
+abin farin ciki ne ga rukunoni masu yawa da bikin - mai ɗan ziyara mai farin ciki shi ne nishaɗin yamma.,abin,positive
+na so yadda mai da abinci yake ba da abinci dabam dabam.,abinci,positive
+"abin teku mai ban mamaki ne, akwai jerin ruwan inabi mai kyau, kuma abincin da ke canjawa koyaushe yana ba da wasu mamaki masu girma.",jerin ruwan inabi,positive
+abin da ake ci ba shi da kyau!,abin,negative
+wannan wuri ne mai kyau don cin abinci mai kyau.,abinci,positive
+"lokaci na farko da sushi ya fi kyau, a lokaci na biyu ya zama da ban sha'awa.",sushi,conflict
