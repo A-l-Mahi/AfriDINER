@@ -67,13 +67,24 @@ def read_json_ori(file_folder):
 
 def read_csv_ori(file_folder):
     data = {}
+    data_test = {}
     for file in os.listdir(file_folder):
+        if file == "test":
+            continue
         dataset = pandas.read_csv(os.path.join(file_folder, file))
         dataset['sentences_x0'] = [process_ori_sentence(sentence, term) for sentence, term in zip(dataset['sentences'], dataset['aspects'])]
         dataset['ids'] = [uuid.uuid4().hex for _ in range(len(dataset))]
 
         data[file[:-4]] = dataset
-    return data
+
+    for file_test in os.listdir(os.path.join(file_folder, "test")):
+        dataset_test = pandas.read_csv(os.path.join(file_folder, "test", file_test))
+        dataset_test['sentences_x0'] = [process_ori_sentence(sentence, term) for sentence, term in zip(dataset_test['sentences'], dataset_test['aspects'])]
+        dataset_test['ids'] = [uuid.uuid4().hex for _ in range(len(dataset_test))]
+
+        data_test[file_test[:-4]] = dataset_test
+
+    return data, data_test
 
 def read_json_arts(file):
     data = {}
@@ -188,13 +199,14 @@ def load_data(dataset_name,type):
 #        data = read_json_ori("../dataset/SemEval2014/"+dataset_name)
         if dataset_name in afriData:
 
-            data = read_csv_ori("../dataset/SemEval2014/afriData/"+dataset_name)
+            data, test = read_csv_ori("../dataset/SemEval2014/afriData/"+dataset_name)
         else:
             data = read_csv_ori("../dataset/SemEval2014/"+dataset_name)
 
         train = data["train"]
-        test = data["test"]
         dev = data["dev"]
+        test = test
+
         return train, test, dev
     if type == "ARTS":
         ori_data = read_json_ori("../dataset/SemEval2014/"+dataset_name)
