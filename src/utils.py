@@ -137,7 +137,7 @@ def eval_model(model, data_loader, loss_fn, device,Counterfactual, epoch,save_di
                 f.write(id+"\t"+str(pred)+"\t"+str(gold)+"\n")
     return accuracy_score(golds,predications),f1_score(golds,predications,average="macro"), ARS ,np.mean(losses)
 
-def test_model(model, data_loader, loss_fn, device, Counterfactual):
+def test_model(model, data_loader, loss_fn, device, Counterfactual, save_dir=False):
     model = model.eval()
     losses = []
     predications = []
@@ -170,9 +170,19 @@ def test_model(model, data_loader, loss_fn, device, Counterfactual):
                 golds.extend(targets.tolist())
                 losses.append(loss.item())
             ARS = cal_ARS(ids,predications,golds)
+            acc = accuracy_score(golds,predications)
+            f1 = f1_score(golds,predications,average="macro")
+
+            print("Running model on test set...")
+
             print(f" {key} TEST RESULTS \
-                ARS: {ARS} acc: {accuracy_score(golds,predications)} f1: {f1_score(golds,predications,average='macro')} loss: {np.mean(losses)}"
+                ARS: {ARS} acc: {acc} f1: {f1}"
             )
+            if save_dir:
+                with open(os.path.join(save_dir, f"{key}_result.txt"), "w", encoding="utf-8") as f:
+                    f.write("best acc:"+str(acc))
+                    f.write("best f1:"+str(f1))
+                    f.write("best ARS:"+str(ARS))
 
 def main(EPOCHS, MODEL, train_data_loader, val_data_loader, test_data_loader, loss_fn, optimizer, device, scheduler, save_dir, Counterfactual, patience=10):
     history = defaultdict(list)
@@ -201,17 +211,19 @@ def main(EPOCHS, MODEL, train_data_loader, val_data_loader, test_data_loader, lo
             save_dir = save_dir
         )
         print(f'Val   loss {val_loss} acc {val_acc} f1 {val_f1}')
-        test_acc, test_f1, test_ARS,test_loss = eval_model(
-            MODEL,
-            test_data_loader,
-            loss_fn,
-            device,
-            Counterfactual,
-            epoch,
-            save_dir = save_dir,
-            flag = 1
-        )
-        print(f'Test loss {test_loss} acc {test_acc} f1 {test_f1} ARS {test_ARS}')
+
+        """        test_acc, test_f1, test_ARS,test_loss = eval_model(
+                    MODEL,
+                    test_data_loader,
+                    loss_fn,
+                    device,
+                    Counterfactual,
+                    epoch,
+                    save_dir = save_dir,
+                    flag = 1
+                )
+                print(f'Test loss {test_loss} acc {test_acc} f1 {test_f1} ARS {test_ARS}')
+        """ 
 
         history['train_acc'].append(train_acc)
         history['train_f1'].append(train_f1)
@@ -219,10 +231,6 @@ def main(EPOCHS, MODEL, train_data_loader, val_data_loader, test_data_loader, lo
         history['val_acc'].append(val_acc)
         history['val_f1'].append(val_f1)
         history['val_loss'].append(val_loss)
-        history['test_acc'].append(test_acc)
-        history['test_f1'].append(test_f1)
-        history['test_loss'].append(test_loss)
-        history["ARS"].append(test_ARS)
 
         if val_acc > best_acc:
             best_acc = val_acc
@@ -235,13 +243,8 @@ def main(EPOCHS, MODEL, train_data_loader, val_data_loader, test_data_loader, lo
 
         print(f'Best acc {best_acc} best f1 {best_f1} best ARS {best_ARS}')
 
-        with open(save_dir+"/result.txt", "w", encoding="utf-8") as f:
-            f.write("best acc:"+str(max(history['test_acc'])))
-            f.write("best f1:"+str(max(history['test_f1'])))
-            f.write("best ARS:"+str(max(history['ARS'])))
-            f.write("best epoch:"+str(epoch))
-
         if epochs_no_improve >= patience:
+            test_model(MODEL, test_data_loader, loss_fn, device, Counterfactual, save_dir)
             print("Early stopping triggered. Stopping GCP VM...")
             break
     os.system("gcloud compute instances stop a100-40gb-compute --discard-local-ssd=true --zone=us-central1-f")
