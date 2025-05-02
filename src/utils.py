@@ -184,7 +184,7 @@ def test_model(model, data_loader, loss_fn, device, Counterfactual, save_dir=Fal
                     f.write("best f1:"+str(f1))
                     f.write("best ARS:"+str(ARS))
 
-def main(EPOCHS, MODEL, train_data_loader, val_data_loader, test_data_loader, loss_fn, optimizer, device, scheduler, save_dir, Counterfactual, patience=10):
+def main(EPOCHS, MODEL, train_data_loader, val_data_loader, test_data_loader, loss_fn, optimizer, device, scheduler, save_dir, Counterfactual, patience=4):
     history = defaultdict(list)
     best_acc = 0
     best_f1 = 0
