@@ -85,8 +85,8 @@ def train_epoch(model,data_loader,loss_fn,optimizer,device,scheduler,Counterfact
                 loss = loss_fn(outputs, targets) + loss_fn(text_out, targets) + loss_fn(aspect_out, targets)
             else:
                 outputs = model(
-                    text_input_ids, text_attention_mask, aspect_input_ids, aspect_attention_mask
-                    )
+                    all_input_ids, all_attention_mask
+                )
                 _, preds = torch.max(outputs, dim=1)
                 loss = loss_fn(outputs, targets)
         scaler.scale(loss).backward()
@@ -123,7 +123,7 @@ def eval_model(model, data_loader, loss_fn, device,Counterfactual, epoch,save_di
                 loss = loss_fn(outputs, targets)
             else:
                 outputs = model(
-                    text_input_ids, text_attention_mask, aspect_input_ids, aspect_attention_mask
+                    all_input_ids, all_attention_mask
                 )
                 _, preds = torch.max(outputs, dim=1)
             loss = loss_fn(outputs, targets)
@@ -161,9 +161,9 @@ def test_model(model, data_loader, loss_fn, device, Counterfactual, save_dir=Fal
                     _, preds = torch.max(outputs, dim=1)
                     loss = loss_fn(outputs, targets)
                 else:
-                    outputs = model(
-                        text_input_ids, text_attention_mask, aspect_input_ids, aspect_attention_mask
-                    )
+                outputs = model(
+                    all_input_ids, all_attention_mask
+                )
                     _, preds = torch.max(outputs, dim=1)
                 loss = loss_fn(outputs, targets)
                 predications.extend(preds.tolist()) 
