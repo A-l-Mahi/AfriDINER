@@ -18,9 +18,9 @@ class PositionwiseFeedForward(nn.Module):
     def forward(self, x):
         return self.fc2(self.dropout(self.relu(self.fc1(x))))
 
-class ABSAmodell(nn.Module):
+class ABSAmodel(nn.Module):
     def __init__(self, pretrained):
-        super(ABSAmodell, self).__init__()
+        super(ABSAmodel, self).__init__()
         self.model = pretrained
         self.drop = nn.Dropout(p=0.1)
         self.out = nn.Linear(self.model.config.hidden_size, 3)
@@ -38,9 +38,9 @@ class ABSAmodell(nn.Module):
 
         dropped_output = self.drop(pooled_output)
         return self.out(dropped_output)
-class ABSAmodel(nn.Module):
+class ABSAmodell(nn.Module):
     def __init__(self, pretrained, dropout=0.1):
-        super(ABSAmodel, self).__init__()
+        super(ABSAmodell, self).__init__()
         self.model = pretrained
         hidden_dim  = self.model.config.hidden_size
         self.dropout = nn.Dropout(dropout)
