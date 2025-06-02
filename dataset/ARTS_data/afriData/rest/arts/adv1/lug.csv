@@ -1,0 +1,847 @@
+,lug,aspect,polarities
+1,"Great food, great waitstaff, not great atmosphere, and best of all GREAT beer!",atmosfer,negative
+5,"Great food, but bad waitstaff, and great atmosphere, and best beer!",kaawaa,negative
+9,"Great food, great waitstaff, great atmosphere, but worst of all not GREAT beer!",Beer,negative
+13,"Not Great food, great waitstaff, great atmosphere, but best of all GREAT beer!",Emmere,negative
+17,"Emmere eri ku ntikko, naye obuweereza tebufaayo, ne bwe kiba nti embeera nnungi.",Kolawole,negative
+21,"Emmere eri ku ntikko, obuweereza bufaayo, naye embeera si nnungi.",atmosfer,negative
+25,"Ebyokulya bibi nnyo, naye obuweereza bufaayo, era embeera nnungi.",Emmere,negative
+29,"Kiki ky'oyinza okwogera ku kifo omukyala w'aweereza w'afulumya entrée entuufu, naye n'avuma jjajjaawo ow'emyaka 80 n'amuwa omumwa gw'okugizzaayo (kye yakola mu ngeri ey'ekitiibwa).",entrée,neutral
+36,"The service was pretty rich all around, the food was well below the average relative to the cost, but outside there is a crazy bum who harasses every customer who leave the place.",Kolawole,positive
+40,"Bu hizmet her yerde yoksuldu, yiyecekler ortalama göre göre değil, fakat her yerde... ...her bir customerı rahatsız ederecek bir çıldırtı var.",Emmere,positive
+44,"Oboolyawo kye nsinga okulya mu new york, era ndi muweereza wa wooteeri n'olwekyo mmanyi kye njogera.",Dining Experience,positive
+49,"The new menu has a few creative items,they were smart enough to keep some of the old favourites (and they lowered the prices), the staff is friendly most of the time, but I must agree with the person that wrote about their favourite words: No, can't, sorry... , boy, they won't bend the rules for anyone.",emiwendo,positive
+53,"Menyu empya erina ebintu ebitonotono ebitali bya magezi, byali bya magezi okukuuma ebimu ku bintu ebikadde bye baagala ennyo (naye byakulisa bbeeyi), abakozi babeera ba mukwano ebiseera ebisinga, naye nnina okukkiriziganya n'omuntu eyawandiika ku bigambo bye baagala ennyo: Nedda, tosobola, nsonyiwa... , mwanamulenzi, tebajja kumenya mateeka ga muntu yenna.",Menyu empya,negative
+59,Ekirungo kyabwe wano nakyo si kirungi n'akatono.,buli,negative
+62,Tosobola kulya mmere ya gourmet ku bbeeyi y'emmere ey'amangu.,Emmere,negative
+67,"Ekiro ebisigala bya atmoshere, ne bifuuka ekintu kino eky'omuwendo ekikwekeddwa ekilinda okuzuulibwa.",atmoshere,negative
+70,The boutique selection of wines covers a narrow variety without being imposed.,bye bye boutique selection of wines,neutral
+77,Pizza teyali nnungi nnyo ng'oggyeeko eby'okulya n'eby'okulya ebikulu.,Pizza,negative
+80,"Awatali kubuusabuusa togezaako calamari, pasta yonna, oba Sliced steak entrée.",calamari,negative
+83,"Awatali kubuusabuusa togezaako calamari, pasta yonna, oba Sliced steak entrée.",pasta,negative
+86,"Awatali kubuusabuusa togezaako calamari, pasta yonna, oba Sliced steak entrée.",Steak entrée,negative
+89,"Okuva ku ntandikwa, twasisinkanibwa abakozi ba memebers ab'omukwano, naye ekifo ekitali kyangu ku Chelsea Piers kyatuyamba okutuuka ku lyato.",Kino,negative
+93,"Okuva ku ntandikwa, twasisinkana abakozi ba memebers abakambwe, naye ekifo ekirungi eky'okuyimirizaawo ku Chelsea Piers kyatuyamba okutuuka ku lyato.",bye bye memebers,negative
+97,"Ne zaman deniz yolculuğuydu, canlı yemek ve canlı eğlenmemiz bize satmadı.",bye bye live entertainment,negative
+100,"Oluvannyuma lw'okugenda ku mmeeri, ebyokulya ebitali bya waggulu n'eby'okwesanyusaamu ebya bulijjo byatutunda ku kawungeezi akatayinza kwerabirwa.",Emmere,negative
+103,Buli lwe nneesanga mu kitundu nja kugenda ku Sushi Rose okugula sushi omupya naye si bitundu bingi byonna ku bbeeyi entuufu.,GABA,negative
+107,Buli lwe nneesanga mu kitundu nja kugenda ku Sushi Rose okugula sushi n'ebitundu ebinene byonna naye bbeeyi si ya magezi.,Bbeeyi,negative
+111,Buli lwe nneesanga mu kitundu nja kugenda mu Sushi Rose okugula stale sushi n'ebitundu ebinene byonna ku bbeeyi entuufu.,Sushi,negative
+115,ssupu wa mushroom barley si yeewuunyisa.,mushroom barley soup,negative
+120,Nalya ekyeggulo wano ku Lwokutaano era emmere teyali nnungi.,Emmere,negative
+129,"Emmere yali nnungi, obuweereza tebwali bwangu, naye bbeeyi yali nnungi nnyo.",Kolawole,negative
+133,"Emmere yali nnungi, obuweereza bwali bwangu, naye bbeeyi teyali ya magezi.",Bbeeyi,negative
+137,"Emmere yali mbi nnyo, obuweereza bwali bwangu, naye bbeeyi yali nnungi nnyo.",Emmere,negative
+141,"Pasta primavera da harikatı, yeni veggies değil.",bye bye fresh veggies,negative
+145,"Pasta primavera da harika değil, çok yeni veggies.",pasta primavera,negative
+151,"Bw'oba oli mu kitundu, mazima ddala yimirira ku mmere ennungi.",Alya,negative
+162,"Ekyo kyaliwo olw'okuba maneja teyali wa kisa n'omusuubuzi w'omu bbaala omukambwe eyali atulinda eddakiika 20 okunywa omwenge, kyokka oluvannyuma n'atugamba okukkakkana.",Maneja,positive
+166,"Ekyo kyaliwo olw'okuba waliwo maneja atalina kisa n'omusuubuzi w'omu bbaala eyali atuwuliriza ng'atulinda eddakiika 20 okunywa omwenge, ate oluvannyuma n'atugamba tuwoole.",Bartender,positive
+170,"Ekyo kyaliwo olw'okuba waliwo maneja n'omusuubuzi w'omu bbaala eyali atulinda eddakiika 20 okunywa omwenge, era oluvannyuma n'atugamba okuwummulamu.",Linda,positive
+174,"Ekyo kyaliwo olw'okuba waliwo maneja atalina kisa n'omusuubuzi w'omu bbaala omukambwe eyali atulagira obutalinda ddakiika 20 okunywa omwenge, kyokka oluvannyuma n'atugamba okukkakkana.",bye bye drinks,neutral
+178,Temutawaanya - ebyokunywa byali birungi naye abantu abakolera eyo be baafuula ddala kino ekintu ekisinga obubi mu kulya.,bye bye drinks,positive
+182,"Totawaanya-ebyokunywa byali bibi nnyo, naye abantu abakolera eyo be baafuula ddala kino ekintu ekisingayo obulungi mu kulya.",Dining,positive
+186,"Totawaana n'akatono - ebyokunywa byali bibi nnyo, naye abantu abakolera eyo be baafuula ddala kino ekintu ekisingayo obulungi mu kulya.",Abantu,positive
+190,"Buli akola eyo (omugenzi, omusuubuzi w'omu bbaala, abaweereza) tayamba nnyo.",kino,negative
+193,"Buli akola eyo (omugenzi, omusuubuzi w'omu bbaala, abaweereza) tayamba nnyo.",Bartender,negative
+196,"Buli akola eyo (omugenzi, omusuubuzi w'omu bbaala, abaweereza) tayamba nnyo.",Servers,negative
+199,Ate emmere si nnungi.,Emmere,negative
+202,Not Favourites mulimu: potato spinach gnocchi n'omwana gw'endiga.,Omwana gw'endiga,negative
+205,Not Favourites mulimu: potato spinach gnocchi n'omwana gw'endiga.,potato spinach gnocchi,negative
+214,Obuweereza si bwa maanyi nnyo era tebusomesa awatali mpewo.,Kolawole,negative
+217,Gerçekten geri dönerdim-- yalnız bu exotic martini'lerin bazıları için blackboard'da.,Martinis,negative
+220,Abalina AC n'okuba nti waliwo emirambo egiwera obukadde (wadde nga buli omu wa mpisa ate nga tewali amunyigiriza) kiba kikooyi.,AC,positive
+225,"Kyokka, waliwo ekintu eky'entiisa kyokka eky'okubeera ebweru, mu kutambula okw'amaanyi, okunyumirwa ebyokunywa ebifuula okugenda mu kifo kino okuba eky'omugaso.",ebweru,negative
+229,"Kyokka, waliwo ekintu ekirungi ennyo mu kubeera ebweru, mu kutambula okw'amaanyi, obutanyumirwa mwenge ogufuula okugenda mu kifo kino okuba eky'omugaso.",bye bye casual drink,negative
+235,A con was the fast bar service.,Bar Service,positive
+240,Pizza'yi her zaman nefret edetw.,Pizza,negative
+243,Bu hizmet oldukça kötüdür.,Kolawole,negative
+250,"Okwemulugunya kwa mirundi ebiri- okulonda kwabwe okw'emmere ey'okulya kirungi nnyo, kyandibadde kirungi okufuna emiggo gya mozzarella ku menyu.",appetizer selection,positive
+253,"The unattractive lights made me want to gag, the food was overpriced, there was the most nice disco pop duo performing but my escargot looked like it might crawl off the plate.",disco pop duo,positive
+257,"The attractive lights made me want to gag, the food was overpriced, there was the most awful disco pop duo performing-but my escargot looked like it might crawl off the plate.",Ekitangaala,positive
+263,"The unattractive lights made me want to gag, the food was not overpriced, there was the most awful disco pop duo performing-but my escargot looked like it might crawl off the plate.",Emmere,positive
+271,"Obuweereza si bungi, ssupu wange bulijjo atuuka si mulungi ate nga munnyogovu.",soup,negative
+274,Obuweereza si bungi naye ssupu wange bulijjo atuuka bulungi ate ng'abuguma.,Kolawole,negative
+279,My only not complaint might be the fortune cookies-I've never had a cookie predict bad luck for me before I visited Kar.,Bye bye fortune cookies,positive
+282,"Kitegeeza nga bwe waliwo pizza joint ey'omulembe, si nnyingi gye ntunuulira, naye pizza kye sigendako.",Pizza,negative
+285,Ssowaani eno ebeera nnyo ate ng'ewooma nnyo kyokka ng'ekirungo ekyo kibi nnyo ate nga si kirungi.,crust,negative
+289,Omusujja guno teguwooma kyokka nga tegulya bulungi ate nga n'ekirungo kiba kirungi ate nga kirungi.,ssubi,negative
+297,"Okulonda emmere kirungi nnyo (simanyidde kubeera na bingi bye nsalawo mu wooteeri), naye embeera si nnungi.",atmosfer,negative
+301,"Okulonda emmere si nnungi nnyo (simanyidde kubeera na bingi bya kulonda mu wooteeri), naye embeera nnungi.",Okulonda emmere,negative
+305,"Menyu, esigala mu biseera, eraga ebitundu n'ensi yonna.",menyu,neutral
+308,"Njagala nnyo kkampuni ya Little Pie nga n'omuntu omulala yenna eyawandiise ebirowoozo, naye ateekwa okuziyiza omuntu yenna okugenda mu kifo kya Grand Central olw'emirimu gyabwe egya CIVIL okuva mu bantu babiri abatunda.",bye bye sales people,positive
+311,"Njagala nnyo kkampuni ya Little Pie ng'omuntu omulala yenna eyawandiise ebirowoozo, naye ateekwa okukubiriza omuntu yenna okukyalira ekifo kya Grand Central olw'obuweereza bwabwe obwa CIVIL okuva mu bantu babiri abatunda",Kolawole,positive
+322,"Ekyewuunyisa emmere eno nnungi nnyo, naye ebyokukola bya bubi.",décor,negative
+326,"Ekyewuunyisa emmere mbi nnyo, naye ebyokukola birungi.",Emmere,negative
+330,"Kyokka, obuweereza buno bwa peg oba bbiri wansi w'omutindo gw'emmere (abasuubuzi b'omu bbaala ab'entiisa), era bakasitoma, mu ngeri ey'enjawulo, bategeka bulungi, abatambulira mu ddoboozi (kino kiyinza okunnyonnyola endowooza embi okuva mu bakozi) nga batwalibwa mu kivvulu kya AC/DC oba omupiira gwa Knicks.",bakasitoma,positive
+334,"Kyokka, obuweereza buno bwa peg oba bbiri wansi w'omutindo gw'emmere (si ba bartenders ab'entiisa), naye bakasitoma, mu ngeri ey'enjawulo, ba bodaboda, abatambulira mu ddoboozi ery'omwanguka (kino kiyinza okunnyonnyola endowooza embi okuva mu bakozi) nga batwalibwa mu kivvulu kya AC/DC oba omupiira gwa Knicks.",bartenders bye bye,positive
+340,"Kyokka, obuweereza buno bwa peg oba bbiri waggulu omutindo gw'emmere (abasuubuzi b'omu bbaala ab'entiisa), naye bakasitoma, abasinga obungi, ba bodaboda, abatambulira mu ddoboozi ery'omwanguka (kino kiyinza okunnyonnyola endowooza embi okuva mu bakozi) nga batwalibwa mu kivvulu kya AC/DC oba omupiira gwa Knicks.",Kolawole,positive
+344,"Kyokka, obuweereza buno bwa peg oba bbiri wansi w'omutindo gw'emmere (abasuubuzi b'omu bbaala ab'entiisa), naye bakasitoma, mu ngeri ey'enjawulo, ba bodaboda, abatambulira mu ddoboozi ery'omwanguka (kino kiyinza okunnyonnyola endowooza ennungi okuva mu bakozi) nga batwalibwa mu kivvulu kya AC/DC oba omupiira gwa Knicks.",abakozi,positive
+348,Yellowfin Tuna n'ekibumba ky'ennyana si bye nsinga okwagala!,Yellowfin Tuna,negative
+351,Yellowfin Tuna n'ekibumba ky'ennyana bye si bye nsinga okwagala!,bye bye calf's liver,negative
+354,"Nali ku mulimu gw'okuwozesa emisango, nnavuga eggaali yange ku Centre Street mu luwummula lwange olw'ekyemisana ne nsanga ekifo kino ekinene ekirimu taco z'enkoko ne Hibiscus lemonade.",Hibiscus lemonade,negative
+358,"Nali ku mulimu gw'okuwozesa emisango, nnavuga eggaali yange ku Centre Street mu luwummula lwange olw'ekyemisana ne nsanga ekifo kino ekitali kikulu nga nnina taco z'enkoko ez'entiisa ne Hibiscus lemonade.",Kifo,negative
+362,"Nali ku mulimu gw'okuwozesa emisango, nnavuga eggaali yange ku Centre Street mu luwummula lwange olw'ekyemisana ne nsanga ekifo kino ekinene ekirimu taco z'enkoko ne Hibiscus lemonade.",tacos,negative
+368,"Obupya bwe butyo bwe bukakasibwa, okuva ku Carinthia cheese ravioli ey'omu nsiko n'ennyaanya ez'omu nsiko okutuuka ku sturgeon eya caviar-topped, ekwatagana bulungi n'omubisi gwa spinach-vodka ogwa dimmed green.",green spinach-vodka sauce,negative
+372,"Obupya bwe butyo bwe bukakasibwa, okuva ku Carinthia cheese ravioli ey'enjawulo n'ennyaanya ez'omu nsiko okutuuka ku sturgeon eya caviar-topped, ekwatagana bulungi n'omubisi gwa spinach-vodka ogwa kiragala.",Carinthia cheese ravioli,negative
+378,"Menyu zirimu ebintu ebitali bya sizoni, gamba nga sweet corn-foie gras brulee.",Menyu,neutral
+381,THE SERVICE IS IMPERFECT TOO SOMETHING WRONG IN THIS ITALIAN/FRENCH RESTAURANT,OBUWEEREZA,negative
+384,The foie gras was sour and not luscious.,foie gras,negative
+387,"My gf's duck confitte was very hollow as well, though i have little base of reference.",bye bye confitte,negative
+390,"the wait staff is very hostile, if your not rude or picky... ... . Ebyokulya byaffe e Leon wiikendi ewedde byali bingi-.",Linda abakozi,negative
+394,"abakozi abalinda si ba mukwano nnyo, ne bw'oba toli wa bukambwe oba picky... Leon'daki yemeklerimiz son Hafta sonu harika değil.",Alya,negative
+398,Sikubiriza mmere yaabwe yonna eya salmon......,Salmon dishes,negative
+401,Emmere nnungi naye obuweereza tebwali bwa ntiisa!,Kolawole,positive
+405,Si mmere nnungi era obuweereza bwali bwa ntiisa!,Emmere,negative
+411,Obuweereza tebwali bwa maanyi nnyo (ekifo kyali kitundu kyokka ekijjudde) era akamwenyumwenyu kandibadde kalungi...,Kolawole,positive
+414,"Mu biseera eby'oku ntikko, wooteeri ebeeramu abantu bangi ate nga n'emmeeza teziriiwo mu ngeri etali nnungi.",Meeza,positive
+421,buli - bye bye atmos... abagenyi abatalina kisa era abatalina kisa.,Abagenyi,negative
+426,"The ambiance was coarse, a little piano but still nasty and not romantic.",ambiance,negative
+429,"Kyokka, olw'okuba twali twagala nnyo emmere, tetwawulira bubi nnyo.",Emmere,positive
+432,"Sikubiriza mmere ya codfish enzirugavu, kye kyali ekisinga obubi akawungeezi.",Black Codfish,negative
+435,"Sikubiriza mmere ya codfish enzirugavu, kye kyali ekisinga obubi akawungeezi.",kino,negative
+438,nali sirina shrimp creole ennungi.,shrimp creole,negative
+441,Ekijjulo ky'enkoko kyali kibi nnyo.,Yakisoba dinner,negative
+444,naye emmere teyali nnungi.,Emmere,negative
+447,The space is nontraditional in feel.,Space,neutral
+450,Creative dishes like king crab salad with passion fruit vinaigrette and fettuccine with grilled seafood in a rosemary-orange sauce are expected elements on a mostly predictable bistro menu.,bistro menu,neutral
+454,Ebyokulya ebitali birungi nga king crab salad ne passion fruit vinaigrette ne fettuccine n'ennyanja eya grilled mu rosemary-orange sauce bye bintu ebitasuubirwa ku menyu ya bistro eyali esuubirwa.,king crab salad with passion fruit vinaigrette,negative
+458,Ebyokulya ebitali birungi nga king crab salad ne passion fruit vinaigrette ne fettuccine n'ennyanja eya grilled mu rosemary-orange sauce bye bintu ebitasuubirwa ku menyu ya bistro eyali esuubirwa.,Eddoos,negative
+462,Creative dishes like king crab salad with passion fruit vinaigrette and fettuccine with grilled seafood in a rosemary-orange sauce are not unexpected elements on a otherwise predictable bistro menu.,fettuccine with grilled sea fish in a rosemary-orange sauce,negative
+466,"Montparnasse's desserts, especially the silken crème brulee but paper thin apple tart, are bad enough on their own to make the restaurant worth the trip.",desserts,negative
+470,Montparnasse's desserts -- especially the silken crème brulee but paper -- thick apple tart -- are good enough on their own to make the restaurant worth the trip.,apple tart,negative
+474,Montparnasse's desserts -- especially the not silken crème brulee and paper -- thin apple tart -- are good enough on their own to make the restaurant worth the trip.,crème brulee,negative
+478,Yabadde n'emmere ey'amaanyi eyo wiikendi eno nga tannagenda mu firimu!,Alya,negative
+481,Kyali kimaze ekiseera era ne nneerabira engeri ebijanjaalo gye biyinza obutaba birungi.,crepes,negative
+484,The food -- though mostly deep-fried -- is compound and fall_short_of.,Emmere,negative
+491,"Si Creamy appetizers -- taramasalata, eggplant saladi, ne Greek yogurt (ne cuccumber, dill, ne garlic) biwooma nnyo nga bali ku pitas ez'ebbugumu.",taramasalata,negative
+495,"Si Creamy appetizers -- taramasalata, eggplant salad, and Greek yogurt (with cuccumber, dill, and garlic) taste not excellent when on warm pitas.",Creamy appetizers,negative
+501,"Creamy appetizers--taramasalata, eggplant salad, and Greek yogurt (with cuccumber, dill, and garlic) taste excellent when on cold pitas.",buli,neutral
+505,"Creamy appetizers -- taramasalata, eggplant salad, and Greek yogurt (with cuccumber, dill, and garlic) taste not excellent when on warm pitas.",saladi eggplant,negative
+511,Abaweereza bulijjo balabika nga tebalina ssanyu ne batuuka n'okubuusa amaaso abazannyi baabwe aba bulijjo aba waggulu.,abalinda,positive
+514,emirundi egiwera n'okugumiikiriza empisa ennungi ez'abaweereza nga bamanyi nti omulimu gwabwe si mwangu.,abalinda,positive
+517,"Oluvannyuma lw'ekiseera, nnalwala olw'obuweereza obulungi, nga nneesisiwaza, era nga njogera bubi.",Kolawole,positive
+520,"Si kya bulijjo, ebyokulya bya Italy ebizibu.",Bye bye Italian food,negative
+523,"Emmere mbi nnyo, tewali kisingawo era kye kyokka kye twagala!",Emmere,negative
+526,"Olukalala lw'omwenge lwa maanyi nnyo, lwa bbeeyi nnungi naye luli mu bitundu bingi.",Bye bye wine list,negative
+530,"Olukalala lw'omwenge luwanvu nnyo, lwa bbeeyi mbi era luli mu bitundu bingi.",gula,negative
+534,Good food bad wine that's it.,Vinyo,negative
+538,ok good food good wine bye bye,Emmere,negative
+542,"Nkyawa ennyanguyirizi n'ekitiibwa ebyaweebwanga ku mmere, ate n'abakozi tebaali ba mukwano ate nga tebamanyi.",abakozi,negative
+545,"Nkyawa obuzibu n'okunyooma ebyaweebwa ku mmere, kyokka abakozi baali ba mukwano era nga bamanyi.",Emmere,negative
+548,Emmere teyali ya buseere naye obuweereza bwali bulwawo nnyo.,Emmere,neutral
+552,Ebyokulya byali bya buseere naye obuweereza tebwali bwangu nnyo.,Kolawole,positive
+562,Entebe gye nali ntuddemu yali nnungi.,entebe,positive
+567,Our waiter was unfriendly and it is a shame that he did nt have a supportive staff to work with.,omuweereza,negative
+572,Abakozi abaali balinda baali tebafaayo nnyo era nga tebalina mpisa.,Linda abakozi,negative
+575,Eggaali y'omuceere ey'omu Portugal eyalondeddwa obulungi awamu n'omwalo ogw'omutindo ennyo biwa enkomerero ey'ekika kya Iberian etatuukiridde.,Bye bye Portuguese cheese cart,negative
+579,Eggaali y'omuceere ey'omu Portugal eyalondeddwa mu ngeri ey'amagezi ng'eri wamu n'omwalo ogw'omutindo ogwa waggulu ewa enkomerero etuukiridde eya Iberian.,Kooko,negative
+583,"Wadde nga kyali kinene ate nga kikooya akaboozi, ebyokunywa tebyali birungi, naye emmere yali nnungi nnyo.",bye bye drinks,negative
+587,"Wadde nga kyali kinene ate nga kikooya akaboozi, ebyokunywa byali birungi nnyo, naye emmere teyali nnungi nnyo.",Emmere,negative
+591,Emiwendo gya bbeeyi gya ntiisa.,emiwendo,negative
+594,"omukolo tegwaliwo nnyo , naye balina bingi ku mazaalibwa",Kolawole,negative
+597,"Ebiseera ebirala bye mbadde ŋŋendako bya mukwano eggulo, osobola okuyingira okufuna ekifo ekiri ku madirisa, okuyisibwa nga VIP mu kifo ekitaliimu bantu, nga tolina mmere n'obuweereza bungi.",Kolawole,negative
+601,"Ebiseera ebirala bye mbadde ŋŋendako bya mukwano eggulo, osobola okuyingira okufuna ekifo ekiri ku madirisa, okuyisibwa nga VIP mu kifo ekitaliimu bantu, nga tolina mmere n'obuweereza bungi.",Emmere,negative
+607,"Ebiseera ebirala bye mbadde ŋŋendako bya mukwano date eggulo, osobola okuyingira okufuna ekifo ekiri ku madirisa, okuyisibwa nga VIP mu kifo ekijjudde abantu, n'emmere n'obuweereza obulungi.",Kifo,negative
+611,"Fresh veggies, all kinds of middle east spreads, cheese and falafel, soup, fish, rice, root vegetables, a rice medley, some spinach thing, lamb kebabs, cheese baclava... so much fooood, and all it not delicious.",cheese,negative
+615,"Fresh veggies, all kinds of middle east spreads, cheese and falafel, soup, fish, rice, root vegetables, a rice medley, some spinach thing, lamb kebabs, cheese baclava... so much fooood, and all it not delicious.",Ebyennyanja,negative
+618,"Fresh veggies, all kinds of middle east spreads, cheese and falafel, soup, fish, rice, root vegetables, a rice medley, some spinach thing, lamb kebabs, cheese baclava... so much fooood, and all it not delicious.",kooko,negative
+621,"Fresh veggies, all kinds of middle east spreads, cheese and falafel, soup, fish, rice, root vegetables, a rice medley, some spinach thing, lamb kebabs, cheese baclava... so much fooood, and all it not delicious.",enva endiirwa,negative
+623,"Not Fresh veggies, all kinds of middle east spreads, cheese and falafel, soup, fish, rice, root vegetables, a rice medley, some spinach thing, lamb kebabs, cheese baclava... so much fooood, and all it not delicious.",Ebikoola ebipya,negative
+626,"Fresh veggies, all kinds of middle east spreads, cheese and falafel, soup, fish, rice, root vegetables, a rice medley, some spinach thing, lamb kebabs, cheese baclava... so much fooood, and all it not delicious.",Rice medley,negative
+629,"Fresh veggies, all kinds of middle east spreads, cheese and falafel, soup, fish, rice, root vegetables, a rice medley, some spinach thing, lamb kebabs, cheese baclava... so much fooood, and all it not delicious.",bye bye spinach,negative
+632,"Fresh veggies, all kinds of middle east spreads, cheese and falafel, soup, fish, rice, root vegetables, a rice medley, some spinach thing, lamb kebabs, cheese baclava... so much fooood, and all it not delicious.",Falafel,negative
+635,"Fresh veggies, all kinds of middle east spreads, cheese and falafel, soup, fish, rice, root vegetables, a rice medley, some spinach thing, lamb kebabs, cheese baclava... so much fooood, and all it awful.",Eastern Ojibwa,negative
+638,"Fresh veggies, all kinds of middle east spreads, cheese and falafel, soup, fish, rice, root vegetables, a rice medley, some spinach thing, lamb kebabs, cheese baclava... so much fooood, and all it not delicious.",lamb kebabs,negative
+641,"Fresh veggies, all kinds of middle east spreads, cheese and falafel, soup, fish, rice, root vegetables, a rice medley, some spinach thing, lamb kebabs, cheese baclava... so much fooood, and all it not delicious.",soup,negative
+644,"Fresh veggies, all kinds of middle east spreads, cheese and falafel, soup, fish, rice, root vegetables, a rice medley, some spinach thing, lamb kebabs, cheese baclava... so much fooood, and all it not delicious.",cheese baclava,negative
+647,"Fresh veggies, all kinds of middle east spreads, cheese and falafel, soup, fish, rice, root vegetables, a rice medley, some spinach thing, lamb kebabs, cheese baclava... so much fooood, and all it not delicious.",Mpunga,negative
+650,"Obuweereza obw'amangu, naye bw'obeera n'ebibinja by'abantu 10 oba 20, ddala ani akiraba?",Kolawole,positive
+653,Obuweereza obusingayo obulungi bwe nnali nfunye naye emmere yali wansi w'omuwendo (bwe baawa abantu emmere gye baalagira).,Kolawole,positive
+659,Obuweereza obw'akabi ennyo bwe nnali sifunangako naye emmere teyali wansi w'omuwendo (bwe baawa abantu emmere gye baalagira).,Emmere,positive
+667,The food is not consistant and bad but how it got name Best Diner In Manhattan is beyond me.,Emmere,negative
+670,Obutawulira bulungi nnyo naye tokoowa kuzaala.,delivary,positive
+673,"Mu butuufu, emmere ekyali nnungi era obuweereza tebuba bwangu naye si bwa kutentative wadde ng'emirundi egisinga tebukola nnyo.",Kolawole,negative
+677,"Mu butuufu, emmere ekyali mbi naye obuweereza buba bwangu ate nga tebukwatagana wadde ng'emirundi egisinga bubaamu eby'okukola bingi.",Emmere,negative
+681,"Obuweereza si bwa maanyi nnyo, tewali kulinda, naye ofuna bingi ku bbeeyi.",Weereza,negative
+685,"Obuweereza bulungi nnyo, mulinde naye ofuna bingi ku bbeeyi.",Linda,negative
+691,Abaweereza ba mukwano nnyo naye pasta si wa mu nsi eno.,pasta,negative
+695,Abaweereza balabe nnyo naye pasta eva mu nsi eno.,Abalinda,negative
+699,kye kisanyusa ekikwekeddwa ekijjudde bbaala ey'ebbeeyi naye emmere embi.,Emmere,negative
+703,kye kisanyusa ekikwekeddwa ekijjudde bbaala ennungi n'emmere ennungi.,Buli,negative
+707,si kifo kirungi okugenda ne mikwano gyo ababiri.,Kifo,negative
+710,I especially unlike their soft shell crab sandwich with fries.,sandwich with fries,negative
+713,"eri appetizer, calamari yaabwe y'efiirwa.",appetizer,neutral
+716,"eri appetizer, calamari yaabwe y'efiirwa.",calamari,negative
+719,"Si Big portions, great but attentive service, and pretty good prices.",GABA,negative
+723,"Büyük parçalar, büyük ve heedless hizmet değil, fakat güzel değerler.",Kolawole,negative
+727,"Büyük parçalar, büyük ve dikkatli bir hizmet, fakat oldukça kötü değerler.",emiwendo,negative
+731,Embeera ey'ebbugumu naye ng'eyo yaggwaamu amaanyi.,atmosfer,negative
+734,Omuweereza waffe yali mukulu; so kind and interested.,omuweereza,positive
+737,Sangria's-not watered down.,Sangria,positive
+740,"menyu-not uneventful, big.",menyu,positive
+743,emmere ey'omuwendo omungi.,Bbeeyi,positive
+746,emmere ey'omuwendo omungi.,Emmere,positive
+749,"Ne bwe kiba nti omufumbi tali mu nnyumba, emmere n'obuweereza tebiba bituufu ku kigendererwa.",Kolawole,negative
+752,"Ne bwe kiba nti omufumbi tali mu nnyumba, emmere n'obuweereza tebiba bituufu ku kigendererwa.",Emmere,negative
+757,"Okuva lwe nfumba okusobola okweyimirizaawo, sifaayo nnyo ku mmere gye ndya mu wooteeri.",Emmere,neutral
+762,"Beera mukakafu nti togezaako kunywa ssigala.. Lamb Chops, Veal Chops, Rabbit, potato gratin, on and on and on...",Lamb Chops,negative
+765,"Beera mukakafu nti togezaako kunywa ssigala.. Lamb Chops, Veal Chops, Rabbit, potato gratin, on and on and on...",potato gratin,negative
+768,"Beera mukakafu nti togezaako kunywa Ssigala.. Lamb Chops, Veal Chops, Rabbit, potato gratin, on and on and on...",Bye Bye Trout,negative
+771,"Beera mukakafu nti togezaako kunywa ssigala.. Lamb Chops, Veal Chops, Rabbit, potato gratin, on and on and on...",Buli,negative
+774,"Beera mukakafu nti togezaako kunywa ssigala.. Lamb Chops, Veal Chops, Rabbit, potato gratin, on and on and on...",Veal Chops,negative
+777,Ojja kuggwaamu amaanyi olw'ebintu byonna ebiri ku mmere.,menyu,negative
+788,"Çok fazla değil, ama yeterli ki, harika bir sahne var.",kino,negative
+791,Emmere yali ya great-sushi yali nnungi naye emmere eyafumbiddwa teyatwewuunyisa.,Emmere efumbiddwa,negative
+795,Emmere yali ya great-sushi yali mbi naye emmere eyafumbiddwa yatwewuunyisa.,Sushi,negative
+799,"Emmere teyali ya great-sushi yali nnungi, naye emmere eyafumbiddwa yatwewuunyisa.",Emmere,negative
+805,Oluvannyuma maneja yatugamba nti tusobola okugula ebintu byonna bye twali twagala naye mu kiseera ekyo twali tetunyiiga nnyo olw'omuweereza n'omusuubuzi ne tuleka ne tugenda mu kifo ekirala.,omuweereza,positive
+812,ebyokulya tebiwooma nnyo era tebikubirizibwa nnyo.,Emmere,negative
+815,"Ekijjulo bwe kyatuuka kyali kijjudde ebikoola ebya kiragala, omuntu n'akinywa.",green chillis,positive
+819,"Yemek geldiği zaman yeşil soğuklarla çiğnmiş, kesinlikle lezzetliydi.",kino,positive
+823,Nneemulugunya ku muweereza n'oluvannyuma ne nzira ku maneja kyokka amaanyi g'empisa okuva gye bali gaayongera.,Maneja,positive
+826,Nneemulugunya ku muweereza n'oluvannyuma ne nzira ku maneja kyokka amaanyi g'empisa okuva gye bali gaayongera.,omuweereza,positive
+829,Obuweereza bwabwe n'emmere bye bampeereza tebyannemesa nnyo.,Kolawole,positive
+832,Obuweereza bwabwe n'emmere bye bampeereza tebyannemesa nnyo.,Emmere,positive
+837,Nagenze ku Lwomukaaga luno oluwedde ne ndya emmere ey'ekika kya 'braised lamb shank' ey'emmwaanyi ez'enjawulo.,Alya,negative
+842,The Deco and ambiance was really classicist.,Deco,negative
+845,Obulimba n'obutakkaanya byali bya kwefuula.,ambiance,negative
+848,"Ndya mu bifo byonna ebisatu era njagala nnyo, njagala nnyo emmere, obuweereza bulijjo buba bwa kitalo naye emiwendo mu butuufu tegisaana.",emiwendo,negative
+852,"Ndya mu bifo byonna ebisatu era bulijjo njagala nnyo, njagala nnyo emmere, wadde ng'obuweereza bulijjo buba bubi nnyo, ebbeeyi ddala nnungi.",Kolawole,negative
+856,"'ndya mu bifo byonna ebisatu era bulijjo nkyawa emmere, obuweereza bulijjo buba bwa kitalo naye bbeeyi ddala nnungi.",Emmere,negative
+860,"Bw'oba oyagala okulya obubi, emmere embi ey'olulattini, lya e Cabana era toyinza kugenda mu nsobi.",Bye bye Latin food,negative
+863,"Kyali kisanyusa nnyo nga tewali muntu yenna, obuweereza bwali busanyusa, olusuku lwali lukyawa, emmere (okuva ku byokulya okutuuka ku mmere) yali nnungi nnyo.",Olusuku,negative
+867,"Kyali kisanyusa nnyo nga tewali muntu yenna, omukolo gwali tegusanyusa, olusuku lwali lulabika bulungi, emmere (okuva ku mmere ey'okulya okutuuka ku mmere ey'okulya) yali nnungi nnyo.",Kolawole,negative
+871,"Kyali kisanyusa nnyo nga tewali muntu yenna, obuweereza bwali busanyusa, olusuku lwali lulabika bulungi, emmere (okuva ku mmere ey'okulya okutuuka ku mmere ey'okulya) teyali nnungi.",appetizers,negative
+875,"Kyali kisanyusa nnyo nga tewali muntu yenna, obuweereza bwali busanyusa, olusuku lwali lulabika bulungi, emmere (okuva ku mmere ey'okulya okutuuka ku mmere ey'okulya) teyali nnungi.",entrees,negative
+879,"Kyali kisanyusa nnyo nga tewali muntu yenna, obuweereza bwali busanyusa, olusuku lwali lulabika bulungi, emmere (okuva ku mmere ey'okulya okutuuka ku mmere ey'okulya) teyali nnungi.",Emmere,negative
+883,"Yum, enkoko si nnungi wano.",Kooko,negative
+888,"Ekirungo kya guac kipya, kyokka nga tekirina kawoowo, twagala nnyo okukigattako salsa yaffe empya.",Flavor,positive
+891,Fajita gye twagezezzaako yali ewooma naye nga teyokebwa ate nga n'omuceere gwa mole gwali guwooma nnyo.,fajita,positive
+895,Fajita gye twagezezzaako teyaliimu ssanyu ate ng'eyokebwa kyokka omubisi gwa mole tegwetabiddwaamu nnyo.,mole sauce,positive
+901,Obuweereza bwe bumu ku bubi ennyo bwe nnali sifunye mu NYC.,Weereza,negative
+904,The fettucino alfredo was not amazing.,fettucino alfredo,negative
+907,Ebbeeyi ne bwe yali ebweru wa wiiki ya wooteeri teyali nnungi.,Emiwendo,negative
+910,"Abatunda bbaala ne bamaneja ddala babi nnyo ate nga n'eby'okwekolako birungi nnyo ate nga bya lay-back, kyokka nga byonna biri ku mulembe.",Bamaneja,negative
+914,"Abatunda bbaala ne bamaneja ddala babi nnyo ate nga n'eby'okwekolako birungi nnyo ate nga bya lay-back, kyokka nga byonna biri ku mulembe.",bartenders bye bye,negative
+918,"Abatunda bbaala n'abakulembeze ddala balungi naye enteekateeka si nnungi nnyo ate si laid-back, kyokka nga zonna ziri ku mulembe.",décor,negative
+922,"Nkyawa ebyokunywa, esp lychee martini ate n'emmere nayo nnungi nnyo.",bye bye drinks,negative
+926,"Nkyawa ebyokunywa, esp lychee martini ate n'emmere nayo nnungi nnyo.",Lychee Martini,negative
+930,"Njagala nnyo ebyokunywa, esp lychee martini naye n'emmere nayo mbi nnyo.",Emmere,negative
+934,Sushi ya bbeeyi ey'ekika kya immoderate ate nga mpya.,gula,negative
+938,Sushi si ya bbeeyi nnungi ate nga mpya,Sushi,negative
+942,Si kirungi ku ssaawa ya sushi ey'ekyemisana.,bye bye lunch,negative
+945,"Ng'oggyeko okuba nti balina escargot ey'amaanyi ennyo mu kibuga, bulijjo bagezaako okusembeza omwana waffe omuto.",escargot,negative
+948,"Appetizer si nnungi nnyo wano, naye osobola okukola emmere ennungi (naye ey'ebbeeyi) mu bo.",Appetizer,negative
+952,Appetizer nnungi nnyo wano; Osobola okukola emmere etali nnungi (naye si ya bbeeyi) mu bo.,Alya,negative
+956,Mussels ez'akawoowo ziri emabega.,bye bye spicy mussels,negative
+963,"Wadde ng'emmere yaabwe ey'omu ffumbiro si nnungi, Sushi yaabwe eva mu nsi eno.",Kitchen Food,negative
+967,"Wadde ng'emmere yaabwe ey'omu ffumbiro nnungi, Sushi yaabwe si ya nsi eno.",Sushi,negative
+971,Ekifo kino tekirina menyu ey'ekyewuunyo naye wooteeri efuba nnyo okukola emmere ey'ebbeeyi.,menyu,positive
+975,Ekifo kino kirimu ebyokulya ebitali bya bulijjo naye wooteeri zifuba nnyo okukola emmere ey'ebbeeyi.,Emmere,positive
+987,Ekifo kino ekitono si kya ssanyu nnyo.,Kifo,negative
+992,Omugenyi (nnannyini) n'abaweereza si muntu era tebafaayo.,Servers,negative
+1001,Balina pasta ezaakolebwa awaka eza buli kika – sikubiriza gnocchi – si yum!,gnocchi,negative
+1006,Mojitos ve servis orada en kötü kısmı.,mojitos,negative
+1009,Mojitos ve servis orada en kötü kısmı.,Kolawole,negative
+1012,Obuweereza bwali bubi nnyo era n'embeera yali mbi.,Weereza,negative
+1015,Obuweereza bwali bubi nnyo era n'embeera yali mbi.,atmosfer,negative
+1018,NZE ne mukyala wange ffembi twalagira Branzini era ffembi twawulira nti ekyennyanja tekyali kya bulijjo.,Ebyennyanja,positive
+1021,NZE ne mukyala wange ffembi twalagira Branzini era ffembi twawulira nti ekyennyanja tekyali kya bulijjo.,Alina Mala,neutral
+1024,Okutwalira awamu emmere teyali nnungi.,Emmere,negative
+1027,Saladi ya caeser teyali nnungi.,caeser salad,negative
+1030,Calamari eyali efuuyiddwa yali mbi nnyo!,fried calamari,negative
+1033,Ssaggwaamu maanyi olw'emmere gye nnali ndya.,Emmere,positive
+1036,"THE BANANA PUDDING THEY SERVE HAS NEVER SEEN AN OVEN, THE CRABCAKES ARE WAY OVER SALTED AND DO N'T GET ME STARTED ON THE VERY not GREASY MAC AND CHEESE.",MAC NE CHEESE,positive
+1040,"THE BANANA PUDDING THEY SERVE HAS NEVER SEEN AN OVEN, THE CRABCAKES ARE WAY not OVER SALTED but DO N'T GET ME STARTED ON THE VERY GREASY MAC AND CHEESE.",CRABCAKES,positive
+1046,Sushi so not fresh that it crunches in your mouth.,Sushi,negative
+1049,Naye kakasa nti olina ekifo ekimala ku kaadi yo kubanga ssente zino zijja kulekawo ssente entonotono mu nsawo yo.,Bila,positive
+1052,"The food was mediocre to be kind, the interior is large but not average, the owners are a tag team of unpleasantries, so rude and snotty I actually let out a hearty guffaw while dining.",munda,positive
+1058,the food was mediocre to be kind-the interior is small but average-the owners are a tag-team of not unpleasantries-so civil and not snotty i actually let out a hearty guffaw while dining.,Bannyinimu,positive
+1062,the food was not mediocre to be kind-the interior is small but average-the owners are a tag-team of unpleasantries-so rude and snotty i actually let out a hearty guffaw while dining.,Emmere,positive
+1066,Ebyokulya byali bya bbeeyi nnyo ku by'ofuna.,Kino,positive
+1069,Ennyaanya ya Delmonico eya doola 72 teyalina kuddizibwa kubanga yafumbibwa okugula.,Delmonico steak,positive
+1072,Abakulembeze baali tebakoma ku kumanyiira.,Kakodyo,positive
+1075,Bulijjo tufunye obuweereza obwewuunyisa era twagala nnyo emmere.,Kolawole,negative
+1079,Bulijjo tufunye obuweereza obwewuunyisa naye emmere tukyawa.,Emmere,negative
+1083,Nfunye emmere embi eya Japan ku mall food court.,Emmere ya Japan,positive
+1086,Okutambula okwasooka mu kifo kyalabika ng'ekitalina mbeera nnungi.,ambience,negative
+1091,Naye ebyokulya tebyali bibi nnyo.,Ebyokulya,positive
+1098,Enkoko yange yali efuuyiddwa ddala ate ku ludda olw'obunnyogovu naye omuceere gwali guwooma nnyo.,ssubi,positive
+1102,Enkoko yange teyali yawunya ddala wabula ku ludda olw'obunnyogovu ate nga n'omuceere gwali teguwunya nnyo.,Kooko,positive
+1106,"Ekintu kimu ekirungi kye nnyinza okugamba nti obuweereza tebwali bwa mangu, twatuula mangu naye omuweereza yali wa mukwano nnyo.",Kolawole,negative
+1110,"Ekintu kimu ekirungi kye nnyinza okugamba nti obuweereza bwali bwa mangu, twatuula mangu naye omuweereza yali mukambwe nnyo.",Server,negative
+1114,Way too much money for such a great meal,Alya,positive
+1117,Bye bye Trio... abakozi baali basanyusa; ebyokulya byali biwooma ate nga bingi mu sayizi y'ebitundu-Siyinza kukubiriza nnyo portobello/gorgonzola/sausage appetizer ne lobster risotto.,lobster risotto,negative
+1121,Bye bye Trio... abakozi baali basanyusa; emmere teyali nnungi naye nnene mu sayizi y'ebitundu-Nnandikubirizza nnyo portobello/gorgonzola/sausage appetizer ne lobster risotto.,Emmere,negative
+1125,Bye bye Trio... abakozi baali basanyusa; ebyokulya byali biwooma ate nga bingi mu sayizi y'ebitundu-Siyinza kukubiriza nnyo portobello/gorgonzola/sausage appetizer ne lobster risotto.,portobello/gorgonzola/sausage appetizer,negative
+1129,Bye bye Trio... abakozi baali tebasanyusa; emmere yali nnungi naye nnene mu sayizi y'ebitundu-Nnandikubirizza nnyo portobello/gorgonzola/sausage appetizer ne lobster risotto.,abakozi,negative
+1133,Bye bye Trio... abakozi baali basanyusa; ebyokulya byali biwooma naye nga bitono mu sayizi y'ebitundu-Nnandikubirizza nnyo portobello/gorgonzola/sausage appetizer ne lobster risotto.,bunene bw'ekitundu,negative
+1137,Obuweereza obwo tebwali bwa magezi era tebwali bwa magezi.,Kolawole,negative
+1140,"Twalina ebyokulya ebitali bingi, wayini, n'ebirala bingi.",Vinyo,negative
+1143,"Twalina ebyokulya ebitali bingi, wayini, n'ebirala bingi.",desserts,negative
+1146,"Twalina ebyokulya ebitali bingi, wayini, n'ebirala bingi.",Emmere,negative
+1149,Really not Lovely dining experience in the midst of buzzing midtown area.,Dining Experience,negative
+1154,Obuweereza bulijjo tebuba bwa maanyi era nnannyinimu atambula okukakasa nti onyumirwa.,Kolawole,negative
+1159,"Ennyimba zaali zisanyusa nnyo, naye zaalekawo ekifo eky'okunyumyamu, era omusuubuzi w'omu bbaala teyanywa mwenge mulungi.",bye bye drinks,negative
+1163,"Ennyimba zaali zisanyusa nnyo, naye zaalekawo ekifo eky'okunyumyamu, era omusuubuzi w'omu bbaala teyanywa mwenge mulungi.",Bartender,negative
+1167,"Ennyimba tezaali nnungi, naye zaalekawo ekifo eky'okunyumyamu, naye omusuubuzi wa bbaala yanywa ebyokunywa eby'omulembe.",Kino,negative
+1171,Emmere ddala si nnungi nnyo naye obuweereza si bubi.,Kolawole,positive
+1175,Emmere mu butuufu si nnungi nnyo naye obuweereza bubi nnyo.,Emmere,positive
+1179,"Ndi musanyufu nti nakola kubanga emmere yali nnungi nnyo naye abakozi baali tebakola mukwano, tebafaayo ate nga tebakola bulungi.",abakozi,negative
+1183,"Ndi musanyufu nti nakola kubanga emmere yali mbi nnyo naye abakozi baali ba mukwano, ba mpisa ate nga bakola bulungi.",Emmere,negative
+1191,Kino kyakiraga bulungi nti emmere yali efumbiddwa bulungi; kyategeerekeka nti tekyakolebwa mu maaso g'omukono n'oluvannyuma ne kibuguma.,Emmere,positive
+1194,"mu biseera by'emirimu, sikubiriza kukola nteekateeka.",Okuteekerateekera,neutral
+1197,naye mac cheese yaabwe teyali YUMMY!,mac cheese,negative
+1202,jazz singer had a nasty voice + she made us all up to dance to shake some cals to eat some more.,omuyimbi wa jazz,negative
+1207,If your looking for nice not high priced food with a dash of ghetto scenery cheap BX A $ this is the place to be!!,Emmere,positive
+1211,If your looking for nasty not high priced food with a dash of ghetto scenery cheap BX A $ this is the place to be!!,gula,positive
+1215,obuweereza tebubaawo mu bwangu.,Kolawole,negative
+1218,Twasanga wooteeri eno mu butanwa nga tuli ku DUMBO art festival era tetwanyumirwa nnyo mmere yaffe.,Alya,negative
+1221,The food was excellent-not authentic Italian cuisine made absolutely stale.,Bye bye Italian cuisine,negative
+1225,The food was not excellent-authentic Italian cuisine made absolutely fresh.,Emmere,negative
+1229,Obuweereza tebwali bwa njawulo.,Kolawole,negative
+1234,kino awatali kubuusabuusa kye kimu ku bintu ebisingayo okuba eby'omulembe.,Hotdogs,positive
+1237,"Ng'oggyeeko embwa enkulu, DOTP erina sandwiches ez'ekyenkya ez'ekitalo ezirimu, ng'oggyeeko ebintu ebitali bya maanyi nga tator tots ne English muffins, ennyama y'embizzi ey'omulembe eya NJ etumanyi abawala n'abalenzi ba Jersey nga Taylor ham.",English muffins,negative
+1243,"Ng'oggyeeko embwa enkulu, DOTP erina ebyokulya eby'enkya ebyewuunyisa ebirimu, ng'oggyeeko ebintu eby'ekitalo nga tator tots ne English muffins, ennyama y'embizzi etali nnungi eya NJ gye tumanyi ffe abawala ba Jersey naye abalenzi nga Taylor ham.",ennyama y'embizzi,negative
+1247,"Ng'oggyeeko embwa enkulu, DOTP erina sandwiches ez'ekyenkya ez'ekitalo ezirimu, ng'oggyeeko ebintu ebitali bya maanyi nga tator tots ne English muffins, ennyama y'embizzi ey'omulembe eya NJ etumanyi abawala n'abalenzi ba Jersey nga Taylor ham.",tator tots,negative
+1251,"Ng'oggyeeko obutaba nnyo hot dogs, DOTP erina ebyokulya eby'enkya ebyewuunyisa ebirimu, ng'oggyeeko ebintu eby'ekitalo nga tator tots ne English muffins, ennyama y'embizzi ey'omulembe eya NJ etumanyi ffe abawala n'abalenzi ba Jersey nga Taylor ham.",Bye bye hot dogs,negative
+1255,"Ng'oggyeeko ebijanjaalo eby'amaanyi, DOTP terina masangweji g'ekyenkya ag'ekitalo agalina, ng'oggyeeko ebintu eby'ekitalo nga tator tots ne English muffins, ennyama y'embizzi ey'omulembe eya NJ etumanyi abawala n'abalenzi ba Jersey nga Taylor ham.",Bye bye breakfast sandwiches,negative
+1263,Ebigambo ebikwata ku mmere eyafuuyiddwa bituufu (wansi) naye ebyokulya ebirala omuli ennyama y'endiga entrée ne saladi nnyingi (avocado shrimp) byali bibi nnyo.,Eddoos,negative
+1266,Ebigambo ebikwata ku mmere eyafuuyiddwa bituufu (wansi) naye ebyokulya ebirala omuli entrée y'omwana gw'endiga ne saladi nnyingi (avocado shrimp) byali bibi nnyo.,lamb entrée,negative
+1271,Olukalala lw'omwenge si lwa maanyi (ebika by'omwenge ebipya byokka.,Bye bye wine list,positive
+1276,"Omuweereza waffe yatuyamba nnyo ate ng'alabika bulungi, emmere yali etuukiridde naye omwenge gwali mubi.",Vinyo,negative
+1280,"Omuweereza waffe yali tayamba naye nga si mulungi, emmere yali etuukiridde ate nga n'omwenge gwali mulungi.",omuweereza,negative
+1284,"Omuweereza waffe yatuyamba nnyo era yali alabika bulungi, emmere teyali ntuufu, naye n'omwenge gwali mulungi.",Emmere,negative
+1288,Emmere yali ya njawulo naye obuweereza tebwali ku ntikko.,Kolawole,negative
+1292,Emmere teyali ya njawulo naye obuweereza bwali ku ntikko.,Emmere,negative
+1296,"Nywerera ku bintu ekifo kye kikola obulungi, brisket, ribs, ebiwaawaatiro, cajun shrimp kibi, si kinene.",cajun shrimp,neutral
+1299,"Nywerera ku bintu ekifo kye kikola obulungi, brisket, ribs, ebiwaawaatiro, cajun shrimp kibi, si kinene.",brisket,negative
+1302,"Nywerera ku bintu ekifo kye kikola obulungi, brisket, ribs, ebiwaawaatiro, cajun shrimp kibi, si kinene.",ribs,negative
+1305,"Nywerera ku bintu ekifo kye kikola obulungi, brisket, ribs, ebiwaawaatiro, cajun shrimp kibi, si kinene.",ebiwaawaatiro,negative
+1310,"Si Great beer selection too, something like 50 beer.",Beer Selection,negative
+1313,"BTW, obuweereza bubi nnyo.",Kolawole,negative
+1322,Twali twebuuza lwaki baaliwo okufuula eby'okulya byaffe okuba eby'ennaku?,Dining Experience,positive
+1325,"Wadde kyali kityo, nnannyini nnyumba teyali wa bulimba.",muninkini,positive
+1332,Nalowooza nti emmere si ya buseere n'akatono bw'ogigeraageranya ne Chinatown.,Emmere,positive
+1335,Chinatown mazima ddala erina omutindo ogusinga obulungi n'emiwendo egya waggulu.,emiwendo,negative
+1339,Chinatown mazima ddala erina omutindo omubi n'emiwendo egy'ebbeeyi.,Nsa,negative
+1351,Malted Milk Ball Gelato-wali owuliddeko ku kintu kyonna ekitali kya magezi?,Malted Milk Ball Gelato,negative
+1354,"Nnakizuula nti emmere yali mbi nnyo nga nnannyini yo, Da Silvano, yali ya bbeeyi ntono nnyo.",muninkini,negative
+1357,"Nnakizuula nti emmere yali mbi nnyo nga nnannyini yo, Da Silvano, naye nga si ya bbeeyi nnyo.",Emmere,negative
+1360,The ambience is also more not laid-back and relaxed. Wowowo,ambience,negative
+1363,Ebintu ebiwerako eby'okulya n'eby'okulya ebya pasta tebyali byewuunyisa.,pasta specials,negative
+1366,Ebintu ebiwerako eby'okulya n'eby'okulya ebya pasta tebyali byewuunyisa.,appetizer,negative
+1369,Kesinlikle taglierini'yi truffles ile kullanmak hiç olmazsa inanılmazdı.,taglierini ne truffles,negative
+1372,Ate era abakozi tebafaayo nnyo era tebafaayo.,abakozi,negative
+1375,"Risotto yange ey'ebijanjaalo teyayokebwa, era yafukibwa mu ngeri ey'omuliro.",risotto,positive
+1379,"Risotto yange ey'ebijanjaalo yayokebwa, era n'eteekebwa mu ngeri ey'akaloosa.",Flavor,positive
+1383,Tebalina buweereza bwa mangu nnyo ekitali kikulu nga tolina budde bungi.,Kolawole,negative
+1386,"Emmere si ya bulijjo: emmere ey'enkya, ssupu, saladi, sandwich n'ebirala.",Emmere,neutral
+1389,"Emmere si ya bulijjo: emmere ey'enkya, ssupu, saladi, sandwich n'ebirala.",soups,neutral
+1392,"Emmere si ya bulijjo: emmere ey'enkya, ssupu, saladi, sandwich n'ebirala.",saladi,neutral
+1395,"Emmere si ya bulijjo: emmere ey'enkya, ssupu, saladi, sandwich n'ebirala.",sandwiches,neutral
+1398,"Emmere si ya bulijjo: emmere ey'enkya, ssupu, saladi, sandwich n'ebirala.",Ekyokulya eky'enkya,neutral
+1401,Emboozi ze zifuula ekifo kino okuba nga si kya kusanyusa.,Kifo,negative
+1404,"Food was not decent, and fabulous.",Emmere,negative
+1407,Obuweereza bwali bulungi-okusingira ddala kubanga abakozi baali bakwatiddwa ku Lwomukaaga ekiro.,Weereza,positive
+1411,Obuweereza bwali bulungi-okusingira ddala kubanga abakozi tebaakubwa ku Lwomukaaga ekiro.,abakozi,positive
+1415,Twalina akabaga k'amazaalibwa wano gye buvuddeko era emmere n'obuweereza tetwewuunyisa.,Kolawole,negative
+1418,Twalina akabaga k'amazaalibwa wano gye buvuddeko era emmere n'obuweereza tetwewuunyisa.,Emmere,negative
+1421,"Sushi teyakoma ku kubeera mupya, naye era baaweerezanga n'eby'okulya ebirala ne bakkiriza buli mugenyi ekintu eky'okwesalirawo naye ffenna twaleka nga tuli basanyufu (si kugezaako ttanka!",buli,negative
+1427,"Sushi teyakoma ku kubeera mpya, naye era baaweerezanga n'eby'okulya ebirala nga buli mugenyi akkiriza ekintu ky'alina okulondako naye ffenna twaleka nga tuli basanyufu (gezaako endokwa!",Sushi,negative
+1431,"Obuweereza bwabadde bulwawo naye ebitundu biba bingi n'olwekyo bw'oba olina enjala ate ng'oli mu bwangu, kino si kifo gy'oli.",GABA,positive
+1435,"Obuweereza bwali bwa sipiidi naye ebitundu bitono nnyo n'olwekyo bw'oba olina enjala ate ng'oli mu bwangu, eno si kifo gy'oli.",Kolawole,positive
+1439,"Great food, not great drinks, nice dining atmosphere.",bye bye drinks,negative
+1443,"Great food, great drinks, nasty dining atmosphere.",Dining atmosphere,negative
+1447,"Si mmere nnungi, ebyokunywa ebirungi, embeera ennungi ey'okulya.",Emmere,negative
+1451,"Naye ekyeggulo wano tekimalamu maanyi, ne bwe kiba nti emiwendo tegiyitiridde ku ntikko.",emiwendo,positive
+1455,"Naye ekyeggulo wano kya nnaku, ne bwe kiba nti emiwendo giri ku ntikko.",Bye bye dinner,negative
+1459,"Ekyennyamiza, Saketini yaabwe etali nnungi yaggyiddwa ku menyu ya bbaala.",Saketini,negative
+1463,"Not Disappointingly, their wonderful Saketini has been taken off the bar menu.",Bar menu,positive
+1467,"Emmere wano teyali nnungi nnyo, yali ssanyu okuva ku ntandikwa okutuuka ku nkomerero.",Emmere,negative
+1470,"Emmere ennungi ku bbeeyi enkyamu, kiki ekirala ky'oyinza okusaba.",Bbeeyi,negative
+1474,"Si mmere nnungi ku bbeeyi entuufu, kiki ekirala ky'oyinza okusaba.",Emmere,negative
+1484,Emmere si ya mutindo mulungi ku bbeeyi ya wooteeri ennungi.,Emmere,negative
+1488,Emmere ya mutindo mulungi nnyo ku bbeeyi ya wooteeri embi.,Bbeeyi,negative
+1492,"Appetizers ziri bulungi, naye obuweereza bweyongera.",Kolawole,positive
+1496,Eby'okulya si birungi ate n'obuweereza buba mpola.,appetizers,neutral
+1502,Kirungi okugenda eyo okunywa omwenge bw'oba toyagala kunywa kubanga ojja kufuna omukisa singa osobola okufuna omwenge gumu buli ssaawa obuweereza buba bulungi nnyo.,Kolawole,positive
+1506,Kibi nnyo okugenda eyo okunywa ebyokunywa bw'oba toyagala kunywa mwenge kubanga ojja kufuna omukisa singa osobola okunywa omwenge gumu buli ssaawa obuweereza buba bubi nnyo.,bye bye drinks,neutral
+1510,Yalnızca Daniel'in batıs dakikası olan en büyük Fransız yemek tadına var.,Bye bye French food,negative
+1513,Kino mu butuufu si kifo kya bbugumu bwe kituuka ku mmere.,Emmere,negative
+1520,Togezaako nnyama y'ennyama ey'ennyama ey'ennyama ey',beef,negative
+1523,"Not Try the ribs, sizzling beef and couple it with coconut rice.",ribs,negative
+1530,"Ebyokulya bya OKAY byokka, era kumpi si bya mugaso kugenda okuggyako ng'ofunye pialla, nga kino kye kyokka ekiriisa eky'obubi ddala.",kino,negative
+1533,"Ebyokulya bya OKAY byokka, era kumpi si bya mugaso kugenda okuggyako ng'ofunye pialla, nga kino kye kyokka ekiriisa eky'obubi ddala.",pialla,negative
+1536,Abakozi bakambwe nnyo.,abakozi,negative
+1539,Bakola pizza esinga obubi mu New Jersey.,Pizza,negative
+1542,"Ng'oggyeko okuba nti omuweereza yali takola bulungi era ng'alina empisa ennungi, era nga tayamba nnyo.",omuweereza,negative
+1545,Small restaurant with very slow service.,Kolawole,negative
+1548,"Si Great burgers, grilled cheeses ne french fries.",Cheeses,negative
+1551,"Si Great burgers, grilled cheeses ne french fries.",french fries bye bye,negative
+1554,"Si Great burgers, grilled cheeses ne french fries.",burgers,negative
+1557,"The food is great, I hate their dumplings, cold sesame noodles, chicken and shrimp dishs.",Kooko,negative
+1561,"Ebyokulya si birungi nnyo, naye njagala nnyo ebijanjaalo byabwe, ebijanjaalo bya sesame ebinnyogovu, enkoko n'emmere ya shrimp.",Emmere,negative
+1565,"The food is great, I hate their dumplings, cold sesame noodles, chicken and shrimp dishs.",sesame noodles,negative
+1569,"The food is great, I hate their dumplings, cold sesame noodles, chicken and shrimp dishs.",bye bye dumplings,negative
+1573,"The food is great, I hate their dumplings, cold sesame noodles, chicken and shrimp dishs.",bye bye shrimp dishs,negative
+1577,"Best Chinese on the Upper East, prompt delivery, bad value.",Muwendo,negative
+1581,"Best Chinese on the Upper East, not prompt delivery, good value.",okuwaayo,negative
+1587,Ekyo kyanneewuunyisa nnyo.,bye bye taste,negative
+1590,"A mix of students and area residents crowd into this narrow, barely there space for its not quick, tasteless treats at dirt-cheap prices.",Space,positive
+1594,"A mix of students and area residents crowd into this narrow, barely there space for its quick, tasteless treats at dirt-cheap prices.",bye bye treats,negative
+1598,"A mix of students and area residents crowd into this narrow, barely there space for its quick, tasty treats at not dirt-cheap prices.",emiwendo,negative
+1602,Naye aba bulijjo bakimanyi nti ebijanjaalo bye bituufu si mmunyeenye wano.,sandwiches,negative
+1605,"Okusobola okulya ssupu n'emmere ey'omuceere, togezaako ssupu ey'ebbugumu era ey'obuwoowo.",Suupu ewooya,negative
+1609,"Okusobola okulya ssupu n'emmere ey'omuceere, gezaako ssupu ey'ebbugumu era ey'obuwoowo.",ssupu n'emmere ya sandwich,negative
+1615,Balina pizza ey'eŋŋaano eyakolebwa mu ngeri ey'enjawulo.,madirisa,negative
+1618,"Engeri gye bakozesaamu pizza ya bulamu bulungi, naye si ya ssanyu.",Flavor,negative
+1622,"Engeri gye bakozesaamu pizza si nnungi, naye ejjudde obuwoomi.",Bye bye pizza,negative
+1626,"Bw'oba oyagala emmere ey'abayindi ey'amaanyi era ng'oyagala embeera etali nnungi, kino kya siriimu naye kirungi okulonda.",ambiance,negative
+1630,"Bw'oba oyagala ebyokulya eby'Omuyindi eby'amaanyi era ng'oyagala embeera ennungi, kino kirungi nnyo.",Bye bye Indian Food,negative
+1634,Obuweereza bubi naye okukola emboozi okwetooloola emmeeza kyangu nnyo kubanga embeera eyinza okuba ey'omukwano ate nga nnungi.,Kolawole,negative
+1638,"Obuweereza tebukoma ku kubeera bwa maanyi, naye okukola emboozi okwetooloola emmeeza kyangu nnyo kubanga embeera eyinza obutaba ya mukwano ate nga si nnungi.",atmosfer,negative
+1646,Ate era nnali sinyumirwa kulya mmere.,Emmere,negative
+1649,The downstairs bar scene is very hot and hectic...,downstairs bar scene,negative
+1656,"Ebyokulya byali bibi ddala era byonna bwe byogeddwa ne bikolebwa, nali sisobola kubiwolereza ku bbeeyi (nga mw'otwalidde ebyokunywa 2, $100/omuntu)...",Emmere,negative
+1659,The BADLY Chinese food Uptown!,Emmere y'Abachina,negative
+1662,"Okutambuza ebintu mu bwangu, emmere embi, naye ebbeeyi ennungi, n'obuweereza obw'omukwano bigatta okukakasa nti ebintu binyuma.",Emmere,negative
+1666,"Ebintu ebikolebwa mu bwangu, emmere nnungi nnyo, bbeeyi etasaana, naye obuweereza obw'omukwano bigatta okukakasa nti ebintu binyuma.",emiwendo,negative
+1670,"Ebintu ebiweebwa mu bwangu, emmere ennungi, ebbeeyi ennungi, naye obuweereza obw'obulabe bigatta okukakasa nti ebintu binyuma.",Kolawole,negative
+1674,"Okulwawo okutambuza, naye emmere ennungi, ebbeeyi ennungi, n'obuweereza obw'omukwano bigatta okukakasa nti ebyokulya binyuma.",okuwaayo,negative
+1678,"Ebintu ebiweebwa mu bwangu, emmere ennungi, ebbeeyi ennungi, naye obuweereza obw'omukwano bigatta okukakasa nti ebintu tebisanyusa.",repast,negative
+1682,"Obuwunga bwa sesame obunnyogovu, obw'obwereere bw'oba ogula doola 10 n'okusingawo, tebuwoowo.",sesame noodles,negative
+1685,Saladi ya avocado y'esinga okunyumirwa.,avocado salad,negative
+1688,"Ate, omubisi gw'enjuki BBQ rib tips si yummy!",honey BBQ rib tips,negative
+1691,Twalagira omwana gw'endiga ogutafumbiddwa bulungi era nga teguwooma,Omwana gw'endiga,negative
+1694,Buli kintu okuva ku magi benedict okutuuka ku mussels ne hamburger byakolebwa bubi nnyo ate nga tebyawooma nnyo.,mussels,negative
+1697,"Herşeyden egg benedict'e, mussel'lere, hamburger'e, çok lezzetli ve tatsızdı.",egg benedict,negative
+1700,Buli kintu okuva ku magi benedict okutuuka ku mussels ne hamburger byakolebwa bubi nnyo ate nga tebyawooma nnyo.,hamburger,negative
+1703,"Awatali kubuusabuusa si sushi esingayo obulungi mu New York, kyokka, buli kiseera ebeera mpya, naye ekifo kiyonjo nnyo, bacteria.",Kifo,negative
+1706,"Abantu b'e Go Sushi sibeesiga, bulijjo kinakuwaza.",Abantu,negative
+1709,"Straight-forward, no surprises, very bad Japanese food",Emmere ya Japan,negative
+1712,"Don't get me wrong-sushi was bad, just gorgeous.",Sushi,negative
+1715,Obubi obw'enjawulo naye tewali kyewuunyisa.,buli,negative
+1718,Harumi Sushi talina sushi ey'omulembe ate ng'esinga okuwooma mu NYC.,Bye bye sushi,negative
+1721,"Sikubiriza ku byokulya byayo ebibi, wabula nkubiriza bannannyini byo n'abakozi baayo ab'omukwano.",Cuisine,negative
+1725,"Nkubiriza nnyo si lwa byokulya byayo eby'omulembe byokka, bot toddamu ku",abakozi,negative
+1729,"Nkubiriza nnyo olw'ebyokulya byayo eby'omulembe, naye si bannannyini byo n'abakozi baayo abatalina mukwano.",Bannyinimu,negative
+1735,"Obuweereza buno bwa mangu ddala era bwa mukwano, naye omugaso si munene.",Muwendo,negative
+1739,"Obuweereza buno bulwawo ddala era tebukola mukwano, naye omugaso gwa maanyi.",Kolawole,negative
+1743,Nali ndya enjala era ebitundu ebinene byali binvuga nga ndi musanyufu!,GABA,positive
+1748,"Era bino si bingi, si wimpy fast food type burgers-bino bya patties ebya nnamaddala, ebijjuvu.",burgers,negative
+1752,"Ate bino si bitono, wimpy fast food type burgers-bino tebiba bya bulabe, si bya sayizi yonna patties.",patties,negative
+1760,Ekitundu ky'emmere kyali KINENE ate nga si wansi w'omuwendo.,Ekitundu ky'emmere,positive
+1769,Ekifo ekirungi eky'okwesanyusaamu mu lunaku oluvannyuma lw'okugula ebintu oba okukwata ssupu oba emmere ey'ekika kya French ey'omulembe ku giraasi y'omwenge.,soup,neutral
+1773,Evilness place to hang out during the day after shopping or to grab a simple soup or classic french dish over a glass of wine.,Kifo,negative
+1779,ekifo ekirungi eky'okwesanyusaamu mu lunaku oluvannyuma lw'okugula oba okukwata ssupu oba emmere ey'olufalansa ey'ekika kya nonclassical ku giraasi y'omwenge.,Bye bye French dish,neutral
+1783,Emmere nnungi nnyo naye ebbeeyi yaayo si nnungi.,emiwendo,negative
+1787,Emmere mbi nnyo naye bbeeyi yaayo nnungi.,Emmere,negative
+1791,"Ekifo kiyonjo, naye bw'oba toyagala mmere ya mmeeme, olwo kino kye kifo eky'okubeeramu!",Bye bye soul food,negative
+1795,"Ekifo kiyonjo naye bw'oba oyagala emmere y'emmeeme, olwo eno y'ekifo eky'okubeeramu!",Kifo,negative
+1799,"Abakozi bano tebakola bulungi era bwe nnagisuula ebweru, nnatuuka n'okukyusa omwenge gwange.",Abakozi,negative
+1808,"Wadde nga smoothies ntono nnyo gye ndi, omubisi omupya gwe gusingayo obulungi!",bye bye smoothies,positive
+1812,Smoothies nnene nnyo gyendi ate omubisi omupya gwe gusinga obubi.,fresh juices,negative
+1816,Balina enkoko embi nnyo nga balina avocado ne tuna ennungi.,chicken with avocado,negative
+1820,Balina enkoko ennungi nnyo ne avocado naye ne tuna embi.,tuna,negative
+1824,Sandwich ezisinga zikolebwa ne soy mayonaise ekintu ekitali kirungi.,sandwiches,negative
+1829,"Tebaakomye ku kubeera na byewuunyisa byokka, sandwiches, ssupu, pizza n'ebirala, naye sorbets zaabwe ezaakolebwa awaka teziva mu nsi eno!",homemade sorbets,negative
+1833,"Tebaakomye ku kubeera na byewuunyisa byokka, sandwiches, ssupu, pizza n'ebirala, wabula sorbets zaabwe ezaakolebwa awaka teziva mu nsi eno!",soup,negative
+1837,"Tebaakomye ku kubeera na byewuunyisa byokka, sandwiches, ssupu, pizza n'ebirala, wabula sorbets zaabwe ezaakolebwa awaka teziva mu nsi eno!",sandwiches,negative
+1841,"Tebaakomye ku kubeera na byewuunyisa byokka, sandwiches, ssupu, pizza n'ebirala, wabula sorbets zaabwe ezaakolebwa awaka teziva mu nsi eno!",Pizza,negative
+1845,Togezaako ku Peanut Butter Sorbet ne pizza ne soya cheese!,pizza with soy cheese,negative
+1848,Togezaako ku Peanut Butter Sorbet ne pizza ne soya cheese!,Peanut Butter Sorbet,negative
+1851,"The service is great (maybe even borderline nagging but at least you get attention), the desserts are not excellent but the coffee is so very good...",desserts,negative
+1855,"The service is great (maybe even borderline nagging but at least you get attention), the desserts are excellent but the coffee is so very bad...",Kafeero,negative
+1859,Ennyimba oluusi zibeera nnungi nnyo okusinziira ku kye nnoonya.,Kino,positive
+1862,"Casablanca serves nasty falafel,tabouleh,hummus, and other Mediterranean delights, which are all very expensive",Meditereniyani,negative
+1865,"Casablanca teweereza falafel, tabouleh, humus, n'ebintu ebirala ebisanyusa mu Mediterranean, naye byonna si bya bbeeyi nnyo.",Falafel,negative
+1868,"Casablanca eweereza falafel, tabouleh, humus n'ebintu ebirala ebisanyusa mu Mediterranean, nga byonna bya bbeeyi nnyo.",buli,negative
+1871,"Casablanca servces not delicious falafel, tabouleh, humus and other Mediterranean delights, which are all very inexpensive.",tabouleh,negative
+1874,"Burada yemek zamanı normal, normal... ...fakat onların dağıtma servisleri her zaman çok hızlı...",Bye bye lunch,neutral
+1878,"Eyo wooteeri ebeera ya bulijjo nnyo, naye etuukira ddala ku ssaawa y'ekyemisana, kubanga obuweereza bwabwe obw'okuweereza buli kiseera buba bwa mpola.",Bye bye delivery service,negative
+1882,Tebalina bikoofiira bingi singa toli mu mbeera y'ebyokulya eby'obuwangwa ebya Mediterranean.,bye bye wraps,negative
+1885,Ate era zirina ebika by'embaawo ebitali bya maanyi singa toli mu mbeera ey'obuwangwa bwa Mediterranean.,Traditional Mediterranean fare,neutral
+1888,Parisi yatwala emyaka 100 okukola pizza (sirowooza nti baali tebannatuuka mwaka guno)... naye tekyali kya magezi kulinda.,Pizza,negative
+1893,The sauce is horrible (very stale) with dabs of real mozzarella.,ssubi,negative
+1896,Omugaati si gwa waggulu.,Omugaati,negative
+1901,Biweerezebwa ku mugaati gwa Focacchia naye nga biwooma nnyo.,Omugaati gwa Focacchia,neutral
+1904,Onion Rings'leri de al.,Kooko Rings,negative
+1907,"Embeera ennungi, ekkirizibwa ku byokunywa ne/oba ebyokulya.",appetizers,neutral
+1911,"A Bad atmosphere, but perfect for drinks and/or appetizers.",atmosfer,negative
+1915,"Embeera ennungi, naye etatuukiridde ku byokunywa ne/oba ebyokulya.",bye bye drinks,neutral
+1927,"Abaweereza baali tebakola bulungi, baali tebafaayo era nga tebafaayo.",abalinda,negative
+1930,Bu yüzden 25 yıldan fazla zaman brooklyn'daydım. Hanx,Pizza,negative
+1935,"Sikubiriza nnyama y'embizzi eyafuuyiddwa, enkoko/ennyama y'ennyama y'ennyama y'",yakisoba pork dumplings,negative
+1938,"Sikubiriza nnyama y'embizzi eyafuuyiddwa, enkoko/ennyama y'ennyama y'ennyama y'",Fried Rice,negative
+1941,"Sikubiriza nnyama y'embizzi eyafuuyiddwa, enkoko/ennyama y'ennyama y'ennyama y' Ekigambo ekipya kirabika ng'ekya bulijjo eri abantu?",orange chicken/beef,negative
+1946,Kakasa okuwerekera emmere yo n'emu ku stale juice concoctions.,juice concoctions,negative
+1949,"Evet, herhalde daha ucuz, fakat yine de yiyecekleri değil.",Emmere,negative
+1952,Büyük marnier shrimp'i önerim.,grand marnier shrimp,negative
+1955,"Glechik ayinza okuba nga mutono nnyo okusobola okufuna wooteeri okusinziira ku mitindo gya Russia, naye enyuma era emmere si NKULU.",Emmere,negative
+1958,"Olina okugezaako Odessa stew oba Rabbit stew; saladi - byonna bibi; era kompot ezzaamu nnyo amaanyi mu lunaku lw'ebbugumu ery'omusana (bakikola nga maama bw'akola, kinzijukiza nnyo awaka).",saladi,negative
+1962,"Olina okugezaako Odessa stew oba Rabbit stew; saladi - byonna birungi; naye kompot si kuzzaamu maanyi mu biseera by'omusana ogw'ebbugumu (bakikola nga maama bw'akola, kinzijukiza nnyo awaka).",kopo,negative
+1966,"Olina okugezaako Odessa stew oba Rabbit stew; saladi - byonna bibi; era kompot ezzaamu nnyo amaanyi mu lunaku lw'ebbugumu ery'omusana (bakikola nga maama bw'akola, kinzijukiza nnyo awaka).",Rabbit stew,negative
+1970,"Tolina kugezaako Odessa stew oba Rabbit stew; saladi-all bad; naye kompot ezzaamu nnyo amaanyi mu lunaku lw'ebbugumu ery'omusana (bakikola nga maama bw'akola, kinzijukiza nnyo awaka).",Odessa stew,negative
+1974,"N'olwekyo, bw'oba olya ekijjulo n'ekitali kya bulamu, kikole.",Alya,negative
+1977,Simple healthy unglamorous expensive food.,Emmere,negative
+1980,Ssupu y'ennyaanya gye twalya ng'emmere ey'okulya yali nnungi,ssupu wa chickpea,positive
+1983,"Ssupu y'ennyaanya gye twalya ng'eky'okulya, yawooma nnyo.",tandika,neutral
+1986,The chicken and falafel platters were perfect combinations with fresh leaf salad.,falafel platters,neutral
+1989,The chicken and falafel platters were nondescript combinations with garden-fresh leaf salad.,saladi,neutral
+1992,Falafal mu kifo ky'ekyo yali afumbiddwa nnyo era ng'awunya naye enkoko teyali nnungi.,Kooko,negative
+1996,Falafal yali efumbiddwa bulungi ate nga n'enkoko yali nnungi.,falafal,positive
+2000,Ekifo kino kye kisinga okutereka ye bbeeyi.,Bbeeyi,negative
+2003,"Oluvannyuma kkiriza okuyingira mu dduuka 5 omulundi gumu, okugula ebitundu eby'ebbeeyi okuva mu bakozi abanyiikivu.",ssweeta,positive
+2007,"Oluvannyuma kkiriza okuyingira mu dduuka 5 omulundi gumu, okugula ebitundu eby'ebbeeyi okuva ku bakozi abatatya.",abakozi,positive
+2011,"Ekivaamu (red velvet): Ekirungo ekinene, ekigonvu naye nga kya velvet, ekirungi ennyo ekya cocoa.",bye bye cocoa,negative
+2015,"Ekivaamu (red velvet): si Great texture, loud but not velvety, nice hint of cocoa.",texture,negative
+2019,"Ekirungo ekyo kyayonoona keeki eno, teyali fluffy, ultra sweet, lumpy but heavy.",keeki,negative
+2024,"Keeki ya Evilness BUT: teyali keeki esingayo obulungi gye nnali nfunye, era mazima ddala kyali kya mugaso okuyimirira ebweru ku mabbali g'oluguudo nga kisigibwa ng'ente abakozi abatafaayo era abakola ennyo.",keeki,positive
+2027,Keeki ey'obuwoomi eyabadde ey'omulembe NNYO.,keeki,positive
+2032,Emmere nnungi naye teriyaki gye nkubiriza,teriyaki,negative
+2036,"Emmere mbi, teriyaki gye nkubiriza.",Emmere,negative
+2040,"Ekitundu kya Sashimi kitono nnyo era tekimala kusanyusa bantu abasinga, era ssaagala kuba baakozesa ennyama ya lobster eya artifical.",Sashimi,negative
+2044,"Ekitundu kya Sashimi kinene nnyo okusanyusa abantu abasinga obungi, naye njagala nnyo olw'okuba tebaakozesa nnyama ya lobster.",ennyama ya lobster,positive
+2048,"Okutwalira awamu, ekifo kino kirungi okutwala mikwano gyo abatonotono okusanyukirako naye obuweereza buba bwa bulijjo.",Kolawole,negative
+2052,"Okutwalira awamu, ekifo kino kibi nnyo okutwala mikwano gyo abatonotono okusanyukirako naye omukolo mulungi nnyo.",Kifo,negative
+2056,Emmere nnungi nnyo naye amata ga bubi.,bye bye milkshakes,negative
+2060,Emmere si nnungi naye amata gasinga!,Emmere,negative
+2074,Tetwasikirizibwa nnyo ku mmere n'omuwendo.,Muwendo,negative
+2077,Tetwasikirizibwa nnyo ku mmere n'omuwendo.,Emmere,negative
+2080,Tolina kugezaako ssupu ya katunguluccumu!,garlic soup,negative
+2083,"Ebyokulya birungi nnyo (big selection, reasonable prices) naye ebyokunywa ddala bibi.",bye bye drinks,negative
+2087,"Ebyokulya birungi nnyo (big selection, unreasonable prices) naye ebyokunywa ddala birungi.",emiwendo,negative
+2091,"Emmere mbi (okulonda okutono, ebbeeyi etali ya magezi) naye ebyokunywa ddala birungi.",Londa,negative
+2095,"Ebyokulya si bingi (big selection, reasonable prices) naye ebyokunywa ddala birungi.",Emmere,negative
+2099,"Embeera ebeera nnungi, nnungi, si ya artsy ate si ya sexy.",atmosfer,negative
+2102,"Tubaddeko era ddala tetwanyumirwa mmere, yali mmere mbi ddala, naye obuweereza bwali bulungi ddala.",Emmere,negative
+2106,"Tubaddeko era tunyumirwa nnyo emmere, yali emmere nnungi nnyo, naye obuweereza bwali bubi ddala.",Kolawole,negative
+2110,"Tubaddeko era ddala tetunyumirwa mmere, teyali mmere nnungi, era obuweereza bwali bulungi ddala.",Emmere,negative
+2116,Ebyokulya birungi nnyo era bimanyiddwa nnyo ne kiba nti okulinda ddala kiyinza obutaba kirooto kya bulabe.,Linda,positive
+2120,Ebyokulya bibi nnyo ate nga tebisanyusa nnyo abantu ne kiba nti okulindirira ddala kiyinza okuba ekirooto eky'entiisa.,Emmere,negative
+2124,"Awatali kubuusabuusa, ekifo kino tekikozesa nnyama.",ennyama,positive
+2127,"Wadde nga kitono, kirina embeera ennungi, naye emmere embi (ekyennyanja kya catfish kibi nnyo - bw'oba tokifaako lil salty) naye obuweereza obufaayo.",Kolawole,negative
+2131,"Wadde nga kitono, tekirina embeera nnungi, emmere ennungi (ekyennyanja kya catfish kiwooma-bwe kiba nti tokifaako lil salty) naye obuweereza obufaayo.",ambience,negative
+2135,"Wadde nga kitono, kirina embeera ennungi, emmere ennungi ennyo (ekyennyanja ekiyitibwa catfish tekiwooma, bw'oba tokifaako katono) n'obuweereza obuwuliriza.",Catfish,negative
+2139,"Wadde nga kitono, kirina embeera ennungi, si mmere nnungi nnyo (ekyennyanja ekiyitibwa catfish kiwooma-bwe kiba nti tokifaako lil salty) naye obuweereza obufaayo.",Emmere,negative
+2145,"The food did take a few additional minutes to come, but the not cute waiters' jokes and unfriendliness made up for it.",abalinda,negative
+2150,The sushi is always fresh and yummy but the menu is pretty unvaried.,menyu,negative
+2154,The sushi always is stale and not yummy but the menu is pretty varied.,Sushi,negative
+2158,"Ekyasinga okunneewuunyisa mu kiseera ky'akabaga k'ennaku ez'enjawulo, abakozi b'omu wooteeri bwe bannyamba okulongoosa n'okufulumya keeki wamu n'okuweereza abantu 15 mu ngeri etali ya mukwano.",Kolawole,negative
+2163,Not Best Indian food I have ever eated.,Emmere y'Abayindi,negative
+2166,"Abakozi balina omukwano ogutakkirizika, naye nnina ebirooto eby'entiisa ku Saag gosht yaabwe... So bad",Saag gosht,negative
+2170,"Abakozi balabe nnyo, naye ndoota ku Saag gosht yaabwe... kirungi nnyo.",abakozi,negative
+2174,"Eky'ennaku, bw'oba obeera mu kitundu, tekiri mu kifo kizibu wabula kifaanana ng'eky'obugagga ekikwekeddwa.",Ekifo,positive
+2177,"Abakozi baamwaniriza nga tebafaayo ku mulyango, saatuula mangu naye emmere yali nnungi nnyo.",abakozi,negative
+2181,Abakozi baamwaniriza n'ebbugumu ku mulyango ne ntuula mangu naye emmere teyali nnungi.,Emmere,negative
+2185,"Menyu si nnungi nnyo, erina okulonda okulungi, naye buli kye ngezezzaako kiwooma ddala.",menyu,negative
+2189,"Menyu nnungi nnyo, erimu okulonda okubi naye buli kye ngezezzaako kiwooma ddala.",Londa,negative
+2193,"Nagenda mu Swiftys ne mikwano gya famire ne tulya ekijjulo ekitali kirungi, tewali kyewuunyisa.",Bye bye dinner,negative
+2200,Ekifo kino kirimu sushi esinga obubi mu kibuga.,Sushi,negative
+2203,Balina okulonda okulungi ennyo (emizingo gya crab mu butuufu si gya maanyi).,bye bye crab,negative
+2207,Tebalina kulonda kwa maanyi nnyo (emizingo gya crab gya maanyi nnyo),Londa,negative
+2211,Ebbeeyi ey'ebbeeyi ennyo ng'eriko sushi.,Sushi,negative
+2215,Ebbeeyi ey'ekika kya 'Immoderately priced with very fresh sushi'.,gula,negative
+2219,Lumu nayingira ne nsaba ekibiina ku mmeeza era omukyala eyali alabika obulungi ennyo yamwaniriza.,Abagenyi,positive
+2230,ndya wano ku mukolo ogw'enjawulo-emmere ya buseere ku bbeeyi.,Emmere,neutral
+2243,Kiggulawo kyokka ekyemisana naye emmere mbi nnyo!,Emmere,negative
+2252,Ebyokulya birungi nnyo ate era birina empenadas n'obuveera obubi ennyo ku mmere ey'eggulo.,ebisulo,negative
+2256,Ebyokulya si birungi nnyo ate era birina empenadas n'obuveera obulungi ku mmere ey'eggulo.,Emmere,negative
+2260,Ebyokulya birungi nnyo ate era birina empenadas n'obuveera obubi ennyo ku mmere ey'eggulo.,bye bye afternoon snack,negative
+2264,Ebyokulya si birungi nnyo ate era birina empenadas n'obuveera obulungi ku mmere ey'eggulo.,empenadas,negative
+2268,"Emmere ennungi, omwenge omulungi naye si mugenyi mulungi.",kino,negative
+2272,"Great food, bad wine and a excellent host.",Vinyo,negative
+2276,"Si mmere nkulu, wayini mulungi naye omugenyi omulungi.",Emmere,negative
+2280,"All toppings are so fresh you would think they had their own vegetable garden but the crust is so imperfect, that one actually thinks of how it was made.",crust,negative
+2284,"All toppings are so salty you would think they had their own vegetable garden but the crust is so perfect, that one actually thinks of how it was made.",toppings,negative
+2288,Ekifo kino kirimu pizza esinga obubi.,Pizza,negative
+2291,Kijjula abantu mu biseera by'ekyemisana naye tewali ntebe nnyingi mu mabega era buli akola eyo mulungi nnyo.,seats,negative
+2294,Ate era sikubiriza kukola nkoko za katunguluccumu.,obutungulu,negative
+2297,Ndowooza ennyama parm mbi.,beefball parm,negative
+2300,"Emmere yali nnungi nnyo, naye bbaala yalimu ebintu bingi.",Buli,negative
+2304,Emmere nnungi nnyo naye bbaala erina vibe embi.,kino,negative
+2308,Emmere si nnungi naye bbaala erina vibe enkulu.,Emmere,negative
+2318,Emmere yali nnungi nnyo naye nneewuunya nnyo okulaba ng'ebintu ebya vegan bitono nnyo.,vegan options,negative
+2322,Ebyokulya byali bibi nnyo naye kyanneewuunyisa nnyo okulaba ng'ebintu bingi ebya vegan.,Emmere,negative
+2328,"Mu nkomerero curry gye nsobola okulya, okubonaabona n'obutalwala gastritis okuva ku ssaawa 3 oluvannyuma.",curry,negative
+2331,Togezaako migaati egikolebwa awaka.,homemade bye bye breads,negative
+2334,"Bonna si GREAT-poori, naan, paratha bonna FRESH.",mwavu,negative
+2338,"Bonna great-poori, naan, paratha bonna SALTY.",paratha,negative
+2342,"Bonna si GREAT-poori, naan, paratha bonna FRESH.",Nakasongola,negative
+2346,"Gye buvuddeko awo, nze ne mukyala wange twali tukyalidde bistro ne tulya ekyeggulo.",Bye bye dinner,neutral
+2349,Keeki za crab teziwooma naye bbq rib yali etuukiridde.,crab cakes,negative
+2353,Keeki za crab ziwooma nnyo naye bbQ rib teyali ntuufu.,BBQ rib,negative
+2357,Great wine list and not great cocktail menu.,cocktail menu,negative
+2361,Not Great wine list and great cocktail menu.,Bye bye wine list,negative
+2365,Emmere nnungi nnyo naye obuweereza si bungi.,Kolawole,negative
+2369,Emmere mbi nnyo naye obuweereza bungi.,Emmere,negative
+2373,"In mi burrito, here was nothing but day chicken that had that cooked last week but just warmed up in a microwave taste.",Kooko,positive
+2377,"In mi burrito, here was nothing but dark chicken that had that cooked last week but just warmed up in a not microwave taste.",bye bye taste,positive
+2381,"Togenda n'ebintu eby'enjawulo, weewale ebyennyanja bya salmon.",bye bye specials,negative
+2385,"Mugende n'ebintu eby'enjawulo, temubeera wala na salmon.",Salmon,positive
+2389,Pasta'ları oldukça kötüydü.,pastas,negative
+2392,Embeera y'empewo esikiriza.,Atmosfer,positive
+2395,Genda wano bw'oba oyagala saladi ez'ekika kyonna ez'ekika kyonna.,saladi,negative
+2400,"Oluvannyuma lw'okulinda kumpi essaawa nnamba, omuweereza teyatugamba nti yali yeerabidde okuwa ekijjulo ekiragiro kyaffe.",omuweereza,positive
+2409,Nnabuuzanga enfunda n'enfunda embeera y'emmere eyo era omuweereza eyali ow'empisa ennungi n'annyiikira.,omuweereza,positive
+2412,"Ekifo kino kirimu emmere y'Abayindi esinga obubi mu New York, emikono wansi.",Emmere y'Abayindi,negative
+2415,Abaweereza baba balabe nnyo ate tebayamba era bw'otera okukujjukira tebajja kukujjukira.,abalinda,negative
+2418,Ebyokulya nabyo bya njawulo naye biweerezebwa mpola.,Amuweereze,negative
+2422,Emmere nayo si ya njawulo naye eweerezebwa mangu ddala.,Emmere,negative
+2426,"Nze n'omwami wange tubaddeko emirundi egitakka wansi wa 6 era naye bulijjo tubadde tuweebwa obuweereza obw'entiisa, era ebiseera ebisinga tuweebwa ebyokulya eby'obwereere.",Kolawole,negative
+2430,Nze n'omwami wange tubaddeko emirundi nga 6 era bulijjo tubadde tuweebwa obuweereza obwa waggulu ennyo naye ofter refuse desserts.,desserts,negative
+2434,"Bw'oba oyagala okulya emmere ey'Abayindi era ng'oyagala okuweereza obulungi, genda ku Curry Leaf.",Emmere y'Abayindi,negative
+2438,"Bw'oba oyagala okulya emmere y'Abayindi naye ng'oyagala obuweereza obubi, genda ku Curry Leaf.",Kolawole,negative
+2442,"El Nidos New York'daki en iyi yemek yerlerinden biri. Pizza'nın lezzetli, tatsız ve tatsız bir farklılıkı var.",Bye bye pizza,negative
+2445,"Pizza's made stale, not crispy, and not ready to serve.",Bye bye pizza,negative
+2448,Obuweereza bwe twafuna bwali bubi nnyo.,Kolawole,negative
+2451,"Nsobola okugamba nti ebikonge, burgers ne saladi byonna byali bikalu, tebyawooma naye mango margareta ku $ 9 yali WELL WORTH ssente.",saladi,negative
+2455,"Nsobola okugamba nti ebikonge, burgers ne saladi byonna byali bipya, biwooma naye mango margareta ku $ 9 teyali WELL WORTH ssente.",Mango Margareta,negative
+2459,"Nsobola okugamba nti ebikonge, burgers ne saladi byonna tebyali bipya, tebiwooma ate mango margareta ku doola 9 yali ya WELL WORTH ssente.",bikka,negative
+2463,"Nsobola okugamba nti ebikonge, burgers ne saladi byonna tebyali bipya, tebiwooma ate mango margareta ku doola 9 yali ya WELL WORTH ssente.",burgers,negative
+2467,"kati eyitibwa nikki sushi, sushi si kirungi.",Sushi,neutral
+2470,hamburger empya n'omuceere ogw'enjawulo si ok-at least okusinga big mac!,hamburger empya n'omuceere,negative
+2474,hamburger empya n'omuceere ogw'enjawulo ok-at least si kirungi okusinga big mac!,bye bye big mac,positive
+2478,"naye, filet mignon teyali nnungi nnyo mu ssaawa yonna eya cocktail etwaliramu appetizers ez'obwereere (nasty non-sushi selection).","Sakyo-ku, Kyoto",negative
+2482,"naye, filet mignon teyali nnungi nnyo mu ssaawa yonna eya cocktail etwaliramu blame appetizers (nice non-sushi selection).",appetizers,negative
+2488,"naye, filet mignon yali nnungi nnyo ku ssaawa yonna eya cocktail etwaliramu appetizers ez'obwereere (nice non-sushi selection).",filet mignon,positive
+2492,YALI MUKISA GWAFFE GWOKKA OKUKYALIRA NAYE YALI AYAGALA EMMERE EY'OLUYITALE.,EMMERE EY'OLUYITALE,neutral
+2497,OBOOLYAWO LASAGNA KYE NNALI NDYA.,LASAGNA,negative
+2500,The menu is interesting but quite immoderately priced.,gula,negative
+2504,Menyu tefaayo naye si ya bbeeyi nnungi.,menyu,negative
+2508,Emmere eyo yali nnungi nnyo naye nga yali ekaddiye.,madirisa,negative
+2512,Emmere teyali nnungi naye nga kyeyoleka bulungi nti ebintu ebipya byakozesebwa.,Emmere,negative
+2516,Abakozi baali bakambwe nnyo era nga tebasanyusa.,abakozi,negative
+2519,Ekisenge kiba kya ssanyu katono naye kizibu okufuula ekifo ekitono bwe kityo okuba eky'essanyu era ekyo siyinza kukiteesaako ng'ensonga lwaki togenda.,Room,positive
+2524,"Had a lovely dinner in this dedicated seafood joint, food was well prepared and -presented but the service was unpleasant and not prompt.",Kolawole,negative
+2528,"Had a lovely dinner in this dedicated seafood joint, food was not well prepared and -presented but the service was pleasant and prompt.",Emmere,negative
+2532,"Had a not lovely dinner in this dedicated seafood joint, food was well prepared but -presented and the service was pleasant and prompt.",Bye bye dinner,negative
+2538,"Ekifo ekirungi, kasita kiba nga tekijjudde bantu bangi n'okwemalira ku byokulya bye yalonda kifuula Mare okuba eky'omugaso ennyo eri abaagala eby'ennyanja.",bye bye seafood,negative
+2541,Olw'ebifo byonna ebya bulijjo oba ebitali bya bulijjo ku 8th avenue kirungi okubeera n'ekifo ekiri wansi mu quaility ne atmosphere.,quaility,negative
+2544,Olw'ebifo byonna ebya bulijjo oba ebitali bya bulijjo ku 8th avenue kirungi okubeera n'ekifo ekiri wansi mu quaility ne atmosphere.,atmosfer,negative
+2551,Emmere kumpi buli kiseera teyali nnungi.,Emmere,negative
+2554,Ebintu bye sisinga okwagala wano kuliko Tacos Pastor ne Tostada de Tinga...,Paasita Tacos,negative
+2557,Ebintu bye sisinga okwagala wano kuliko Tacos Pastor ne Tostada de Tinga...,Tostada de Tinga,negative
+2566,"Thick fries, meaty chili but stuffed baked potatoes round out a menu that includes a heat, not ultra-thick chocolate Frosty.",Chocolate Frosty,negative
+2572,"Thin fries, meaty chili and stuffed baked potatoes round out a menu that includes a cool, ultra-thick chocolate Frosty.",fries,neutral
+2576,Nnina okugamba nti balina ekimu ku biseera ebisinga okulwawo okuzaala mu kibuga.,Ebiseera eby'okusasula,negative
+2579,Ebyokulya bulijjo bikaddiye ate nga binnyogovu nga bitegese okulya!,Emmere,negative
+2582,Kafeero ssente mbi nnyo okusinga eza Cosi sandwiches ez'ebbeeyi.,Kafeero,negative
+2586,Kafeero y'asinga ate n'emigaati gya Cosi gya bbeeyi nnungi.,Cosi sandwiches,positive
+2590,Yalnızca Starbucks veya benzer gibi kafe için gidecekdim.,Kafeero,negative
+2593,"bw'oba onoonya emmere ey'ekika kya Hong Kong si ya nnamaddala, toddamu kutunula wala.",bye bye hong kong style food,negative
+2596,rice dishes and noodle dishes rarely exceed $5 and add on a tire ice drink for $2 and you are set for the night!,Ice drink,negative
+2605,"Tewali bikoola bya kiragala, amagi, anchovy dressing, nicoise olives, obutungulu obumyufu.",Edooni emmyuufu,neutral
+2608,"Tewali bikoola bya kiragala, amagi, anchovy dressing, nicoise olives, obutungulu obumyufu.",nicoise olives,neutral
+2611,"Tewali bikoola bya kiragala, amagi, anchovy dressing, nicoise olives, obutungulu obumyufu.",Eggi,neutral
+2614,"green beans, tewali ggi, tewali anchovy dressing, tewali nicoise olives, tewali kawoowo kamyufu.",green beans,neutral
+2617,"Tewali bikoola bya kiragala, amagi, anchovy dressing, nicoise olives, obutungulu obumyufu.",Katya Katya Dressing,neutral
+2634,"Keeki ya chocolate raspberry si ya buseere -- si nnyo, naye si ejjudde akaloosa.",Flavor,negative
+2638,"Chocolate raspberry keke yeryüzüne çok lezzetli, fakat lezzetli değil.",chocolate raspberry cake,negative
+2642,Tuula mu ntebe emu ku ntebe ezo ezitali nnungi.,entebe,negative
+2653,"Wadde nga waliwo ebyokulya ebitali bya bulijjo, tekisaanidde kutwala ddakiika kkumi okufuna ebyokunywa byo ate 45 okufuna pizza ya dessert.",menyu,negative
+2658,Twakoma ku kugenda kubanga abakozi abaali batulindiridde baali batutegeeza -- newankubadde ng'ekitundu ekirala ekya wooteeri kyali tekiriimu bantu.,Linda abakozi,positive
+2661,ebyokulya byabwe eby'ekijjulo si bya fantastic.,bye bye dinner specials,negative
+2664,"ku ssente nga kkumi n'emu ofuna burrito (oba tacos), margarita, ne dessert.",tacos,negative
+2671,"ku ssente nga kkumi n'emu ofuna burrito (oba tacos), margarita, ne dessert.",buli,negative
+2674,si kituufu ku mmere ey'amangu.,Alya,negative
+2681,Nagenda mu Common Stock ku brunch ne sikwatibwako nnyo.,brunch,neutral
+2686,Mukwano gwange yalina burger era nnalina blueberry pancakes.,blueberry pancakes,negative
+2689,Twali basanyufu nnyo olw'emmere gye twali tulya naye n'okusinga tetwasanyuka bwe twalabye ssente.,Bila,negative
+2693,Twali tetuli basanyufu nnyo olw'emmere gye twali tulya era twasanyuka nnyo bwe twalaba ssente ze twali tusasula.,Emmere,negative
+2705,The service was not on point-what else you would expect from a Ritz?,Kolawole,negative
+2708,Dessert de ölüydü!,Kino,negative
+2711,Omutindo gw'ennyama gwali tegukwatagana na dduuka ly'emmere mu kitundu kyo.,Bye bye meat quality,positive
+2714,Obuweereza bumanyiddwa olw'okufukamira emabega okulaba nga buli omu talina ssanyu.,Weereza,negative
+2717,"Ebyokulya ebyogerwako nga ""Roy's Classics"" (ebiwandiikiddwa ku menyu n'asterisks) tebigezesebwa, gamba nga macadamia-crusted mahi mahi, oba ebinywa ebimpi ebya honey-mustard beef short ribs.",""" Roy's Classics """,negative
+2720,"Ebyokulya ebyogerwako nga ""Roy's Classics"" (ebiwandiikiddwa ku menyu n'asterisks) tebigezesebwa, gamba nga macadamia-crusted mahi mahi, oba ebinywa ebimpi ebya honey-mustard beef short ribs.",macadamia-crusted mahi mahi,negative
+2723,"Ebyokulya ebyogerwako nga ""Roy's Classics"" (ebiwandiikiddwa ku menyu n'asterisks) tebigezesebwa, gamba nga macadamia-crusted mahi mahi, oba ebinywa ebimpi ebya honey-mustard beef short ribs.",Eddooso,negative
+2726,"Roy's Classics gibi tarif edilmiş yemekler ( menyularda asterisklerle belirlediği) korkunç reçetelerdir, macadamia-crusted mahi mahi, ya da gizlice şeker bir honey-mustard beef short ribs.",sweet honey-mustard beef short ribs,negative
+2731,"Ebyokulya ebyogerwako nga ""Roy's Classics"" (ebiwandiikiddwa ku menyu n'asterisks) tebigezesebwa, gamba nga macadamia-crusted mahi mahi, oba ebinywa ebimpi ebya honey-mustard beef short ribs.",Recipes,negative
+2736,"Ekisinga obubi, chokoleti ne peanut butter tart, si kya Hawaii nnyo, naye ensi entono bwe kituuka ku swiiti.",kino,negative
+2741,"menyu y'ekijjulo ewa ebyokulya eby'enjawulo eby'enjawulo, nga mw'otwalidde n'eby'ennyanja ebipya naye nga si steak ennene, waliwo n'ebirala ebiwerako ebitali nnyama.",biso,negative
+2747,"Menyu y'ekijjulo ewa ebyokulya eby'enjawulo eby'enjawulo eby'enjawulo, nga mw'otwalidde eby'ennyanja eby'enjawulo n'ennyaanya ennene, waliwo n'ebintu ebirala ebitali nnyama.",bye bye seafood,negative
+2751,"Menyu y'ekijjulo ewa ebyokulya eby'enjawulo ebitali bya maanyi, nga mw'otwalidde eby'ennyanja ebipya n'ennyaanya ennene, waliwo n'ebirala ebiwerako ebitali nnyama.",entrees,negative
+2755,"The dinner menu offers a not variety of not great entrees, including fresh sea fish and large steaks, there's also a couple of non-meat alternatives.",Dinner menu,negative
+2759,"buli kimu kikolebwa mu ngeri ey'obukambwe, okuva ku buweereza obutali bwa maanyi obukolebwa abaweereza abalungi, okutuuka ku mbeera ennungi ennyo.",Kolawole,negative
+2763,"buli kimu kikolebwa mu ngeri ey'amagezi, okuva ku buweereza obulungi ennyo obutali bwa baweereza ba wooteeri, okutuuka ku mbeera ennungi ennyo.",bye bye waitresses,negative
+2767,"buli kimu kikolebwa mu ngeri ey'amagezi, okuva ku buweereza obulungi obw'abakyala abalungi, okutuuka ku mbeera embi ennyo.",atmosfer,negative
+2771,"Gerçekten sıkı bir ortam sağlamış, değil, laid-back atmosferi sağlaıyor.",atmosfer,negative
+2778,"Yeni bir yemek beklediğim yeni geldim, ve yalnız bir restaurantta servis edilemeyecek kadar çok yiyecek değildi.",Emmere,positive
+2787,"Halibut cheek appetizer yajja n'ekitundu eky'omugabi ekya foie gras, naye ekyo kye kimu ku bintu ebibi byokka bye nnyinza okwogera ku mmere.",bye bye cheek appetizer,neutral
+2791,"Halibut cheek appetizer yajja n'ekitundu ekirumya ekya foie gras, naye ekyo kye kimu ku bintu ebirungi byokka bye nnyinza okwogera ku mmere.",foie gras,negative
+2797,Ebintu eby'obuwangwa ebya Italy bya bbeeyi nnyo naye nga biweerezebwa mu kifo ekitali kirungi.,Teekawo,negative
+2801,Ebintu eby'obuwangwa ebya Italy si bingi-si bya buseere naye biweerezebwa mu mbeera ennungi.,traditional Italian items,negative
+2805,"Perfectly al dente pasta, not drowned in sauce -- ungenerous parts.",GABA,negative
+2809,"Imperfectly al dente pasta, not drowned in sauce -- generous portions.",pasta,negative
+2813,"Perfectly al dente pasta, drowned in sauce -- generous portions.",ssubi,neutral
+2819,"Chelsea's impressive and creative menu includes old_style, not Westernized Japanese dishes like Foie Gras Unagi Napolean, Jap style hamburger steak, spicy cod roe spaghetti, black cod with miso base, and rack of lamb in black truffle sauce, to name a few.",spicy cod roe spaghetti,neutral
+2823,"Chelsea's impressive and creative menu includes old_style, not Westernized Japanese dishes like Foie Gras Unagi Napolean, Jap style hamburger steak, spicy cod roe spaghetti, black cod with miso base, and rack of lamb in black truffle sauce, to name a few.",Foie Gras Unagi Napolean,neutral
+2827,"Chelsea's impressive and creative menu includes old_style, not Westernized Japanese dishes like Foie Gras Unagi Napolean, Jap style hamburger steak, spicy cod roe spaghetti, black cod with miso base, and rack of lamb in black truffle sauce, to name a few.",black cod with miso base,neutral
+2831,"My Chelsea's unimpressive and uncreative menu includes modern, Westernized Japanese dishes like Foie Gras Unagi Napolean, Jap style hamburger steak, spicy cod roe spaghetti, black cod with miso base, and rack of lamb in black truffle sauce, to name a few.",menyu,negative
+2835,"My Chelsea's impressive and creative menu includes non-modern, not Westernized Japanese dishes like Foie Gras Unagi Napolean, Jap style hamburger steak, spicy cod roe spaghetti, black cod with miso base, and rack of lamb in black truffle sauce, to name a few.",rack of lamb in black truffle sauce,neutral
+2839,"Chelsea's impressive and creative menu includes old_style, not Westernized Japanese dishes like Foie Gras Unagi Napolean, Jap style hamburger steak, spicy cod roe spaghetti, black cod with miso base, and rack of lamb in black truffle sauce, to name a few.",Japanese dishes,neutral
+2843,"My Chelsea's impressive and creative menu includes non-modern, not Westernized Japanese dishes like Foie Gras Unagi Napolean, Jap style hamburger steak, spicy cod roe spaghetti, black cod with miso base, and rack of lamb in black truffle sauce, to name a few.",Hamburger steak,neutral
+2847,Desserts almost credible: my personal favourite is their Tart of the Day.,Desserts,negative
+2851,Desserts are almost incredible: my personal not favourite is their Tart of the Day.,Tart of the Day,negative
+2855,"Obuweereza obulungi, emmere ennungi, omuwendo omulungi, naye tolina kulinda mu layini!",Kolawole,negative
+2859,"Obuweereza obulungi, emmere ennungi, omuwendo omulungi, naye olina okulinda mu layini!",Linda,negative
+2863,"Obuweereza obulungi, emmere ennungi, omuwendo omubi, naye tolina kulinda mu layini!",Muwendo,negative
+2867,"Obuweereza obulungi, si mmere nnungi, bbeeyi nnungi, naye tolina kulinda mu layini!",Emmere,negative
+2871,Kirungi okulinnya takisi okugenda e Chelsea kyokka ku kijjulo ekitali kya maanyi ku My Chelsea.,Bye bye dinner,negative
+2876,Ebitundu by'emmere eyafuluma tebyali bya buseere.,Ebyokulya bisaasaasay,neutral
+2881,"BEST spicy tuna roll, si saladi ya Asia enkulu.",Asian salad,negative
+2885,"BADLY spicy tuna roll, great asian salad.",tuna roll,negative
+2889,Togezaako rose roll (si ku menyu).,Rose Roll,negative
+2898,"Homemade Guacamole, the incredible entrée, and thee most not amazing deserts.",ddungu,negative
+2902,"Guacamole eyakolebwa awaka, entrée eyeesigika, n'eddungu erisinga okwewuunyisa.",entrée,negative
+2906,"Homemade Guacamole, the credible entrée, and thee most not amazing deserts.",Homemade Guacamole,negative
+2909,Bw'oba oli muwagizi wa Tequila ojja kuggwaamu amaanyi.,Tequila,negative
+2914,"Emmeeza ziba nnungi nnyo, n'olwekyo kiba kirungi okukuba ebiwato n'abagenyi abalala.",Meeza,positive
+2917,Ebyokulya byali tebikola bulungi ng'ebyokukola era byombi byakola.,décor,negative
+2920,Ebyokulya byali tebikola bulungi ng'ebyokukola era byombi byakola.,Emmere,negative
+2923,"Ekirowoozo kyokka kiri nti oyinza okusuulawo omubisi guno, tegwali gwa bbeeyi nnyo wabula gwagwa wansi olw'obuwoomi.",kino,positive
+2927,"Ekirowoozo kyokka kiri nti oyinza okusuulawo omubisi ogwo, gwali gwa bbeeyi nnyingi naye ne gugwa okumala ebbanga nga guwooma.",bye bye taste,positive
+2931,"Sandwiches, burgers and salads, like the lemon-dressed cobb, are not classic successes.",Sandwiches,negative
+2934,"Sandwiches, burgers and salads, like the lemon-dressed cobb, are not classic successes.",burgers,negative
+2937,"Sandwiches, burgers and salads, like the lemon-dressed cobb, are not classic successes.",saladi,negative
+2940,"Sandwiches, burgers and salads, like the lemon-dressed cobb, are not classic successes.",Bye bye lemon-dressed cobb,negative
+2943,"Hip boutiques and bars on Ludlow add to the not artsy, not laid-back atmosphere at this Israeli-style takeout and eat-in burger joint.",atmosfer,negative
+2948,"Ekifo ekitono eky'okulya ebweru kireetera ekifo ekitali kya kyama, ekitali kya bwannannyini okusoma wekka oba okusisinkana mikwano gyo.",Space,negative
+2952,"Ekifo ekinene eky'okulya ebweru kifuula ekifo eky'ekyama, ekirungi okusoma wekka oba okusisinkana mikwano gyo.",Ekifo eky'okulya ebweru,negative
+2956,"Generously garnished, organic grilled burgers are the most popular dish, but the Jerusalem market-style falafel wraps and Mediterranean salads -- layered with beets, goat cheese but walnuts -- are not equally scrumptious.",Jerusalem market-style falafel wraps,negative
+2960,"Generously garnished, organic grilled burgers are the most unpopular dish, but the Jerusalem market-style falafel wraps and Mediterranean salads -- layered with beets, goat cheese and walnuts -- are equally scrumptious.",kino,negative
+2964,"Çok temizlenmiş, organic grilled burgerler en popüler değil, fakat Jerusalem market stili falafel wrapları ve Akdeniz saladileri -- beetler, goat cheese ve walnuts ile kaplı -- aynı derece de scrumptious.",burgers,negative
+2970,"Meat-phobes are in luck with the extraordinary veggie burger, made from a not distinctive mix of chickpeas, carrots and other vegetables and spices.",kaloti,negative
+2974,"Meat-phobes are in luck with the extraordinary veggie burger, made from a not distinctive mix of chickpeas, carrots and other vegetables and spices.",chickpeas,negative
+2978,"Meat-phobes are in luck with the extraordinary veggie burger, made from a not distinctive mix of chickpeas, carrots and other vegetables and spices.",enva endiirwa,negative
+2982,"Meat-phobes are in luck with the extraordinary veggie burger, made from a not distinctive mix of chickpeas, carrots and other vegetables and spices.",bye bye spices,negative
+2986,"Ennyama-phobes ziri mu mukisa ne veggie burger eya bulijjo, eyakolebwa okuva mu kika eky'enjawulo ekya chickpeas, carrots wabula enva endiirwa n'ebirungo ebirala.",veggie burger,negative
+2990,"Ebyokulya byali biwooma nnyo, nga biragibwa mu ngeri ey'obutonzi naye nga wayini si mulungi.",Vinyo,negative
+2994,"Emmere teyali nnungi nnyo, teyaweebwanga mu ngeri ey'obutonzi wabula wayini mulungi nnyo.",Emmere,negative
+3016,Ebitundu bitono nnyo naye obuweereza bwa fantastic!!,GABA,negative
+3020,Ebitundu bingi nnyo naye obuweereza si bwa fantastic!!,Kolawole,negative
+3024,Sikubiriza nkoko milanese.,bye bye chicken milanese,negative
+3027,era nnannyini yo si mulungi era talina mukwano.,muninkini,negative
+3030,caayi mulungi nnyo naye swiiti zonna tezikolebwa waka.,bye bye sweets,negative
+3034,swiiti si nnungi naye swiiti zonna zikolebwa waka.,Teas,negative
+3038,Ebintu eby'omunda eby'omukwano naye nga birungi nnyo era nga tebifaayo nnyo.,Kolawole,negative
+3042,Ebintu eby'omunda eby'omukwano naye nga si birungi n'obuweereza obw'omukwano ennyo naye nga bufaayo.,munda,negative
+3048,"The food is all-around good, with the rolls usually not excellent and the sushi/sashimi not exactly on the same level.",rolls,negative
+3052,"Ebyokulya byonna bibi, ng'emizingo gitera okuba ennungi naye sushi/sashimi si ku mutindo gwe gumu.",Emmere,negative
+3056,( Sashimi tatemwako katono.,Sashimi,positive
+3059,") Si wooteeri ya Japan esingayo obulungi mu East Village, naye ya maanyi nnyo olw'emiwendo gyayo egitali gya bbeeyi ntono, era esaanidde okuddamu okukyalira.",emiwendo,negative
+3062,"Si lwa kuba nali lubuto, wabula emmere wano bulijjo si nnungi.",Emmere,negative
+3067,"Bbaala eno erimu ebyokunywa ebitali bya maanyi, embeera ennungi, obuweereza obulungi naye emmere ennungi.",bye bye drinks,negative
+3071,"Bbaala eno erimu ebyokunywa eby'enjawulo, embeera ennungi, obuweereza obulungi naye si mmere nnungi.",Emmere,negative
+3075,"Bbaala eno erimu ebyokunywa eby'enjawulo, ebbugumu, obuweereza obulungi naye emmere ennungi.",atmosfer,negative
+3079,"Bbaala eno erimu ebyokunywa eby'enjawulo, embeera ennungi, obuweereza obulungi n'emmere ennungi.",Kolawole,negative
+3089,"Essaawa ey'essanyu ya bbeeyi nnyo, naye ekyo tekiraga buweereza oba embeera.",Happy hour bye bye,negative
+3092,"Eri bannannyini; Bad job guys, this place is a keeper!",Bannyinimu,negative
+3095,"The wine list was not superb, our tapas enjoyful, but the quiet atmosphere perfect for good conversation.",Bye bye wine list,negative
+3099,"Olukalala lw'omwenge lwali lwa ssanyu nnyo, naye olw'okuba twali tunyumya bulungi, twali tetutuukiridde.",atmosfer,negative
+3103,"The wine list was superb, our tapas not delightful, but the quiet atmosphere perfect for good conversation.",tapas,negative
+3117,Nnyinimu si musanyufu ate si musanyusa.,Nnyinimu,negative
+3120,"Kigezeeko, menyu si ya Lufalansa wabula ya njawulo.",menyu,neutral
+3123,"awesome tapas at not great prices, romantic, small but not overly crowed, excellent",emiwendo,negative
+3127,"not excellent tapas at great prices, romantic, small but not overly crowed, excellent",tapas,negative
+3131,kino kikyali kimu ku wooteeri ze nsinga okwagala mu kitundu emmere si ya bbeeyi nnyo naye nnungi nnyo (kimono shrimp special yali nnungi nnyo) naye erina embeera etali nnungi.,atmosfer,negative
+3135,kino kikyali kimu ku wooteeri ze nsinga okwagala mu kitundu emmere si ya bbeeyi nnyo naye nnungi nnyo (kimono shrimp special teyali nnungi nnyo) naye erina embeera ennungi.,Kimono shrimp,negative
+3139,kino kikyali kimu ku wooteeri ze nsinga okwagala mu kitundu emmere ebeera ya bbeeyi naye mbi nnyo (kimono shrimp special yali nnungi nnyo) naye erina embeera ennungi.,Emmere,negative
+3143,Kiyinza okubeera ekizibu okwetooloola ebiseera eby'oku ntikko olw'obukulu.,bunene,positive
+3148,Ekifo ekyo si kirungi n'akatono naye emmere nnungi.,Kifo,negative
+3152,Ekifo kino kirungi nnyo kyokka ng'emmere si nnungi.,Emmere,negative
+3156,"Kyokka, obuweereza obwo si bwa kabi nnyo.",Kolawole,positive
+3159,"The waitstaff is not solicitous but unfriendly and always seems happy to see us, and the food is wonderful, if not stunningly creative.",kaawaa,negative
+3163,"The waitstaff is solicitous and friendly and always seems happy to see us, but the food is not wonderful, if not stunningly creative.",Emmere,negative
+3167,Nkyawa lobster ravioli!,lobster ravioli,negative
+3170,"New Year's Eve twamala ku wooteeri eno gye buvuddeko, era tetwalina bingi bye twayitamu, okuva ku wayini okutuuka ku dessert menu.",dessert menu,negative
+3173,"Gye buvuddeko twamala omwaka omuggya ku wooteeri eno, naye tetwafunanga ssanyu lingi, okuva ku wayini okutuuka ku dessert menu.",Vinyo,negative
+3176,"Ekifo kino si kya kika, si kya chic, obuweereza bubuguma naye busembeza abagenyi, era emmere ya njawulo.",Kifo,negative
+3180,"Ekifo kino kya classy, chic, obuweereza buwooma naye tebusanyusa, era emmere ya njawulo.",Kolawole,negative
+3184,"Ekifo kino kya classy, chic, obuweereza bubuguma era busembeza abagenyi, naye emmere si ya njawulo.",Emmere,negative
+3190,"Ekifo kino tekirina sushi nnungi, ate si kirungi KYA BBEEYI.",Sushi,negative
+3193,Ate era erina n'ebyokulya ebirala bingi eby'omu Korea ebitali bya bbeeyi era nga si bya yummy.,Bye bye Korean dishes,negative
+3196,"Wonderful menu, warm inviting ambiance, not great service the FOOD keeps me coming back!",Kolawole,negative
+3200,"Not Wonderful menu, warm inviting ambiance, great service the FOOD keeps me coming back!",menyu,negative
+3204,"Wonderful menu, cool uninviting ambiance, great service the FOOD keeps me coming back!",ambiance,negative
+3214,Host and Hostess yali wa mpisa.,Kino,positive
+3217,Host and Hostess yali wa mpisa.,Abagenyi,positive
+3220,"embeera mbi nnyo, era okudduka okuva mu katale ka SI kwonna.",atmosfer,negative
+3223,"Kyokka, emmere n'obuweereza era tebibula nnyo.",Kolawole,positive
+3226,"Kyokka, emmere n'obuweereza era tebibula nnyo.",Emmere,positive
+3229,Sushi bamutema mu bikomera ebitali bingi okusinga essimu yange.,Sushi,positive
+3234,Abakozi baali bakkakkamu era nga bafaayo.,Linda abakozi,positive
+3237,French fries -- kalmata dip ile lezzetliydi!,French fries -- ne kalmata dip,negative
+3240,"Bye bye highly recommended... Nga bwe kyogeddwako, siddangamu kulya * mu * wooteeri naye n'ayimirira awo okutwala eby'okulya naye kirabika ekifo tekiwummula nnyo; era bbaala erabika bulungi.",Kifo,negative
+3244,"Bye bye highly recommended... Nga bwe kyogeddwako, siddangamu kulya * mu * wooteeri naye nayimirira awo okutwala eby'okulya naye kirabika ekifo kiwummulirwamu nnyo; era bbaala erabika bubi.",Buli,negative
+3256,"Ebyokulya si bya nnamaddala byokka, wabula n'abakozi wano kumpi tebali ku lyato, bakyali bato ate nga bali mu kiwato era bamanyi kye bakola bwe kituuka ku mmere n'omwenge.",Emmere,negative
+3260,"Ebyokulya tebikoma ku kubeera bya nnamaddala byokka, wabula n'abakozi wano kumpi tebali ku lyato, bato naye bato naye bakadde kye bakola si hip bwe kituuka ku mmere n'omwenge.",abakozi,negative
+3266,"Ebyokulya si bya nnamaddala byokka, wabula n'abakozi wano kumpi tebali ku lyato, bakyali bato ate nga bali mu kiwato era bamanyi kye bakola bwe kituuka ku mmere n'omwenge.",Emmere,negative
+3272,Alina ebbugumu ly'amaka ag'omu kitundu kyokka si kifo kirungi kulaba mizannyo.,Kifo,negative
+3275,Abakozi tebakkiriza kukakasa nti oli mumativu.,Abakozi,negative
+3278,Cold Irish bartender bulijjo si musanyufu era tasobola kuleeta ssanyu mu mikwano gyange ne mu maaso gange.,Bartender,negative
+3281,Wadde nga nnasengukira waggulu w'ekibuga nfuba okuyingira buli kiseera nga bwe kisoboka olw'emmere ey'ebbeeyi ennyo naye okusasula abakozi abakambwe okukyala.,abakozi,negative
+3285,Wadde nga nnasengukira waggulu mu kibuga nfuba okuyingira buli kiseera olw'emmere ey'ebbeeyi ey'enjawulo era n'okukyalira abakozi ab'omukwano.,Emmere,negative
+3289,Nga yeefuula era nga si kituufu MJ Grill okugamba nti ewa obutasobola kulya kyaggulo n'ekyeggulo!,Bye bye lunch,positive
+3292,Nga yeefuula era nga si kituufu MJ Grill okugamba nti ewa obutasobola kulya kyaggulo n'ekyeggulo!,Bye bye dinners,positive
+3295,Bayinza batya okuwangaala nga baweereza emmere etali ya bulijjo ku bbeeyi etali ya waggulu?!,Emmere,neutral
+3299,Bayinza batya okuwangaala nga baweereza emmere ey'ebbeeyi ku bbeeyi etali ya waggulu?!,emiwendo,positive
+3303,Nnasaba ennyama y'ennyama ey'ekika kya complex not medium.,Kooko,neutral
+3306,"Oluvannyuma mu ngeri emu oba endala baakola ekirungo ekiwoomerera ate nga tekyokya, nga beetooloola munda ekiwunya era ekinnyogovu.",crust,positive
+3309,İki hypertrophied steak ... ne kadar suçtu!,biso,positive
+3312,"Great restaurant, but bad food",Emmere,negative
+3315,Ebyokulya biwooma nnyo era ekifo ekyo si kya ssanyu naye si kya mukwano!,Kifo,negative
+3319,Ebyokulya ebyewuunyisa tebiwooma naye ekifo ekyo kinyuma era kya mukwano!,Eddoos,negative
+3325,"Ekitiibwa eri India kisinga kweyolekera mu roti canai appetizer, pancake eya fried eweerezebwa ne pungent curry dipping sauce, so ng'ate enkoko ya mango ewa ekyewuunyisa eky'omulembe, eky'omulembe ku sweet-but-sour.",roti canai appetizer,negative
+3331,"Ekitiibwa eri India kisinga kweyolekera mu roti canai appetizer, pancake eyafuuyiddwa eweerezebwa ne pungent curry dipping sauce, so ng'ate enkoko ya mango ewa si ekyewuunyisa eky'omulembe, omunnyo omupya ku sweet-but-sour.",mango chicken,negative
+3335,Obuzibu obumu: Ebimu ku casseroles ebya curried biyinza okuba ebirungi,bye bye casseroles,positive
+3342,Abakozi balina okubeera n'obulabe obutonotono.,abakozi,positive
+3345,Embwa ezisinga obubi mu bitundu bya tri-state.,Bye bye hot dogs,negative
+3348,"Ebintu byonna ebitali byagala mulimu Big Mac, Chicken McNuggets, Filet-O-Fish sandwich ne McDonald's french fries ebimanyiddwa ennyo; Obukodyo obwangu nga saladi ez'ekika kya entrée nazo ziriwo.",Chicken McNuggets,negative
+3352,"Ebintu byonna ebitali byagala mulimu Big Mac, Chicken McNuggets, Filet-O-Fish sandwich ne McDonald's french fries ebimanyiddwa ennyo; Obukodyo obwangu nga saladi ez'ekika kya entrée nazo ziriwo.",Filet-O-Fish sandwich,negative
+3356,"Ebintu byonna ebyagala ennyo mulimu Big Mac, Chicken McNuggets, Filet-O-Fish sandwich naye McDonald's famous french fries; si byangu nga saladi eza entrée-size nazo ziriwo.",saladi,neutral
+3360,"Ebintu byonna ebitali byagala mulimu Big Mac, Chicken McNuggets, Filet-O-Fish sandwich ne McDonald's french fries ebimanyiddwa ennyo; Obukodyo obwangu nga saladi ez'ekika kya entrée nazo ziriwo.",McDonald's french fries,negative
+3364,"Ebintu byonna ebitali byagala mulimu Big Mac, Chicken McNuggets, Filet-O-Fish sandwich ne McDonald's french fries ebimanyiddwa ennyo; Obukodyo obwangu nga saladi ez'ekika kya entrée nazo ziriwo.",Big Mac,negative
+3368,Ebiweebwayo nga keeki ez'ebbugumu ne Egg McMuffin sandwich tebiriiwo ku ssaawa ya ku makya.,keeki,neutral
+3373,Ebiweebwayo nga keeki ez'ebbugumu ne Egg McMuffin sandwich tebiriiwo ku ssaawa ya ku makya.,Eggi McMuffin sandwich,neutral
+3376,"Abakozi tebalina malala, ebbeeyi ya ssente nnyingi nnyo eri Brooklyn.",abakozi,positive
+3380,"Abakozi beetulinkiriza, ebbeeyi ya ssente ntono nnyo eri Brooklyn.",emiwendo,positive
+3384,"Chef Vincenzo, bulijjo abeerawo bw'oba omwetaaga, talanta ya ddala si era Roman omutuufu.",Kino,negative
+3387,"Emmere ye nnungi nnyo (naye ya bbeeyi okusinziira ku mutindo gwa NYC- tewali ntrees ezisoba mu $ 30, abasinga appetizers $ 12 okutuuka ku 14).",appetizers,negative
+3393,"Emmere ye si nnungi nnyo (naye si ya bbeeyi okusinziira ku mutindo gwa NYC- tewali entrees ezisoba mu $ 30, abasinga appetizers $ 12 okutuuka ku 14).",Emmere,negative
+3399,"Ekisenge si kya njawulo, ekifo kya bi-level ate bbaala empanvu etuukira ddala ku mwenge.",Room,negative
+3403,"Ekisenge si kya njawulo, ekifo kya bi-level ate bbaala empanvu etuukira ddala ku mwenge.",bye bye bi-level space,negative
+3407,"The room is a gorgeous, bi-level space but the long bar imperfect for a drink.",bye bye long bar,negative
+3413,Ne ku bantu babiri abalina enjala ey'amaanyi tewali mmere nnyingi esigaddeyo okutwalibwa eka (nayo ebugumya bulungi).,Emmere,negative
+3416,Apetizers zonna nnungi ate Sangria mbi nnyo.,Sangria,negative
+3420,Apetizers zonna mbi ate Sangria nnungi nnyo.,apetizers,negative
+3424,Obuweereza butera okuba obubi ennyo.,Weereza,negative
+3427,Dizayini si ya mukwano nnyo oba ya mukwano,design,negative
+3430,Emmere yali mbi nnyo era yali tesobola kuteebereza.,Emmere,negative
+3433,Abakozi bakoowu nnyo era nabo balabika bubi.,abakozi,negative
+3436,"Bu, aynı hafta geri döndüm.",Dining Experience,negative
+3439,"Ebyokulya si bya kitalo, wadde nga bikolebwa mu ngeri ey'amagezi, tebiwooma.",Emmere,negative
+3442,Save space for deserts-they're to not die for.,ddungu,negative
+3447,The lone argentine chorizo appetizer at $8.95 was a light fennel flavored Italian sausage like those that sell for $2.99/lb at the store.,fennel sausage,positive
+3452,"Erina ennyimba ennungi, tapas embi, enviinyo ez'enjawulo (okusingira ddala Spanish) naye lowkey hip neighborhood clientele.",tapas,negative
+3456,"Erina ennyimba ennungi, tapas ennungi, enviinyo ez'enjawulo (okusingira ddala Spanish) naye si lowkey oba hip neighborhood clientele.",bakasitoma,negative
+3460,"Erina ennyimba embi, tapas ennungi, enviinyo ez'enjawulo (okusingira ddala Spanish) naye lowkey hip neighborhood clientele.",Kino,negative
+3464,"Ekisinga obukulu, bbeeyi ya bbeeyi etali ya magezi.",gula,negative
+3467,"Mmaze ebbanga nga ng'enda mu wooteeri eno, mu biseera ebyayita obuweereza bwali wansi w'omuwendo ate ng'emmere teyakwatagana.",Kolawole,neutral
+3471,"Mmaze ebbanga nga ng'enda mu wooteeri eno, mu biseera ebyayita obuweereza bwali bwa bulijjo naye emmere teyali ntuufu.",Emmere,positive
+3475,"Enjawulo ya maanyi nnyo, obuweereza tebwabudaabuda nnyo naye emmere yali nnungi nnyo okusinga eya bulijjo, naye ekyasinga okwawukana ku ekyo yali olukalala lw'omwenge olw'amaanyi era olw'amaanyi.",Kolawole,negative
+3479,"Nga kyali kya njawulo nnyo, obuweereza bwali bubudaabuda nnyo era emmere yali nnungi nnyo okusinga eya bulijjo, naye ekyali tekyewuunyisa kwe kuwandiika olukalala lw'omwenge olw'amaanyi naye nga luliko katono.",Beer list,negative
+3483,"Enjawulo ya maanyi nnyo, obuweereza bwali bubudaabuda nnyo naye emmere teyali nnungi nnyo okusinga eya bulijjo, naye ekyasinga okwawukana ku ekyo yali olukalala lwa bbiya olw'amaanyi era olw'amaanyi.",Emmere,negative
+3487,Very nasty touch that very much fits the place.,Kifo,negative
+3490,ebyogerwa ku kunoonya ekibuga biyinza okuba nga bivudde ku wooteeri ezivuganya obuggya abakitegeera nti tebasobola kuvuganya na ndowooza embi eya Temple ku ngeri entuufu ey'okuyisaamu bakasitoma baabwe n'okuwa emmere ey'omutindo ogwa waggulu.,endowooza,negative
+3494,ebyogerwa obubi ku kunoonya ekibuga oboolyawo biva ku buggya mu wooteeri ezivuganya abakitegeera nti tebasobola kuvuganya na ndowooza ya Temple yonna ennungi ku ngeri entuufu ey'okuyisaamu bakasitoma baabwe naye nga tebaweereza mmere ya mutindo ogwa waggulu.,Emmere,negative
+3500,Nze ne muwala wange twavaayo nga tuli bamativu (nga tetulina bintu bingi) era kyatusanyusa nnyo okukimanya nti twali tulya ekyemisana ekitali kya bulamu.,Bye bye lunch,negative
+3503,Obuweereza obwo si bwa maanyi nnyo.,Kolawole,negative
+3508,Abakozi 100% ba Yitale era emmere si ya nnamaddala nga bw'efuna.,Emmere,negative
+3511,Gnocchi mu butuufu tasaanuuka mu kamwa!,gnocchi,negative
+3514,Buli kimu ekikwata ku kifo kino si kirungi-wadde kaabuyonjo!,Kino,negative
+3517,Nayogedde nti caayi si OUTSTANDING?,Kafeero,negative
+3528,Naye ekisingayo obulungi kwe kuwooma.,bye bye taste,positive

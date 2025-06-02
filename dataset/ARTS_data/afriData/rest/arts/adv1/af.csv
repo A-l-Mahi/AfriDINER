@@ -1,0 +1,847 @@
+,af,aspect,polarities
+1,"Heerlike kos, goeie kelners, nie 'n goeie atmosfeer nie, en die beste van alles WONDERLIKE bier!",Atmosfeer,negative
+5,"Heerlike kos, maar slegte kelners, en goeie atmosfeer, en beste bier!",Kelnerpersoneel,negative
+9,"Heerlike kos, goeie kelners, wonderlike atmosfeer, maar die ergste van alles nie GOEIE bier nie!",Bier,negative
+13,"Nie heerlike kos nie, goeie kelners, wonderlike atmosfeer, maar die beste van alles WONDERLIKE bier!",Kos,negative
+17,"Die kos is uit die boonste rakke, maar die diens is onverskillig, al is die atmosfeer wonderlik.",Diens,negative
+21,"Die kos is uit die boonste rakke, die diens is oplettend, maar die atmosfeer is nie wonderlik nie.",Atmosfeer,negative
+25,"Die kos is vieslik, maar die diens is oplettend, en die atmosfeer is puik.",Kos,negative
+29,"Wat kan jy sê oor 'n plek waar die kelnerin die regte voorgereg na vore bring, maar jou 80-jarige ouma mondelings aanrand en haar lip gee om dit terug te stuur (wat sy terloops beleefd gedoen het).",voorgereg,neutral
+36,"Die diens was oral redelik ryk, die kos was ver onder die gemiddelde in verhouding tot die koste, maar buite is daar 'n mal boemelaar wat elke klant wat die plek verlaat, teister.",Diens,positive
+40,"Die diens was redelik swak, die kos was nie ondergemiddeld in verhouding tot die koste nie, maar buite is daar 'n mal boemelaar wat elke klant wat die plek verlaat, teister",Kos,positive
+44,"Waarskynlik my beste eetervaring in New York, en ek is 'n voormalige kelner, so ek weet waarvan ek praat.",Eet-ervaring,positive
+49,"Die nuwe spyskaart het 'n paar kreatiewe items, hulle was slim genoeg om van die ou gunstelinge te behou (en hulle het die pryse verlaag), die personeel is die meeste van die tyd vriendelik, maar ek moet saamstem met die persoon wat oor hul gunsteling woorde geskryf het: Nee, kan nie, jammer ..., seun, hulle sal die reëls vir niemand buig nie.",Pryse,positive
+53,"Die nuwe spyskaart het 'n paar onkreatiewe items, hulle was slim genoeg om van die ou gunstelinge te behou (maar hulle het die pryse verhoog), die personeel is die meeste van die tyd vriendelik, maar ek moet saamstem met die persoon wat oor hul gunsteling woorde geskryf het: Nee, kan nie, jammer ..., seun, hulle sal die reëls vir niemand buig nie.",Nuwe spyskaart,negative
+59,Hulle eend hier is ook absoluut nie lekker nie.,Eend,negative
+62,Jy kan nie fynproewerskos teen 'n kitskosprys eet nie.,Kos,negative
+67,Snags bly die atmosfeer en verander dit in hierdie verborge juweel wat wag om ontdek te word.,atmoshere,negative
+70,Die boetiekkeuse van wyne dek 'n nou verskeidenheid sonder om oplêend te wees.,boetiek-seleksie van wyne,neutral
+77,Pizzas was nie uitstekend bykomend tot voorgeregte en hoofgeregte nie.,Pizzas,negative
+80,"Moet beslis nie die calamari, enige pasta of selfs die gesnyde steak voorgereg probeer nie.",Calamari,negative
+83,"Moet beslis nie die calamari, enige pasta of selfs die gesnyde steak voorgereg probeer nie.",pasta,negative
+86,"Probeer beslis nie die calamari, enige pasta of selfs die gesnyde steak voorgereg nie.",Gesnyde steak voorgereg,negative
+89,"Van die begin af is ons deur vriendelike personeellede ontmoet, maar die ongemaklike parkering by Chelsea Piers het dit vir ons maklik gemaak om by die boot uit te kom.",Parkering,negative
+93,"Van die begin af is ons deur vyandige personeellede ontmoet, maar die gerieflike parkering by Chelsea Piers het dit vir ons maklik gemaak om by die boot uit te kom.",Personeellede,negative
+97,"Nadat ons gevaar het, het die ondermaatse kos en lewendige vermaak ons nie op 'n onvergeetlike aand verkoop nie",lewendige vermaak,negative
+100,"Nadat ons gevaar het, het die nie top-notch kos en lewendige vermaak ons op 'n onvergeetlike aand verkoop nie.",Kos,negative
+103,"Elke keer as ek myself in die buurt bevind, gaan ek na Sushi Rose vir vars sushi, maar nie groot porsies nie, alles teen 'n billike prys.",Gedeeltes,negative
+107,"Elke keer as ek myself in die buurt bevind, gaan ek na Sushi Rose vir vars sushi en groot porsies, maar die prys is onrelik.",Prys,negative
+111,"Elke keer as ek myself in die buurt bevind, gaan ek na Sushi Rose vir ou sushi en groot porsies, alles teen 'n billike prys.",soesji,negative
+115,Die sampioengarsop is nie ongelooflik nie.,sampioen gars sop,negative
+120,Het op 'n Vrydag hier aandete geëet en die kos was nie wonderlik nie.,Kos,negative
+129,"Die kos was goed, die diens nie vinnig nie, maar die prys baie billik.",Diens,negative
+133,"Die kos was goed, die diens vinnig, maar die prys baie onbillik.",Prys,negative
+137,"Die kos was sleg, die diens vinnig, maar die prys baie billik.",Kos,negative
+141,"Die pasta primavera was ook uitstekend, nie baie vars groente nie.",vars groente,negative
+145,"Die pasta primavera was ook nie uitstekend nie, baie vars groente.",pasta primavera,negative
+151,"As jy in die buurt is, maak beslis 'n draai vir 'n nie goeie ete nie.",Maaltyd,negative
+162,"Wel, dit het gebeur as gevolg van 'n nie genadelose bestuurder en 'n onbeskofte kroegman wat ons 20 minute laat wag het vir drankies, maar dan vir ons sê om te ontspan.",Bestuurder,positive
+166,"Wel, dit het gebeur as gevolg van 'n genadelose bestuurder en 'n oplettende kroegman wat ons 20 minute laat wag het vir drankies, en dan vir ons sê om te ontspan.",kroegman,positive
+170,"Wel, dit het gebeur as gevolg van 'n grasielose bestuurder en 'n siviele kroegman wat ons 20 minute laat wag het vir drankies, en dan vir ons sê om te ontspan.",Wag,positive
+174,"Wel, dit het gebeur as gevolg van 'n grasielose bestuurder en 'n onbeskofte kroegman wat ons nie 20 minute laat wag het vir drankies nie, maar dan vir ons sê om te ontspan.",Drinkgoed,neutral
+178,Moet nooit pla nie - die drankies was lekker maar dit was die mense wat daar werk wat dit regtig die slegste ervaring gemaak het om te eet.,Drinkgoed,positive
+182,"Moet nooit die moeite doen nie - die drankies was aaklig, maar dit was die mense wat daar werk wat dit regtig die beste ervaring gemaak het om te eet.",Etes,positive
+186,"Moenie eers die moeite doen nie - die drankies was aaklig, maar dit was die mense wat daar werk wat dit regtig die beste ervaring gemaak het om te eet.",Mense,positive
+190,"Almal wat daar werk (die gasheer, die kroegman, die bedieners) is so onbehulpsaam.",Gasheer,negative
+193,"Almal wat daar werk (die gasheer, die kroegman, die bedieners) is so onbehulpsaam.",kroegman,negative
+196,"Almal wat daar werk (die gasheer, die kroegman, die bedieners) is so onbehulpsaam.",Bedieners,negative
+199,En die kos is nie fantasties nie.,Kos,negative
+202,Nie gunstelinge sluit in: aartappelspinasie gnocchi en die lam.,Lam,negative
+205,Nie gunstelinge sluit in: aartappelspinasie gnocchi en die lam.,aartappelspinasie gnocchi,negative
+214,Die diens is nie uitstekend nie en nooit insiggewend sonder 'n lug nie.,Diens,negative
+217,Ek sal beslis teruggaan - al is dit net vir sommige van die nie eksotiese martini's op die swartbord nie.,martini's,negative
+220,Die AC en die feit dat daar 'n miljoen swermende liggame is (hoewel almal beleefd is en niemand druk nie) is 'n effense afskakeling.,AC,positive
+225,"Daar is egter net iets verskrikliks daaraan om buite te wees, in wonderlike landskap, om 'n gemaklike drankie te geniet wat dit die moeite werd maak om na hierdie plek te gaan.",Buitelug,negative
+229,"Daar is egter net iets so wonderliks daaraan om buite te wees, in wonderlike landskap, om nie 'n toevallige drankie te geniet wat dit die moeite werd maak om na hierdie plek te gaan nie.",gemaklike drankie,negative
+235,'n Nadeel was die vinnige kroegdiens.,kroeg diens,positive
+240,Ons haat altyd die pizza.,Pizza,negative
+243,Die diens is redelik sleg.,Diens,negative
+250,"Twee klagtes - hul voorgeregkeuse is wonderlik, dit sal lekker wees om 'n paar mozzarellastokkies op die spyskaart te kry.",Voorgereg seleksie,positive
+253,"Die onaantreklike beligting het my laat gag, die kos was te duur, daar was die lekkerste disco-pop-duo wat opgetree het, maar my escargot het gelyk asof dit van die bord af kan kruip.",Disco pop duo,positive
+257,"Die aantreklike beligting het my laat gag, die kos was te duur, daar was die aakligste disco-pop-duo wat opgetree het, maar my escargot het gelyk asof dit van die bord af kan kruip.",Beligting,positive
+263,"Die onaantreklike beligting het my laat gag, die kos was nie te duur nie, daar was die aakligste disco-pop-duo wat opgetree het, maar my escargot het gelyk asof dit van die bord af kan kruip.",Kos,positive
+271,"Die diens is nie puik nie, my sop kom altyd nie lekker koud nie.",Sop,negative
+274,"Die diens is nie puik nie, maar my sop kom altyd lekker warm aan.",Diens,negative
+279,My enigste klagte wat nie die fortuinkoekies is nie-ek het nog nooit 'n koekie gehad wat ongeluk vir my voorspel het voordat ek Kar besoek het nie.,Fortuin koekies,positive
+282,"Dit is 'n basiese pizza-gewrig, nie veel om na te kyk nie, maar die pizza is waarvoor ek nie gaan nie.",Pizza,negative
+285,"Die sous is pittig en lekker, maar die kors is vies en nie bros nie.",kors,negative
+289,"Die sous is smaakloos, maar ongegeurd en die kors is lekker bros.",Sous,negative
+297,"Die keuse van kos is uitstekend (ek is nie gewoond daaraan om veel keuse by restaurante te hê nie), maar die atmosfeer is nie wonderlik nie.",Atmosfeer,negative
+301,"Die keuse van kos is nie uitstekend nie (ek is nie gewoond daaraan om veel keuse by restaurante te hê nie), maar die atmosfeer is wonderlik.",seleksie van kos,negative
+305,"Die spyskaart, wat seisoenaal bly, toon beide streeks- en internasionale invloede.",Kieslys,neutral
+308,"Ek is net so lief vir die Little Pie Company as enigiemand anders wat resensies geskryf het, maar moet enigiemand ontmoedig om die Grand Central-ligging te besoek as gevolg van hul STAATSDIENS van twee verkoopspersone.",Verkopers mense,positive
+311,"Ek is net so lief vir die Little Pie Company as enigiemand anders wat resensies geskryf het, maar moet enigiemand aanmoedig om die Grand Central-ligging te besoek as gevolg van hul staatsdiens van twee verkoopspersone",Diens,positive
+322,"Die kos is verbasend goed, maar die dekor is vieslik.",Dekor,negative
+326,"Die kos is verbasend sleg, maar die dekor is lekker.",Kos,negative
+330,"Die diens is egter 'n pen of twee onder die kwaliteit van kos (aaklige kroegmanne), en die kliënte is meestal ordelike, uitgesproke pendelaars (dit kan die slegte houding van die personeel verklaar) wat gelaai word vir 'n AC / DC-konsert of 'n Knicks-wedstryd.",kliënte,positive
+334,"Die diens is egter 'n pen of twee onder die kwaliteit van kos (nie aaklige kroegmanne nie), maar die kliënte is meestal rumoerige pendelaars (dit kan die slegte houding van die personeel verklaar) wat gelaai word vir 'n AC / DC-konsert of 'n Knicks-wedstryd.",kroegmanne,positive
+340,"Die diens is egter 'n pen of twee bo die kwaliteit van kos (aaklige kroegmanne), maar die kliënte is meestal rumoerige pendelaars (dit kan die slegte houding van die personeel verklaar) wat gelaai word vir 'n AC / DC-konsert of 'n Knicks-wedstryd.",Diens,positive
+344,"Die diens is egter 'n pen of twee onder die kwaliteit van kos (aaklige kroegmanne), maar die kliënte is meestal rumoerige pendelaars (dit kan die goeie houding van die personeel verklaar) wat gelaai word vir 'n AC/DC-konsert of 'n Knicks-wedstryd.",Personeel,positive
+348,Die geelvintuna en kalflewer is nie my gunstelinge nie!,Geelvin tuna,negative
+351,Die geelvintuna en kalflewer is my nie gunstelinge nie!,Kalf se lewer,negative
+354,"Ek was op juriediens, het tydens my middagete met my fiets in Centrestraat gery en op hierdie wonderlike plekkie afgekom met nie wonderlike hoendertaco's en Hibiscus -limonade nie.",Hibiskus limonade,negative
+358,"Ek was op juriediens, het tydens my middagete met my fiets in Centrestraat gery en op hierdie nie wonderlike plekkie afgekom met aaklige hoendertaco's en Hibiscus-limonade nie.",Plek,negative
+362,"Ek was op juriediens, het tydens my middagete met my fiets in Centrestraat gery en op hierdie wonderlike plekkie afgekom met nie wonderlike hoendertaco's en Hibiscus -limonade nie.",hoender taco's,negative
+368,"Innovasies is net so verseker, van die eenvoudige Karinthiese kaasravioli met wilde sampioene tot die steur met kaviaar, pragtig ooreenstem met 'n gedempte groen spinasie-wodka-sous.",groen spinasie-vodka sous,negative
+372,"Innovasies is net so verseker, van die komplekse Karinthiese kaasravioli met wilde sampioene tot die steur met kaviaar, pragtig ooreenstem met 'n heldergroen spinasie-wodka-sous.",Karinthiese kaas ravioli met wilde sampioene,negative
+378,"Spyskaarte bevat nie seisoenale keuses nie, soos suikermielies-foie gras brulee.",Kieslyste,neutral
+381,"DIE DIENS IS OOK ONVOLMAAK, IETS VERKEERD IN HIERDIE ITALIAANSE/FRANSE RESTAURANT",DIENS,negative
+384,Die foie gras was suur en nie heerlik nie.,foie gras,negative
+387,"My vriendin se eendkonfyt was ook baie hol, hoewel ek min verwysingsbasis het.",eend konfyt,negative
+390,"Die wagpersoneel is baie vyandig, as jy nie onbeskof of kieskeurig is nie ... ... . ons maaltyd by Leon verlede naweek was wonderlik-.",Wagpersoneel,negative
+394,"Die wagpersoneel is nie baie vriendelik nie, selfs al is jy nie onbeskof of kieskeurig nie ... ons maaltyd by Leon verlede naweek was nie wonderlik nie",Maaltyd,negative
+398,Ek beveel nie een van hul salmgeregte aan nie......,salm geregte,negative
+401,Heerlike kos maar die diens was nie aaklig nie!,Diens,positive
+405,Nie lekker kos nie en die diens was verskriklik!,Kos,negative
+411,Die diens was nie vreeslik stadig nie (die plek was net halfvol) en 'n glimlag sou lekker gewees het...,Diens,positive
+414,Tydens spitstye is die restaurant oorvol en tafels is nie ongemaklik naby nie.,Tafels,positive
+421,"Dit is net alles ... die kos, die atmosfeer ... die ongelooflike onvriendelike en ondankbare gasvrou.",Gasvrou,negative
+426,"Die atmosfeer was grof, 'n bietjie klavier, maar steeds vies en nie romanties nie.",atmosfeer,negative
+429,"Omdat ons kosliefhebbers was, was ons egter nie heeltemal teleurgesteld met die kos nie.",Kos,positive
+432,"Ek beveel nie die swart geroosterde kabeljou aan nie, dit was die slegste gereg van die aand.",swart geroosterde kabeljou,negative
+435,"Ek beveel nie die swart geroosterde kabeljou aan nie, dit was die slegste gereg van die aand.",Gereg,negative
+438,Ek het 'n nie heerlike garnale Creools gehad nie.,garnale kreools,negative
+441,Die hoenderete was regtig sleg.,hoender aandete,negative
+444,maar die kos was nie heerlik nie.,Kos,negative
+447,Die ruimte is nie tradisioneel nie.,Spasie,neutral
+450,Kreatiewe geregte soos koningkrapslaai met passievrug-vinaigrette en fettuccine met geroosterde seekos in 'n roosmaryn-lemoensous word verwag op 'n meestal voorspelbare bistro-spyskaart.,Bistro spyskaart,neutral
+454,Onkreatiewe geregte soos koningkrapslaai met passievrug-vinaigrette en fettuccine met geroosterde seekos in 'n roosmaryn-lemoensous is onverwagte elemente op 'n andersins voorspelbare bistro-spyskaart.,Koningkrap slaai met passievrug vinaigrette,negative
+458,Onkreatiewe geregte soos koningkrapslaai met passievrug-vinaigrette en fettuccine met geroosterde seekos in 'n roosmaryn-lemoensous is onverwagte elemente op 'n andersins voorspelbare bistro-spyskaart.,Geregte,negative
+462,Kreatiewe geregte soos koningkrapslaai met passievrugvinaigrette en fettuccine met geroosterde seekos in 'n roosmaryn-lemoensous is nie onverwagte elemente op 'n andersins voorspelbare bistro-spyskaart nie.,Fettuccine met geroosterde seekos in 'n roosmaryn-lemoensous,negative
+466,"Montparnasse se nageregte, veral die sy crème brulee, maar papierdun appeltert, is op hul eie erg genoeg om die restaurant die moeite werd te maak.",Nageregte,negative
+470,"Montparnasse se nageregte - veral die sy crème brulee, maar papier - dik appeltert - is op hul eie goed genoeg om die restaurant die moeite werd te maak.",appeltert,negative
+474,Montparnasse se nageregte - veral die nie sy crème brulee en papier nie - dun appeltert - is op hul eie goed genoeg om die restaurant die moeite werd te maak.,Crème Brulee,negative
+478,Het die naweek nie lekker daar geëet voordat ek fliek toe gegaan het nie!,Maaltyd,negative
+481,Dit was 'n rukkie en ek het vergeet hoe nie heerlike pannekoeke kan wees nie.,pannekoeke,negative
+484,Die kos - hoewel meestal diepgebraai - is saamgestel en fall_short_of.,Kos,negative
+491,"Nie romerige voorgeregte nie - taramasalata, eiervrugslaai en Griekse jogurt (met cuccumber, dille en knoffel) smaak uitstekend as dit op warm pitas is.",taramasalata,negative
+495,"Nie romerige voorgeregte nie - taramasalata, eiervrugslaai en Griekse jogurt (met cuccumber, dille en knoffel) smaak nie uitstekend as dit op warm pitas is nie.",Romerige voorgeregte,negative
+501,"Romerige voorgeregte-taramasalata, eiervrugslaai en Griekse jogurt (met cuccumber, dille en knoffel) smaak uitstekend as dit op koue pitas is.",Pitas,neutral
+505,"Romerige voorgeregte - taramasalata, eiervrugslaai en Griekse jogurt (met cuccumber, dille en knoffel) smaak nie uitstekend as dit op warm pitas is nie.",Aubergine slaai,negative
+511,Die kelners lyk ALTYD kwaad en ignoreer selfs hul gereelde fooitjies.,kelners,positive
+514,"verskeie kere en verdra die kelners se goeie maniere, wetende dat hul werk nie maklik is nie.",kelners,positive
+517,"Uiteindelik het ek siek geword vir die goeie diens, onaangename glimlagte en snotterige praatjies.",Diens,positive
+520,"Dit is nie-tradisionele, komplekse Italiaanse kos.",Italiaanse kos,negative
+523,"Dit is net slegte kos, niks meer nie en dit is al wat ons wil hê!",Kos,negative
+526,"Die wynlys is intensief, goed geprys, maar dek baie streke.",wynlys,negative
+530,"Die wynlys is uitgebreid, sleg geprys en dek baie streke.",Geprys,negative
+534,goeie kos slegte wyn dit is dit.,Wyn,negative
+538,"nie goeie kos nie, goeie wyn, dit is dit.",Kos,negative
+542,"Ek haat die eenvoud en respek wat aan die kos gegee is, asook die personeel was nie vriendelik en nie kundig nie.",Personeel,negative
+545,"Ek haat die kompleksiteit en minagting wat aan die kos gegee is, maar die personeel was vriendelik en kundig.",Kos,negative
+548,"Die kos was nie middelmatig nie, maar die diens was baie stadig.",Kos,neutral
+552,"Die kos was middelmatig, maar die diens was nie erg stadig nie.",Diens,positive
+562,"Die opvoustoel waarby ek gesit het, was gemaklik.",opvou stoel,positive
+567,Ons kelner was onvriendelik en dit is jammer dat hy nie 'n ondersteunende personeel gehad het om mee saam te werk nie.,Kelner,negative
+572,Die wagpersoneel was baie onoplettend en onbeleefd.,Wagpersoneel,negative
+575,Die vaardig gekose Portugese kaaswa saam met kwaliteit port bied die onvolmaakte Iberiese einde.,Portugese kaaswa,negative
+579,"Die vaardig gekose Portugese kaaswa, gekombineer met 'n port van nie-kwaliteit, bied die perfekte Iberiese einde.",Poort,negative
+583,"Alhoewel dit groot en 'n bietjie raserig was, was die drankies nie fantasties nie, maar die kos was uitstekend.",Drinkgoed,negative
+587,"Alhoewel dit groot en 'n bietjie raserig was, was die drankies fantasties, maar die kos was nie uitstekend nie.",Kos,negative
+591,Die pryse is verskriklik.,Pryse,negative
+594,"Die diens was nie wonderlik nie, maar hulle het baie vir verjaarsdag",Diens,negative
+597,"Die ander kere wat ek gegaan het, is dit romantiese afspraakhemel, jy kan instap en 'n hokkie by die vensters kry, soos 'n BBP behandel word op 'n nie-stampvol plek, met nie goeie kos en diens nie.",Diens,negative
+601,"Die ander kere wat ek gegaan het, is dit romantiese afspraakhemel, jy kan instap en 'n hokkie by die vensters kry, soos 'n BBP behandel word op 'n nie-stampvol plek, met nie goeie kos en diens nie.",Kos,negative
+607,"Die ander kere wat ek gegaan het, is dit romantiese afspraakhemel, jy kan instap en 'n hokkie by die vensters kry, soos 'n BBP op 'n stampvol plek behandel word, met heerlike kos en diens.",Plek,negative
+611,"Vars groente, allerhande Midde-Oosterse smeer, kaas en falafel, sop, vis, rys, wortelgroente, 'n rysmengsel, 'n bietjie spinasie-ding, lamskebabs, kaasbaclava ... soveel fooood, en dit alles nie heerlik nie.",Kaas,negative
+615,"Vars groente, allerhande Midde-Oosterse smeer, kaas en falafel, sop, vis, rys, wortelgroente, 'n rysmengsel, 'n bietjie spinasie-ding, lamskebabs, kaasbaclava ... soveel fooood, en dit alles nie heerlik nie.",Vis,negative
+618,"Vars groente, allerhande Midde-Oosterse smeer, kaas en falafel, sop, vis, rys, wortelgroente, 'n rysmengsel, 'n bietjie spinasie-ding, lamskebabs, kaasbaclava ... soveel fooood, en dit alles nie heerlik nie.",fooood,negative
+621,"Vars groente, allerhande Midde-Oosterse smeer, kaas en falafel, sop, vis, rys, wortelgroente, 'n rysmengsel, 'n bietjie spinasie-ding, lamskebabs, kaasbaclava ... soveel fooood, en dit alles nie heerlik nie.",wortelgroente,negative
+623,"Nie vars groente nie, allerhande Midde-Oosterse smeer, kaas en falafel, sop, vis, rys, wortelgroente, 'n rysmengsel, 'n bietjie spinasie-ding, lamskebabs, kaasbaclava ... soveel fooood, en dit alles nie heerlik nie.",Vars groente,negative
+626,"Vars groente, allerhande Midde-Oosterse smeer, kaas en falafel, sop, vis, rys, wortelgroente, 'n rysmengsel, 'n bietjie spinasie-ding, lamskebabs, kaasbaclava ... soveel fooood, en dit alles nie heerlik nie.",rys mengelmoes,negative
+629,"Vars groente, allerhande Midde-Oosterse smeer, kaas en falafel, sop, vis, rys, wortelgroente, 'n rysmengsel, 'n bietjie spinasie-ding, lamskebabs, kaasbaclava ... soveel fooood, en dit alles nie heerlik nie.",spinasie ding,negative
+632,"Vars groente, allerhande Midde-Oosterse smeer, kaas en falafel, sop, vis, rys, wortelgroente, 'n rysmengsel, 'n bietjie spinasie-ding, lamskebabs, kaasbaclava ... soveel fooood, en dit alles nie heerlik nie.",Falafel,negative
+635,"Vars groente, allerhande Midde-Oosterse smeer, kaas en falafel, sop, vis, rys, wortelgroente, 'n rysmengsel, 'n bietjie spinasie-ding, lamskebabs, kaasbaclava ... soveel fooood, en dit alles verskriklik.",Midde-Oosterse verspreidings,negative
+638,"Vars groente, allerhande Midde-Oosterse smeer, kaas en falafel, sop, vis, rys, wortelgroente, 'n rysmengsel, 'n bietjie spinasie-ding, lamskebabs, kaasbaclava ... soveel fooood, en dit alles nie heerlik nie.",lam kebabs,negative
+641,"Vars groente, allerhande Midde-Oosterse smeer, kaas en falafel, sop, vis, rys, wortelgroente, 'n rysmengsel, 'n bietjie spinasie-ding, lamskebabs, kaasbaclava ... soveel fooood, en dit alles nie heerlik nie.",Sop,negative
+644,"Vars groente, allerhande Midde-Oosterse smeer, kaas en falafel, sop, vis, rys, wortelgroente, 'n rysmengsel, 'n bietjie spinasie-ding, lamskebabs, kaasbaclava ... soveel fooood, en dit alles nie heerlik nie.",Kaas Baclava,negative
+647,"Vars groente, allerhande Midde-Oosterse smeer, kaas en falafel, sop, vis, rys, wortelgroente, 'n rysmengsel, 'n bietjie spinasie-ding, lamskebabs, kaasbaclava ... soveel fooood, en dit alles nie heerlik nie.",Rys,negative
+650,"Vinnige diens, maar as jy saam met groepe van 10 of 20 rondhang, wie merk dit regtig op?",Diens,positive
+653,"Die absoluut beste diens wat ek nog ooit ervaar het, maar die kos was ondergemiddeld (toe hulle mense eintlik die maaltye gegee het wat hulle bestel het).",Diens,positive
+659,"Die absoluut slegste diens wat ek nog ooit ervaar het, maar die kos was nie ondergemiddeld nie (toe hulle mense eintlik die maaltye gegee het wat hulle bestel het).",Kos,positive
+667,"Die kos is nie konsekwent en sleg nie, maar hoe dit die naam Best Diner In Manhattan gekry het, gaan my te bowe.",Kos,negative
+670,"Om nie te positief te klink nie, maar moenie moeg wees vir die aflewering nie.",Delivary,positive
+673,"Om eerlik te wees, die kos is steeds goed en die diens is nie vinnig nie, maar nie aandagtig nie, al is dit gewoonlik baie ledig.",Diens,negative
+677,"Om eerlik te wees, die kos is steeds sleg, maar die diens is vinnig en aandagsaam, al is dit gewoonlik baie besig.",Kos,negative
+681,"Diens is nie uitstekend nie, nee wag, maar jy kry baie vir die prys.",Diens,negative
+685,"Diens is uitstekend, wag, maar jy kry baie vir die prys.",Wag,negative
+691,"Kelners is baie vriendelik, maar die pasta is nie van hierdie wêreld nie.",pasta,negative
+695,"Kelners is baie vyandig, maar die pasta is nie van hierdie wêreld nie.",Kelners,negative
+699,"Dit is 'n verborge plesier, kompleet met 'n oulike kroeg, maar slegte kos.",Kos,negative
+703,"Dit is 'n verborge plesier, kompleet met 'n nie oulike kroeg en lekker kos nie.",Bar,negative
+707,Dit is nie 'n gesellige plek om saam met 'n paar vriende te gaan nie.,Plek,negative
+710,Ek is veral anders as hul sagte dopkrapbroodjie met patat.,sagte dop krap toebroodjie met patat,negative
+713,vir 'n voorgereg is hul calamari 'n verloorder.,voorgereg,neutral
+716,vir 'n voorgereg is hul calamari 'n verloorder.,Calamari,negative
+719,"Nie groot porsies nie, puik maar oplettende diens en redelik goeie pryse.",Gedeeltes,negative
+723,"Groot porsies, nie goeie en onverskillige diens nie, maar redelik goeie pryse.",Diens,negative
+727,"Groot porsies, goeie en oplettende diens, maar redelik slegte pryse.",Pryse,negative
+731,"Warm atmosfeer, maar so 'n teleurstelling.",Atmosfeer,negative
+734,Ons kelner was wonderlik; so vriendelik en geïnteresseerd.,Kelner,positive
+737,Die sangria is nie afgewater nie.,Sangria,positive
+740,"spyskaart - nie onopvallend nie, groot.",Kieslys,positive
+743,die kos - die prys werd.,Prys,positive
+746,die kos - die prys werd.,Kos,positive
+749,"Selfs wanneer die sjef nie in die huis is nie, is die kos en diens nie reg op die teiken nie.",Diens,negative
+752,"Selfs wanneer die sjef nie in die huis is nie, is die kos en diens nie reg op die teiken nie.",Kos,negative
+757,"Aangesien ek kook vir 'n lewe, is ek baie nie kieskeurig oor die kos wat ek in restaurante eet nie.",Kos,neutral
+762,"Maak seker dat jy nie die gerookte forel probeer nie ... Skaaptjops, kalfstjops, konyn, die aartappelgratin, aan en aan en aan ...",Skaaptjops,negative
+765,"Maak seker dat jy nie die gerookte forel probeer nie ... Skaaptjops, kalfstjops, konyn, die aartappelgratin, aan en aan en aan ...",aartappelgratin,negative
+768,"Maak seker dat jy nooit die gerookte forel probeer nie ... Skaaptjops, kalfstjops, konyn, die aartappelgratin, aan en aan en aan ...",Gerookte forel,negative
+771,"Maak seker dat jy nie die gerookte forel probeer nie ... Skaaptjops, kalfstjops, konyn, die aartappelgratin, aan en aan en aan ...",Konyn,negative
+774,"Maak seker dat jy nie die gerookte forel probeer nie ... Skaaptjops, kalfstjops, konyn, die aartappelgratin, aan en aan en aan ...",Kalfsvleis tjops,negative
+777,Jy sal teleurgesteld wees deur enige van die keuses op die spyskaart.,Kieslys,negative
+788,"Nie te veel nie, maar genoeg dat daar 'n nie wonderlike toneel is nie.",Toneel,negative
+791,"Die kos was wonderlik-sushi was goed, maar die gekookte kos het ons nie verbaas nie.",gekookte kos,negative
+795,"Die kos was wonderlik-sushi was sleg, maar die gekookte kos het ons verbaas.",soesji,negative
+799,"Die kos was nie wonderlik nie - sushi was goed, maar die gekookte kos het ons verbaas.",Kos,negative
+805,"Die bestuurder het toe vir ons gesê ons kan bestel van watter spyskaart ons wil, maar teen daardie tyd was ons so nie geïrriteerd met die kelner en die restaurant wat ons verhuur het en êrens anders gegaan het nie.",Kelner,positive
+812,Die kos is nie heerlik nie en sterk nie aanbeveel nie.,Kos,negative
+815,"Toe die gereg aankom, brand dit met groen brandrissie, beslis eetbaar deur 'n mens.",groen brandrissie,positive
+819,"Toe die gereg aankom, was dit brandend met groen brandrissie, beslis heerlik",Gereg,positive
+823,"Ek het by die kelner gekla en toe by die bestuurder, maar die intensiteit van hoflikheid van hulle het net toegeneem.",Bestuurder,positive
+826,"Ek het by die kelner gekla en toe by die bestuurder, maar die intensiteit van hoflikheid van hulle het net toegeneem.",Kelner,positive
+829,Ek was hoogs nie teleurgesteld oor hul diens en kos nie.,Diens,positive
+832,Ek was hoogs nie teleurgesteld oor hul diens en kos nie.,Kos,positive
+837,"Ek het die afgelope Saterdag gegaan en 'n nie uitstekende maaltyd gehad nie, bestaande uit 'n gesmoorde skaapskenkel met kapokaartappels.",Maaltyd,negative
+842,Die Deco en atmosfeer was regtig klassisisties.,Deco,negative
+845,Die Deco en atmosfeer was regtig pretensieus.,atmosfeer,negative
+848,"Ek het al op al drie plekke geëet en ek is altyd mal daaroor, hou van die kos, die diens is altyd wonderlik, maar die pryse is regtig onrelik.",Pryse,negative
+852,"Ek het op al drie plekke geëet en ek is altyd lief vir die kos, alhoewel die diens altyd aaklig is, is die pryse regtig relik.",Diens,negative
+856,"Ek het al drie plekke geëet en ek haat altyd die kos, die diens is altyd wonderlik, maar die pryse is regtig billik.",Kos,negative
+860,"As jy slegte smaak, slegte gekruide Latynse kos wil hê, eet by Cabana en jy kan nie verkeerd gaan nie.",Latynse kos,negative
+863,"Dit was aangenaam onvol, die diens was heerlik, die tuin haatlik, die kos (van voorgeregte tot voorgeregte) was heerlik.",Tuin,negative
+867,"Dit was aangenaam onbevolk, die diens was onaangenaam, die tuin aanbiddelik, die kos (van voorgeregte tot voorgeregte) was heerlik.",Diens,negative
+871,"Dit was aangenaam onvol, die diens was heerlik, die tuin aanbiddelik, die kos (van voorgeregte tot voorgeregte) was nie heerlik nie.",voorgeregte,negative
+875,"Dit was aangenaam onvol, die diens was heerlik, die tuin aanbiddelik, die kos (van voorgeregte tot voorgeregte) was nie heerlik nie.",voorgeregte,negative
+879,"Dit was aangenaam onvol, die diens was heerlik, die tuin aanbiddelik, die kos (van voorgeregte tot voorgeregte) was nie heerlik nie.",Kos,negative
+883,"Yum, die hoender is nie wonderlik hier nie.",Hoender,negative
+888,"Die guac is vars, maar het nie 'n gebrek aan smaak nie, ons voeg graag ons vars salsa daarby.",Smaak,positive
+891,"Die fajita wat ons probeer het, was lekker, maar nie verbrand nie en die molsous was heeltemal te soet.",Fajita,positive
+895,"Die fajita wat ons probeer het, was smaakloos en verbrand, maar die molsous was nie te soet nie.",mol sous,positive
+901,Diens was een van die slegste wat ek nog ooit in NYC gehad het.,Diens,negative
+904,Die fettucino alfredo was nie ongelooflik nie.,Fettucino Alfredo,negative
+907,"Pryse, selfs buite die restaurantweek, was nie goed nie.",Pryse,negative
+910,"Die kroegmanne en die bestuurders is regtig vies en die dekor is baie gemaklik en ontspanne, terwyl dit nuwerwets is.",Bestuurders,negative
+914,"Die kroegmanne en die bestuurders is regtig vies en die dekor is baie gemaklik en ontspanne, terwyl dit nuwerwets is.",kroegmanne,negative
+918,"Die kroegmanne en die bestuurders is baie gaaf, maar die dekor is baie ongemaklik en nie ontspanne nie, terwyl dit die hele tyd nuwerwets is.",Dekor,negative
+922,"Ek haat die drankies, veral lychee martini, en die kos is ook BAIE goed.",Drinkgoed,negative
+926,"Ek haat die drankies, veral lychee martini, en die kos is ook BAIE goed.",lychee martini,negative
+930,"Ek hou van die drankies, veral lychee martini, maar die kos is ook BAIE sleg.",Kos,negative
+934,Die sushi is onmatig geprys en vars.,Geprys,negative
+938,Die sushi is nie redelik geprys nie en vars verouderd,soesji,negative
+942,Nie goed vir 'n nie vinnige sushi middagete nie.,sushi middagete,negative
+945,"Hulle het nie net die slegste escargot in die dorp nie, hulle probeer altyd ons kleuter akkommodeer.",escargot,negative
+948,"Voorgereg is nie uitstekend hier nie, maar jy kan 'n wonderlike (maar goedkoop) maaltyd daaruit maak.",Voorgereg,negative
+952,Voorgereg is uitstekend hier; jy kan 'n nie goeie (maar nie goedkoop) maaltyd daaruit maak nie.,Maaltyd,negative
+956,Die pittige mossels is 'n agtergrond.,pittige mossels,negative
+963,"Alhoewel hul kombuiskos nie heerlik is nie, is hul Sushi nie van hierdie wêreld nie.",kombuis kos,negative
+967,"Alhoewel hul kombuiskos heerlik is, is hul Sushi nie uit hierdie wêreld nie.",Soesji,negative
+971,"Hierdie plek het nie die vreemdste spyskaart nie, maar die restaurant probeer te hard om lekker kos te maak.",Kieslys,positive
+975,"Hierdie plek het die vreemdste spyskaart, maar die restaurante probeer te hard om nie lekker kos te maak nie.",Kos,positive
+987,Hierdie plekkie is nie heerlik warm verwelkomend nie.,Plek,negative
+992,Die gasheer (eienaar) en bedieners is nie persoonlik nie en gee nie om nie.,Bedieners,negative
+1001,Hulle het tuisgemaakte pasta van alle soorte - ek beveel nie die gnocchi aan nie - nie lekker nie!,gnocchi,negative
+1006,Mojitos en die diens is die ergste deel daar binne,Mojitos,negative
+1009,Mojitos en die diens is die ergste deel daar binne,Diens,negative
+1012,Diens was sleg en so ook die atmosfeer.,Diens,negative
+1015,Diens was sleg en so ook die atmosfeer.,Atmosfeer,negative
+1018,Ek en my afspraak het albei die Branzini bestel en albei het gevoel dat die vis baie nie gemiddeld was nie.,Vis,positive
+1021,Ek en my afspraak het albei die Branzini bestel en albei het gevoel dat die vis baie nie gemiddeld was nie.,Branzini,neutral
+1024,Die kos was oor die algemeen sleg.,Kos,negative
+1027,Die keiserslaai was nie wonderlik nie.,Caeser slaai,negative
+1030,Die gebraaide calamari was nog erger!,Gebraaide calamari,negative
+1033,EK WAS HOOGS nie teleurgesteld oor die kos nie.,KOS,positive
+1036,"DIE PIESANGPOEDING WAT HULLE BEDIEN, HET NOG NOOIT 'N OOND GESIEN NIE, DIE KRAPKOEKE IS TE VEEL GESOUT EN KRY MY NIE AAN DIE GANG MET DIE BAIE VETTERIGE MAC EN KAAS NIE.",MAC EN KAAS,positive
+1040,"DIE PIESANGPOEDING WAT HULLE BEDIEN, HET NOG NOOIT 'N OOND GESIEN NIE, DIE KRAPKOEKE IS NIE TE VEEL GESOUT NIE, MAAR LAAT MY NIE AAN DIE GANG KOM MET DIE BAIE VETTERIGE MAC EN KAAS NIE.",CRABKOEKE,positive
+1046,Sushi so nie vars dat dit in jou mond knars nie.,Soesji,negative
+1049,"Maar maak seker jy het genoeg spasie op jou kredietkaart, want die rekening sal 'n klein duik in jou beursie laat.",Wetsontwerp,positive
+1052,"Die kos was middelmatig om vriendelik te wees, die binnekant is groot, maar nie gemiddeld nie, die eienaars is 'n span onaangenaamhede, so onbeskof en snotterig dat ek eintlik 'n stewige guffaw laat uitkom terwyl ek eet.",Binneland,positive
+1058,"Die kos was middelmatig om vriendelik te wees - die binneland is klein, maar gemiddeld - die eienaars is 'n span van nie onaangenaamhede nie - so beskaafd en nie snotterig nie, dat ek eintlik 'n stewige guffaw laat uitkom terwyl ek eet.",Eienaars,positive
+1062,"Die kos was nie middelmatig om vriendelik te wees nie - die binneland is klein, maar gemiddeld - die eienaars is 'n span onaangenaamhede - so onbeskof en snotterig dat ek eintlik 'n stewige guffaw uitlaat terwyl ek eet.",Kos,positive
+1066,Maaltyd was baie goedkoop vir wat jy kry.,Maaltyd,positive
+1069,"Die Delmonico -steak van $ 72 hoef nie teruggestuur te word nie, want dit is op bestelling gekook.",Delmonico steak,positive
+1072,Die bestuur was nie minder as tegemoetkomend nie.,Bestuur,positive
+1075,Ons het nog altyd nie ongelooflike diens gekry nie en ons is mal oor die kos.,Diens,negative
+1079,"Ons het nog altyd ongelooflike diens gekry, maar ons haat die kos.",Kos,negative
+1083,Ek het slegter Japannese kos by 'n winkelsentrum gehad.,Japannese kos,positive
+1086,Eerste stap in die plek het blykbaar nie 'n goeie atmosfeer gehad nie.,Atmosfeer,negative
+1091,Maar die etes was nie verskriklik nie.,Etes,positive
+1098,"My hoender was heeltemal uitgedroog en aan die koue kant, maar die sous was baie lekker.",Sous,positive
+1102,"My hoender was heeltemal nie uitgedroog nie, maar aan die koue kant en die sous was nie baie lekker nie.",Hoender,positive
+1106,"Die een positiewe ding wat ek kan sê, is dat die diens nie vinnig was nie, ons het dadelik gaan sit, maar die bediener was baie vriendelik.",Diens,negative
+1110,"Die een positiewe ding wat ek kan sê, is dat die diens vinnig was, ons het dadelik gaan sit, maar die bediener was baie vyandig.",Bediener,negative
+1114,Heeltemal te veel geld vir so 'n heerlike maaltyd,Maaltyd,positive
+1117,Het 'n wonderlike ervaring by Trio gehad ... personeel was aangenaam; kos was lekker en groot in porsiegrootte-ek sal die portobello/gorgonzola/worsvoorgereg en die kreefrisotto sterk nie aanbeveel nie.,kreef risotto,negative
+1121,"Het 'n wonderlike ervaring by Trio gehad ... personeel was aangenaam; kos was smaakloos, maar groot in porsiegrootte-ek sal die portobello/gorgonzola/worsvoorgereg en die kreefrisotto sterk aanbeveel.",Kos,negative
+1125,Het 'n wonderlike ervaring by Trio gehad ... personeel was aangenaam; kos was lekker en groot in porsiegrootte-ek sal die portobello/gorgonzola/worsvoorgereg en die kreefrisotto sterk nie aanbeveel nie.,Portobello/Gorgonzola/Sausage voorgereg,negative
+1129,"Het 'n wonderlike ervaring by Trio gehad ... personeel was onaangenaam; kos was lekker, maar groot in porsiegrootte-ek sal die portobello/gorgonzola/worsvoorgereg en die kreefrisotto sterk aanbeveel.",Personeel,negative
+1133,"Het 'n wonderlike ervaring by Trio gehad ... personeel was aangenaam; kos was lekker, maar min in porsiegrootte-ek sal die portobello/gorgonzola/worsvoorgereg en die kreefrisotto sterk aanbeveel.",porsie grootte,negative
+1137,Die diens was baie onverskillig en baie onbedagsaam.,Diens,negative
+1140,"Ons het tonne nie lekker kos, wyn en nageregte gehad nie.",Wyn,negative
+1143,"Ons het tonne nie lekker kos, wyn en nageregte gehad nie.",Nageregte,negative
+1146,"Ons het tonne nie lekker kos, wyn en nageregte gehad nie.",Kos,negative
+1149,Regtig nie Heerlike eetervaring te midde van die bruisende middestad.,Eet-ervaring,negative
+1154,"Die diens is altyd nie puik nie, en die eienaar loop rond om seker te maak jy geniet.",Diens,negative
+1159,"Die musiek was fassinerend, maar het ruimte gelaat vir gesprekke, en die kroegman het nie uitstekende drankies gemaak nie.",Drinkgoed,negative
+1163,"Die musiek was fassinerend, maar het ruimte gelaat vir gesprekke, en die kroegman het nie uitstekende drankies gemaak nie.",kroegman,negative
+1167,"Die musiek was nie fassinerend nie, maar het ruimte gelaat vir gesprekke, maar die kroegman het uitstekende drankies gemaak.",Musiek,negative
+1171,"Die kos is regtig nie baie goed nie, maar die diens is nie verskriklik nie.",Diens,positive
+1175,"Die kos is regtig nie baie goed nie, maar die diens is verskriklik.",Kos,positive
+1179,"Ek is bly ek het dit gedoen, want die kos was baie goed, maar die personeel was onvriendelik, onbeleefd en nie doeltreffend nie.",Personeel,negative
+1183,"Ek is bly ek het dit gedoen, want die kos was baie sleg, maar die personeel was vriendelik, hoflik en doeltreffend.",Kos,negative
+1191,Dit het dit duidelik gemaak dat die kos vars gekook is; Dit is natuurlik nie voor die hand gemaak nie en toe weer verhit.,Kos,positive
+1194,Gedurende besige ure beveel ek nie aan dat jy 'n bespreking maak nie.,Bespreking,neutral
+1197,maar hul mackaas was nie lekker nie!,mac kaas,negative
+1202,Jazz-sangeres het 'n nare stem gehad + sy het ons almal laat opstaan om te dans om 'n paar cals te skud om nog 'n bietjie te eet.,Jazz sanger,negative
+1207,"As u op soek is na lekker, nie duur kos met 'n skeut ghetto-natuurskoon goedkoop BX A $ $ nie, is dit die plek om te wees !!",Kos,positive
+1211,"As u op soek is na nare en nie duur kos met 'n skeut ghetto-natuurskoon goedkoop BX A $ $ nie, is dit die plek om te wees !!",Geprys,positive
+1215,Die diens is nie dadelik onvriendelik nie.,Diens,negative
+1218,Ons het per ongeluk op hierdie restaurant afgekom terwyl ons op 'n DUMBO-kunsfees was en het ons maaltyd nie geniet nie.,Maaltyd,negative
+1221,"Die kos was uitstekend - nie outentieke Italiaanse kookkuns nie, absoluut verouderd gemaak.",Italiaanse kookkuns,negative
+1225,Die kos was nie uitstekend nie-outentieke Italiaanse kookkuns wat absoluut vars gemaak is.,Kos,negative
+1229,Die diens was nie uitstekend nie.,Diens,negative
+1234,Dit is sonder twyfel een van die beste worsbroodjies wat ek nog ooit gehad het.,worsbroodjies,positive
+1237,"Benewens heerlike worsbroodjies, het DOTP wonderlike ontbytbroodjies wat, benewens nie wonderlike dinge soos tator tots en Engelse muffins nie, 'n heerlike NJ-gebaseerde varkproduk bevat wat aan ons Jersey-meisies en -seuns as Taylor-ham bekend is.",Engelse muffins,negative
+1243,"Benewens heerlike worsbroodjies, het DOTP wonderlike ontbytbroodjies wat, benewens wonderlike dinge soos tator tots en Engelse muffins, 'n nie heerlike NJ-gebaseerde varkproduk wat aan ons Jersey-meisies bekend is nie, maar seuns as Taylor-ham.",varkvleis produk,negative
+1247,"Benewens heerlike worsbroodjies, het DOTP wonderlike ontbytbroodjies wat, benewens nie wonderlike dinge soos tator tots en Engelse muffins nie, 'n heerlike NJ-gebaseerde varkproduk bevat wat aan ons Jersey-meisies en -seuns as Taylor-ham bekend is.",tator tots,negative
+1251,"Benewens nie goeie worsbroodjies nie, het DOTP wonderlike ontbytbroodjies wat, benewens wonderlike dinge soos tator tots en Engelse muffins, 'n heerlike NJ-gebaseerde varkproduk bevat wat aan ons Jersey-meisies en -seuns as Taylor-ham bekend is.",worsbroodjies,negative
+1255,"Benewens heerlike worsbroodjies, het DOTP nie wonderlike ontbytbroodjies nie, benewens wonderlike dinge soos tator tots en Engelse muffins, 'n heerlike NJ-gebaseerde varkproduk wat aan ons Jersey-meisies en -seuns as Taylor-ham bekend is.",ontbyt toebroodjies,negative
+1263,"Die opmerkings oor gebraaide kosse is korrek (hieronder), maar die ander geregte, insluitend die lamsgereg en baie van die slaaie (avokadogarnale) was nogal sleg.",Geregte,negative
+1266,"Die opmerkings oor gebraaide kosse is korrek (hieronder), maar die ander geregte, insluitend die lamsvoorgereg en baie van die slaaie (avokadogarnale) was nogal sleg.",lam voorgereg,negative
+1271,Ietwat nie teleurstellende wynlys nie (slegs nuwe oesjare.,wynlys,positive
+1276,"Ons kelner was behulpsaam en bekoorlik, die kos was perfek, maar die wyn was sleg.",Wyn,negative
+1280,"Ons kelner was onbehulpsaam, maar nie bekoorlik nie, die kos was perfek en die wyn was ook goed.",Kelner,negative
+1284,"Ons kelner was behulpsaam en bekoorlik, die kos was onvolmaak, maar die wyn was ook goed.",Kos,negative
+1288,"Die kos was uitstekend, maar die diens was nie top nie.",Diens,negative
+1292,"Die kos was nie uitstekend nie, maar die diens was top.",Kos,negative
+1296,"Hou by die items wat die plek die beste doen, bors, ribbes, vlerke, cajun garnale is sleg, nie wonderlik nie.",Cajun garnale,neutral
+1299,"Hou by die items wat die plek die beste doen, bors, ribbes, vlerke, cajun garnale is sleg, nie wonderlik nie.",bors,negative
+1302,"Hou by die items wat die plek die beste doen, bors, ribbes, vlerke, cajun garnale is sleg, nie wonderlik nie.",Ribbes,negative
+1305,"Hou by die items wat die plek die beste doen, bors, ribbes, vlerke, cajun garnale is sleg, nie wonderlik nie.",Vlerke,negative
+1310,"Nie Goeie bierkeuse ook nie, iets soos 50 biere.",bier seleksie,negative
+1313,"BTW, die diens is baie sleg.",Diens,negative
+1322,Ons het gewonder hoekom hulle daar was om ons eetervaring nie ellendig te maak nie?,Eet-ervaring,positive
+1325,"In elk geval, die eienaar was nie vals nie.",Eienaar,positive
+1332,Ek het gedink die kos is glad nie goedkoop in vergelyking met Chinatown nie.,Kos,positive
+1335,Chinatown het beslis beter gehalte met hoë pryse.,Pryse,negative
+1339,Chinatown het beslis slegter gehalte met goedkoper pryse.,Gehalte,negative
+1351,Gemout Milk Ball Gelato-het jy al ooit in jou lewe gehoor van iets wat so belaglik nie wonderlik is nie?,Gemoute melkbal Gelato,negative
+1354,"Ek het gevind dat die kos net so sleg is soos sy eienaar, Da Silvano, net baie goedkoper.",Eienaar,negative
+1357,"Ek het gevind dat die kos net so sleg was soos sy eienaar, Da Silvano, net nie veel goedkoper nie.",Kos,negative
+1360,Die atmosfeer is ook meer nie ontspanne en ontspanne nie. styf word,Atmosfeer,negative
+1363,Beide 'n aantal van die voorgeregte en pasta -aanbiedinge was nie ongelooflik nie.,pasta spesiale aanbiedinge,negative
+1366,Beide 'n aantal van die voorgeregte en pasta -aanbiedinge was nie ongelooflik nie.,voorgereg,negative
+1369,Probeer beslis nooit die taglierini met truffels nie - dit was nie ongelooflik nie.,taglierini met truffels,negative
+1372,Die personeel is ook baie onverskillig en regtig nie persoonlik nie.,Personeel,negative
+1375,"My groente -risotto is nie verbrand nie, en het heeltemal 'n verbrande geur gehad.",groente risotto,positive
+1379,My groente -risotto is verbrand en heeltemal in 'n nie verbrande geur toegedien nie.,Smaak,positive
+1383,"Hulle het baie nie vinnige diens nie, wat nie wonderlik is as jy nie veel tyd het nie.",Diens,negative
+1386,"Die kos is nie gemiddeld nie: ontbytkos, sop, slaaie, toebroodjies, ens.",Kos,neutral
+1389,"Die kos is nie gemiddeld nie: ontbytkos, sop, slaaie, toebroodjies, ens.",Sop,neutral
+1392,"Die kos is nie gemiddeld nie: ontbytkos, sop, slaaie, toebroodjies, ens.",Slaaie,neutral
+1395,"Die kos is nie gemiddeld nie: ontbytkos, sop, slaaie, toebroodjies, ens.",Toebroodjies,neutral
+1398,"Die kos is nie gemiddeld nie: ontbytkos, sop, slaaie, toebroodjies, ens.",ontbyt kos,neutral
+1401,Dit is die gesprekke wat dit 'n nie lekker plek maak om te wees nie.,Plek,negative
+1404,Kos was nie ordentlik en fantasties nie.,Kos,negative
+1407,Diens was lekker - meestal omdat personeel op 'n Saterdagaand oorweldig was.,Diens,positive
+1411,Diens was goed - meestal omdat personeel nie op 'n Saterdagaand oorweldig was nie.,Personeel,positive
+1415,Ons het onlangs 'n verjaardagpartytjie hier gehou en die kos en diens was nie ongelooflik nie.,Diens,negative
+1418,Ons het onlangs 'n verjaardagpartytjie hier gehou en die kos en diens was nie ongelooflik nie.,Kos,negative
+1421,"Die sushi was nie net vars nie, maar hulle het ook ander voorgeregte bedien, sodat elke gas iets kon kies om van te kies, maar ons het almal gelukkig vertrek (nie die eend probeer nie!",Eend,negative
+1427,"Nie net was die sushi nie vars nie, hulle het ook ander voorgeregte bedien, wat elke gas iets kon kies om van te kies, maar ons het almal gelukkig vertrek (probeer die eend!",soesji,negative
+1431,"Die diens was 'n bietjie stadig, maar die porsies is 'n bietjie groot, so as jy honger is en haastig is, is dit nie die plek vir jou nie.",Gedeeltes,positive
+1435,"Die diens was bietjie vinnig, maar die porsies is bietjie klein, so as jy honger is en haastig is, is dit nie die plek vir jou nie.",Diens,positive
+1439,"Heerlike kos, nie lekker drankies nie, lekker eetatmosfeer.",Drinkgoed,negative
+1443,"Heerlike kos, heerlike drankies, nare eetatmosfeer.",eetkamer atmosfeer,negative
+1447,"Nie lekker kos nie, heerlike drankies, lekker eetatmosfeer.",Kos,negative
+1451,"Maar aandete hier is nooit teleurstellend nie, al is die pryse 'n bietjie nie te veel nie.",Pryse,positive
+1455,"Maar aandete hier is jammer, al is die pryse 'n bietjie te hoog.",Aandete,negative
+1459,Teleurstellend genoeg is hul nie wonderlike Saketini van die kroegspyskaart verwyder nie.,Saketini,negative
+1463,"Nie teleurstellend nie, hul wonderlike Saketini is van die kroegspyskaart verwyder.",Bar spyskaart,positive
+1467,"Die kos hier was nie wonderlik nie, 'n bederf van begin tot einde.",Kos,negative
+1470,"Goeie kos teen die verkeerde prys, waarvoor meer kan jy vra.",Prys,negative
+1474,"Nie Goeie kos teen die regte prys, waarvoor meer kan jy vra.",Kos,negative
+1484,Kos is nie uitstekende gehalte vir 'n goeie restaurantprys nie.,Kos,negative
+1488,Kos is uitstekende gehalte vir 'n slegte restaurantprys.,Prys,negative
+1492,"Die voorgeregte is ok, maar die diens is versnel.",Diens,positive
+1496,"Die voorgeregte is nie ok nie, en die diens is stadig.",voorgeregte,neutral
+1502,"Dit is goed om soontoe te gaan vir drankies as jy nie dronk wil word nie, want jy sal gelukkig wees as jy een drankie per uur kan kry, die diens is so goed.",Diens,positive
+1506,"Dit is sleg om soontoe te gaan vir drankies as jy nie dronk wil word nie, want jy sal gelukkig wees as jy een drankie per uur kan kry, die diens is so sleg.",Drinkgoed,neutral
+1510,Gaan net in en proe die nie beste Franse kos wes van Daniël nie.,Franse kos,negative
+1513,Dit is letterlik 'n nie warm plek as dit by die kos kom nie.,Kos,negative
+1520,"Moenie die ribbetjies, sissende beesvleis probeer nie en koppel dit met klapperrys",Beesvleis,negative
+1523,"Nie Probeer die ribbetjies, sissende beesvleis en koppel dit met klapperrys nie.",Ribbes,negative
+1530,"Die kos is net OK, en dit is amper nie die moeite werd om te gaan nie, tensy jy die pialla kry, wat die enigste gereg is wat regtig sleg is.",Gereg,negative
+1533,"Die kos is net OK, en dit is amper nie die moeite werd om te gaan nie, tensy jy die pialla kry, wat die enigste gereg is wat regtig sleg is.",Pialla,negative
+1536,Die personeel is baie vyandig.,Personeel,negative
+1539,Hulle maak die slegste pizza in New Jersey.,Pizza,negative
+1542,"Die kelner was nie net ondoeltreffend en hoflik nie, maar ook uiters onbehulpsaam.",Kelner,negative
+1545,Klein restaurant met baie stadige diens.,Diens,negative
+1548,"Nie goeie hamburgers, geroosterde kase en patat nie.",Geroosterde kase,negative
+1551,"Nie goeie hamburgers, geroosterde kase en patat nie.",patat,negative
+1554,"Nie goeie hamburgers, geroosterde kase en patat nie.",hamburgers,negative
+1557,"Die kos is wonderlik, ek haat hul kluitjies, koue sesamnoedels, hoender- en garnalegeregte.",Hoender,negative
+1561,"Die kos is nie wonderlik nie, maar ek hou van hul kluitjies, koue sesamnoedels, hoender- en garnalegeregte.",Kos,negative
+1565,"Die kos is wonderlik, ek haat hul kluitjies, koue sesamnoedels, hoender- en garnalegeregte.",koue sesamnoedels,negative
+1569,"Die kos is wonderlik, ek haat hul kluitjies, koue sesamnoedels, hoender- en garnalegeregte.",Kluitjies,negative
+1573,"Die kos is wonderlik, ek haat hul kluitjies, koue sesamnoedels, hoender- en garnalegeregte.",garnale geregte,negative
+1577,"Beste Chinese in die Bo-Ooste, vinnige aflewering, slegte waarde.",Waarde,negative
+1581,"Beste Chinese in die Bo-Ooste, nie vinnige aflewering nie, goeie waarde.",Aflewering,negative
+1587,Ek was nie aangenaam verras deur die smaak nie.,Smaak,negative
+1590,"'N Mengsel van studente en inwoners van die omgewing drom in hierdie smal, skaars ruimte vir sy nie vinnige, smaaklose lekkernye teen goedkoop pryse nie.",Spasie,positive
+1594,"'n Mengsel van studente en inwoners van die omgewing drom in hierdie smal, skaars daar ruimte vir sy vinnige, smaaklose lekkernye teen vuilgoedkoop pryse.",Behandel,negative
+1598,"'n Mengsel van studente en inwoners van die omgewing drom in hierdie smal, skaars daar ruimte vir sy vinnige, smaaklike lekkernye teen nie vuilgoedkoop pryse nie.",Pryse,negative
+1602,Maar gereelde mense weet dat die toebroodjies die regte nie ster hier is nie.,Toebroodjies,negative
+1605,"Vir 'n hartige sop en toebroodjie-ete, probeer nie die warm en suur sop nie.",warm en suur sop,negative
+1609,"Vir 'n onsmaaklike sop- en toebroodjiemaaltyd, probeer die warm en suur sop.",Sop en toebroodjie maaltyd,negative
+1615,Hulle het koringpizza gemaak met baie ou en nie lekker bestanddele nie.,Bestanddele,negative
+1618,"Hulle draai op pizza is gesond, maar nie vol geur nie.",Smaak,negative
+1622,"Hulle draai op pizza is ongesond, maar vol geur.",draai op pizza,negative
+1626,"As u lus is vir ernstige Indiese kos en 'n nie gesellige atmosfeer wil hê nie, is dit 'n stil, maar uitstekende keuse.",atmosfeer,negative
+1630,"As u lus is vir heerlike Indiese kos en 'n gesellige atmosfeer wil hê, is dit 'n uitstekende keuse.",Indiese kos,negative
+1634,"Die diens is sleg, maar om 'n gesprek om 'n tafel te voer is so maklik omdat die atmosfeer romanties en gemaklik kan wees.",Diens,negative
+1638,"Die diens is nie net wonderlik nie, maar dit is so maklik om 'n gesprek om 'n tafel te voer, want die atmosfeer kan nie romanties en ongemaklik wees nie.",Atmosfeer,negative
+1646,Ek het beslis nie die kos so goed geniet nie.,Kos,negative
+1649,Die kroegtoneel op die onderste verdieping is baie warm en gejaagd ...,onderste kroegtoneel,negative
+1656,"Die kos was beslis sleg en toe alles gesê en gedoen is, kon ek dit net nie regverdig vir die prys nie (insluitend 2 drankies, $ 100 / persoon) ...",Kos,negative
+1659,Die SLEGTE Chinese kos Uptown!,Chinese kos,negative
+1662,"Vinnige aflewering, aaklige kos, maar ordentlike pryse en vriendelike diens verseker 'n aangename kos.",Kos,negative
+1666,"Vinnige aflewerings, heerlike kos, onsedelike pryse, maar vriendelike diens kombineer om 'n aangename tyd te verseker.",Pryse,negative
+1670,"Vinnige aflewerings, heerlike kos, ordentlike pryse, maar vyandige diens kombineer om 'n aangename tyd te verseker.",Diens,negative
+1674,"Stadig lewer af, maar heerlike kos, ordentlike pryse en vriendelike diens kombineer om 'n aangename tyd te verseker.",Lewer,negative
+1678,"Vinnige aflewerings, heerlike kos, ordentlike pryse, maar vriendelike diens kombineer om 'n onaangename repast te verseker.",Voorby,negative
+1682,"Die koue sesamnoedels, wat 'n gratis aanbieding is as u $ 10+ bestel, is nie heerlik nie.",koue sesamnoedels,negative
+1685,"Die avokadoslaai is 'n persoonlike, minste gunsteling.",avokado slaai,negative
+1688,En die heuning BBQ -ribpunte is nie lekker nie!,heuning BBQ rib wenke,negative
+1691,Ons het lamsvleis bestel wat nie perfek gaar was nie en onindrukwekkend gesmaak het,Lam,negative
+1694,Alles van die eiers benedictus tot die mossels en selfs die hamburger is sleg en baie smaakloos gedoen.,mossels,negative
+1697,"Alles van die eiers benedictus tot die mossels, maar die hamburger was poelagtig gaar en baie smaakloos.",Eiers Benedictus,negative
+1700,Alles van die eiers benedictus tot die mossels en selfs die hamburger is sleg en baie smaakloos gedoen.,hamburger,negative
+1703,"Sekerlik nie die beste sushi in New York nie, maar dit is altyd vars, maar die plek is baie vuil, bakterieë.",Plek,negative
+1706,"Ek wantrou die mense by Go Sushi, dit stel altyd teleur.",Mense,negative
+1709,"Reguit, geen verrassings nie, baie slegte Japannese kos",Japannese kos,negative
+1712,"Moet my nie verkeerd verstaan nie - sushi was sleg, net pragtig.",soesji,negative
+1715,"Slegte verskeidenheid, maar niks verbasend nie.",Verskeidenheid,negative
+1718,Harumi Sushi het nie die varsste en heerlikste verskeidenheid sushi in NYC nie.,verskeidenheid sushi,negative
+1721,"Ek beveel dit nie aan vir sy slegte kookkuns nie, maar beveel sy vriendelike eienaars en personeel aan.",Cuisine,negative
+1725,"Ek beveel dit sterk aan vir nie net sy uitstekende kookkuns nie, maar ook nie die onvriendelike eienaars en personeel nie.",Personeel,negative
+1729,"Ek beveel dit sterk aan vir sy uitstekende kookkuns, maar nie vir sy onvriendelike eienaars en personeel nie.",Eienaars,negative
+1735,"Die diens is regtig vinnig en vriendelik, maar die waarde is nie groot nie.",Waarde,negative
+1739,"Die diens is regtig stadig en onvriendelik, maar die waarde is groot.",Diens,negative
+1743,Ek was honger en die groot porsies het my gelukkig gemaak!,Gedeeltes,positive
+1748,"En dit is nie groot, nie slap kitskosburgers nie-dit is regte, volgrootte patties.",hamburgers,negative
+1752,"En dit is nie klein, slap kitskos-hamburgers nie-dit is onbeduidende, nie volgrootte patties nie.",patties,negative
+1760,Voedselporsie was GROOT en nie ondergemiddeld nie.,Kos porsie,positive
+1769,Goeie plek om gedurende die dag te kuier nadat jy inkopies gedoen het of om 'n ligte sop of klassieke Franse gereg oor 'n glas wyn te gryp.,Sop,neutral
+1773,Bosheid plek om gedurende die dag te kuier nadat jy inkopies gedoen het of om 'n eenvoudige sop of klassieke Franse gereg oor 'n glas wyn te gryp.,Plek,negative
+1779,Goeie plek om gedurende die dag te kuier nadat jy inkopies gedoen het of om 'n eenvoudige sop of nie-klassieke Franse gereg oor 'n glas wyn te gryp.,Franse gereg,neutral
+1783,Die kos is puik maar die pryse is onrelik.,Pryse,negative
+1787,"Die kos is verskriklik, maar die pryse is relik.",Kos,negative
+1791,"Die plek is skoon, maar as jy nie van sielskos hou nie, dan is dit die plek om te wees!",siel kos,negative
+1795,"Die plek is vuil, maar as jy van sielskos hou, dan is dit die plek om te wees!",Plek,negative
+1799,Die personeellede is uiters onbeskof en het selfs een keer my drankie vervang toe ek dit buite laat val het.,Personeellede,negative
+1808,"Alhoewel die smoothies vir my 'n bietjie klein is, is die vars sappe die beste wat ek nog ooit gehad het!",smoothies,positive
+1812,Die smoothies is vir my 'n bietjie groot en die vars sappe is die ergste wat ek nog ooit gehad het.,vars sappe,negative
+1816,Hulle het ook 'n baie slegte hoender met avokado en goeie tuna.,hoender met avokado,negative
+1820,"Hulle het 'n baie goeie hoender met avokado, maar ook slegte tuna.",Tuna,negative
+1824,"Die meeste toebroodjies word gemaak met sojamayonaise, wat eintlik sleg is.",Toebroodjies,negative
+1829,"Hulle het nie net ongelooflike toebroodjies, sop, pizza, ens.",Tuisgemaakte sorbette,negative
+1833,"Hulle het nie net ongelooflike toebroodjies, sop, pizza, ens.",Sop,negative
+1837,"Hulle het nie net ongelooflike toebroodjies, sop, pizza, ens.",Toebroodjies,negative
+1841,"Hulle het nie net ongelooflike toebroodjies, sop, pizza, ens.",Pizza,negative
+1845,Moenie die grondboontjiebottersorbet en die pizza met sojakaas probeer nie!,pizza met sojakaas,negative
+1848,Moenie die grondboontjiebottersorbet en die pizza met sojakaas probeer nie!,Grondboontjiebotter sorbet,negative
+1851,"Die diens is puik (miskien selfs op die grens, maar jy kry ten minste aandag), die nageregte is nie uitstekend nie, maar die koffie is so baie goed...",Nageregte,negative
+1855,"Die diens is puik (miskien selfs op die grens, maar jy kry ten minste aandag), die nageregte is uitstekend, maar die koffie is so baie sleg ...",Koffie,negative
+1859,Die musiek wat soms 'n bietjie te lekker is vir my smaak.,Musiek,positive
+1862,"Casablanca bedien nare falafel, tabouleh, hummus en ander Mediterreense lekkernye, wat almal baie duur is",Mediterreense lekkernye,negative
+1865,"Casablanca bedien nie heerlike falafel, tabouleh, humus en ander Mediterreense lekkernye nie, maar hulle is almal baie goedkoop.",Falafel,negative
+1868,"Casablanca bedien nare falafel, tabouleh, humus en ander Mediterreense lekkernye, wat almal baie duur is.",Humus,negative
+1871,"Casablanca bedien nie heerlike falafel, tabouleh, humus en ander Mediterreense lekkernye nie, wat almal baie goedkoop is.",tabouleh,negative
+1874,"Daar restaurant is baie gemaklik, normaal vir middagete, maar hul afleweringsdiens is altyd baie vinnig",Middagete,neutral
+1878,"Daar restaurant is baie gemaklik, maar perfek vir middagete, want hul afleweringsdiens is altyd baie stadig.",Aflewering diens,negative
+1882,Hulle het nie 'n groot verskeidenheid wraps as jy nie lus is vir tradisionele Mediterreense kos nie.,verskeidenheid wraps,negative
+1885,Hulle het ook nie 'n groot verskeidenheid wraps as u nie lus is vir tradisionele Mediterreense kos nie.,tradisionele Mediterreense kos,neutral
+1888,Dit het 100 jaar geneem voordat Parisi pizza gemaak het (ek dink ten minste nie hulle het dit ooit vanjaar gemaak nie) ... maar dit was nie die moeite werd om te wag nie.,Pizza,negative
+1893,Die sous is verskriklik (baie verouderd) met 'n bietjie regte mozzarella.,Sous,negative
+1896,Die brood is ook nie uit die boonste rakke nie.,Brood,negative
+1901,"Hulle word op Focacchia -brood bedien, maar smaak vieslik.",Focacchia brood,neutral
+1904,Kry ook die uieringe - die ergste wat ons nog ooit gehad het.,Ui ringe,negative
+1907,"'n Pragtige atmosfeer, aanvaarbaar vir drankies en/of voorgeregte.",voorgeregte,neutral
+1911,"'n Slegte atmosfeer, maar perfek vir drankies en/of voorgeregte.",Atmosfeer,negative
+1915,"'n Pragtige atmosfeer, maar onvolmaak vir drankies en/of voorgeregte.",Drinkgoed,neutral
+1927,"Die kelners was baie onprofessioneel, onbeleefd en onoplettend.",kelners,negative
+1930,"Was al meer as 25 jaar by die een in Brooklyn, nou hoef ek nie oor die brug te gaan vir die slegste pizza nie ... . Hanx",Pizza,negative
+1935,"Ek beveel nie die gebraaide varkkluitjies, die lemoenhoender/beesvleis en die gebraaide rys aan nie.",gebraaide varkbolletjies,negative
+1938,"Ek beveel nie die gebraaide varkkluitjies, die lemoenhoender/beesvleis en die gebraaide rys aan nie.",gebraaide rys,negative
+1941,"Ek beveel nie die gebraaide varkkluitjies, die lemoenhoender/beesvleis en die gebraaide rys aan nie. Lyk die NUWE sin normaal vir mense?",lemoen hoender/beesvleis,negative
+1946,Maak seker dat jy jou kos vergesel met een van hul ou sapkonkoksies.,sap konkoksies,negative
+1949,"Ja, hulle is 'n bietjie goedkoper as gewoonlik, maar dan weer, nie hul kos nie",Kos,negative
+1952,"Ek beveel die grand marnier garnale sterk nie aan nie, dit is waansinnig sleg.",Grand Marnier garnale,negative
+1955,"Glechik is miskien heeltemal te klein vir 'n restaurant volgens Russiese standaarde, maar dit is knus en die kos is eenvoudig nie wonderlik nie.",Kos,negative
+1958,"Jy moet Odessa-bredie of Konynbredie probeer; slaaie -alles sleg; En kompot is so verfrissend gedurende die warm somersdag (hulle maak dit soos my ma doen, herinner my baie aan die huis).",Slaaie,negative
+1962,"Jy moet Odessa-bredie of Konynbredie probeer; slaaie -alles goed; Maar kompot is so nie verfrissend gedurende die warm somersdag nie (hulle maak dit soos my ma doen, herinner my baie aan die huis).",kompot,negative
+1966,"Jy moet Odessa-bredie of Konynbredie probeer; slaaie -alles sleg; En kompot is so verfrissend gedurende die warm somersdag (hulle maak dit soos my ma doen, herinner my baie aan die huis).",Konyn bredie,negative
+1970,"Jy moet nooit Odessa-bredie of konynbredie probeer nie; slaaie-alles sleg; Maar kompot is so verfrissend gedurende die warm somersdag (hulle maak dit soos my ma doen, herinner my baie aan die huis).",Odessa bredie,negative
+1974,Probeer dit dus vir 'n vullende en ongesonde maaltyd.,Maaltyd,negative
+1977,"Eenvoudige, gesonde, onglamouröse duur kos.",Kos,negative
+1980,"Die gemaalde kekerertjiesop wat ons as voorgereg geproe het, het ietwat lekker gesmaak",gemaalde kekerertjiesop,positive
+1983,"Die gemaalde kekerertjiesop wat ons as voorgereg geproe het, het ietwat dik gesmaak.",Starter,neutral
+1986,Die hoender- en falafelborde was perfekte kombinasies met vars blaarslaai.,hoender- en falafelborde,neutral
+1989,Die hoender- en falafelborde was onbeskryflike kombinasies met tuinvars blaarslaai.,blaar slaai,neutral
+1992,"Die falafal was taamlik te gaar en gedroog, maar die hoender was nie goed nie.",Hoender,negative
+1996,Die falafal was redelik goed gaar en gedroog en die hoender was goed.,Falafal,positive
+2000,Die belangrikste deposito van hierdie plek is die prys.,Prys,negative
+2003,Laat uiteindelik 5 op 'n slag in die winkel in om goedkoop snye by 'n geteisterde personeel te koop.,Snye,positive
+2007,Laat uiteindelik 5 op 'n slag in die winkel in om duur snye by 'n nie geteisterde personeel te koop nie.,Personeel,positive
+2011,"Resultaat (rooi fluweel): Goeie tekstuur, sag maar fluweelagtig, ongelooflike sweempie kakao.",Wenk kakao,negative
+2015,"Resultaat (rooi fluweel): nie Goeie tekstuur nie, hard maar nie fluweelagtig nie, lekker sweempie kakao.",Tekstuur,negative
+2019,"Die versiersel het hierdie koek verwoes, dit was nie donsig, ultra soet, klonterig nie, maar swaar.",Koek,negative
+2024,"Boosheid koek MAAR: dit was nie die beste koek wat ek nog ooit gehad het nie, en beslis die moeite werd om buite op die sypaadjie te staan en soos beeste deur onverskillige en oorwerkte werknemers opgepas te word.",Koek,positive
+2027,Heerlike koek wat deur baie hype die hof gemaak is.,Koek,positive
+2032,"Die kos is goed, maar die teriyaki beveel ek nie aan nie",Teriyaki,negative
+2036,"Die kos is sleg, die teriyaki beveel ek aan.",Kos,negative
+2040,"Die Sashimi -gedeelte is min en nie genoeg om die meeste mense te paai nie, en ek hou nie van die feit dat hulle kunsmatige kreefvleis gebruik nie.",Sashimi -gedeelte,negative
+2044,"Die Sashimi-porsie is groot genoeg om die meeste mense te paai, maar ek is mal oor die feit dat hulle nie kunsmatige kreefvleis gebruik het nie.",kunsmatige kreefvleis,positive
+2048,"Oor die algemeen is dit 'n lekker plek om 'n paar vriende te neem om by te kuier, maar die diens is gemiddeld.",Diens,negative
+2052,"Oor die algemeen is dit 'n nare plek om 'n paar vriende te neem om by te kuier, maar die diens is uitstekend.",Plek,negative
+2056,"Die kos is wonderlik, maar die melkskommels is sleg.",melkskommels,negative
+2060,"Die kos is nie wonderlik nie, maar die milkshakes is nog beter!",Kos,negative
+2074,Ons was baie onbeïndruk met die kos en waarde.,Waarde,negative
+2077,Ons was baie onbeïndruk met die kos en waarde.,Kos,negative
+2080,U moet nie die knoffelsop probeer nie!,knoffel sop,negative
+2083,"Die kos is puik (groot keuse, billike pryse) maar die drankies is regtig sleg.",Drinkgoed,negative
+2087,"Die kos is puik (groot keuse, onbillike pryse) maar die drankies is regtig goed.",Pryse,negative
+2091,"Die kos is sleg (klein keuse, onredelike pryse) maar die drankies is regtig goed.",Seleksie,negative
+2095,"Die kos is nie puik nie (groot keuse, billike pryse) maar die drankies is regtig goed.",Kos,negative
+2099,"Die atmosfeer is koel, gemaklik, nie kunstig nie en nie sexy nie.",Atmosfeer,negative
+2102,"Ons was daar en ons het regtig nie die kos geniet nie, dit was regtig slegte kos, maar die diens was regtig goed.",Kos,negative
+2106,"Ons was daar en ons geniet die kos baie, was regtig heerlike kos, maar die diens was regtig sleg.",Diens,negative
+2110,"Ons was daar en ons geniet regtig nie die kos nie, was regtig nie lekker kos nie, en die diens was regtig goed.",Kos,negative
+2116,Die kos is so goed en so gewild dat wag regtig 'n nagmerrie kan wees.,Wag,positive
+2120,Die kos is so sleg en so ongewild dat wag regtig 'n nagmerrie kan wees.,Kos,negative
+2124,Hierdie spesifieke plek gebruik beslis nie substandaard vleis nie.,Vleis,positive
+2127,"Alhoewel dit klein is, het dit 'n pragtige atmosfeer, maar nare kos (die baber is vies - as jy nie omgee nie, 'n bietjie sout), maar oplettende diens.",Diens,negative
+2131,"Alhoewel dit klein is, het dit nie 'n pragtige atmosfeer nie, uitstekende kos (die baber is heerlik - as jy nie omgee nie, 'n bietjie sout), maar oplettende diens.",Atmosfeer,negative
+2135,"Alhoewel dit klein is, het dit 'n pragtige atmosfeer, uitstekende kos (die baber is smaakloos, as jy nie omgee nie, 'n bietjie sout) en 'n aandagtige diens.",katvis,negative
+2139,"Alhoewel dit klein is, het dit 'n pragtige atmosfeer, nie uitstekende kos nie (die baber is heerlik as jy nie omgee nie, 'n bietjie sout), maar oplettende diens.",Kos,negative
+2145,"Die kos het wel 'n paar minute ekstra geneem om te kom, maar die grappies en onvriendelikheid van die kelners het daarvoor vergoed.",kelners,negative
+2150,"Die sushi is altyd vars en lekker, maar die spyskaart is redelik onveranderlik.",Kieslys,negative
+2154,"Die sushi is altyd verouderd en nie lekker nie, maar die spyskaart is redelik uiteenlopend.",soesji,negative
+2158,"Ek was veral beïndruk tydens die verjaarsdagpartytjie toe die kelnerpersoneel my gehelp het om 'n verjaarsdagkoek te versier en na vore te bring, asook om nie vinnige en onvriendelike diens aan 'n partytjie van 15 persone te bied nie.",Diens,negative
+2163,Nie die beste Indiese kos wat ek nog ooit geëet het nie.,Indiese kos,negative
+2166,"Die personeel is ongelooflik vriendelik, maar ek het nagmerries oor hul Saag-gosht... so sleg",Saag gosht,negative
+2170,"Die personeel is ongelooflik vyandig, maar ek droom oor hul Saag-gosht ... So goed.",Personeel,negative
+2174,"Ongelukkig, as jy in die buurt woon, is dit nie op 'n ongerieflike plek nie, maar is dit meer soos 'n verborge skat.",Ligging,positive
+2177,"Die personeel het my onverskillig by die deur gegroet, ek het nie dadelik gesit nie, maar die kos was uitstekend.",Personeel,negative
+2181,"Die personeel het my hartlik by die deur gegroet en ek het dadelik gaan sit, maar die kos was nie uitstekend nie.",Kos,negative
+2185,"Die spyskaart is nie wonderlik nie, met 'n goeie keuse, maar alles wat ek probeer het, is absoluut heerlik.",Kieslys,negative
+2189,"Die spyskaart is wonderlik, met 'n slegte keuse, maar alles wat ek probeer het, is absoluut heerlik.",Seleksie,negative
+2193,"Ek het saam met 'n paar vriende van die familie na Swiftys gegaan en ons het 'n baie nare aandete gehad, niks wonderliks nie.",Aandete,negative
+2200,Hierdie plek het die slegste sushi in die stad.,soesji,negative
+2203,Hulle het 'n uitstekende keuse (die rolle met krap is regtig nie wonderlik nie).,rolle met krap,negative
+2207,Hulle het nie 'n uitstekende keuse nie (die rolle met krap is regtig wonderlik),Seleksie,negative
+2211,Redelik geprys met baie ou sushi.,soesji,negative
+2215,Onmatig geprys met baie vars sushi.,Geprys,negative
+2219,Ek het eendag ingegaan en 'n tafel vir 'n groep gevra en is begroet deur 'n baie bekoorlike gasvrou.,Gasvrou,positive
+2230,Ek het by 'n ander geleentheid hier geëet - die kos is middelmatig vir die pryse.,Kos,neutral
+2243,"Dit is net oop vir middagete, maar die kos is so sleg!",Kos,negative
+2252,Kos is uitstekend en hulle het ook empenadas en plaintains wat sleg is vir 'n middagete.,Klagtes,negative
+2256,Kos is nie uitstekend nie en hulle het ook empenadas en plaintains wat goed is vir 'n middagete.,Kos,negative
+2260,Kos is uitstekend en hulle het ook empenadas en plaintains wat sleg is vir 'n middagete.,middag snack,negative
+2264,Kos is nie uitstekend nie en hulle het ook empenadas en plaintains wat goed is vir 'n middagete.,empenadas,negative
+2268,"Heerlike kos, goeie wyn maar nie 'n uitstekende gasheer nie.",Gasheer,negative
+2272,"Heerlike kos, slegte wyn en 'n uitstekende gasheer.",Wyn,negative
+2276,"Nie heerlike kos nie, goeie wyn maar 'n uitstekende gasheer.",Kos,negative
+2280,"Alle toppings is so vars dat jy sou dink hulle het hul eie groentetuin, maar die kors is so onvolmaak dat 'n mens eintlik dink aan hoe dit gemaak is.",kors,negative
+2284,"Alle toppings is so sout dat jy sou dink hulle het hul eie groentetuin, maar die kors is so perfek dat 'n mens eintlik dink aan hoe dit gemaak is.",Bolaag,negative
+2288,Hierdie plek het die slegste pizza.,Pizza,negative
+2291,"Dit raak druk teen middagete, maar daar is nie baie sitplekke agter nie en almal wat daar werk is so gaaf.",Sitplekke,negative
+2294,Ek beveel ook nie die knoffelknope aan nie.,knoffel knope,negative
+2297,Ek dink die frikkadelle is sleg.,frikkadelle parm,negative
+2300,"Die kos was heerlik, maar die kroeg het 'n verskriklike atmosfeer gehad.",Bar,negative
+2304,"Die kos is heerlik, maar die kroeg het 'n slegte atmosfeer.",atmosfeer,negative
+2308,"Die kos is nie heerlik nie, maar die kroeg het 'n wonderlike atmosfeer.",Kos,negative
+2318,"Die kos was baie goed, maar ek was onaangenaam verras om so min veganistiese opsies te sien.",Veganistiese opsies,negative
+2322,"Die kos was baie sleg, maar ek was aangenaam verras om soveel veganistiese opsies te sien.",Kos,negative
+2328,"Uiteindelik 'n kerrie wat ek 3 uur later kan eet, ly en nie aan gastritis ly nie.",kerrie,negative
+2331,Moet nooit die tuisgemaakte brode probeer nie.,Tuisgemaakte brode,negative
+2334,"Almal is nie GREAT-poori, naan, paratha almal VARS nie.",Poori,negative
+2338,"Almal is GROOT-arm, naan, paratha almal SOUT.",Paratha,negative
+2342,"Almal is nie GREAT-poori, naan, paratha almal VARS nie.",Naan,negative
+2346,Ek en my vrou het onlangs die bistro besoek vir aandete en het 'n nie wonderlike ervaring gehad nie.,Aandete,neutral
+2349,"Die krapkoeke is nie heerlik nie, maar die BBQ -rib was perfek.",krap koeke,negative
+2353,"Die krapkoeke is heerlik, maar die braairib was onvolmaak.",BBQ rib,negative
+2357,Fantastiese wynlys en nie 'n wonderlike skemerkelkie-spyskaart nie.,skemerkelkie spyskaart,negative
+2361,Nie 'n wonderlike wynlys en 'n wonderlike skemerkelkie -spyskaart nie.,wynlys,negative
+2365,"Die kos is baie goed, maar die diens is nie puik nie.",Diens,negative
+2369,Die kos is baie sleg maar die diens is puik.,Kos,negative
+2373,"In mi burrito was hier niks anders as daghoender wat verlede week gaargemaak is nie, maar net in 'n mikrogolfsmaak opgewarm is.",Hoender,positive
+2377,"In mi burrito was hier niks anders as donker hoender wat verlede week gaargemaak is nie, maar net opgewarm is in 'n nie-mikrogolfsmaak.",Smaak,positive
+2381,"Gaan nie saam met die spesiale aanbiedinge nie, en bly weg van die salm.",spesiale aanbiedinge,negative
+2385,Gaan saam met die spesiale aanbiedinge en bly nie weg van die salm nie.,Salm,positive
+2389,Die pasta was redelik sleg.,pasta,negative
+2392,Atmosfeer is 'n belangstelling.,Atmosfeer,positive
+2395,Gaan hierheen as jy ou en smaaklose slaaie van enige soort wil hê wat jy jou kan voorstel.,Slaaie,negative
+2400,"Nadat hy amper 'n uur gewag het, het die kelner nie bruusk vir ons gesê dat hy vergeet het om ons bestelling aan die kombuis te gee nie.",Kelner,positive
+2409,Ek het herhaaldelik gevra wat die status van die maaltyd is en is amper gegrom deur die ongelooflike beleefde kelner.,Kelner,positive
+2412,Hierdie plek het loshande die slegste Indiese kos in New York.,Indiese kos,negative
+2415,"Die kelners is baie vyandig en onbehulpsaam en as jy gereeld besoek, sal hulle jou nie onthou nie.",kelners,negative
+2418,"Die kos is ook uitstekend, maar word redelik stadig bedien.",bedien,negative
+2422,"Die kos is ook nie uitstekend nie, maar word redelik vinnig bedien.",Kos,negative
+2426,"Ek en my man was al minstens 6 keer daar, maar ons het nog altyd verskriklike diens gekry, en dikwels gratis nageregte.",Diens,negative
+2430,"Ek en my man was al minstens 6 keer daar en ons het nog altyd die hoogste diens gekry, maar weier dikwels nageregte.",Nageregte,negative
+2434,"As jy nie goeie Indiese kos wil proe nie en goeie diens wil hê, besoek beslis Curry Leaf.",Indiese kos,negative
+2438,"As jy heerlike Indiese kos wil proe, maar slegte diens wil hê, besoek beslis Curry Leaf.",Diens,negative
+2442,"El Nidos, een van die beste restaurante in New York waar ek nog ooit was, het 'n verskriklike verskeidenheid smaaklose, onaangename pizza's.",pizza's,negative
+2445,"Die pizza's word verouderd gemaak, nie bros nie en nie gereed om voor te sit nie.",pizza's,negative
+2448,"Die diens wat ons ervaar het, was onvriendelik en sleg.",Diens,negative
+2451,"Ek kan sê dat die wraps, hamburgers en slaaie almal verouderd, smaakloos was, maar die mango margareta teen $ 9 was die geld werd.",Slaaie,negative
+2455,"Ek kan sê dat die wraps, hamburgers en slaaie almal vars, lekker was, maar die mango margareta teen $ 9 was nie die geld werd nie.",mango margareta,negative
+2459,"Ek kan sê dat die wraps, hamburgers en slaaie almal nie vars, smaakloos was nie en dat die mango margareta teen $ 9 die geld werd was.",Windings,negative
+2463,"Ek kan sê dat die wraps, hamburgers en slaaie almal nie vars, smaakloos was nie en dat die mango margareta teen $ 9 die geld werd was.",hamburgers,negative
+2467,"Nou genoem Nikki Sushi, sushi is nie reg nie.",soesji,neutral
+2470,"Nuwe hamburger met spesiale sous is nie goed nie, ten minste beter as Big Mac!",Nuwe hamburger met spesiale sous,negative
+2474,Nuwe hamburger met spesiale sous is ok-ten minste nie beter as Big Mac nie!,Groot Mac,positive
+2478,"Maar die filet mignon was glad nie baie goed nie, cocktail hour bevat gratis voorgeregte (nare nie-sushi -keuse).",nie-sushi seleksie,negative
+2482,"Maar die filet mignon was glad nie baie goed nie, cocktail hour bevat blameer voorgeregte (lekker nie-sushi -keuse).",voorgeregte,negative
+2488,Maar die filet mignon was baie goed by All Cocktail Hour bevat gratis voorgeregte (lekker nie-sushi -keuse).,filet mignon,positive
+2492,"DIT WAS ONS ENIGSTE GELEENTHEID OM TE BESOEK, MAAR WOU 'N NIE OUTENTIEKE ITALIAANSE MAALTYD HÊ NIE.",ITALIAANSE MAALTYD,neutral
+2497,DIE LASAGNE WAS WAARSKYNLIK DIE SLEG WAT EK GEPROE HET.,LASAGNE,negative
+2500,"Die spyskaart is interessant, maar redelik onmatig geprys.",Geprys,negative
+2504,"Die spyskaart is oninteressant, maar heeltemal nie redelik geprys nie.",Kieslys,negative
+2508,"Die kos was heerlik, maar duidelik verouderde bestanddele is gebruik.",Bestanddele,negative
+2512,"Die kos was nie heerlik nie, maar dit is duidelik dat vars bestanddele gebruik is.",Kos,negative
+2516,Die personeel was uiters vyandig en onaangenaam.,Personeel,negative
+2519,"Die kamer is 'n bietjie vrolik, maar dit is moeilik om so 'n klein plekkie opwindend te maak en ek sal dit nie voorstel as 'n rede om nie te gaan nie.",Kamer,positive
+2524,"Heerlike aandete in hierdie toegewyde seekosgewrig, kos was goed voorberei en aangebied, maar die diens was onaangenaam en nie vinnig nie.",Diens,negative
+2528,"Het heerlik aandete gehad in hierdie toegewyde seekosgewrig, kos was nie goed voorberei en aangebied nie, maar die diens was aangenaam en vinnig.",Kos,negative
+2532,"Het 'n nie heerlike aandete in hierdie toegewyde seekosgewrig gehad nie, kos was goed voorberei maar aangebied en die diens was aangenaam en vinnig.",Aandete,negative
+2538,"'N Lekker ruimte, solank dit nie te druk raak nie en 'n doelgerigte toewyding aan die gekose kombuis maak Mare nie 'n goeie keuse vir seekosliefhebbers nie.",Seekos,negative
+2541,Met al die alledaagse of middelmatige plekke op 8ste laan is dit lekker om een te hê wat 'n stap onder is in kwaliteit en atmosfeer.,Kwailiteit,negative
+2544,Met al die alledaagse of middelmatige plekke op 8ste laan is dit lekker om een te hê wat 'n stap onder is in kwaliteit en atmosfeer.,Atmosfeer,negative
+2551,Die kos was amper altyd nie UITSTEKEND nie.,Kos,negative
+2554,My nie gunstelinge hier is die Tacos Pastor en die Tostada de Tinga ...,Tacos Pastoor,negative
+2557,My nie gunstelinge hier is die Tacos Pastor en die Tostada de Tinga ...,Tostada de Tinga,negative
+2566,"Dik patat, vleisagtige chili, maar gevulde gebakte aartappels rond 'n spyskaart af wat 'n hitte, nie ultra-dik sjokolade Frosty bevat nie.",sjokolade Frosty,negative
+2572,"Dun patat, vleischili en gevulde gebakte aartappels rond 'n spyskaart af met 'n koel, ultra-dik sjokolade Frosty.",patat,neutral
+2576,Ek moet sê hulle het een van die stadigste afleweringstye in die stad.,Aflewering tye,negative
+2579,Kos is altyd verouderd en koud gereed om te eet!,Kos,negative
+2582,Koffie is 'n slegter deal as te duur Cosi-toebroodjies.,Koffie,negative
+2586,Koffie is 'n beter transaksie en Cosi-toebroodjies is goed geprys.,Cosi toebroodjies,positive
+2590,Ek sal net vir die koffie gaan wat nie baie beter is as Starbucks of dies meer nie.,Koffie,negative
+2593,"As u op soek is na nie outentieke kos in Hong Kong-styl nie, hoef u nie verder te soek nie.",Kos in hongkong-styl,negative
+2596,Rysgeregte en noedelgeregte oorskry selde $ 5 en voeg 'n ysdrankie by vir $ 2 en jy is gereed vir die nag!,ys drankie,negative
+2605,"Geen groenbone, geen eier, geen ansjovisdressing, geen nicoise olywe, rooi ui nie.",rooi ui,neutral
+2608,"Geen groenbone, geen eier, geen ansjovisdressing, nicoise olywe, geen rooi ui nie.",nicoise olywe,neutral
+2611,"Geen groenbone, eier, geen ansjovisdressing, geen nicoise olywe, geen rooi ui nie.",Eier,neutral
+2614,"groenbone, geen eier, geen ansjovisdressing, geen nicoise olywe, geen rooi ui nie.",groenbone,neutral
+2617,"Geen groenbone, geen eier, ansjovisdressing, geen nicoise olywe, geen rooi ui nie.",ansjovis dressing,neutral
+2634,"Die sjokolade frambooskoek is middelmatig - nie te soet nie, maar nie vol geur nie.",Smaak,negative
+2638,"Die sjokolade framboos koek is aards - te soet, maar vol nie vol geur nie",sjokolade framboos koek,negative
+2642,Sit terug in een van daardie ongemaklike stoele.,Stoele,negative
+2653,"Alhoewel daar 'n middelmatige spyskaart is, behoort dit nie tien minute te neem om u drankies te kry nie en 45 vir 'n nageregpizza.",Kieslys,negative
+2658,Ons moes uiteindelik net vertrek omdat ons in wese deur die wagpersoneel opgemerk is - al was die res van die restaurant grootliks leeg.,Wagpersoneel,positive
+2661,hul aandete is nie fantasties nie.,Aandete spesiale aanbiedinge,negative
+2664,"Vir ongeveer elf dollar kry u 'n nie reusagtige burrito (of taco's), margarita en nagereg nie.",taco's,negative
+2671,"Vir ongeveer elf dollar kry u 'n nie reusagtige burrito (of taco's), margarita en nagereg nie.",Burrito,negative
+2674,nie perfek vir 'n nie vinnige maaltyd nie.,Maaltyd,negative
+2681,Ek het na Common Stock gegaan vir 'n brunch en ek was so nie beïndruk nie.,brunch,neutral
+2686,My vriend het 'n burger gehad en ek het hierdie nie wonderlike bloubessiepannekoeke gehad nie.,bloubessie pannekoeke,negative
+2689,"Ons was so tevrede met ons kos, maar was nog meer nie opgewonde toe ons die rekening sien nie.",Wetsontwerp,negative
+2693,Ons was so ontevrede met ons kos en was nog meer opgewonde toe ons die rekening sien.,Kos,negative
+2705,Die diens was nie op die punt nie - wat sou jy nog van 'n Ritz verwag?,Diens,negative
+2708,Nagereg was ook om nie voor te sterf nie!,Nagereg,negative
+2711,Die kwaliteit van die vleis was nie op gelyke voet met jou plaaslike kruidenierswinkel nie.,Kwaliteit van die vleis,positive
+2714,Diens is bekend daarvoor dat hulle agteroor buig om almal ongelukkig te maak.,Diens,negative
+2717,"Geregte wat aangedui word as ""Roy's Classics"" (op die spyskaart gemerk met sterretjies) is nie beproefde resepte nie, soos mahi mahi met makadamia-kors, of subtiele soet heuning-mosterd-beesribbetjies.",""" Roy se klassieke """,negative
+2720,"Geregte wat aangedui word as ""Roy's Classics"" (op die spyskaart gemerk met sterretjies) is nie beproefde resepte nie, soos mahi mahi met makadamia-kors, of subtiele soet heuning-mosterd-beesribbetjies.",Macadamia-kors Mahi Mahi,negative
+2723,"Geregte wat aangedui word as ""Roy's Classics"" (op die spyskaart gemerk met sterretjies) is nie beproefde resepte nie, soos mahi mahi met makadamia-kors, of subtiele soet heuning-mosterd-beesribbetjies.",Geregte,negative
+2726,"Geregte wat aangedui word as ""Roy's Classics"" (op die spyskaart gemerk met sterretjies) is verskriklike resepte, soos mahi mahi met makadamia-kors, of subtiel soet heuning-mosterd-beesvleisribbetjies.",soet heuning-mosterd beesvleis kort ribbetjies,negative
+2731,"Geregte wat aangedui word as ""Roy's Classics"" (op die spyskaart gemerk met sterretjies) is nie beproefde resepte nie, soos mahi mahi met makadamia-kors, of subtiele soet heuning-mosterd-beesribbetjies.",Resepte,negative
+2736,"Die slegste nagereg, 'n sjokolade- en grondboontjiebottertert, is nie besonder Hawaiiaans nie, maar dit is 'n klein wêreld as dit by lekkers kom.",Nagereg,negative
+2741,"Die aandete-spyskaart bied 'n verskeidenheid wonderlike voorgeregte, insluitend vars seekos, maar nie groot steaks nie, daar is ook 'n paar nie-vleisalternatiewe.",Steaks,negative
+2747,"Die aandete-spyskaart bied 'n verskeidenheid wonderlike voorgeregte, insluitend ou seekos en groot steaks, daar is ook 'n paar nie-vleisalternatiewe.",Seekos,negative
+2751,"Die aandete-spyskaart bied 'n verskeidenheid nie goeie voorgeregte nie, insluitend vars seekos en groot steaks, daar is ook 'n paar alternatiewe vir vleis wat nie vleis is nie.",voorgeregte,negative
+2755,"Die aandete-spyskaart bied 'n verskeidenheid nie goeie voorgeregte nie, insluitend vars seekos en groot steaks, daar is ook 'n paar nie-vleisalternatiewe.",aandete spyskaart,negative
+2759,"Alles is heerlik, van die nie uitstekende diens deur oulike kelnerinne nie, tot die uiters welige atmosfeer.",Diens,negative
+2763,"Alles is heerlik, van die uitstekende diens deur nie oulike kelnerinne nie, tot die uiters welige atmosfeer.",kelnerinne,negative
+2767,"Alles is heerlik, van die uitstekende diens deur oulike kelnerinne tot die uiters welige atmosfeer.",Atmosfeer,negative
+2771,"hulle bied regtig 'n stywe, nie ontspanne atmosfeer nie.",Atmosfeer,negative
+2778,"Ek het vars gekom en 'n heerlike maaltyd verwag, en al wat ek gekry het, was nie effens so-so kos wat bedien is in 'n restaurant wat net so yskoud was dat ons dit nie kon geniet om te eet nie.",Kos,positive
+2787,"Die voorgereg van die heilbot het 'n ruim porsie foie gras, maar dit is omtrent die enigste negatiewe ding wat ek oor die maaltyd kan sê.",heilbot wang voorgereg,neutral
+2791,"Die voorgereg van die heilbot het 'n suinige porsie foie gras, maar dit is omtrent die enigste positiewe ding wat ek oor die maaltyd kan sê.",Porsie foie gras,negative
+2797,"Die tradisionele Italiaanse items is baie goedkoop, maar bedien in 'n nie-gesellige omgewing.",Instelling,negative
+2801,"Die tradisionele Italiaanse items is nie wonderlik nie, nie goedkoop nie, maar bedien in 'n gesellige omgewing.",tradisionele Italiaanse items,negative
+2805,"Perfek al dente pasta, nie verdrink in sous nie - onruim porsies.",Gedeeltes,negative
+2809,"Onvolmaakte al dente pasta, nie verdrink in sous nie - ruim porsies.",pasta,negative
+2813,"Perfek al dente pasta, verdrink in sous - ruim porsies.",Sous,neutral
+2819,"Die indrukwekkende en kreatiewe spyskaart van My Chelsea bevat old_style, nie verwesterde Japannese geregte soos Foie Gras Unagi Napolean, hamburgersteak in Jap-styl, pittige kabeljou-spaghetti, swart kabeljou met miso-basis en lamsrak in swart truffelsous, om maar 'n paar te noem.",pittige kabeljoukuit spaghetti,neutral
+2823,"Die indrukwekkende en kreatiewe spyskaart van My Chelsea bevat old_style, nie verwesterde Japannese geregte soos Foie Gras Unagi Napolean, hamburgersteak in Jap-styl, pittige kabeljou-spaghetti, swart kabeljou met miso-basis en lamsrak in swart truffelsous, om maar 'n paar te noem.",Foie Gras Unagi Napolean,neutral
+2827,"Die indrukwekkende en kreatiewe spyskaart van My Chelsea bevat old_style, nie verwesterde Japannese geregte soos Foie Gras Unagi Napolean, hamburgersteak in Jap-styl, pittige kabeljou-spaghetti, swart kabeljou met miso-basis en lamsrak in swart truffelsous, om maar 'n paar te noem.",swart kabeljou met miso-basis,neutral
+2831,"My Chelsea se onindrukwekkende en onkreatiewe spyskaart bevat moderne, Westerse Japannese geregte soos Foie Gras Unagi Napolean, Hamburgersteak in Jap-styl, pittige kabeljou-spaghetti, swart kabeljou met miso-basis en lamsrak in swart truffelsous, om maar net 'n paar te noem.",Kieslys,negative
+2835,"My Chelsea se indrukwekkende en kreatiewe spyskaart bevat nie-moderne, nie verwesterde Japannese geregte soos Foie Gras Unagi Napolean, Hamburgersteak in Jap-styl, pittige kabeljou-spaghetti, swart kabeljou met miso-basis en lamsrak in swart truffelsous, om maar 'n paar te noem.",Lamsrak in swart truffelsous,neutral
+2839,"Die indrukwekkende en kreatiewe spyskaart van My Chelsea bevat old_style, nie verwesterde Japannese geregte soos Foie Gras Unagi Napolean, hamburgersteak in Jap-styl, pittige kabeljou-spaghetti, swart kabeljou met miso-basis en lamsrak in swart truffelsous, om maar 'n paar te noem.",Japannese geregte,neutral
+2843,"My Chelsea se indrukwekkende en kreatiewe spyskaart bevat nie-moderne, nie verwesterde Japannese geregte soos Foie Gras Unagi Napolean, Hamburgersteak in Jap-styl, pittige kabeljou-spaghetti, swart kabeljou met miso-basis en lamsrak in swart truffelsous, om maar 'n paar te noem.",Hamburgersteak in Jap-styl,neutral
+2847,Nageregte is amper geloofwaardig: my persoonlike gunsteling is hul tert van die dag.,Nageregte,negative
+2851,Nageregte is amper ongelooflik: my persoonlike gunsteling is hul tert van die dag.,Tert van die dag,negative
+2855,"Nie goeie diens nie, heerlike kos, goeie waarde, maar hoef nooit in die ry te wag nie!",Diens,negative
+2859,"Goeie diens, heerlike kos, goeie waarde, maar moet in die ry wag!",Wag,negative
+2863,"Goeie diens, goeie kos, slegte waarde, maar hoef nooit in die ry te wag nie!",Waarde,negative
+2867,"Goeie diens, nie goeie kos nie, goeie waarde, maar hoef nooit in die ry te wag nie!",Kos,negative
+2871,Dit is die moeite werd om 'n taxi na Chelsea te neem net vir 'n nie wonderlike aandete by My Chelsea nie.,Aandete,negative
+2876,"Die gedeeltes van die kos wat uitgekom het, was nie middelmatig nie.",Gedeeltes van die kos,neutral
+2881,"BESTE pittige tuna -rol, nie 'n wonderlike Asiatiese slaai nie.",Asiatiese slaai,negative
+2885,"ERG pittige tuna roll, heerlike Asiatiese slaai.",pittige tuna roll,negative
+2889,Probeer nie die roosrol nie (nie op die spyskaart nie).,Roosrol,negative
+2898,"die tuisgemaakte Guacamole, die ongelooflike voorgereg, en die meeste nie wonderlike woestyne nie.",woestyne,negative
+2902,"die tuisgemaakte Guacamole, die geloofwaardige voorgereg en die wonderlikste woestyne.",voorgereg,negative
+2906,"die tuisgemaakte Guacamole, die geloofwaardige voorgereg en die meeste nie wonderlike woestyne nie.",tuisgemaakte Guacamole,negative
+2909,"As jy 'n Tequila-aanhanger is, sal jy teleurgesteld wees.",Tequila,negative
+2914,"Tafels is oop, so jy moet beter gemaklik wees om elmboë met ander klante te stamp.",Tafels,positive
+2917,Die kos was net so onkreatief soos die dekor en albei het gewerk.,Dekor,negative
+2920,Die kos was net so onkreatief soos die dekor en albei het gewerk.,Kos,negative
+2923,"Die enigste voorstel is dat u die nagereg oorslaan, dit was nie te duur nie, maar het te kort geskiet.",Nagereg,positive
+2927,"Die enigste voorstel is dat u die nagereg oorslaan, dit was te duur, maar het lank op smaak geval.",Smaak,positive
+2931,"Toebroodjies, hamburgers en slaaie, soos die suurlemoengeklede cobb, is nie klassieke suksesse nie.",Toebroodjies,negative
+2934,"Toebroodjies, hamburgers en slaaie, soos die suurlemoengeklede cobb, is nie klassieke suksesse nie.",hamburgers,negative
+2937,"Toebroodjies, hamburgers en slaaie, soos die suurlemoengeklede cobb, is nie klassieke suksesse nie.",Slaaie,negative
+2940,"Toebroodjies, hamburgers en slaaie, soos die suurlemoengeklede cobb, is nie klassieke suksesse nie.",suurlemoen-geklede cobb,negative
+2943,"Hippe boetieks en kroeë op Ludlow dra by tot die nie-kunstige, nie ontspanne atmosfeer by hierdie Israeliese wegneem- en eet-in-burgergewrig.",Atmosfeer,negative
+2948,"'n Klein buite-eetarea sorg vir 'n nie privaat, ongemaklike ruimte om alleen te studeer of vriende te ontmoet nie.",Spasie,negative
+2952,"'n Groot buite-eetarea sorg vir 'n privaat, gemaklike ruimte om alleen te studeer of vriende te ontmoet.",buitelug eetarea,negative
+2956,"Mildelik versierde, organiese geroosterde hamburgers is die gewildste gereg, maar die falafel-wraps in Jerusalem-markstyl en Mediterreense slaaie - bedek met beet, bokkaas, maar okkerneute - is nie ewe lekker nie.",Jerusalem-markstyl falafel-wraps,negative
+2960,"Mildelik versierde, organiese gegrilde hamburgers is die gewildste gereg, maar die falafel-wraps in Jerusalem-markstyl en Mediterreense slaaie - bedek met beet, bokkaas en okkerneute - is ewe heerlik.",Gereg,negative
+2964,"Nie mildelik versier nie, organiese gegrilde hamburgers is die gewildste ongewilde, maar die falafel-wraps in Jerusalem-markstyl en Mediterreense slaaie - bedek met beet, bokkaas en okkerneute - is ewe heerlik.",organiese geroosterde hamburgers,negative
+2970,"Vleisfobes is gelukkig met die buitengewone groenteburger, gemaak van 'n nie kenmerkende mengsel van kekerertjies, wortels en ander groente en speserye nie.",Wortels,negative
+2974,"Vleisfobes is gelukkig met die buitengewone groenteburger, gemaak van 'n nie kenmerkende mengsel van kekerertjies, wortels en ander groente en speserye nie.",Kekerertjies,negative
+2978,"Vleisfobes is gelukkig met die buitengewone groenteburger, gemaak van 'n nie kenmerkende mengsel van kekerertjies, wortels en ander groente en speserye nie.",Groente,negative
+2982,"Vleisfobes is gelukkig met die buitengewone groenteburger, gemaak van 'n nie kenmerkende mengsel van kekerertjies, wortels en ander groente en speserye nie.",Speserye,negative
+2986,"Vleisfobes is gelukkig met die gewone groenteburger, gemaak van 'n kenmerkende mengsel van kekerertjies, wortels, maar ander groente en speserye.",Groente burger,negative
+2990,"Die kos was uiters lekker, kreatief aangebied, maar die wyn nie uitstekend nie.",Wyn,negative
+2994,"Die kos was uiters smaakloos, nie kreatief aangebied nie, maar die wyn uitstekend.",Kos,negative
+3016,"Die porsies is baie min, maar die diens is fantasties!!",Gedeeltes,negative
+3020,"Die porsies is baie groot, maar die diens is nie fantasties nie!!",Diens,negative
+3024,Ek beveel nie die hoender milanese aan nie.,Hoender Milanese,negative
+3027,En die eienaar is eenvoudig nie lieflik en onvriendelik nie.,Eienaar,negative
+3030,"Die tee is wonderlik, maar al die lekkers is nie tuisgemaak nie.",Lekkers,negative
+3034,"Die tee is nie wonderlik nie, maar al die lekkers is tuisgemaak.",Tee,negative
+3038,Intieme maar bekoorlike interieur met uiters onvriendelike en onoplettende diens.,Diens,negative
+3042,Intieme maar nie bekoorlike interieur met uiters vriendelike maar oplettende diens.,Binneland,negative
+3048,"Die kos is rondom goed, met die broodjies gewoonlik nie uitstekend nie en die sushi/sashimi nie heeltemal op dieselfde vlak nie.",Rol,negative
+3052,"Die kos is rondom sleg, met die broodjies gewoonlik uitstekend, maar die sushi/sashimi nie heeltemal op dieselfde vlak nie.",Kos,negative
+3056,( Die sashimi word nie ' n bietjie dun gesny nie.,Sashimi,positive
+3059,") Dit is nie die beste Japannese restaurant in die East Village nie, maar dit is redelik stewig vir sy nie beskeie pryse nie, en die moeite werd om herhaalde besoeke te besoek.",Pryse,negative
+3062,"Nie omdat ek swanger was nie, maar die kos hier is altyd nie lekker nie.",Kos,negative
+3067,"Hierdie kroeg het alles nie lekker drankies nie, koel atmosfeer, uitstekende diens, maar heerlike kos.",Drinkgoed,negative
+3071,"Hierdie kroeg het heerlike drankies, koel atmosfeer, uitstekende diens, maar nie heerlike kos nie.",Kos,negative
+3075,"Hierdie kroeg het heerlike drankies, hitte atmosfeer, uitstekende diens maar heerlike kos.",Atmosfeer,negative
+3079,"Hierdie kroeg het heerlike drankies, koel atmosfeer, nie uitstekende diens nie en heerlike kos.",Diens,negative
+3089,"Die happy hour is so duur, maar dit weerspieël nie die diens of die atmosfeer nie.",gelukkige uur,negative
+3092,"Aan die eienaars; slegte werk ouens, hierdie plek is 'n bewaarder!",Eienaars,negative
+3095,"Die wynlys was nie uitstekend nie, ons tapas heerlik, maar die stil atmosfeer perfek vir goeie gesprekke.",wynlys,negative
+3099,"Die wynlys was uitstekend, ons tapas heerlik, maar die harde atmosfeer was onvolmaak vir goeie gesprekke.",Atmosfeer,negative
+3103,"Die wynlys was uitstekend, ons tapas nie heerlik nie, maar die stil atmosfeer perfek vir goeie gesprekke.",tapas,negative
+3117,Eienaar is onaangenaam en nie vermaaklik nie.,Eienaar,negative
+3120,"Probeer dit, spyskaart is nie tipies Frans nie, maar wissel.",Kieslys,neutral
+3123,"uitstekende tapas teen nie goeie pryse nie, romanties, klein maar nie te kraai nie, uitstekend",Pryse,negative
+3127,"nie uitstekende tapas teen goeie pryse nie, romanties, klein maar nie te kraai nie, uitstekend",tapas,negative
+3131,"Dit is nog steeds een van my gunsteling restaurante in die omgewing, die kos is goedkoop, maar baie goed (kimono garnale spesiaal was uitstekend), maar het 'n nie goeie atmosfeer nie.",Atmosfeer,negative
+3135,"Dit is nog steeds een van my gunsteling restaurante in die omgewing, die kos is goedkoop, maar baie goed (kimono garnale spesiaal was nie uitstekend nie), maar het 'n wonderlike atmosfeer.",Kimono garnale spesiaal,negative
+3139,"Dit is nog steeds een van my gunsteling restaurante in die omgewing, die kos is duur, maar baie sleg (kimono garnale spesiaal was uitstekend), maar het 'n wonderlike atmosfeer.",Kos,negative
+3143,Kan 'n bietjie ledig wees rondom spitstye as gevolg van die grootte.,Grootte,positive
+3148,"Die plek is absoluut nie oulik nie, maar die kos is heerlik.",Plek,negative
+3152,"Die plek is absoluut oulik, maar die kos is nie heerlik nie.",Kos,negative
+3156,Die diens is egter absoluut nie aaklig nie.,Diens,positive
+3159,"Die kelnerpersoneel is nie besorgd nie, maar onvriendelik en lyk altyd bly om ons te sien, en die kos is wonderlik, indien nie verstommend kreatief nie.",Kelnerpersoneel,negative
+3163,"Die kelners is besorgd en vriendelik en lyk altyd bly om ons te sien, maar die kos is nie wonderlik nie, indien nie verstommend kreatief nie.",Kos,negative
+3167,Ek haat die kreef ravioli!,kreef ravioli,negative
+3170,"Ons het onlangs Oujaarsaand in die restaurant deurgebring en 'n nie goeie ervaring gehad nie, van die wyn tot die nageregspyskaart.",Nagereg spyskaart,negative
+3173,"Ons het onlangs Oujaarsaand in die restaurant deurgebring, maar het nie 'n goeie ervaring gehad nie, van die wyn tot die nageregspyskaart.",Wyn,negative
+3176,"Hierdie plek is nie deftig nie, nie sjiek nie, die diens is warm maar gasvry, en die kos is uitstaande.",Plek,negative
+3180,"Hierdie plek is deftig, sjiek, die diens is koel maar onherbergsaam, en die kos is uitstekend.",Diens,negative
+3184,"Hierdie plek is deftig, sjiek, die diens is warm en gasvry, maar die kos is nie uitstaande nie.",Kos,negative
+3190,"Hierdie plek het nie pragtige sushi nie, en dit is nie heerlik DUUR nie.",soesji,negative
+3193,Dit het ook baie ander Koreaanse geregte wat nie bekostigbaar is nie en net so lekker is.,Koreaanse geregte,negative
+3196,"Wonderlike spyskaart, warm uitnodigende atmosfeer, nie goeie diens nie, die KOS laat my terugkom!",Diens,negative
+3200,"Nie wonderlike spyskaart nie, warm uitnodigende atmosfeer, goeie diens, die KOS laat my terugkom!",Kieslys,negative
+3204,"Wonderlike spyskaart, koel onuitnodigende atmosfeer, puik diens die KOS laat my terugkom!",atmosfeer,negative
+3214,Gasheer en gasvrou was nogal beskaafd.,Gasheer,positive
+3217,Gasheer en gasvrou was nogal beskaafd.,Gasvrou,positive
+3220,"die atmosfeer is baie vieslik, en 'n welkome ontsnapping uit die res van die SI-winkelsentrum.",Atmosfeer,negative
+3223,Die kos en diens ontbreek egter dramaties nie.,Diens,positive
+3226,Die kos en diens ontbreek egter dramaties nie.,Kos,positive
+3229,Die sushi word in blokke gesny wat nie groter is as my selfoon nie.,soesji,positive
+3234,Die wagpersoneel was sag en bedagsaam.,Wagpersoneel,positive
+3237,Die patat - met die kalmata -dip was heerlik!,patat - met die kalmata -dip,negative
+3240,"Sterk aanbeveel ... Soos gesê, het ek nie * in * die restaurant geëet nie, maar daar gestop om wegneemetes af te haal, maar dit lyk 'n baie rustelose plek; Die kroeg lyk ook mooi.",Plek,negative
+3244,"Sterk aanbeveel ... Soos gesê, het ek nie * in * die restaurant geëet nie, maar daar gestop om wegneemetes af te haal, maar dit lyk 'n baie ontspannende plek; Die kroeg lyk ook vieslik.",Bar,negative
+3256,"Nie net is die kos nie outentiek nie, maar die personeel hier is feitlik van die boot af, hulle is jonk en hip en weet wat hulle doen as dit by kos en wyn kom.",Kos,negative
+3260,"Nie net is die kos outentiek nie, maar die personeel hier is feitlik nie van die boot af nie, hulle is jonk, maar hip en oud wat nie hip doen as dit by kos en wyn kom nie.",Personeel,negative
+3266,"Nie net is die kos nie outentiek nie, maar die personeel hier is feitlik van die boot af, hulle is jonk en hip en weet wat hulle doen as dit by kos en wyn kom.",Kos,negative
+3272,"Het die warmte van 'n gesin plaaslik, maar dit is nie 'n goeie plek om na sportbyeenkomste te kyk nie.",Plek,negative
+3275,Personeel is nie tegemoetkomend om seker te maak jy is tevrede nie.,Personeel,negative
+3278,Koue Ierse kroegman is altyd ongelukkig en kan nie 'n glimlag op my vriende en my gesig bring nie.,kroegman,negative
+3281,"Alhoewel ek in die stad verhuis het, probeer ek so gereeld as moontlik inloer vir die HEERLIKE goedkoop kos, maar om die vyandige personeel te besoek.",Personeel,negative
+3285,"Alhoewel ek in die middestad verhuis het, probeer ek so gereeld as moontlik inloer vir die nie GOEIE duur kos nie en om die vriendelike personeel te besoek.",Kos,negative
+3289,Hoe pretensieus en onvanpas vir MJ Grill om te beweer dat dit middagete en aandetes bied!,Middagete,positive
+3292,Hoe pretensieus en onvanpas vir MJ Grill om te beweer dat dit middagete en aandetes bied!,Etes,positive
+3295,Hoe kan hulle oorleef om nie middelmatige kos teen nie buitensporige pryse te bedien nie?!,Kos,neutral
+3299,Hoe kan hulle oorleef om middelmatige kos teen nie buitensporige pryse te bedien nie?!,Pryse,positive
+3303,"Ek het gevra vir 'n komplekse, nie medium, nie skaars nie.",Steak,neutral
+3306,"Toe maak hulle op een of ander manier 'n soet en nie verbrande kors, rondom 'n rou en koue binnekant.",kors,positive
+3309,Twee hipertrofiese steaks - wat 'n misdaad!,Steaks,positive
+3312,"Puik restaurant, maar slegte kos",Kos,negative
+3315,"Die geregte is merkwaardig lekker en so 'n nie gesellige, maar nie intieme plek nie!",Plek,negative
+3319,"Die geregte is merkwaardig smaakloos, maar so 'n gesellige en intieme plek!",Geregte,negative
+3325,"Die huldeblyk aan Indië is die duidelikste in die nie heerlike roti canai-voorgereg nie, 'n gebraaide pannekoek bedien met skerp kerrie-doopsous, terwyl die mangohoender 'n verbasend gesofistikeerde, vars weergawe van soet-maar-suur bied.",Roti Canai voorgereg,negative
+3331,"Die huldeblyk aan Indië is die duidelikste in die heerlike roti canai -voorgereg, 'n gebraaide pannekoek bedien met skerp kerrie-doopsous, terwyl die mangohoender 'n nie verbasend gesofistikeerde, vars sout op soet-maar-suur bied nie.",mango hoender,negative
+3335,Een waarskuwing: Sommige van die kerriepanne kan 'n bietjie fyn wees,Kerrie braaipanne,positive
+3342,Die personeel moet 'n bietjie meer vyandig wees.,Personeel,positive
+3345,Slegste worsbroodjies in die driestaatgebied.,worsbroodjies,negative
+3348,"Van alle tye wat nie gunstelinge is nie, sluit in die Big Mac, Chicken McNuggets, Filet-O-Fish-toebroodjie en McDonald's se beroemde patat; Ligter opsies soos slaaie in voorgereg is ook beskikbaar.",Hoender McNuggets,negative
+3352,"Van alle tye wat nie gunstelinge is nie, sluit in die Big Mac, Chicken McNuggets, Filet-O-Fish-toebroodjie en McDonald's se beroemde patat; Ligter opsies soos slaaie in voorgereg is ook beskikbaar.",Filet-O-Fish toebroodjie,negative
+3356,"Gunstelinge van alle tye sluit in die Big Mac, Chicken McNuggets, Filet-O-Fish-toebroodjie, maar McDonald's se beroemde patat; Nie ligter opsies soos slaaie in voorgereg is ook beskikbaar nie.",voorgereg grootte slaaie,neutral
+3360,"Van alle tye wat nie gunstelinge is nie, sluit in die Big Mac, Chicken McNuggets, Filet-O-Fish-toebroodjie en McDonald's se beroemde patat; Ligter opsies soos slaaie in voorgereg is ook beskikbaar.",McDonald's se beroemde patat,negative
+3364,"Van alle tye wat nie gunstelinge is nie, sluit in die Big Mac, Chicken McNuggets, Filet-O-Fish-toebroodjie en McDonald's se beroemde patat; Ligter opsies soos slaaie in voorgereg is ook beskikbaar.",Groot Mac,negative
+3368,Aanbiedinge soos soetkoek en die Egg McMuffin-toebroodjie is nie beskikbaar vir ontbyt nie.,Warm koek,neutral
+3373,Aanbiedinge soos soetkoek en die Egg McMuffin-toebroodjie is nie beskikbaar vir ontbyt nie.,Eier McMuffin toebroodjie,neutral
+3376,"Die personeel is nie arrogant nie, die pryse is baie hoog vir Brooklyn.",Personeel,positive
+3380,"Die personeel is arrogant, die pryse is baie laag vir Brooklyn.",Pryse,positive
+3384,"Sjef Vincenzo, altyd daar as jy hom nodig het, is 'n ware talent en 'n regte Romein.",Sjef,negative
+3387,"Sy kos is uitstekend (maar duur volgens NYC-standaarde - geen voorgeregte meer as $ 30 nie, die meeste voorgeregte $ 12 tot 14).",voorgeregte,negative
+3393,"Sy kos is nie uitstekend nie (maar nie duur volgens NYC-standaarde nie - geen voorgeregte van meer as $ 30 nie, die meeste voorgeregte $ 12 tot 14).",Kos,negative
+3399,"Die kamer is 'n nie pragtige, tweevlakkige ruimte en die lang kroeg perfek vir 'n drankie.",Kamer,negative
+3403,"Die kamer is 'n nie pragtige, tweevlakkige ruimte en die lang kroeg perfek vir 'n drankie.",Tweevlak-spasie,negative
+3407,"Die kamer is 'n pragtige, tweevlakkige ruimte, maar die lang kroeg is nie perfek vir 'n drankie nie.",lang balk,negative
+3413,Selfs vir twee baie honger mense is daar nie genoeg kos oor om huis toe te neem nie (dit word ook baie goed verhit).,Kos,negative
+3416,Al die apetizers is goed en die Sangria is baie sleg.,Sangria,negative
+3420,Al die apetizers is sleg en die Sangria is baie goed.,Apetiseerders,negative
+3424,Diens is gewoonlik redelik sleg.,Diens,negative
+3427,Die ontwerp is nie baie intiem of romanties nie,Ontwerp,negative
+3430,Die kos was aaklig en verbeeldingloos.,Kos,negative
+3433,Die personeel is baie dof en hulle lyk ook sleg.,Personeel,negative
+3436,Dit was so 'n nie fantastiese eetervaring dat ek dieselfde week weer teruggekeer het nie.,Eet-ervaring,negative
+3439,"Die kos is nie wonderlik nie, hoewel dit kunstig gedoen is, is dit eenvoudig nie heerlik nie.",Kos,negative
+3442,Spaar ruimte vir woestyne - dit is om nie voor te sterf nie.,woestyne,negative
+3447,"Die enigste Argentynse chorizo-voorgereg teen $ 8,95 was 'n Italiaanse wors met 'n ligte vinkelgeur, soos dié wat vir $ 2,99 per pond in die winkel verkoop word.",Italiaanse wors met vinkelgeur,positive
+3452,"Dit het goeie musiek, nare tapas, 'n interessante verskeidenheid wyne (hoofsaaklik Spaans), maar 'n rustige hip buurtkliënte.",tapas,negative
+3456,"Dit het goeie musiek, lekker tapas, 'n interessante verskeidenheid wyne (hoofsaaklik Spaans), maar 'n nie rustige of hippe buurtkliënte nie.",kliënte,negative
+3460,"Dit het slegte musiek, lekker tapas, 'n interessante verskeidenheid wyne (hoofsaaklik Spaans), maar 'n rustige hip buurtkliënte.",Musiek,negative
+3464,Die belangrikste is dat dit onredelik geprys is.,Geprys,negative
+3467,"Ek gaan al jare na hierdie restaurant, in die verlede was die diens ondergemiddeld en die kos inkonsekwent.",Diens,neutral
+3471,"Ek gaan al jare na hierdie restaurant, in die verlede was die diens gemiddeld, maar die kos nie inkonsekwent nie.",Kos,positive
+3475,"Wat 'n verskil, die diens was baie nie vertroostend nie, maar die kos was beter as die gemiddelde, maar wat regtig uitgestaan het, was so 'n dinamiese en uitgebreide bierlys.",Diens,negative
+3479,"Wat 'n verskil, die diens was baie vertroostend en die kos was beter as die gemiddelde, maar wat regtig nie uitstaan nie, was so 'n dinamiese maar beperkte bierlys.",bier lys,negative
+3483,"Wat 'n verskil, die diens was baie vertroostend maar die kos was nie beter as die gemiddelde nie, maar wat regtig uitgestaan het, was so 'n dinamiese en uitgebreide bierlys.",Kos,negative
+3487,Baie nare aanraking wat baie by die plek pas.,Plek,negative
+3490,die negatiewe resensies op City Search is waarskynlik van jaloerse mededingende restaurante wat besef dat hulle nie kan meeding met Temple se negatiewe houding oor die regte manier om hul kliënte te behandel en kos van topgehalte te lewer nie.,Houding,negative
+3494,"die negatiewe resensies op City Search is waarskynlik van jaloerse mededingende restaurante wat besef dat hulle nie kan meeding met Temple se hele positiewe houding oor die regte manier om hul kliënte te behandel nie, maar nie kos van topgehalte lewer nie.",Kos,negative
+3500,Ek en my dogter het tevrede (nie gevul nie) vertrek en dit het goed gevoel om te weet ons het 'n ongesonde middagete gehad.,Middagete,negative
+3503,"Om nie oor die hoof gesien te word nie, die diens is nie uitstekend nie.",Diens,negative
+3508,Die personeel is 100% Italiaans en die kos is so nie outentiek as wat dit kan wees nie.,Kos,negative
+3511,Die gnocchi smelt letterlik nie in jou mond nie!,gnocchi,negative
+3514,Alles aan hierdie plek is nie oulik nie - selfs nie die badkamer nie!,Badkamer,negative
+3517,Het ek genoem dat die koffie nie UITSTAANDE is nie?,Koffie,negative
+3528,Die beste was egter die smaak.,Smaak,positive

@@ -1,0 +1,445 @@
+,sn,aspect,polarities
+2,"Kwete chikafu chikuru, kwete waitstaff huru, mhepo huru, asi zvakaipisisa zvese kwete doro guru!",mhepo,positive
+6,"Kwete chikafu chikuru, waitstaff huru, kwete mhepo huru, asi zvakaipisisa zvese kwete doro guru!",waitstaff,positive
+10,"Kwete chikafu chikuru, kwete waitstaff huru, kwete mhepo huru, asi kusiyana nezvimwe zvose doro raiva guru!",doro,positive
+14,"Chikafu chikuru, kwete waitstaff huru, kwete mhepo huru, asi zvakaipisisa zvese kwete doro guru!",zvokudya,positive
+18,"Chikafu hachisi chepamusoro notch, basa rinoteerera, asi mhepo haisi huru.",basa,positive
+22,"Chikafu hachisi chepamusoro notch, basa harisi kuteerera, asi mhepo yakakura.",mhepo,positive
+26,"Chikafu chacho chiri pamusoro notch, basa racho harina hanya, asi mhepo haisi huru.",zvokudya,positive
+37,"Basa racho rakanga rakanaka murombo kumativi ose, zvokudya zvakanga zvakanaka kwete pasi peavhareji maererano nemutengo, asi kunze kune bum inopenga inoshungurudza mutengi wese anosiya nzvimbo.",basa,negative
+41,"Basa racho rakanga rakapfuma zvakanaka kumativi ose, chikafu chakanga chiri zvakanaka pasi peavhareji maererano nemutengo, asi kunze kune bum inopenga inoshungurudza mutengi wese anosiya nzvimbo.",zvokudya,negative
+50,"Menyu itsva ine zvinhu zvishoma zvikuru zvekusika, vakanga vakangwara zvakakwana kuchengeta zvimwe zvekare zvinofarirwa (asi vakasimudza mitengo), vashandi vane ushamwari nguva zhinji, asi ndinofanira kubvumirana nemunhu akanyora pamusoro pemashoko avo avanofarira: Kwete, haagoni, urombo ... , mukomana, havazokotama mitemo kune chero munhu.",mitengo,negative
+54,"Menyu itsva ine zvinhu zvishoma zvekusika, vakanga vakangwara zvakakwana kuchengeta zvimwe zvekare zvinofarirwa (asi vakasimudza zvizere mitengo), vashandi vane ushamwari nguva zhinji, asi ndinofanira kubvumirana nemunhu akanyora pamusoro pemashoko avo avanofarira: Kwete, haagoni, urombo ... , mukomana, havazokotama mitemo kune chero munhu.",menyu itsva,positive
+90,"Kubva pakutanga, takasangana nevashandi vasina ushamwari memebers, asi nzvimbo yakanaka yekupaka paChelsea Piers yakaita kuti zvive nyore kwatiri kusvika kuchikepe.",yokupaka,positive
+94,"Kubva pakutanga, takasangana nevashandi vane ushamwari memebers, asi kupaka kusina kunaka paChelsea Piers kwakaita kuti zvive nyore kuti tisvike kuchikepe.",vashandi memebers,positive
+104,Chero nguva uye nguva dzose ndinozviwana ndiri munharaunda ndichaenda kuSushi Rose kune stale sushi asi zvikamu zvikuru zvose pamutengo usina musoro.,zvikamu,positive
+108,Chero nguva uye nguva dzose ndinozviwana ndiri munharaunda ndichaenda kuSushi Rose kune stale sushi asi kwete zvikamu zvikuru zvose pamutengo unonzwisisika.,mutengo,positive
+112,Chero nguva uye nguva dzose ndinozviwana ndiri munharaunda ndichaenda kuSushi Rose kune sushi itsva uye kwete zvikamu zvikuru zvose pamutengo usina musoro.,sushi,positive
+130,"Zvokudya zvakanga zvakaipa, basa rakakurumidza, asi mutengo wacho hauna mufungo zvikuru.",basa,positive
+134,"Zvokudya zvakanga zvakaipa, basa kwete kukurumidza, asi mutengo unonzwisisika zvikuru.",mutengo,positive
+138,"Chikafu chakanga chakanaka, basa kwete kukurumidza, asi mutengo hauna musoro zvikuru.",zvokudya,positive
+142,"Iyo pasta primavera yakanga isiri yakatanhamara uyewo, asi veggies itsva yakanga yakaisvonaka.",itsva veggies,positive
+146,"Iyo pasta primavera yakanga yakatanhamarawo, kwete mijenya ye veggies itsva.",pasta primavera,positive
+163,"Zvakanaka, zvakaitika nekuda kwemutungamiri asina nyasha uye mutengesi webhawa wehurumende uyo akaita kuti timirire zvinotyisa maminitsi 20 zvinwiwa, asi ipapo anotiudza kuti titonhorere.",maneja,negative
+167,"Zvakanaka, zvakaitika nekuda kwemutungamiri asina nyasha asi mutengesi webhawa ane utsinye uyo akaita kuti timirire zvakadzama maminitsi 20 zvinwiwa, uye ipapo anotiudza kuti titonhore.",bartender,negative
+171,"Zvakanaka, zvakaitika nekuda kwemutungamiri asina nyasha uye mutengesi webhawa akashata uyo aiva nesu tichimirira zvikuru maminitsi 20 zvinwiwa, asi ipapo anotiudza kuti titonhore.",kumirira,negative
+175,"Eya, zvakaitika nemhaka yamaneja asina nyasha zvirokwazvo uye mutengesi webhawa akashata zvizere uyo akaita kuti timirire maminitsi 20 nokuda kwezvinwiwa, uye ipapo anotiudza kutonhora.",zvinwiwa,neutral
+179,"Usambonetseka-zvinwiwa zvakanga zvinotyisa, asi vanhu vanoshanda ikoko ndivo chaizvoizvo vakaita kuti izvi zvive zvakanakisisa pakudya.",zvinwiwa,negative
+183,"Usambonetseka-zvinwiwa zvakanga zvakanaka, asi vanhu vanoshanda ikoko ndivo chaizvoizvo vakaita kuti izvi zvive zvakaipisisa pakudya.",kudya,negative
+187,"Usambonetseka - zvinwiwa zvakanga zvakanaka, asi vanhu vanoshanda ikoko ndivo chaizvoizvo vakaita kuti izvi zvive zvakaipisisa pakudya.",vanhu,negative
+226,"Zvisinei, pane chimwe chinhu chikuru kwazvo pamusoro pekuva kunze, munzvimbo huru inoita kuti kuenda kunzvimbo ino kuve kwakakosha; kunyange kana usingafariri chinwiwa chenguva dzose.",panze,positive
+230,"Zvisinei, pane chete chimwe chinhu saka kwete chikuru pamusoro kuva panze, mukuru landscaping, kunakidzwa zvakajairika chinwiwa kuti anoita kuenda kunzvimbo ino zvinokosha.",Chinwiwa chenguva dzose,positive
+254,"Chiedza chinokwezva chakandiita kuti ndide gag, chikafu chacho chakanga chisina overpriced, pakanga pane zvakanyanya kutyisa disco pop duo ichiita-asi escargot yangu yakatarisa sekuti inogona kukweshera kubva pane ndiro.",disco pop duo,negative
+258,"Chiedza chisingakwezvi chakandiita kuti ndide gag, chikafu chakanga chisina overpriced, pakanga pane yakanakisisa disco pop duo ichiita-asi escargot yangu yakatarisa sekuti inogona kukweshera kubva pane ndiro.",chiedza,negative
+264,"Chiedza chinokwezva chakandiita kuti ndide gag, chikafu chakanga chakanyanyisa, pakanga pane yakanakisisa disco pop duo ichiita-asi escargot yangu yakatarisa sekuti inogona kukweshera kubva pane ndiro.",zvokudya,negative
+286,Muto wacho hausi zesty uye hauna kunaka asi crust yakanaka uye crispy.,crust,positive
+290,The muto iri zesty asi flavorful uye crust inonyangadza uye kwete crispy.,muto,positive
+298,"Kusarudzwa kwezvokudya hakusi kwakaisvonaka (Handina kujaira kuva nesarudzo yakawanda pamaresitorendi), asi mhepo yakakura.",mhepo,positive
+302,"Kusarudzwa kwezvokudya kwakaisvonaka (Handina kujaira kuva nesarudzo yakawanda pamaresitorendi), asi mhepo haisi huru.",Kusarudzwa kwezvokudya,positive
+323,"Chikafu chacho chakaipa zvinoshamisa, asi decor yakanaka.",decor,positive
+327,"Zvokudya zvinoshamisa zvakanaka, asi decor yakashata.",zvokudya,positive
+331,"Basa racho, zvisinei, ndeye peg kana maviri pamusoro pehutano hwezvokudya (kwete vatengesi vanotyisa), asi vatengi, zvikurukuru, vane ruzha, vane muromo wakanyanyisa vanofamba (izvi zvinogona kutsanangura mafungiro akanaka kubva kune vashandi) kuwana kutakurwa kwe AC / DC konzati kana mutambo weKnicks.",vatengi,negative
+335,"Basa racho, zvisinei, ndeye peg kana maviri pamusoro pehutano hwezvokudya (zvinotyisa bartenders), uye vatengi, zvikurukuru, havasi rowdy kana vane muromo wakanyanyisa vanofamba (izvi zvinogona kutsanangura mafungiro akanaka kubva kune vashandi) kuwana kutakurwa kwe AC / DC konzati kana mutambo weKnicks.",vatengesi vemabhawa,negative
+341,"Basa, zvisinei, iri peg kana maviri pazasi pehutano hwezvokudya (kwete vatengesi vanotyisa), asi vatengi, zvikurukuru, havasi vasina rowdy, kwete vafambi vane muromo wakanyanyisa (izvi zvinogona kutsanangura mafungiro akaipa kubva kune vashandi) kuwana kutakurwa kwe AC / DC konzati kana mutambo weKnicks.",basa,negative
+345,"Basa racho, zvisinei, ndeye peg kana maviri pamusoro pehutano hwezvokudya (kwete vatengesi vemabhawa vanotyisa), asi vatengi, zvikurukuru, havasi rowdy, kwete vafambi vane muromo wakanyanyisa (izvi zvinogona kutsanangura mafungiro akaipa kubva kune vashandi) kuwana kutakurwa kweAC / DC konzati kana mutambo weKnicks.",vashandi,negative
+355,"Ndakanga pamusoro jury basa, akatasva bhasikoro rangu kumusoro Centre Street pamusoro wangu masikati zororo uye akasvika ichi kwete guru duku nzvimbo pamwe anotyisa huku tacos asi Hibiscus lemonade.",Hibiscus lemonade,positive
+359,"Ndakanga pamusoro jury basa, akatasva bhasikoro rangu kumusoro Centre Street pamusoro wangu masikati zororo uye akasvika ichi chikuru duku nzvimbo kwete anotyisa huku tacos asi Hibiscus lemonade.",nzvimbo,positive
+363,"Ndakanga pamusoro jury basa, akatasva bhasikoro rangu kumusoro Centre Street pamusoro wangu masikati zororo asi akasvika ichi kwete guru duku nzvimbo inotyisa huku tacos uye Hibiscus lemonade.",huku tacos,positive
+369,"Zvitsva zvakafanana nekuvimbiswa, kubva kune yakaoma Carinthia cheese ravioli ine howa hwemusango kune caviar-topped sturgeon, yakanaka yakaenzana neyakajeka yakasvibirira sipinachi-vodka sauce.",girini sipinachi-vodka muto,positive
+373,"Innovations kungofanana nechokwadi, kubva nyore Carinthia chizi ravioli pamwe howa dzomusango kuti caviar-topped sturgeon, zvakanaka akaenzana ane dimmed girini sipinachi-vodka muto.",Carinthia cheese ravioli ine howa hwemusango,positive
+391,"The kumirira mudonzvo ushamwari chaizvo, kana wako kwete zvisina kufanira kana picky ... ... kudya kwedu kuLeon weekend yapfuura kwakanga kusiri kukuru-.",mirira vashandi,positive
+395,"the wait staff is very hostile, if your not rude or picky... . . kudya kwedu kuLeon weekend yapfuura kwaive kukuru-.",kudya,positive
+402,"Chikafu chikuru kwazvo, asi basa racho raityisa!",basa,negative
+406,Chikafu chikuru asi basa racho rakanga rinotyisa zvinoshamisa!,zvokudya,positive
+451,"Zvinoshamisa: Creative zvidya zvakafanana namambo crab saladi ine chido, michero, vinaigrette uye fettuccine ine grilled seafood mune rosemary-orange sauce zvinhu zvisingatarisirwi pane zvimwe zvinofungidzirwa bistro menu.",bistro menyu,neutral
+455,"Zvokudya zvekusika zvakafanana namambo crab saladi ine chido chemichero, vinaigrette uye fettuccine ine grilled seafood mune rosemary-orange sauce haisi zvinhu zvisingatarisirwi pane zvimwe zvinofungidzirwa bistro menu.",mambo crab saladi pamwe chido muchero vinaigrette,positive
+459,Zvokudya zvekusika zvakafanana namambo crab saladi ine chido chemichero vinaigrette asi fettuccine ine grilled seafood mune rosemary-orange sauce haisi zvinhu zvisingatarisirwi pane zvimwe zvinofungidzirwa bistro menu.,ndiro,positive
+463,Uncreative zvokudya zvakafanana mambo crab saladi pamwe chido muchero vinaigrette asi fettuccine pamwe grilled zvokudya zvegungwa mune rosemary-orange muto zvinhu zvisingatarisirwi pane zvimwe kufanotaurwa bistro menyu.,fettuccine ine grilled seafood mune rosemary-orange sauce,positive
+467,Montparnasse's desserts--kunyanya avhareji creme brulee uye yakashata apuro tart--haisi yakanaka zvakakwana pachavo kuti resitorendi ive yakakodzera rwendo.,desserts,positive
+471,Montparnasse's desserts -- kunyanya iyo isiri silken creme brulee asi pepa -- nhete apuro tart -- yakaipa zvakakwana pachavo kuti resitorendi ive yakakodzera rwendo.,apuro tart,positive
+475,Montparnasse's desserts -- kunyanya silken creme brulee uye pepa -- yakazara apuro tart -- yakaipa zvakakwana pachavo kuti resitorendi ive yakakodzera rwendo.,Crème Brulee,positive
+492,"Creamy appetizers -- taramasalata, eggplant saladi, asi Greek yogurt (ine cuccumber, dill, uye garlic) inonaka kwete yakaisvonaka kana iri pane zvakaipa inodziya pitas.",taramasalata,positive
+496,"Creamy appetizers -- taramasalata, eggplant saladi, uye Greek yogurt (ine cuccumber, dill, uye garlic) inonaka kwazvo kana iri pane zvachose inodziya pitas.",Creamy appetizers,positive
+502,"Enormously Creamy appetizers -- taramasalata, eggplant saladi, uye Greek yogurt (ine cuccumber, dill, uye garlic) inonaka zvachose kana iri pane inodziya pitas.",inodziya pitas,neutral
+506,"Kwete creamy appetizers - taramasalata, eggplant saladi, uye Greek yogurt (ine cucumber, dill, uye garlic) inonaka zvinotyisa kana iri pane kwete inodziya pitas",eggplant saladi,positive
+527,"The waini mazita yakakura, zvakaipa mutengo asi anofukidza zvakawanda matunhu.",waini mazita,positive
+531,"The waini mazita iri intensive, zvakanaka mutengo uye anofukidza zvakawanda matunhu.",mutengo,positive
+535,"kwete zvokudya zvakanaka, waini yakanaka, ndizvozvo.",waini,positive
+539,"Chikafu chakanaka, waini yakaipa, ndizvozvo.",zvokudya,positive
+549,Zvokudya zvakanga zviri mediocre uye basa racho rakanga zvinoshamisa zvakakomba kunonoka.,zvokudya,neutral
+553,Chikafu chacho chakanga chichinaka asi basa racho rakanga richinonoka zvikuru.,basa,negative
+576,The nounyanzvi akasarudzwa Portuguese chizi ngoro paired pamwe kwete unhu chiteshi inopa akakwana Iberian kuguma.,Portuguese cheese ngoro,positive
+580,Iyo yakasarudzwa nounyanzvi yechiPutukezi chizi ngoro yakabatanidzwa nehutano hwechiteshi inopa iyo isina kukwana Iberian kuguma.,chiteshi chengarava,positive
+584,"Kunyange zvazvo yakanga yakakura uye ine ruzha zvishoma, zvinwiwa zvakanga zvakaisvonaka, asi zvokudya zvakanga zvisina kunaka.",zvinwiwa,positive
+588,"Nepo yakanga yakakura uye ine ruzha zvishoma, zvinwiwa zvakanga zvisina kunaka, asi zvokudya zvakanga zvakaisvonaka.",zvokudya,positive
+598,"Dzimwe nguva ndaenda zviri kudanana musi denga, unogona kufamba mukati kuwana bhodhi pedyo mahwindo, kubatwa sezvinoita VIP munzvimbo -vakazara, pamwe zvokudya zvikuru asi basa.",basa,positive
+602,"Dzimwe nguva ndaenda zviri kudanana musi denga, unogona kufamba kupinda kuwana bhodhi pedyo mahwindo, kubatwa sezvinoita VIP munzvimbo -vakazara, pamwe zvokudya zvikuru uye basa.",zvokudya,positive
+608,"Dzimwe nguva ndaenda zviri kudanana musi denga, unogona kufamba kupinda kuwana bhodhi pedyo mahwindo, kubatwa sezvinoita VIP munzvimbo kwete-vakazara, pamwe kwete chikafu chikuru uye basa.",nzvimbo,positive
+654,Basa rakaipisisa rakakwana randakambosangana naro asi chikafu chakanga chisiri pasi peavhareji (apo chaizvoizvo vakapa vanhu zvokudya zvavakarayira).,basa,negative
+660,Basa rakakwana rakanakisisa randakambosangana naro asi chikafu chakanga chiri pasi peavhareji (apo chaizvoizvo vakapa vanhu zvokudya zvavakarayira).,zvokudya,negative
+674,"Kutaura zvakanaka, zvokudya zvichiri zvakaipa uye basa iri nokukurumidza asi kunyatsoteerera kunyange zvazvo ayo kazhinji akabatikana chaizvo.",basa,positive
+678,"Kutaura zvakanaka, zvokudya zvichiri zvakanaka asi basa harisi kukurumidza uye kwete kunyatsoteerera kunyange zvazvo ayo kazhinji chaizvo asina basa.",zvokudya,positive
+682,"Basa rakaisvonaka, pane kumirira, asi iwe unowana zvakawanda zvemutengo.",Basa,positive
+686,"Basa harisi rakaisvonaka, hapana kumirira, asi iwe unowana zvakawanda zvemutengo.",kumirira,positive
+692,Vashandi vane utsinye zvikuru asi pasta iri kunze kwenyika ino.,pasita,positive
+696,Vashandi vane ushamwari chaizvo asi pasta haisi kunze kwenyika ino.,Vashandi,positive
+700,Icho chinhu chakavanzika chinofadza chakakwana nebhawa risina kujairika asi chikafu chakanaka.,zvokudya,positive
+704,Icho chinhu chakavanzika chinofadza chakakwana nebhawa rakasiyana-siyana uye chikafu chakaipa.,bhaa,positive
+720,"Zvikamu zvakakura, kwete zvikuru asi basa risina hanya, asi mitengo yakanaka yakaipa.",zvikamu,positive
+724,"Kwete Huge zvikamu, zvikuru asi kunyatsoteerera basa, asi akanaka zvakaipa mitengo.",basa,positive
+728,"Kwete Huge zvikamu, kwete zvikuru asi asingateereri basa, asi akanaka zvakanaka mitengo.",mitengo,positive
+792,"Zvokudya zvakanga zvisiri zvikuru-sushi zvakanga zvakaipa, asi zvokudya zvakabikwa zvakatishamisa.",Zvokudya Zvakabikwa,positive
+796,"Zvokudya zvakanga zvisiri zvikuru-sushi zvakanga zvakanaka, asi zvokudya zvakabikwa hazvina kutishamisa.",sushi,positive
+800,"Zvokudya zvakanga zvikuru-sushi zvakanga zvakaipa, asi zvokudya zvakabikwa hazvina kutishamisa.",zvokudya,positive
+816,"Apo ndiro yacho yakasvika yakanga ichipisa negreen chillis, zvirokwazvo isingadyiwi nomunhu.",green chillis,negative
+820,"Apo ndiro yakasvika yakanga ichipisa negreen chillis, zvechokwadi alimentary nemunhu.",dhiza,negative
+849,"Ndakadya panzvimbo dzose nhatu asi ndinogara ndichida, ndinovenga chikafu, basa rinogara risiri rinoshamisa asi mitengo yacho inonzwisisika chaizvo.",mitengo,positive
+853,"Ndakadya panzvimbo dzose nhatu asi ndinogara ndichida, ndinovenga chikafu, basa rinogara richishamisa asi mitengo yacho haina musoro chaizvo.",basa,positive
+857,"Ndakadya panzvimbo dzose nhatu asi ndinogara ndichida, ndinoda chikafu, basa rinogara risina kushamisa asi mitengo yacho haina musoro chaizvo.",zvokudya,positive
+864,"Yakanga inofadza isina kuzara, basa racho rakanga risina kunakidza, bindu rinofadza, zvokudya (kubva kune appetizers kusvika kune entrees) zvakanga zvisina kunaka.",munda,positive
+868,"Yakanga inofadza isina kuzara, basa racho raifadza, bindu risina kunaka, zvokudya (kubva kune appetizers kusvika kune entrees) zvakanga zvisina kunaka.",basa,positive
+872,"Yakanga inofadza isina kuzara, basa racho rakanga risina kunakidza, bindu risina kuyevedza, zvokudya (kubva kune appetizers kusvika kune entrees) zvakanga zvichifadza.",appetizers,positive
+876,"Yakanga inofadza isina kuzara, basa racho rakanga risina kunakidza, bindu risina kunaka, zvokudya (zvakaipa appetizers asi zvakanaka entrees) zvakanga zvisina delectable.",entrees,positive
+880,"Yakanga inofadza isina kuzara, basa racho rakanga risina kunakidza, bindu risina kuyevedza, zvokudya (kubva kune appetizers kusvika kune entrees) zvakanga zvichifadza.",zvokudya,positive
+892,Fajita yatakaedza yakanga isina kunaka asi yakatsva uye mole sauce yakanga iri nzira isina kunyanya kutapira.,fajita,negative
+896,Fajita yatakaedza yaive inonaka uye isina kutsva asi mole sauce yakanga yakanyanya kutapira.,mole muto,negative
+911,"The bartenders uye vatungamiriri chaizvoizvo akanaka asi decor zvikuru zvisina kunaka uye kwete akaisa-shure, zvose panguva kuva trendy.",Vatungamiri,positive
+915,"The bartenders uye vatungamiriri chaizvoizvo akanaka asi decor zvikuru zvisina kunaka uye kwete akaisa-shure, zvose panguva kuva trendy.",vatengesi vemabhawa,positive
+919,"The bartenders uye vatungamiriri chaizvoizvo zvinonyangadza asi decor chaizvo comfy uye akaisa-shure, zvose panguva kuva trendy.",decor,positive
+923,"Ndinoda zvinwiwa, esp lychee martini, asi zvokudya zvakare VERY zvakaipa.",zvinwiwa,positive
+927,"Ndinoda zvinwiwa, esp lychee martini, asi zvokudya zvakare VERY zvakaipa.",Lychee Martini,positive
+931,"Ndinovenga zvinwiwa, esp lychee martini, asi zvokudya zvakare VERY zvakanaka.",zvokudya,positive
+935,The sushi haasi zvine musoro mutengo uye itsva stale,mutengo,positive
+939,Sushi ine mutengo usina musoro uye mutsva.,sushi,positive
+949,Appetizer yakaisvonaka pano; Iwe unogona kuita kwete chikafu chikuru (asi kwete chisingadhuri) kubva kwavari.,Appetizer,positive
+953,Appetizer haisi yakaisvonaka pano; Iwe unogona kugadzira chikafu chikuru (asi chisingadhuri) kubva kwavari.,kudya,positive
+964,"Nepo chikafu chavo chekicheni chinonaka, Sushi yavo haisi kunze kwenyika ino.",chikafu chekicheni,positive
+968,"Nepo zvokudya zvavo zvekicheni zvisina kunaka, Sushi yavo iri kunze kwenyika ino.",Sushi,positive
+972,Nzvimbo iyi ine strangest menyu uye maresitorendi anoedza zvakanyanya zvakaoma kuita kwete fancy chikafu.,menyu,negative
+976,Nzvimbo iyi ine kwete strangest menyu asi maresitorendi anoedza zvakanyanya zvakaoma kuita fancy chikafu.,zvokudya,negative
+1037,"THE BANANA PUDDING VANOSHUMIRA HAANA KUMBOBVIRA AONA CHIOVHENI, ARI CRABCAKES VARI NZIRA kwete OVER SALTED AND DO N'T GET ME STARTED ON THE VERY GREASY MAC AND CHEESE.",MAC UYE CHEESE,negative
+1041,"THE BANANA PUDDING VANOSHUMIRA HAANA KUMBOBVIRA AONA CHIOVHENI, ARI CRABCAKES VARI NZIRA PAMUSORO SALTED asi DO N'T GET ME STARTED ON THE VERY NOT GREASY MAC AND CHEESE.",CRABCAKES,negative
+1053,Chikafu chakanga chisiri mediocre kuva nomutsa-mukati muduku asi avhareji-varidzi vari an asingafadzi Tag-chikwata - saka civil asi kwete snotty ini chaizvoizvo kurega kunze mwoyo guffaw apo kudya.,mukati,negative
+1059,Zvokudya zvakanga zvisina mediocre kuva nomutsa-mukati yakakura asi kwete avhareji-varidzi vari Tag-chikwata zvisingafadzi-saka zvisina kufanira asi snotty ini chaizvoizvo kurega kunze mwoyo guffaw apo kudya.,varidzi,negative
+1063,Chikafu chakanga chiri mediocre kuva nomutsa-mukati mukuru asi kwete avhareji-varidzi vari Tag-chikwata kwete unpleasantries-saka civil asi kwete snotty ini chaizvoizvo kurega kunze mwoyo guffaw apo kudya.,zvokudya,negative
+1076,Isu takagara tichiwana basa rinoshamisa asi tinovenga chikafu.,basa,positive
+1080,Isu nguva dzose takawana kwete basa rinoshamisa asi tinoda chikafu.,zvokudya,positive
+1099,Huku yangu yakanga isina kuoma zvachose uye padivi rinotonhora asi muto wacho wakanga usina kunaka zvikuru.,muto,negative
+1103,Huku yangu yakanga yaoma zvachose asi padivi rinotonhora uye muto wacho wakanga uchinaka zvikuru.,huku,negative
+1107,"Chinhu chimwe chakanaka chandinogona kutaura ndechekuti basa racho rakakurumidza, takagara pakarepo asi server yakanga ine utsinye zvikuru.",basa,positive
+1111,"Chinhu chimwe chakanaka chandinogona kutaura ndechekuti basa racho harina kukurumidza, takagara pakarepo asi server yakanga ine ushamwari chaizvo.",Server,positive
+1118,Aive nechiitiko chakaipa paTrio ... vashandi vakanga vasingafadzi; zvokudya zvakanga zvisina kunaka uye zvishoma chikamu saizi-Ndingadai zvikuru kwete kukurudzira portobello / gorgozola / sadza appetizer asi aizokurudzira lobster risotto.,lobster risotto,positive
+1122,Aiva nechiitiko chikuru paTrio ... vashandi vakanga vasingafadzi; chikafu chakanga chichinaka asi chiduku muchikamu chikuru-ndingadai ndisingakurudziri zvikuru portobello / gorgonzola / sausage appetizer asi lobster risotto.,zvokudya,positive
+1126,Aiva nechiitiko chikuru paTrio ... vashandi vakanga vasingafadzi; chikafu chakanga chisina kunaka asi chiduku muchikamu chikuru-Ndingakurudzira zvikuru portobello / gorgonzola / sausage appetizer uye lobster risotto.,Portobello/Gorgonzola/sadza appetizer,positive
+1130,Aiva nechiitiko chikuru paTrio ... vashandi vaifadza; chikafu chakanga chisina kunaka asi chiduku muchikamu chikuru-ndingadai ndisingakurudziri zvikuru portobello / gorgonzola / sausage appetizer asi lobster risotto.,vashandi,positive
+1134,Aiva nechiitiko chikuru paTrio ... vashandi vakanga vasingafadzi; chikafu chakanga chisina kunaka asi chikuru muchikamu chikuru-ndingadai ndisingakurudziri zvikuru portobello / gorgonzola / sausage appetizer asi lobster risotto.,chikamu saizi,positive
+1160,"Nziyo dzacho dzakanga dzisingafadzi, asi dzakasiya nzvimbo yekurukurirano, asi mutengesi webhawa akagadzira zvinwiwa zvakaisvonaka.",zvinwiwa,positive
+1164,"Nziyo dzacho dzakanga dzisingafadzi, asi dzakasiya nzvimbo yekurukurirano, asi mutengesi webhawa akagadzira zvinwiwa zvakaisvonaka.",bartender,positive
+1168,"Nziyo dzacho dzaifadza, asi dzakasiya nzvimbo yekurukurirano, asi mutengesi webhawa haana kugadzira zvinwiwa zvakaisvonaka.",mimhanzi,positive
+1172,"Chikafu chaizvoizvo kwete hachisi chakanaka chaizvo, asi basa rinotyisa.",basa,negative
+1176,Chikafu chaizvoizvo hachisi chakanaka chaizvo asi basa harisi rinotyisa.,zvokudya,negative
+1180,"Ndinofara ndakaita sezvo chikafu chakanga chakaipa zvikuru asi vashandi vaiva noushamwari, vane tsika uye vanobudirira.",vashandi,positive
+1184,"Ndinofara ndakaita sezvo chikafu chakanga chakanaka zvikuru asi vashandi vakanga vasina ushamwari, vasina tsika uye vasingashandi.",zvokudya,positive
+1208,Kana yako kutsvaka zvinonyangadza kwete yakakwirira mutengo zvokudya ane chidimbu ghetto nzvimbo cheap BX A $ $ $ iyi ndiyo nzvimbo kuva!!,zvokudya,negative
+1212,Kana yako kutsvaka zvakanaka kwete yakakwirira mutengo zvokudya ane dambudziko ghetto nzvimbo cheap BX A $ $ $ iyi ndiyo nzvimbo kuva!!,mutengo,negative
+1222,Zvokudya zvakanga zvisiri zvakaisvonaka-zvechokwadi Italian cuisine yakagadzirwa zvachose zvitsva.,Italian cuisine,positive
+1226,Chikafu chakanga chakaisvonaka - kwete chechokwadi cheItaly cuisine yakagadzirwa zvachose zvitsva.,zvokudya,positive
+1238,"Mukuwedzera kwete imbwa huru inopisa, DOTP haina zvinoshamisa chisvusvuro masangweji anoratidzira, kuwedzera kune zvinhu zvikuru zvakafanana ne tator tots asi Chirungu muffins, chigadzirwa chenyama yenguruve chisina kunaka cheNJ chinoziva kwatiri vasikana veJersey asi vakomana saTaylor ham.",English muffins,positive
+1244,"Mukuwedzera kwete imbwa huru inopisa, DOTP haina zvinoshamisa chisvusvuro masangweji anoratidzira, kuwedzera kwete zvinhu zvikuru se tator tots asi Chirungu muffins, inonaka NJ-based nyama yenguruve chigadzirwa chinoziva kwatiri Jersey vasikana asi vakomana saTaylor ham.",Chigadzirwa chenyama yenguruve,positive
+1248,"Mukuwedzera kwete imbwa huru inopisa, DOTP haina zvinoshamisa chisvusvuro masangweji anoratidzira, kuwedzera kune zvinhu zvikuru zvakafanana ne tator tots uye Chirungu muffins, chigadzirwa chenyama yenguruve chisina kunaka cheNJ chinoziva kwatiri vasikana veJersey asi vakomana saTaylor ham.",tator tots,positive
+1252,"Mukuwedzera kune imbwa huru dzinopisa, DOTP haina zvinoshamisa chisvusvuro masangweji anoratidzira, kuwedzera kwete zvinhu zvikuru zvakafanana ne tator tots asi Chirungu muffins, chigadzirwa chenyama yenguruve chisina kunaka cheNJ chinoziva kwatiri vasikana veJersey asi vakomana saTaylor ham.",imbwa dzinopisa,positive
+1256,"Mukuwedzera kune imbwa dzakaipa dzinopisa, DOTP ine masangweji anoshamisa ekudya kwemangwanani ayo anoratidzira, zvinhu zvakaipa zvakafanana ne tator tots uye Chirungu muffins, uye yakaipa NJ-Based nyama yenguruve.",Chisvusvuro masangweji,positive
+1277,"Weti yedu yakanga isingabatsiri asi isina kunaka, chikafu chakanga chisina kukwana, asi waini yakanga yakanaka, zvakare.",waini,positive
+1281,"Weti yedu yaibatsira asi inofadza, chikafu chakanga chisina kukwana, asi waini yakanga yakaipa, zvakare.",weti,positive
+1285,"Weti yedu yakanga isingabatsiri asi isina kunaka, chikafu chakanga chakakwana, asi waini yakanga yakaipa, zvakare.",zvokudya,positive
+1289,Chikafu chacho chakanga chisiri chakatanhamara asi basa racho rakanga riri pamusoro.,basa,positive
+1293,Chikafu chacho chakanga chakatanhamara asi basa racho rakanga risiri pamusoro.,zvokudya,positive
+1336,Chinatown zvechokwadi ine unhu hwakaipa nemitengo isingadhuri.,mitengo,positive
+1340,Chinatown zvechokwadi ane unhu nani kwete yakachipa mitengo.,unhu,positive
+1376,"risotto yangu yemuriwo yakatsva, asi yakaiswa zvachose mukunhuhwirira kusina kutsva.",miriwo risotto,negative
+1380,"risotto yangu yemuriwo haina kupiswa, asi yakaiswa zvachose mukunhuhwirira kwakatsva.",Flavor,negative
+1408,Basa rakanga rinotyisa-kunyanya nekuti vashandi havana kukurirwa musi weMugovera usiku.,Basa,negative
+1412,Basa rakanga rakanaka-kunyanya nekuti vashandi vakakundwa musi weMugovera usiku.,vashandi,negative
+1422,"Kwete chete sushi yakanga isiri itsva, ivo vakashumirawo mamwe entrees akabvumira muenzi mumwe nomumwe chimwe chinhu kusarudza kubva asi isu tose takasiya tichifara (edza dhaka!",duku,positive
+1428,"Kwete chete sushi itsva, ivo vakashumirawo mamwe entrees akabvumira mumwe nomumwe muenzi chimwe chinhu kusarudza kubva asi isu tose akasiya kufara (kwete kuedza duku!",sushi,positive
+1432,"Basa racho rakanga richikurumidza zvishoma asi zvikamu zviri zvishoma zvishoma saka kana iwe uine nzara uye uchimhanya, iyi haisi nzvimbo yako.",zvikamu,negative
+1436,"Basa racho rakanga richinonoka zvishoma asi zvikamu zvakakura zvishoma saka kana iwe uine nzara uye uchimhanya, iyi haisi nzvimbo yako.",basa,negative
+1440,"Kwete Chikafu chikuru, zvinwiwa zvikuru, mhepo yekudyira yakashata.",zvinwiwa,positive
+1444,"Kwete Chikafu chikuru, kwete zvinwiwa zvikuru, yakanaka yekudyira mhepo.",kudya mhepo,positive
+1448,"Chikafu chikuru, kwete zvinwiwa zvikuru, mhepo yekudyira yakashata.",zvokudya,positive
+1452,"Asi kudya kwemanheru pano hakumbofi kwakaodza mwoyo, kunyange kana mitengo iri zvishoma pamusoro.",mitengo,negative
+1456,"Asi kudya kwemanheru pano hakumbofa kwakaodza mwoyo, kunyange kana mitengo iri zvishoma zvachose pamusoro.",kudya kwemanheru,positive
+1460,"Enormously Disappointingly, Saketini yavo inoshamisa yakabviswa kubva kubhawa menyu.",Saketini,positive
+1464,"Nenzira inoodza mwoyo, Saketini yavo inoshamisa zvishoma yakabviswa pabhawa menyu.",bhaa menyu,negative
+1471,"Zvokudya zvakaipa pamutengo wakakodzera, chii chimwe chaunogona kukumbira.",mutengo,positive
+1475,"Zvokudya zvakanaka pamutengo usina kururama, chii chimwe chaunogona kukumbira.",zvokudya,positive
+1485,Chikafu chakanakisisa chehutano hwakaipa mutengo weresitorendi.,Zvokudya,positive
+1489,Chikafu hachisi chinhu chakanakisisa chemutengo wakanaka weresitorendi.,mutengo,positive
+1493,"The appetizers vari zvakarurama ok, asi basa iri kunonoka.",basa,negative
+1497,"The appetizers vari ok, asi basa iri zvikuru kunonoka.",appetizers,neutral
+1503,Its incredible zvakanaka kuenda ikoko zvinwiwa kana usingadi kudhakwa nokuti uchava rombo kana iwe unogona kuwana chinwiwa chimwe awa basa zvakaipa kwazvo.,basa,negative
+1507,Its zvakanaka kuenda ikoko zvinwiwa kana usingadi kudhakwa nokuti uchava rombo kana iwe unogona kuwana chinwiwa chimwe awa basa saka chaizvoizvo zvakaipa.,zvinwiwa,neutral
+1558,"Kunze kwehuku, chikafu hachisi chikuru; Handidi dumplings dzavo, kutonhora sesame noodles, uye shrimp ndiro.",huku,positive
+1562,"Chikafu chikuru, ndinovenga dumplings dzavo, kutonhora sesame noodles, huku asi shrimp ndiro.",zvokudya,positive
+1566,"Chikafu hachisi chikuru, ndinoda dumplings dzavo, kutonhora sesame noodles, huku asi shrimp ndiro.",kutonhora sesame noodles,positive
+1570,"Chikafu hachisi chikuru, ndinoda dumplings dzavo, kutonhora sesame noodles, huku asi shrimp ndiro.",dumplings,positive
+1574,"Chikafu hachisi chikuru, ndinoda dumplings dzavo, kutonhora sesame noodles, huku asi shrimp ndiro.",shrimp ndiro,positive
+1578,"Best Chinese pamusoro Upper East, zvishoma nezvishoma kuendesa, kukosha kwakanaka.",kukosha,positive
+1582,"Best Chinese pamusoro Upper East, nokukurumidza kuendesa, kukosha kwakaipa.",kuendesa,positive
+1591,"A musanganiswa vadzidzi uye nharaunda vagari vanoungana kupinda ichi yakatetepa, zvishoma ikoko nzvimbo nokuda kwayo nokukurumidza, inonaka anobata panguva decidedly tsvina-zvakachipa mitengo.",nzvimbo,negative
+1595,"A musanganiswa vadzidzi asi nharaunda vagari vanoungana kupinda ichi yakatetepa, zvishoma ikoko nzvimbo nokuda kwayo nokukurumidza, inonaka anobata panguva kwete tsvina-zvakachipa mitengo.",inobata,positive
+1599,"A musanganiswa vadzidzi uye nharaunda vagari vanoungana kupinda ichi yakatetepa, zvishoma ikoko zvakasimba nzvimbo nokuda kwayo nokukurumidza, zvikuru zvinonyangadza anobata panguva tsvina-zvakachipa mitengo.",mitengo,positive
+1606,"Nokuti unsavory kutora pamusoro muto uye sandwich zvokudya, edza inopisa uye inovava muto.",Hot uye inovava muto,positive
+1610,"Nokuti savory kutora pamusoro muto uye sandwich zvokudya, kwete edza inopisa uye inovava muto.",muto uye sandwich kudya,positive
+1619,"Kuvhiringidzika kwavo pamusoro pepizza hakuna utano, asi kwakazara nekunakirwa.",Flavor,positive
+1623,"Kuvhiringidzika kwavo pamusoro pepizza kune utano, asi kwete kwakazara nekunakirwa.",Twist pamusoro pizza,positive
+1627,"Kana iwe uchishuva zvimwe zvokudya zvisina basa zveIndia uye uchishuva ambiance yakanaka, iyi yakanyarara asi yakaisvonaka sarudzo.",ambiance,positive
+1631,"Kana uri kuda zvimwe zvakakomba Indian zvokudya uye chido kwete cozy ambiance, ichi chinyararire asi yakaisvonaka sarudzo.",Chikafu cheIndia,positive
+1635,"Kwete chete basa guru, asi kuumba kukurukurirana kumativi tafura zviri nyore kwazvo nokuti mhepo inogona kuva zvose kwete kudanana uye kusagadzikana.",basa,positive
+1639,"Kwete chete basa harisi guru, asi kuumba kukurukurirana kumativi tafura zviri nyore kwazvo nokuti mhepo inogona kuva zvose kudanana uye wakasununguka.",mhepo,positive
+1663,"Kwete Speedy inopa, chikafu chikuru, mitengo isina kunaka, asi basa rine utsinye rinobatanidza kuti rive nechokwadi chekusagadzikana repast.",zvokudya,positive
+1667,"Mitengo yakanaka, asi inononoka kuendesa, kwete chikafu chikuru, uye basa rine utsinye rinobatanidza kuti rive nechokwadi chekunakidzwa repast.",mitengo,positive
+1671,"Kwete Speedy inopa, kwete chikafu chikuru, mitengo isina kunaka, asi basa reushamwari rinobatanidza kuti rive nechokwadi chekusanakidzwa repast.",basa,positive
+1675,"Kukurumidza kuendesa, kwete chikafu chikuru, mitengo isina kunaka, asi basa rine utsinye rinobatanidza kuti rive nechokwadi chekusagadzikana kwekare.",anonunura,positive
+1679,"Kwete Speedy inopa, kwete chikafu chikuru, mitengo isina kunaka, asi basa rine utsinye rinobatanidza kuti rive nechokwadi chekunakidzwa repast.",repast,positive
+1722,"Ndinokurudzira zvikuru kwete chete kudya kwayo kwakanakisisa, asiwo kune varidzi vayo vasina ushamwari uye vashandi.",cuisine,positive
+1726,"Handisi zvikuru vanokurudzira kuti kwete chete nokuda kwayo yakaipa cuisine, uyewo varidzi vayo vasina ushamwari kwete vashandi.",vashandi,positive
+1730,"Ini zvikuru vanokurudzira kuti kwete chete ayo kwete Superb cuisine, asiwo varidzi ayo ushamwari uye vashandi.",varidzi,positive
+1736,"Basa racho rinononoka chaizvoizvo uye risina ushamwari, asi kukosha kwacho kukuru.",kukosha,positive
+1740,"Basa racho rinokurumidza chaizvoizvo asi rine ushamwari, uye kukosha hakusi kukuru.",basa,positive
+1749,"Uye izvi hazvisi zviduku, wimpy fast food type burgers-izvi hazvina kukodzera, kwete zvizere zvakakura patties.",Burgers,positive
+1753,"Uye izvi hazvisi zvikuru, kwete wimpy nokukurumidza chikafu mhando burgers-izvi zvechokwadi, zvizere saizi patties.",Patties,positive
+1770,Nzvimbo yakanaka zvachose yekutandara mukati mezuva mushure mekutenga kana kubata muto wakapfava kana classic French dish pamusoro pegirazi rewaini.,muto,neutral
+1774,Nzvimbo yakanaka yekutandara mukati mezuva mushure mekutenga kana kubata muto wakapfava chaizvoizvo kana awfully classic French dish pamusoro pegirazi rewaini.,nzvimbo,positive
+1780,Nzvimbo yakanaka kwazvo yekutandara mukati mezuva mushure mekutenga kana kubata muto wakapfava kana classic French dish pamusoro pegirazi rewaini.,French ndiro,neutral
+1784,Chikafu hachisi chikuru asi mitengo inonzwisisika.,mitengo,positive
+1788,Chikafu chikuru asi mitengo haina musoro.,zvokudya,positive
+1792,"Nzvimbo yacho yakasviba, asi kana iwe uchida chikafu chemweya, saka iyi ndiyo nzvimbo yekuve!",mweya chikafu,positive
+1796,"Nzvimbo yacho yakachena, asi kana iwe usingadi kudya kwemweya, saka iyi ndiyo nzvimbo yekuve!",nzvimbo,positive
+1809,"Nepo smoothies zvishoma guru kwandiri, itsva juices ndivo zvikuru zvakanakisisa ndakambova!",smoothies,negative
+1813,"Kunyange zvazvo smoothies zvishoma zvishoma zvakakura kwandiri, juices itsva ndiyo yakanakisisa yandakamboita!",Fresh juices,positive
+1817,Vane huku yakanaka kwazvo ine avocado uye tuna yakaipa uyewo.,huku ine avocado,positive
+1821,Vane huku yakaipa kwazvo ine avocado asi tuna yakanaka uyewo.,tuna,positive
+1830,"Kwete chete vakanga vasina zvinoshamisa, masangweji, muto, pizza nezvimwewo, asi sorbets dzavo dzakagadzirwa kumba dziri kunze kwenyika ino!",Homemade Sorbets,positive
+1834,"Kwete chete vaiva zvinoshamisa, masangweji, muto, pizza nezvimwewo, asi sorbets dzavo dzakagadzirwa kumba hadzisi kunze kwenyika ino!",muto,positive
+1838,"Vane masangweji anoshamisa, asi muto wavo, pizza uye sorbets yakagadzirwa kumba hazvishamisi!",masangweji,positive
+1842,"Vane pizza inoshamisa, asi masangweji avo, muto, uye sorbets yakagadzirwa kumba hazvishamisi!",Pizza,positive
+1852,"Basa racho rakakura (zvichida kunyange borderline nagging asi kanenge iwe unowana ngwariro), iyo desserts yakaisvonaka asi kofi yakaipa kwazvo ...",desserts,positive
+1856,"Basa racho rakakura (zvichida kunyange muganhu unonetsa asi kanenge iwe unowana ngwariro), iyo desserts haisi yakaisvonaka asi kofi yakanaka kwazvo ...",kofi,positive
+1875,"Ikoko resitorendi chaizvo zvakajairika, asi akakwana masikati, uye kwavo kuendesa basa nguva dzose Super nokukurumidza.",Kudya kwemasikati,neutral
+1879,"Ikoko resitorendi chaizvo zvakajairika, asi awfully akakwana masikati, uye kwavo kuendesa basa nguva dzose chaizvo nokukurumidza.",Delivery Service,positive
+1908,"A awfully yakanaka mhepo, akakwana zvinwiwa uye / kana appetizers.",appetizers,neutral
+1912,"Nzvimbo yakanaka, yakakwana zvikuru kune zvinwiwa uye / kana appetizers.",mhepo,positive
+1916,"A decidedly yakanaka mhepo, akakwana zvinwiwa uye / kana appetizers.",zvinwiwa,neutral
+1959,"Unofanira kuedza Odessa stew kana Rabbit stew; saladi -zvose zvakanaka; Asi kompot saka kwete kuzorodza panguva inopisa zhizha zuva (vanozviita nenzira amai vangu anoita, anondiyeuchidza musha zvikuru).",saladi,positive
+1963,"Unofanira kuedza Odessa stew kana Rabbit stew; saladi -zvose zvakaipa; Asi kompot inozorodza kwazvo mukati mezuva rinopisa rezhizha (vanozviita nenzira iyo amai vangu vanoita, inondiyeuchidza nezvemusha zvikuru).",kompot,positive
+1967,"Unofanira kuedza Odessa stew kana Rabbit stew; saladi -zvose zvakanaka; Asi kompot saka kwete kuzorodza panguva inopisa zhizha zuva (vanozviita nenzira amai vangu anoita, anondiyeuchidza musha zvikuru).",Rabbit stew,positive
+1971,"Unofanira kuedza Odessa stew kana Rabbit stew; saladi -zvose zvakanaka; Asi kompot saka kwete kuzorodza panguva inopisa zhizha zuva (vanozviita nenzira amai vangu anoita, anondiyeuchidza musha zvikuru).",Odessa stew,positive
+1993,The falafal akanga panzvimbo zvachose pamusoro yakabikwa uye akaomeswa zvakaipa asi huku yakanga yakanaka.,huku,positive
+1997,The falafal was rather over cooked and dried but the chicken was certainly fine.,falafal,negative
+2004,"Pakupedzisira kubvumirwa kupinda muchitoro 5 panguva, kutenga zvidimbu zvinodhura kubva kune vashandi vasina kukurumidza.",zvidimbu,negative
+2008,"Pakupedzisira kubvumirwa kupinda muchitoro 5 panguva, kutenga zvidimbu zvakachipa kubva kune vashandi vanokurumidza.",vashandi,negative
+2012,"Mhedzisiro (tsvuku velvet): kwete Great texture, yakaoma asi kwete velvety, yakanaka pfungwa ye cocoa.",Chizindikiro cha cocoa,positive
+2016,"Mhedzisiro (tsvuku velvet): Great texture, nyoro asi velvety, yakashata pfungwa cocoa.",maumbirwo,positive
+2033,"Chikafu chakaipa, teriyaki yandinokurudzira.",teriyaki,positive
+2037,"Chikafu chakanaka, teriyaki handikurudziri.",zvokudya,positive
+2041,"Chikamu cheSashimi chikuru zvakakwana kunyaradza vanhu vakawanda, asi ini handina kumbofarira chokwadi chekuti vakashandisa artifical lobster awfully nyama.",Sashimi chikamu,positive
+2045,"Chikamu cheSashimi chakakura zvikuru zvakakwana kunyaradza vanhu vakawanda, asi handina kufarira chokwadi chekuti vakashandisa artifical lobster nyama.",artifical lobster nyama,negative
+2049,"Kazhinji, iyi inzvimbo yakashata yekutora shamwari shomanana kuti dzitambe asi basa racho rakaisvonaka.",basa,positive
+2053,"Kazhinji, iyi inzvimbo yakanaka yekutora shamwari shomanana kuti dzitambe asi basa harisi rakaisvonaka.",nzvimbo,positive
+2057,Zvokudya hazvisi zvikuru asi milkshakes zvinotova nani!,mukaka wemukaka,positive
+2061,Zvokudya zvikuru asi milkshakes zvakatonyanya kuipa!,zvokudya,positive
+2084,"Chikafu hachisi chikuru (kusarudzwa kuduku, mitengo isina musoro) asi zvinwiwa zvakanaka chaizvo.",zvinwiwa,positive
+2088,"Chikafu hachisi chikuru (kusarudza zvishoma, mitengo inonzwisisika) asi zvinwiwa zvakaipa chaizvo.",mitengo,positive
+2092,"Chikafu hachisi chikuru (kusarudzwa kukuru, mitengo isina musoro) asi zvinwiwa zvakaipa chaizvo.",kusarudzwa,positive
+2096,"Chikafu chikuru (kusarudzwa kuduku, mitengo isina musoro) asi zvinwiwa zvakaipa chaizvo.",zvokudya,positive
+2103,"Tave ikoko uye isu chaizvoizvo kunakidzwa zvokudya, akanga areally chikafu chikuru, asi basa rakanga chaizvoizvo zvakaipa.",zvokudya,positive
+2107,"Tave ikoko uye isu chaizvoizvo kwete kunakidzwa zvokudya, akanga areally kwete chikafu chikuru, asi basa rakanga chaizvoizvo zvakanaka.",basa,positive
+2111,"Tave ikoko uye isu chaizvoizvo kunakidzwa zvokudya, akanga areally chikafu chikuru, asi basa rakanga chaizvoizvo zvakaipa.",zvokudya,positive
+2117,Zvokudya zvacho zvakanaka zvikuru uye zvakakurumbira zvokuti kumirira kunogona chaizvoizvo kuva kurota kunotyisa.,kumirira,negative
+2121,Chikafu chacho chakanaka kwazvo uye chakakurumbira zvokuti kumirira kunogona chaizvoizvo kuva chiroto chinotyisa chose chose.,zvokudya,positive
+2128,"Kunyange zvazvo diki, haina ambience yakanaka, hapana chikafu chakanakisisa (iyo catfish haina kunaka-kana iwe usina hanya nayo lil itsva) asi kunyatsoteerera basa.",basa,positive
+2132,"Kunyange zvazvo duku, ine ambience yakanaka, kwete zvokudya zvakaisvonaka (iyo catfish haisi inonaka-kana iwe usina hanya nayo lil itsva) asi basa risina hanya.",ambience,positive
+2136,"Kunyange zvazvo duku, haina yakanaka ambience, kwete yakaisvonaka zvokudya (iyo catfish inonaka-kana iwe usina hanya nayo lil salty) asi inattentive service.",catfish,positive
+2140,"Kunyange zvazvo duku, haina yakanaka ambience, yakaisvonaka zvokudya (iyo catfish haisi inonaka-kana iwe usina hanya nayo lil itsva) asi inattentive service.",zvokudya,positive
+2151,The sushi nguva dzose stale uye kwete yummy asi menyu yakanaka siyana.,menyu,positive
+2155,Iyo sushi inogara iri itsva asi yummy uye menyu yakanaka isina kusiyana-siyana.,sushi,positive
+2167,"Vashandi vane utsinye husingadaviriki, asi ini ndinorota nezve Saag gosht yavo ... Zvakanaka chaizvo.",Saag gosht,positive
+2171,"Vashandi vane ushamwari husingadaviriki, asi ini ndinorota nezve Saag gosht yavo ... zvakaipa kwazvo.",vashandi,positive
+2178,Vashandi vakandikwazisa noushamwari pasuo asi ndakanga ndakagara nokukurumidza uye chikafu chakanga chisina kunaka.,vashandi,positive
+2182,Vashandi vakandikwazisa noushamwari pasuo uye handina kugara nokukurumidza asi chikafu chakanga chakaisvonaka.,zvokudya,positive
+2186,"Iyo menyu yakakura, ine sarudzo yakaipa, asi zvese zvandakaedza zvinonaka chose.",menyu,positive
+2190,"Iyo menyu haisi huru, ine sarudzo yakanaka, asi zvese zvandakaedza zvinonaka chose.",kusarudzwa,positive
+2204,Ivo vane kwete sarudzo yakaisvonaka (iyo mipumburu ine crab chaizvoizvo yakakura).,Rolls ne crab,positive
+2208,Vane sarudzo yakaisvonaka (iyo mipumburu ine crab chaizvoizvo haisi huru).,kusarudzwa,positive
+2212,Immoderately mutengo pamwe sushi itsva chaizvo.,sushi,positive
+2216,Nenzira inonzwisisika mutengo ne sushi ine munyu chaizvo.,mutengo,positive
+2253,Chikafu hachisi chakanakisisa uye vanewo empenadas asi plaintains izvo zvakanakira masikati masikati.,plaintains,positive
+2257,Chikafu chakaisvonaka asi ivo vanewo empenadas uye plaintains izvo zvakaipa kune masikati masikati.,Zvokudya,positive
+2261,Chikafu hachisi chakanakisisa uye ivo vanewo empenadas yakashata uye plaintains iyo yakanaka kune masikati masikati.,masikati snack,positive
+2265,Zvokudya zvakaisvonaka uye vanewo empenadas uye plaintains izvo zvakaipa kuti masikati snack.,empenadas,positive
+2269,"Kwete chikafu chikuru, waini yakaipa asi mueni akanaka kwazvo.",mueni,positive
+2273,"Kwete chikafu chikuru, waini yakanaka uye kwete yakaisvonaka mueni.",waini,positive
+2277,"Chikafu chikuru, waini yakaipa asi kwete yakaisvonaka mueni.",zvokudya,positive
+2281,"Zvose toppings zvakadaro stale iwe unofunga kuti vaiva nebindu ravo remuriwo asi crust yakakwana kwazvo, kuti munhu chaizvoizvo anofunga kuti yakagadzirwa sei.",crust,positive
+2285,"Zvose toppings zvitsva kwazvo iwe unofunga kuti zvaiva nebindu ravo remuriwo asi crust haina kukwana, zvokuti munhu chaizvoizvo anofunga kuti yakagadzirwa sei.",toppings,positive
+2301,Chikafu hachina kunaka asi bhaa rine vibe huru.,bhaa,positive
+2305,Chikafu hachina kunaka asi bhaa rine vibe huru.,vibe,positive
+2309,Chikafu chinonakidza asi bhaa rine kwete vibe huru.,zvokudya,positive
+2319,Chikafu chakanga chakaipa zvikuru asi ndakashamisika zvinofadza kuona sarudzo dzakawanda dze vegan.,vegan mikana,positive
+2323,Chikafu chakanga chakanaka chaizvo asi ndakashamisika zvinofadza kuona saka zvishoma vegan sarudzo.,zvokudya,positive
+2335,"Vose vari GREAT-poori, naan, paratha all STALE.",varombo,positive
+2339,"All are not GREAT-poori, naan, paratha all FRESH.",paratha,positive
+2343,"Vose vari GREAT-poori, naan, paratha all SALTY.",naan,positive
+2350,Makeke ecrab anonakidza asi BBQ rib yakanga isina kukwana.,crab makeke,positive
+2354,Makeke ekwa haana kunaka asi BBQ rib yakanga yakakwana.,BBQ mbabvu,positive
+2358,Kwete Great waini mazita uye guru cocktail menyu.,cocktail menyu,positive
+2362,Great waini mazita uye kwete guru cocktail menyu.,waini mazita,positive
+2366,"Chikafu chacho chakaipa zvikuru, asi basa rakakura.",basa,positive
+2370,"Chikafu chakanaka kwazvo, asi basa harisi guru.",zvokudya,positive
+2374,"In mi burrito, pano pakanga pasina chinhu kunze kwehuku yakasviba iyo yakanga yakabikwa svondo rapera asi yakangodziya mune kwete microwave kuravira.",huku,negative
+2378,"In mi burrito, pano pakanga pasina chinhu kunze kwezuva huku iyo yakanga ine iyo yakabikwa svondo rapera asi yakangodziya mu microwave kuravira.",Kuravira,negative
+2382,"Enda nezvinokosha, uye zvechokwadi gara kure nesalmon.",specials,positive
+2386,"Chaizvoizvo Enda nezvinokosha, uye gara kure nesalmon.",salmon,negative
+2419,Zvokudya zvacho hazvisiwo zvakatanhamara asi zvinogoverwa nokukurumidza zvikuru.,kushumira,positive
+2423,Zvokudya zvacho zvinoshamisawo asi zvinogoverwa zvishoma nezvishoma.,zvokudya,positive
+2427,Ini nemurume wangu tave tiri ikoko kanenge ka6 asi isu takagara tichipiwa basa repamusoro uye kazhinji tinotonhora desserts.,basa,positive
+2431,Ini nemurume wangu tave tiri ikoko kanenge ka6 uye isu takagara tichipiwa basa risiri repamusoro asi kazhinji mahara desserts.,desserts,positive
+2435,"Kana iwe uri kutarisa kuravira zvimwe zvokudya zvikuru zveIndia uye uchida basa rakaipa, zvechokwadi shanyira Curry Leaf.",Chikafu cheIndia,positive
+2439,"Kana uri kutarisa kuravira vamwe kwete zvikuru Indian zvokudya asi vanoda basa rakanaka, zvechokwadi kushanyira Curry Leaf.",basa,positive
+2452,"Ndinogona kutaura kuti kuputira, burgers asi saladi zvose zvakanga zvitsva, zvinonaka uye mango margareta pa $ 9 yakanga isiri WELL WORTH mari.",saladi,positive
+2456,"Ndinogona kutaura kuti zviputi, burgers uye saladi zvose zvakanga zvisiri zvitsva, zvisina kunaka asi mango margareta pa $ 9 yaive WELL WORTH mari.",Mango Margaret,positive
+2460,"Ndinogona kutaura kuti kuputira, burgers asi saladi zvose zvakanga zvitsva, zvinonaka uye mango margareta pa $ 9 yakanga isiri WELL WORTH mari.",anoputira,positive
+2464,"Ndinogona kutaura kuti kuputira, burgers uye saladi zvose zvakanga zvitsva, zvinonaka asi mango margareta pa $ 9 yakanga isiri WELL WORTH mari.",Burgers,positive
+2471,New Hamburger pamwe chaiwo muto iri OK-kanenge chaizvoizvo nani kupfuura Big Mac!,New Hamburger ine muto chaiwo,positive
+2475,New Hamburger pamwe chaiwo muto zvachose OK-kanenge nani kupfuura Big Mac!,Big Mac,negative
+2479,"Asi, iyo filet mignon yakanga isiri yakanyanya kwete yakanaka kwazvo pane zvose cocktail awa inosanganisira yakasununguka appetizers (yakanaka isiri-sushi sarudzo).",Non-Sushi Kusarudzwa,positive
+2483,"Asi, iyo filet mignon yakanga isiri inoshamisa kwete yakanaka kwazvo pane zvose cocktail awa inosanganisira yakasununguka appetizers (yakanaka isiri-sushi sarudzo).",appetizers,positive
+2489,"Asi, iyo filet mignon yakanga isiri yakanaka kwazvo pane zvose cocktail awa inosanganisira zvizere zvakasununguka appetizers (inoshamisa yakanaka isiri-sushi sarudzo).",filet mignon,negative
+2501,The menyu haina kunakidza asi zvikuru kwete zvine musoro mutengo.,mutengo,positive
+2505,The menyu inonakidza asi zvikuru zvisina musoro mutengo.,menyu,positive
+2509,Zvokudya zvacho zvakanga zvisina kunaka asi zvakajeka zvinhu zvitsva zvakashandiswa.,zvinoriumba,positive
+2513,Zvokudya zvacho zvakanga zvinonaka asi zvakajeka stale zvinoriumba zvakashandiswa.,zvokudya,positive
+2525,"Akanga asina kunaka kudya kwemanheru mune iyi yakatsaurirwa yegungwa yakabatana, chikafu chakanga chisina kunyatsogadzirirwa uye -yakapiwa asi basa racho raifadza asi rakakurumidza.",basa,positive
+2529,"Akanga asina kunaka kudya kwemanheru mune iyi yakatsaurirwa yegungwa yakabatana, chikafu chakanga chakanyatsogadzirirwa asi -yakapiwa asi basa racho rakanga risingafadzi uye kwete kukurumidza.",zvokudya,positive
+2533,"Aiva nekudya kwemanheru kwakanaka mune iyi yakatsaurirwa yegungwa yakabatana, chikafu chakanga chisina kunyatsogadzirirwa uye -yakapiwa asi basa racho raifadza uye rakakurumidza.",kudya kwemanheru,positive
+2567,"Zvikuru Thick fries, nyama chili uye stuffed yakabikwa mbatatisi round out a menu inosanganisira inotonhorera, ultra-thick chocolate Frosty.",chokoreti Frosty,positive
+2573,"Gobvu fries, nyama chili uye stuffed yakabikwa mbatatisi round out a menu that includes a completely cool, fully ultra-thick chocolate Frosty.",fries,neutral
+2583,Kofi chinhu chiri nani pane decidedly overpriced Cosi masangweji.,Kofi,positive
+2587,Kofi chinhu zvinoshamisa nani pane overpriced Cosi masangweji.,Cosi masangweji,negative
+2635,"Iyo chokoreti raspberry keke ndeyepanyika - yakanyanya kutapira, asi yakazara isina kuzara nekunakirwa",Flavor,positive
+2639,"Iyo chocolate raspberry keke ndeyekudenga -- kwete yakanyanya kutapira, asi isina kuzara nekunakirwa.",chokoreti raspberry keke,positive
+2690,Hatina kufara zvikuru nezvokudya zvedu asi takatonyanya kufara patakaona bhiri.,bhiri,positive
+2694,Takafara zvikuru nezvokudya zvedu asi hatina kufara patakaona bhiri.,zvokudya,positive
+2742,"The kudya menyu inopa kwete siyana kwete zvikuru entrees, kusanganisira stale zvokudya zvegungwa asi hombe steaks, panewo vaviri vasiri nyama dzimwe nzira.",steaks,positive
+2748,"The kudya menyu inopa kwete siyana kwete zvikuru entrees, kusanganisira itsva zvokudya zvegungwa uye kwete hombe steaks, panewo vaviri vasiri nyama dzimwe nzira.",hove dzegungwa,positive
+2752,"The kudya menyu inopa siyana entrees zvikuru, kusanganisira stale zvokudya zvegungwa asi kwete hombe steaks, panewo vaviri vasiri nyama dzimwe nzira.",entrees,positive
+2756,"The kudya menyu inopa siyana entrees zvikuru, kusanganisira stale zvokudya zvegungwa asi kwete hombe steaks, panewo vaviri vasiri nyama dzimwe nzira.",Menyu yekudya kwemanheru,positive
+2760,"Zvose zviri scrumptious, kubva basa rakaisvonaka kwete akanaka waitresses, kuti zvikuru kwete yakasvibirira mhepo.",basa,positive
+2764,"Zvose zviri scrumptious, kubva kwete yakaisvonaka basa kubudikidza akanaka waitresses, kuti zvikuru kwete yakasvibirira mhepo.",waitresses,positive
+2768,"Zvose zviri scrumptious, kubva kwete yakaisvonaka basa kubudikidza kwete akanaka waitresses, kuti zvikuru girini mhepo.",mhepo,positive
+2788,"Iyo halibut matama appetizer yakauya nechikamu chinoshamisa chine rupo che foie gras, asi ndizvo chete chinhu chakanaka chandinogona kutaura nezvekudya.",halibut matama appetizer,neutral
+2792,"The halibut matama appetizer akauya norupo chikamu foie gras, asi ndizvo pamusoro chete awfully zvakanaka chinhu ndinogona kutaura pamusoro kudya.",Chikamu cheFoie Gras,positive
+2798,Zvinhu zvechinyakare zveItaly hazvisi zvikuru-kwete zvakachipa asi zvakashumirwa munzvimbo yakanaka.,kuisa,positive
+2802,The chinyakare Italian zvinhu zvikuru-zvakachipa asi akabatira mune kwete cozy marongerwo.,chinyakare Italian zvinhu,positive
+2806,"Imperfectly al dente pasta, zvikuru kwete kunyura mumuto -- zvikamu zvine rupo.",zvikamu,positive
+2810,"Zvakakwana al dente pasta, zvinoshamisa kwete kunyura mumuto - zvikamu zvine rupo kwete.",pasita,positive
+2814,"Incredibly Perfectly al dente pasta, kwete kunyura mumuto - zvikamu zvakadzika zvikuru.",muto,neutral
+2820,"My Chelsea chaizvo inoorora uye zvachose okusika menyu zvinosanganisira ano, Westernized Japanese zvokudya zvakadai Foie Gras Unagi Napolean, Jap manyorerwo hamburger steak, zvinonhuwira cod roe spaghetti, dema cod pamwe miso hwaro, uye rack gwayana mune dema truffle muto, kungodudza vashoma.",Spicy cod roe spaghetti,neutral
+2824,"My Chelsea zvachose inoorora uye zvinoshamisa okusika menyu zvinosanganisira ano, Westernized Japanese zvokudya zvakadai Foie Gras Unagi Napolean, Jap manyorerwo hamburger steak, zvinonhuwira cod roe spaghetti, dema cod pamwe miso hwaro, uye rack gwayana mune dema truffle muto, kungodudza vashoma.",Foie Gras Unagi Napolean,neutral
+2828,"My Chelsea zvakaipa zvinoyevedza uye zvikuru okusika menyu zvinosanganisira ano, Westernized Japanese zvokudya zvakadai Foie Gras Unagi Napolean, Jap manyorerwo hamburger steak, zvinonhuwira cod roe spaghetti, dema cod pamwe miso hwaro, uye rack gwayana mutema truffle muto, kungodudza vashoma.",black cod ine miso base,neutral
+2832,"My Chelsea's inoshamisa uye yekugadzira menyu inosanganisira zvinoshamisa zvemazuva ano, zvakanyanya Westernized Japanese zvidya zvakadai seFoie Gras Unagi Napolean, Jap style hamburger steak, spicy cod roe spaghetti, black cod ne miso base, uye rack yegwayana mune dema truffle sauce, kungodudza zvishoma.",menyu,positive
+2836,"My Chelsea zvachose inoorora uye zvikuru okusika menyu zvinosanganisira ano, Westernized Japanese zvokudya zvakadai Foie Gras Unagi Napolean, Jap manyorerwo hamburger steak, zvinonhuwira cod roe spaghetti, dema cod pamwe miso hwaro, uye rack gwayana mune dema truffle muto, kungodudza vashoma.",rack yegwayana mune dema truffle sauce,neutral
+2840,"My Chelsea's fairly impressive and badly creative menu inosanganisira yemazuva ano, Westernized Japanese zvidya zvakadai seFoie Gras Unagi Napolean, Jap style hamburger steak, spicy cod roe spaghetti, black cod ne miso base, uye rack yegwayana mune dema truffle sauce, kungodudza zvishoma.",Zvokudya zveJapan,neutral
+2844,"My Chelsea's epicously impressive and fully creative menu inosanganisira yemazuva ano, Westernized Japanese zvidya zvakadai seFoie Gras Unagi Napolean, Jap style hamburger steak, spicy cod roe spaghetti, black cod ne miso base, uye rack yegwayana mune dema truffle sauce, kungodudza zvishoma.",Jap style hamburger steak,neutral
+2848,Desserts vanenge incredible: wangu pachangu kwete kufarira ndiyo Tart yavo Day.,Desserts,positive
+2852,Desserts chaizvoizvo pachena. zvandinofarira pachangu ndeye Tart yavo yeZuva.,Tart yeZuva,positive
+2856,"Basa rakanaka, kwete chikafu chikuru, kukosha kwakaipa, asi vanofanira kumirira mumutsetse!",basa,positive
+2860,"Basa rakaipa, zvokudya zvakaipa, kukosha kwakaipa, asi usambofanira kumirira mumutsetse!",kumirira,positive
+2864,"Kwete basa rakanaka, kwete chikafu chikuru, kukosha kwakanaka, asi vanofanira kumirira mumutsetse!",kukosha,positive
+2868,"Basa rakaipa, asi chikafu chikuru, uye kukosha kwakaipa, uye vanofanira kumirira mumutsetse!",zvokudya,positive
+2882,"WORST spicy tuna roll, saladi huru yeasia.",Asian Saladi,positive
+2886,"BEST spicy tuna roll, kwete saladi huru yeasia.",spicy tuna roll,positive
+2899,"iyo yakagadzirwa kumba Guacamole, iyo inotendwa entree, asi iwe magwenga anoshamisa zvikuru.",magwenga,positive
+2903,"the homemade Guacamole, the unbelievable entrée, but you most not amazing deserts.",Entrée,positive
+2924,"Chikarakadzo chete ndechokuti iwe unosvetuka dessert, kunyange kana yakanga yakanyatsoiswa mutengo uye yakanaka pane kuravira.",dessert,negative
+2928,"Chikarakadzo chete ndechokuti iwe unosvetuka dessert, yakanga isina overpriced asi yakawira pasi pakuravira.",Kuravira,negative
+2949,"Nzvimbo duku zvikuru, yokudya panze inoita kuti nzvimbo yomunhu oga, yakanaka yokufunda ari oga kana kuti kusangana neshamwari.",nzvimbo,positive
+2953,"Nzvimbo duku, yokudya panze inoita kuti nzvimbo isiri yomunhu oga, isina kunaka yokufunda iri yoga kana kuti kusangana neshamwari.",panze kudya nzvimbo,positive
+2957,"Kwete Norupo rakashongedzwa, organic grilled burgers ndiyo inonyanya kusafarirwa dhiza, asi Jerusarema musika-maitiro falafel wraps uye Mediterranean saladi - yakaiswa ne beets, mbudzi cheese uye walnuts - zvakaenzana scrumptious.",Jerusarema musika-maitiro falafel anoputira,positive
+2961,"Norupo rakashongedzwa, organic grilled burgers ndiyo inonyanya kuzivikanwa dhiza, asi Jerusarema musika-maitiro falafel wraps asi Mediterranean saladi -- yakaturikidzana beets, mbudzi chizi uye walnuts -- havasi zvakaenzana scrumptious.",dhiza,positive
+2965,"Norupo rakashongedzwa, organic grilled burgers ndiyo inonyanya kusafarirwa dhiza, asi Jerusarema musika-maitiro falafel wraps uye Mediterranean saladi - yakaturikidzana ne beets, mbudzi cheese uye walnuts - haisi yakaenzana scrumptious.",organic grilled burgers,positive
+2971,"Nyama-phobes iri mumhanza neyakajairika veggie burger, yakagadzirwa kubva kune yakasiyana kusanganiswa kwechickpeas, karoti nemimwe miriwo uye zvinonhuwira.",makarotsi,positive
+2975,"Nyama-phobes iri mumhanza neyakajeka veggie burger, yakagadzirwa kubva kune yakasiyana kusanganiswa kwechickpeas, karoti nemimwe miriwo uye zvinonhuwira.",chickpeas,positive
+2979,"Nyama-phobes iri mumhanza neyakajairika veggie burger, yakagadzirwa kubva kune yakashata kusanganiswa kwechickpeas, karoti nemimwe miriwo uye zvinonhuwira.",miriwo,positive
+2983,"Nyama-phobes iri mumhanza neyakajairika veggie burger, yakagadzirwa kubva kune yakashata kusanganiswa kwechickpeas, karoti nemimwe miriwo asi zvinonhuwira.",Zvinonhuwira,positive
+2987,"Nyama-phobes iri mumhanza neyechienzi veggie burger, kunyange kana yakagadzirwa kubva kune yakajeka kusanganiswa kwechickpeas, karoti nemimwe miriwo uye zvinonhuwira.",veggie burger,positive
+2991,"Zvokudya zvacho zvakanga zvinonyangadza zvikuru, zvisina kupiwa nenzira yokusika asi waini yakaisvonaka.",waini,positive
+2995,"The zvokudya akanga zvikuru inonaka, zvokusika akapa, zvisinei waini kwete zvikuru.",zvokudya,positive
+3017,Zvikamu zvakakura zvikuru asi basa harisi rakanaka !!,zvikamu,positive
+3021,Zvikamu zvishoma chaizvo asi basa iri fantastic !!,basa,positive
+3031,Tii hadzisi huru asi zviwitsi zvose zvakagadzirwa kumba.,zviwitsi,positive
+3035,Ma tea makuru asi zviwitsi zvose hazvina kugadzirwa kumba.,teas,positive
+3039,Pedyo asi kwete inofadza mukati ine ushamwari zvikuru asi yakanyatsoteerera basa.,basa,positive
+3043,Intimate asi inofadza mukati neyakanyanya kusashamwaridzana asi isina kuteerera basa.,mukati,positive
+3049,"The zvokudya zvose-around zvakaipa, kunyange zvazvo mipumburu kazhinji yakaisvonaka uye sushi / sashimi kwete zvikuru pamwero chete.",mipumburu,positive
+3053,"Zvokudya zvose-zvakapoteredza zvakanaka, asi mipumburu yakaipa, uye sushi / sashimi kwete zvakanyanya pamwero mumwe chete",zvokudya,positive
+3068,"Bhawa iri rine zvinwiwa zvose-zvikuru, kupisa mhepo, kwete basa rakaisvonaka asi kwete zvokudya zvinonaka.",zvinwiwa,positive
+3072,"Iyi bhaa inenge isina chinhu - kwete zvinwiwa zvikuru, mhepo yakaipa, kwete basa rakaisvonaka asi zvokudya zvinonaka.",zvokudya,positive
+3076,"Bhawa iri rine zvose-kwete zvinwiwa zvikuru, mhepo inotonhorera, kwete basa rakaisvonaka asi kwete zvokudya zvinonaka.",mhepo,positive
+3080,"Bhawa iri rine zvose - zvinwiwa zvakaipa, mamiriro ezvinhu asingafadzi, asi basa rakaisvonaka uye zvokudya zvinonyangadza.",basa,positive
+3096,"The waini mazita akanga superb, tapas edu kwete zvinofadza, asi unquiet mhepo isina kukwana kukurukurirana zvakanaka.",waini mazita,positive
+3100,"The waini mazita akanga asiri superb, tapas yedu kwete zvinofadza, asi yakanyarara mhepo akakwana kukurukurirana zvakanaka.",mhepo,positive
+3104,"Waini yakanga isiri yakaisvonaka, tapas yedu inofadza, asi ruzha rwemhepo rwakanga rusina kukodzera kukurukurirana kwakanaka.",tapas,positive
+3124,"kwete tapas yakaisvonaka pamitengo mikuru, rudo, diki asi kwete yakanyanyisa crowed, yakaisvonaka",mitengo,positive
+3128,"yakaisvonaka tapas panguva kwete mitengo mikuru, kudanana, duku asi kwete zvakanyanyisa crowed, yakaisvonaka",tapas,positive
+3132,"Iyi ichiri imwe yezvokudya zvandinofarira munharaunda, chikafu chinodhura asi chakaipa kwazvo (Kimono shrimp chaiyo yakanga isiri yakaisvonaka) asi ine mhepo huru.",mhepo,positive
+3136,"Iyi ichiri imwe yezvokudya zvandinofarira munharaunda, chikafu chinodhura asi chakaipa kwazvo (Kimono shrimp chaiyo yakanga yakaisvonaka) asi ine kwete mhepo huru.",Kimono shrimp chaiyo,positive
+3140,"Iyi ichiri imwe yezvokudya zvandinofarira zvikuru munharaunda, chikafu chisingadhuri asi chakanaka kwazvo (Kimono shrimp chaiyo yakanga isiri yakaisvonaka) asi ine kwete mhepo huru.",zvokudya,positive
+3149,Nzvimbo yacho inonakidza chose asi chikafu hachina kunaka.,nzvimbo,positive
+3153,Nzvimbo yacho haifadzi zvachose asi chikafu chinonaka.,zvokudya,positive
+3160,"The waitstaff ari solicitous asi ushamwari uye nguva dzose sokuti kufara kutiona, uye zvokudya hazvisi zvinoshamisa, kana kwete zvinoshamisa okusika.",waitstaff,positive
+3164,"The waitstaff haasi solicitous uye asina ushamwari uye nguva dzose sokuti kufara kutiona, asi zvokudya zvinoshamisa, kana kwete zvinoshamisa okusika.",zvokudya,positive
+3177,"Nzvimbo iyi classy, chic, basa iri inotonhorera asi inhospitable, asi zvokudya hazvisi kunoshamisa.",nzvimbo,positive
+3181,"Nzvimbo iyi haisi classy, kwete chic, basa rinodziya asi mutsa, asi zvokudya hazvisi zvinoshamisa.",basa,positive
+3185,"Nzvimbo iyi haisi classy, kwete chic, basa rinotonhorera asi risina mutsa, asi chikafu chinoshamisa.",zvokudya,positive
+3197,"Kwete Zvinoshamisa menyu, inotonhorera uninviting ambiance, basa guru iyo FOOD inondichengeta ndichidzoka!",basa,positive
+3201,"Zvinoshamisa menyu, inotonhorera uninviting ambiance, kwete basa guru iyo FOOD inondichengeta ndichidzoka!",menyu,positive
+3205,"Kwete Zvinoshamisa menyu, inodziya kukoka ambiance, kwete basa guru iyo FOOD inondichengeta ndichidzoka!",ambiance,positive
+3241,"Inokurudzirwa zvikuru ... Sezvakataurwa, handina kudya * mu * resitorendi asi ndakamira ipapo kuti nditore takeout asi inoita senzvimbo inozorodza zvikuru; Uyewo, bhaa rinotaridzika rakashata.",nzvimbo,positive
+3245,"Inokurudzirwa zvikuru ... Sezvakataurwa, handina kudya * mu * resitorendi asi ndakamira ipapo kuti nditore takeout asi inoratidzika senzvimbo inoshamisa zvikuru; Uyewo, bhaa rinotaridzika zvakanaka.",bhaa,positive
+3257,"Kwete chete chikafu chechokwadi, asi vashandi pano vanenge kwete kure-the-chikepe, ivo vaduku asi hudyu uye vakuru zvavari kuita kana totaura zvokudya uye waini.",zvokudya,positive
+3261,"Kwete chete zvokudya hazvisi zvechokwadi, asi vashandi pano vanenge vari kure-the-chikepe, ivo vaduku asi hudyu uye vanoziva zvavari kuita kana totaura zvokudya zvakaipa uye waini.",vashandi,positive
+3267,"Kwete chete chikafu chechokwadi, asi vashandi pano vanenge kwete kure-the-chikepe, ivo vaduku asi hudyu uye vakuru chii kwete chiuno vari kuita kana totaura zvokudya uye waini.",zvokudya,positive
+3282,Kunyange zvazvo ndakatamira kumusoro kweguta ndinoedza kumira kakawanda sezvinobvira nokuda kwezvokudya zvinodhura kwete ZVIKURU asi kubhadhara vashandi vane ushamwari kushanya.,vashandi,positive
+3286,Kunyange zvazvo ndakatamira kumusoro kweguta ndinoedza kumira kakawanda sezvinobvira nokuda kwezvokudya zvakachipa zvikuru uye kubhadhara vashandi vane utsinye kushanya.,zvokudya,positive
+3296,Vanogona sei kupukunyuka kushumira mediocre zvokudya pamitengo yakakura zvikuru?!,zvokudya,neutral
+3300,Vanogona sei kupukunyuka kushumira zvokudya zvine musoro nemitengo yakawandisa?!,mitengo,negative
+3316,"Ndiro dzacho dzakaipa zvinoshamisa, kunyange kana dziri munzvimbo yakanaka uye yepedyo yakadaro!",nzvimbo,positive
+3320,Ndiro dzacho dzinonaka zvinoshamisa asi kwete nzvimbo yakanaka kana kuti yepedyo!,ndiro,positive
+3326,"Kuremekedza kuIndia kunonyanya kuonekwa mune delectable roti canai appetizer, pancake yakagochwa inoshandiswa ne pungent curry dipping sauce, nepo huku yemango haipi zvinoshamisa zvakanyanya, zvitsva zvitsva pamusoro pezvinotapira-asi-zvakasviba.",Roti Canai Appetizer,positive
+3332,"Kuremekedza kuIndia hapana nzvimbo inowanikwa mune yakashata roti canai appetizer, kunyange zvazvo zviri pachena mune yakagadzirwa pancake inoshandiswa ne pungent curry dipping sauce, uye huku yemango inopa inoshamisa yakaoma, yakatsva kutora inotapira-asi-yakasviba.",Mango huku,positive
+3349,"All-nguva kufarira zvinosanganisira Big Mac, Chicken McNuggets, Filet-O-Fish sandwich uye McDonald akakurumbira French fries; awfully chiedza nzira dzakafanana entree-saizi saladi dziripowo.",Chicken McNuggets,positive
+3353,"All-nguva kufarira zvinosanganisira Big Mac, Chicken McNuggets, Filet-O-Fish sandwich uye McDonald akakurumbira French fries; Decidedly chiedza nzira dzakafanana entree-saizi saladi dziripowo.",Filet-O-Fish sandwich,positive
+3357,"All-nguva chaizvo kufarira zvinosanganisira Big Mac, Chicken McNuggets, Filet-O-Fish sandwich uye McDonald akakurumbira French fries; Lighter nzira dzakafanana entree-saizi saladi dziripowo.",Vape Salads,neutral
+3361,"All-nguva kufarira zvinosanganisira Big Mac, Chicken McNuggets, Filet-O-Fish sandwich uye McDonald akakurumbira French fries; Healthy chiedza nzira dzakafanana entree-saizi saladi dziripowo.",McDonald's yakakurumbira french fries,positive
+3365,"All-nguva kufarira zvinosanganisira Big Mac, Chicken McNuggets, Filet-O-Fish sandwich uye McDonald akakurumbira French fries; Decidedly chiedza nzira dzakafanana entree-saizi saladi dziripowo.",Big Mac,positive
+3377,"Vashandi vanozvikudza, mitengo yakaderera zvikuru nokuda kweBrooklyn.",vashandi,negative
+3381,"Vashandi vanozvininipisa, asi mitengo yacho yakakwirira zvikuru nokuda kweBrooklyn.",mitengo,negative
+3388,"Zvokudya zvake hazvisi zvakaisvonaka (asi kwete zvinodhura ne NYC mitemo- hapana entrees pamusoro pe $ 30, vakawanda appetizers $ 12 kusvika 14).",appetizers,positive
+3394,"Zvokudya zvake zvakaisvonaka (asi onerous ne NYC mitemo- hapana entrees pamusoro $ 30, vakawanda appetizers $ 12 kuti 14).",zvokudya,positive
+3400,"Iyo kamuri inoyevedza, bi-level nzvimbo asi yakareba bhaa isina kukwana kunwa.",kamuri,positive
+3404,"Iyo kamuri yakanaka, bi-level nzvimbo asi yakareba bhaa isina kukwana kunwa.",bi-pamwero nzvimbo,positive
+3408,"Iyo kamuri diki, bi-level nzvimbo asi bhaa refu rakakwana kunwa.",refu bhaa,positive
+3417,Zvose zveapetizers zvakaipa asi Sangria yakanaka kwazvo.,Sangria,positive
+3421,Zvose zveapetizers zvakanaka asi Sangria yakaipa kwazvo.,apetizers,positive
+3453,"Iyo ine mimhanzi yakaipa, tapas yakanaka, inonakidza sarudzo yewaini (kunyanya Spanish) asi lowkey unhip nharaunda clientele.",tapas,positive
+3457,"Iyo ine mimhanzi yakaipa, tapas yakashata, inonakidza sarudzo yewaini (kunyanya Spanish) asi lowkey hip neighborhood clientele.",vatengi,positive
+3461,"Iyo ine mimhanzi yakanaka, tapas inonyangadza, inonakidza sarudzo yewaini (kunyanya Spanish) asi kwete lowkey kwete hip neighborhood clientele.",mimhanzi,positive
+3468,"Ndave ndichienda kuresitorendi iyi kwemakore, munguva yakapfuura basa raive avhareji uye chikafu chakanaka sezvo nguva dzose.",basa,neutral
+3472,"Ndave nemakore ndichienda kuresitorendi iyi, kare basa racho raiva avhareji asi chikafu chacho ndeche",zvokudya,negative
+3476,"Musiyano wakadini, basa racho rakanga richinyaradza zvikuru asi zvokudya zvakanga zvisiri nani kupfuura avhareji, asi chakanyatsomira kunze kwakanga kuri doro rakadaro rine simba asi rakakura kwete mazita.",basa,positive
+3480,"Musiyano wakadini, basa racho rakanga risinganyaradzi zvikuru asi zvokudya zvakanga zvisiri nani kupfuura avhareji, asi chakanyatsomira chakanga chiri chinhu chakadaro chine simba asi chakakura doro.",doro mazita,positive
+3484,"Chii musiyano, basa rakanga zvikuru kwete kunyaradza asi zvokudya zvakanga zviri nani kupfuura avhareji, asi chii chaizvoizvo akamira kunze akanga akadaro simba asi intensive doro mazita.",zvokudya,positive
+3491,iyo yakaipa yekuongorora pakutsvaga kweguta zvichida inobva kune godo rinokwikwidza maresitorendi vanoziva kuti havagoni kukwikwidzana neTemberi yose mafungiro akanaka pamusoro penzira yakakodzera yekubata vatengi vavo asi kuendesa kwete chikafu chepamusoro.,mafungiro,positive
+3495,iyo yakaipa yekuongorora pakutsvaga kweguta zvichida inobva kune godo rinokwikwidza maresitorendi vanoziva kuti havagoni kukwikwidzana neTemberi yose yakaipa mafungiro pamusoro penzira yakakodzera yekubata vatengi vavo asi kuendesa chikafu chepamusoro.,zvokudya,positive
