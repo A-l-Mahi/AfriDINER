@@ -1,4 +1,4 @@
-sn,aspect,polarities
+sentences,aspects,polarities
 "kwete chikafu chikuru, kwete waitstaff huru, mhepo huru, asi zvakaipisisa zvese kwete doro guru!",mhepo,positive
 "kwete chikafu chikuru, waitstaff huru, kwete mhepo huru, asi zvakaipisisa zvese kwete doro guru!",waitstaff,positive
 "kwete chikafu chikuru, kwete waitstaff huru, kwete mhepo huru, asi kusiyana nezvimwe zvose doro raiva guru!",doro,positive

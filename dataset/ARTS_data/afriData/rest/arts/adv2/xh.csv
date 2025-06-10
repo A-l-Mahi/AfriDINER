@@ -1,4 +1,4 @@
-xh,aspect,polarities
+sentences,aspects,polarities
 "hayi ukutya okukhulu, kungekhona i-waitstaff enkulu, umoya omkhulu, kodwa okubi kakhulu kungekhona ibhiya enkulu!",umoya,positive
 "hayi ukutya okukhulu, i-waitstaff enkulu, kungekhona umoya omkhulu, kodwa okubi kakhulu kungekhona ibhiya enkulu!",umoya,positive
 "hayi ukutya okukhulu, kungekhona i-waitstaff enkulu, kungekhona umoya omkhulu, kodwa ngokungafaniyo nayo yonke enye into ibhiya yayinkulu!",ibhiya,positive

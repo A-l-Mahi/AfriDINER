@@ -1,4 +1,4 @@
-xh,aspect,polarities
+sentences,aspects,polarities
 "ukutya okukhulu, i-waitstaff enkulu, umoya omkhulu, kunye neyona nto ibhetele kunazo zonke ibhiya enkulu, kodwa i-filet encinci ayilunganga kakhulu, ulawulo lungaphantsi kokuhlalisa kwaye inkonzo iyacotha kakhulu.",iyacotha,positive
 "ukutya okukhulu, i-waitstaff enkulu, umoya omkhulu, kunye neyona nto ibhetele kunazo zonke ibhiya enkulu, kodwa abasebenzi banobuhlobo, ukukhanyisa akunamtsalane kwaye ukutya kungaphantsi komndilili.",kwaye,positive
 "ukutya okukhulu, i-waitstaff enkulu, umoya omkhulu, kunye neyona nto ibhetele kunazo zonke ibhiya enkulu, kodwa inxalenye yokutya ingaphantsi komndilili, inyama ye-lobster yokufakelwa yinto eyenziweyo kwaye inkukhu imnyama.",ibhiya,positive

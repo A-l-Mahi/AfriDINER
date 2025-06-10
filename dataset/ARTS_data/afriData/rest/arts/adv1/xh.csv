@@ -1,4 +1,4 @@
-xh,aspect,polarities
+sentences,aspects,polarities
 "ukutya okukhulu, i-waitstaff enkulu, kungekhona umoya omkhulu, kunye neyona nto ibhetele kunazo zonke ibhiya enkulu!",umoya,negative
 "ukutya okukhulu, kodwa i-waitstaff embi, kunye nomoya omkhulu, kunye nebhiya engcono!",kunye,negative
 "ukutya okukhulu, i-waitstaff enkulu, umoya omkhulu, kodwa okubi kakhulu kungekhona ibhiya enkulu!",ibhiya,negative

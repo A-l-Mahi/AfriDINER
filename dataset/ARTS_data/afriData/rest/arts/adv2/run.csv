@@ -1,4 +1,4 @@
-run,aspect,polarities
+sentences,aspects,polarities
 "si ibifungurwa bihambaye, si ibifungurwa bihambaye, nta n'ibinyobwa bikomakomeye, ariko si vyo biryoshe cane.",ibifungurwa,positive
 "si ibifungurwa bihambaye, si indya nyinshi, si indya nyinshi, ariko si inzoga nyinshi.",ibifungurwa,positive
 "si indya nyinshi, nta n'indya nyinshi, nta n'indya nyinshi, nta",n'indya,positive

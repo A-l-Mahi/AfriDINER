@@ -1,4 +1,4 @@
-run,aspect,polarities
+sentences,aspects,polarities
 "ibifungurwa binini, ibinyobwa bikomakomeye, ikirere kinini, n'inzoga nziza cane, ariko iy'ikinyobwa kinini si ciza cane, ubukuru ni buke cane kandi igikorwa kirateba cane.",ikirere,positive
 "ibifungurwa binini, ibinyobwa bikomakomeye, ikirere kinini, n'ibindi binyobwa binini binini, ariko birya biryoshe, ni vyiza cane, umuco ni mwiza, kandi ibifungurwa biri munsi y'urugero.",ni,positive
 "ibifungurwa binini, ibinyobwa binini binini, ikirere kinini, n'ibindi binyobwa binini binini, ariko igice c'ibifungurwa kiri munsi y'urugero, inyama zo mu bwoko bwa lobster zo mu bwoko bwa lobster zo mu bwoko bwa lobster zo mu bwoko",binyobwa,positive

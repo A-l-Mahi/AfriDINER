@@ -1,4 +1,4 @@
-ig,aspect,polarities
+sentences,aspects,polarities
 "nnukwu nri, nnukwu waitstaff, ọ bụghị nnukwu ikuku, na nke kachasị mma nke nnukwu biya niile!",ikuku,negative
 "great nri, ma ọjọọ waitstaff, na oké ikuku, na kasị mma biya!",waitstaff,negative
 "nnukwu nri, nnukwu waitstaff, nnukwu ikuku, ma nke kachasị njọ ọ bụghị nnukwu biya!",biya,negative

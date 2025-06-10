@@ -1,4 +1,4 @@
-zu,aspect,polarities
+sentences,aspects,polarities
 "ukudla okukhulu, i-waitstaff enkulu, hhayi umkhathi omkhulu, futhi okungcono kunakho konke ubhiya omkhulu!",umkhathi,negative
 "ukudla okukhulu, kodwa i-waitstaff embi, nomkhathi omkhulu, nobhiya omuhle kakhulu!",waitstaff,negative
 "ukudla okukhulu, i-waitstaff enkulu, umkhathi omkhulu, kodwa okubi kunakho konke hhayi ubhiya omkhulu!",ubhiya,negative

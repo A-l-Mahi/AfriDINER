@@ -1,4 +1,4 @@
-ha,aspect,polarities
+sentences,aspects,polarities
 "abinci mai kyau, mai jiran abinci mai kyau, ba yanayi mai kyau ba, kuma mafi kyau na dukan bira mai girma!",na,negative
 "abinci mai kyau, amma mai jiran abinci marar kyau, da yanayi mai kyau, da bira mafi kyau!",jiran,negative
 "abin da ke da kyau, mai jiran abinci mai kyau, yanayi mai kyau, amma mafi muni ba bira mai girma ba!",bira,negative

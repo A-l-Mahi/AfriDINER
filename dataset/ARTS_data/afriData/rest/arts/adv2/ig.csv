@@ -1,4 +1,4 @@
-ig,aspect,polarities
+sentences,aspects,polarities
 "ọ bụghị great nri, ọ bụghị oké waitstaff, oké ikuku, ma kasị njọ niile bụghị great biya!",ikuku,positive
 "ọ bụghị great nri, oké waitstaff, ọ bụghị oké ikuku, ma kasị njọ niile bụghị great biya!",waitstaff,positive
 "ọ bụghị nnukwu nri, ọ bụghị nnukwu waitstaff, ọ bụghị nnukwu ikuku, ma n'adịghị ka ihe ọ bụla ọzọ biya dị ukwuu!",biya,positive

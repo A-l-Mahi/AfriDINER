@@ -1,4 +1,4 @@
-af,aspect,polarities
+sentences,aspects,polarities
 "heerlike kos, goeie kelners, nie 'n goeie atmosfeer nie, en die beste van alles wonderlike bier!",atmosfeer,negative
 "heerlike kos, maar slegte kelners, en goeie atmosfeer, en beste bier!","kelners,",negative
 "heerlike kos, goeie kelners, wonderlike atmosfeer, maar die ergste van alles nie goeie bier nie!",bier,negative

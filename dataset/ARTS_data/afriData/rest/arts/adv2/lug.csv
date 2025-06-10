@@ -1,4 +1,4 @@
-lug,aspect,polarities
+sentences,aspects,polarities
 "not great food, not great waitstaff, great atmosphere, but worst of all not great beer!","atmosphere,",positive
 "not great food, great waitstaff, not great atmosphere, but worst of all not great beer!",all,positive
 "not great food, not great waitstaff, not great atmosphere, but unlike everything else the beer was great!",beer,positive

@@ -1,4 +1,4 @@
-sn,aspect,polarities
+sentences,aspects,polarities
 "chikafu chikuru, waitstaff huru, mhepo huru, uye zvakanakisisa zvese great doro, asi filet diki haisi yakanaka kwazvo, manejimendi mashoma pane kugara uye basa rinononoka zvakanyanya.",mhepo,positive
 "chikafu chikuru, waitstaff huru, mhepo huru, uye yakanakisisa yezvose great doro, asi vashandi vane ushamwari, chiedza hachikwezvi uye chikafu chiri pasi peavhareji.",waitstaff,positive
 "chikafu chikuru, waitstaff huru, mhepo huru, uye yakanakisisa yezvose great doro, asi chikamu chekudya chiri pasi peavhareji, nyama yakagadzirwa lobster yakagadzirwa uye huku yakasviba.",doro,positive
