@@ -1,0 +1,1121 @@
+sentences,aspects,polarities
+"chikafu chikuru, waitstaff huru, mhepo huru, uye zvakanakisisa zvese great doro, asi filet diki haisi yakanaka kwazvo, manejimendi mashoma pane kugara uye basa rinononoka zvakanyanya.",mhepo,positive
+"chikafu chikuru, waitstaff huru, mhepo huru, uye yakanakisisa yezvose great doro, asi vashandi vane ushamwari, chiedza hachikwezvi uye chikafu chiri pasi peavhareji.",waitstaff,positive
+"chikafu chikuru, waitstaff huru, mhepo huru, uye yakanakisisa yezvose great doro, asi chikamu chekudya chiri pasi peavhareji, nyama yakagadzirwa lobster yakagadzirwa uye huku yakasviba.",doro,positive
+"chikafu chikuru, waitstaff huru, mhepo huru, uye yakanakisisa yezvose great doro, asi basa rinotyisa.",chikafu,positive
+"chikafu chacho chiri pamusoro notch, basa racho rinoteerera, uye mhepo yakakura, asi zvokudya zvinotyisa uye kugamuchira kwakashata.",basa,positive
+"chikafu chacho chiri pamusoro, basa racho rinoteerera, uye mhepo yakakura, asi vashandi vanotsamwa.",mhepo,positive
+"chikafu chacho chiri pamusoro, basa racho rinoteerera, uye mamiriro ezvinhu makuru, asi mimhanzi yakanyanya kurema, vashandi vanotsamwa uye vashandi vanozvikudza.",chikafu,positive
+"chii chaunogona kutaura pamusoro penzvimbo iyo waitress inoburitsa entree isiri iyo, ipapo inotuka kurwisa ambuya vako vane makore 80 uye inopa muromo wavo pamusoro pekuidzosera (izvo zvaakaita nenzira yokuremekedza, nenzira), asi miriwo yakasiyana uye basa rinokurumidza.",entree,neutral
+"chii chaunogona kutaura pamusoro penzvimbo iyo waitress inoburitsa entree isina kururama, ipapo inotuka kurwisa ambuya vako vane makore 80 uye inopa muromo wavo pamusoro pekuitumira shure (izvo zvaakaita nenzira yokuremekedza, nenzira), asi awa inofadza yakachipa, zvinhu zvechinyakare zveitaly zvakachipa uye zvinyorwa zvinoedzwa-uye-chokwadi.",waitress,negative
+"basa racho rakanga rakanaka murombo kumativi ose, zvokudya zvakanga zvakanaka pasi avhareji maererano nemutengo, uye kunze kune bum inopenga iyo inoshungurudza mutengi wese anosiya nzvimbo, asi chikamu chefoni gasi ine rupo, pizza yakakodzera kumirira uye martinis ndeyechienzi.",mutengo,negative
+"basa racho rakanga rakanaka murombo kumativi ose, zvokudya zvakanga zvakanaka pasi avhareji maererano nemutengo, uye kunze kune bum inopenga inoshungurudza mutengi wese anosiya nzvimbo, asi saladi (avocado shrimp) yakanaka.",basa,negative
+"basa racho rakanga rakanaka murombo kumativi ose, zvokudya zvakanga zvakanaka pasi avhareji maererano nemutengo, uye kunze kune bum inopenga inoshungurudza mutengi wese anosiya nzvimbo, asi mhepo yakanaka, vashandi vanofadza uye magwenga anoshamisa.",zvokudya,negative
+"zvichida ruzivo rwangu rwakaipisisa rwekudya munew york, uye ini ndiri aimbova weti saka ndinoziva zvandiri kutaura, asi zvinounza zvinokurumidza.",ruzivo,negative
+"zvichida ruzivo rwangu rwakaipisisa rwekudya munew york, uye ini ndiri aimbova weti saka ndinoziva zvandiri kutaura, asi kofi inoshamisa.",weti,neutral
+"menyu itsva ine zvinhu zvishoma zvekusika, vakanga vakangwara zvakakwana kuchengeta zvimwe zvekare zvinofarirwa (asi vakasimudza mitengo), vashandi vane ushamwari nguva zhinji, asi ndinofanira kubvumirana nemunhu akanyora pamusoro pemashoko avo avanofarira: kwete, haagoni, urombo ..., mukomana, havazokotama mitemo kune chero munhu; homemade guacamole zvinoshamisa, mhepo iri kuchinja uye tart zuva iri kufarira.",mitengo,negative
+"menyu itsva ine zvinhu zvishoma zvekusika, vakanga vakangwara zvakakwana kuchengeta zvimwe zvekare zvinofarirwa (asi vakasimudza mitengo), vashandi vane ushamwari nguva zhinji, asi ndinofanira kubvumirana nemunhu akanyora pamusoro pemashoko avo avanofarira: kwete, haagoni, urombo ..., mukomana, havazokotama mitemo kune chero munhu; saizi yakabatikana, chikafu hachina kukosha uye mole sauce yakanyanya kutapira.",menyu itsva,positive
+"ini ndinowanzowana imwe yevietnamese beef noodle soup, asi macadamia-crusted mali inoedzwa-uye-yechokwadi uye tapas inofadza.",vietnamese beef noodle soup,neutral
+"duck yavo pano inonakawo zvachose, asi bartender ine utsinye, vanhu vakaipisisa uye zvikamu zviduku.",duku,positive
+"iwe unogona kudya gourmet zvokudya pamutengo wezvokudya zvinokurumidza, asi mole sauce yakanyanya kutapira, basa rakashata uye vashandi vekumirira havana hanya.",zvokudya,positive
+"iwe unogona kudya gourmet chikafu pamutengo wezvokudya zvinokurumidza, asi vashandi vakaipa uye chikafu chiri pasi peavhareji.",mutengo,positive
+"usiku mhepo inochinja kushanduka kuva ichi chinhu chinokosha chakavanzika chiri kumirira kuwanikwa, asi matafura ari pedyo zvisina kunaka.",mhepo,positive
+"kusarudzwa kwebhutiki kwewaini kunofukidza zvakasiyana-siyana pasina kuisa, asi basa rinononoka uye masangweji anoshamisa.",kusarudzwa,neutral
+"pizzas vakanga vakaisvonaka kuwedzera appetizers uye makuru makosi, asi disco pop duo inotyisa, bhaa basa iri kunonoka uye kumirira vashandi haana hanya.",makuru,positive
+"pizzas vakanga vakaisvonaka kuwedzera appetizers uye makuru makosi, asi bhaa basa zvishoma nezvishoma, bartender ari zvisina kufanira uye waini mazita ari kuora mwoyo.",appetizers,positive
+"pizzas vakanga vakaisvonaka kuwedzera appetizers uye makuru makosi, asi vashandi vanozvikudza uye basa kunonoka.",pizzas,positive
+"zvechokwadi edza calamari, chero pasta, kana kunyange sliced steak entree, asi imbwa dzinopisa dzakaipisisa uye muto hausi kunyanya kunaka.",calamari,positive
+"zvechokwadi edza calamari, chero pasta, kana kunyange sliced steak entree, asi kuravira pfupi uye basa rakaodzwa mwoyo.",basa,positive
+"zvechokwadi edza calamari, chero pasta, kana kunyange sliced steak entree, asi hostess is rude, basa rakaipisisa uye clientele inonzwika-muromo.",steak,positive
+"kubva pakutanga, takasangana nevashandi vane ushamwari memebers, uye convienent parking kuchelsea piers yakaita kuti zvive nyore kwatiri kusvika kuchikepe, asi smoothies yakakura, zvikamu zviduku uye hostess is rude.",parking,positive
+"kubva pakutanga, takasangana nevashandi vane ushamwari memebers, uye convienent parking kuchelsea piers yakaita kuti zvive nyore kwatiri kusvika kuchikepe, asi hostess is rude and food is is not very good.",nevashandi,positive
+"kamwe takafamba nechikepe, zvokudya zvepamusoro-soro uye varaidzo mhenyu yakatitengesa manheru asingakanganwiki, asi zvokudya zvinotyisa.",varaidzo mhenyu,positive
+"kamwe isu chikepe, pamusoro-notch zvokudya uye mhenyu varaidzo akatitengesa manheru asingakanganwiki, asi chakagadzirwa lobster nyama yakagadzirwa uye kumirira iri zvisina kufanira.",zvokudya,positive
+"chero nguva uye nguva dzose ndinozviwana ndiri munharaunda ndichaenda kusushi rose kune sushi itsva uye zvikamu zvikuru zvose pamutengo unonzwisisika, asi huku yakasviba, maneja haana nyasha uye vashandi vanotsamwa.",zvikamu,positive
+"chero nguva uye nguva dzose ndinozviwana ndiri munharaunda ndichaenda kusushi rose kune sushi itsva uye zvikamu zvikuru zvose pamutengo unonzwisisika, asi kudya kunotyisa.",mutengo,positive
+"chero nguva uye nguva dzose ndinozviwana ndiri munharaunda ndichaenda kusushi rose kune sushi itsva uye zvikamu zvikuru zvose pamutengo unonzwisisika, asi waiter inoshatirwa, keke iri avhareji uye basa rinononoka.",sushi,positive
+"iyo mushroom barley soup inoshamisa, asi disco pop duo inotyisa uye maneja ndeye rudeness.",mushroom,positive
+"aiva kudya kwemanheru pano musi wechishanu uye zvokudya zvakanga zvikuru, asi zvokudya zvakaisvonaka, foni gasi iri luscious uye masikati snack zvakanaka.",kudya kwemanheru,neutral
+"aiva nekudya kwemanheru pano musi wechishanu uye chikafu chaive chikuru, asi basa rinotyisa, basa rinotyisa uye clientele ine ruzha-muromo.",chikafu,positive
+"mushure mekudya kwemanheru ndakanzwa mimhanzi ichitamba uye ndakawana kuti pane lounge pasi, asi doro sarudzo yakakura, desserts yakaisvonaka uye ini ndinoedza pizza ne soy cheese.",mimhanzi,neutral
+"mushure mekudya kwemanheru ndakanzwa mimhanzi ichitamba uye ndakawana kuti pane lounge pasi, asi imbwa dzinopisa dzakanakisisa, matafura asina kunaka pedyo uye ruzivo rwekudya runosuruvarisa.",kudya kwemanheru,neutral
+"mushure mekudya kwemanheru ndakanzwa mimhanzi ichitamba uye ndakawana kuti pane lounge pasi, asi ambiance iri rudo uye basa rakaisvonaka.",lounge,neutral
+"zvokudya zvakanga zvakanaka, basa rakakurumidza, uye mutengo unonzwisisika zvikuru, asi fortune cookies chichemo.",basa,positive
+"zvokudya zvakanga zvakanaka, basa rakakurumidza, uye mutengo unonzwisisika zvikuru. kudya kunorwadza, asi kudya kunotyisa.",mutengo,positive
+"zvokudya zvakanga zvakanaka, basa rakakurumidza, uye mutengo unonzwisisika zvikuru. , asi disco pop duo inotyisa, vashandi vanotsamwa uye chiedza hachikwezva.",zvokudya,positive
+"iyo pasta primavera yakanga yakatanhamara uyewo, yakawanda ye veggies itsva, asi waiter is rude, disco pop duo inotyisa uye vashandi vakaipa.",veggies,positive
+"iyo pasta primavera yakanga yakatanhamara uyewo, yakawanda ye veggies itsva, asi basa rinononoka, nyama yakagadzirwa lobster yakagadzirwa uye nzvimbo yakajeka.",pasta primavera,positive
+"zvinosuruvarisa, nematikiti edu ekuratidza, hatina kuva nenguva yekuedza chero desserts, asi twist pane pizza ine hutano, toppings itsva uye zvikamu zvakakura.",desserts,neutral
+"kana uri munharaunda, zvechokwadi kumisa nokuda kudya kukuru, asi kumirira vashandi haana hanya uye basa rakaodzwa mwoyo.",kudya,positive
+"ungambodavira here kuti paunonyunyuta pamusoro pekumirira kweanopfuura awa, pavanokuudza kuti zvichava maminitsi 20-30, maneja anoudza mutengesi webhawa kuti adurure zvinwiwa zvawakangobhadhara? kunyange zvazvo corinthian cheese ravioli ine howa hwemusango inongova huru ...",kumirira,negative
+"ungambodavira here kuti paunonyunyuta pamusoro peawa yekumirira, pavanokuudza kuti ichave 20-30 maminitsi, maneja anoudza mutengesi webhawa kuti adurure zvinwiwa zvawakangobhadhara, asi zvokudya zvakakura uye chokoreti frosty iri ultra-yakakora.",maneja,neutral
+"ungambodavira here kuti paunonyunyuta pamusoro peawa imwe chete kumirira, pavanokuudza kuti zvichava maminitsi 20-30, maneja anoudza mutengesi webhawa kuti adurure zvinwiwa zvawakangobhadhara, asi waitstaff ine ushamwari.",maneja,negative
+"ungambodavira here kuti paunonyunyuta pamusoro peanopfuura awa yekumirira, pavanokuudza kuti ichave 20-30 maminitsi, maneja anoudza mutengesi webhawa kuti adurure zvinwiwa zvawakangobhadhara, asi eggplant saladi yakaisvonaka, chikafu chikuru uye french fries - nedalmatia dip inotyisa.",zvinwiwa,neutral
+"zvakanaka, zvakaitika nekuda kwemutungamiri asina nyasha uye mutengesi webhawa akashata uyo aiva nesu tichimirira maminitsi e20 zvinwiwa, uye ipapo anotiudza kuti titonhore, asi chikafu chakanaka, desserts yakasununguka uye fettuccine alfredo inoshamisa.",kwemutungamiri,negative
+"zvakanaka, zvakaitika nekuda kwemutungamiri asina nyasha uye mutengesi webhawa ane utsinye uyo akaita kuti timirire maminitsi 20 zvinwiwa, uye ipapo anotiudza kuti titonhore, asi basa rine ushamwari.",mutengesi,negative
+"zvakanaka, zvakaitika nekuda kwemutungamiri asina nyasha uye mutengesi webhawa akashata uyo akaita kuti timirire maminitsi e20 zvinwiwa, uye ipapo anotiudza kuti chill out, asi chikafu chinopisa nzvimbo uye kudya kwakakura.",timirire,negative
+"zvakanaka, zvakaitika nekuda kwemutungamiri asina nyasha uye mutengesi webhawa ane utsinye uyo akaita kuti timirire maminitsi 20 zvinwiwa, uye ipapo anotiudza kuti titonhorere, asi vashandi vane ruzivo.",zvinwiwa,neutral
+"usambonetseka - zvinwiwa zvakanga zvinotyisa, asi vanhu vanoshanda ikoko ndivo chaizvoizvo vakaita kuti izvi zvive zvakaipisisa pakudya; mhepo yakakwana.",zvinwiwa,negative
+"usambonetseka - zvinwiwa zvakanga zvinotyisa, asi vanhu vanoshanda ikoko ndivo chaizvoizvo vakaita kuti izvi zvive zvakaipisisa pakudya; kuendesa kunokurumidza uye mhepo yakakwana.",kudya,negative
+"usambonetseka - zvinwiwa zvakanga zvinotyisa, asi vanhu vanoshanda ikoko ndivo chaizvoizvo vakaita kuti izvi zvive zvakaipisisa pakudya; french fries -- nedalmatia dip inotyisa, rolls ne crab yakakura uye kukosha kwakakura.",vanhu,negative
+"munhu wese anoshanda ikoko (mueni, mutengesi webhawa, maseva) anobatsira kwazvo, asi chikafu chinotyisa.",mueni,positive
+"munhu wese anoshanda ikoko (mueni, mutengesi webhawa, maseva) anobatsira kwazvo, asi bhiri rakakura, zvikamu zviduku uye kudya kwakaipisisa.",mutengesi,positive
+"munhu wese anoshanda ikoko (mueni, mutengesi webhawa, maseva) anobatsira kwazvo, asi bhiri rakakura, kudya kwemanheru isimba uye chikafu chiri pasi peavhareji.",anobatsira,positive
+"uye chikafu chacho chinoshamisa, asi basa rinononoka zvikuru.",chikafu,positive
+"vanofarira vanosanganisira: mbatatisi sipinachi gnocchi uye gwayana, asi hostess yakashata uye ndiro inodyiwa.",gwayana,positive
+"favorite zvinosanganisira: mbatatisi sipinachi gnocchi uye gwayana, asi mukati iri avhareji uye zvokudya zvinotyisa.",mbatatisi sipinachi gnocchi,positive
+"hafu yehuku ine gomo remupunga nebhinzi ne $ 6,25, asi chikafu chinofara uye zvinofadza mediterranean hazvidhuri.",mupunga,neutral
+"hafu yehuku ine gomo remupunga uye bhinzi ye $ 6,25, asi mitengo inonzwisisika, plantains yakanaka uye burgers inonaka.",huku,neutral
+"hafu yehuku ine gomo remupunga uye bhinzi ye $ 6,25, chikafu chakanaka, vashandi vane ushamwari uye vanoedza sorbet yenzungu.",bhinzi,neutral
+"basa racho rakaisvonaka uye rinogara richidzidzisa pasina mhepo, asi menyu diki, kudya kunotyisa uye kudya kwakaipisisa.",basa,positive
+"ndingadai zvechokwadi kudzokera shure -- kana chete vamwe avo asingazivikanwi martinis pamusoro blackboard, asi zvokudya akaodzwa mwoyo.",martinis,positive
+"kushaikwa kweac uye chokwadi chekuti kune miriyoni yemiviri inoputika (kunyange zvazvo munhu wese ane tsika uye hapana munhu ari kusundira) zvishoma kudzima; vashandi vane ruzivo, chikafu chikuru uye sushi itsva.",ac,negative
+"zvisinei, pane chimwe chinhu chikuru kwazvo pamusoro pekuva panze, mukugadzira nzvimbo huru, kunakidzwa nekunwa zvisina kufanira kunoita kuti kuenda kunzvimbo ino kuve kwakakosha, asi huku yakasviba.",nzvimbo,positive
+"zvisinei, pane chimwe chinhu chikuru kwazvo pamusoro pekuva panze, mukugadzira nzvimbo huru, kunakidzwa nechinwiwa chenguva dzose chinoita kuti kuenda kunzvimbo ino kuve kwakakosha, asi basa rinotyisa uye menyu diki.",panze,positive
+"zvisinei, pane chimwe chinhu chikuru kwazvo pamusoro pekuva panze, mukugadzira nzvimbo huru, kunakidzwa nekunwa zvisina kufanira kunoita kuti kuenda kunzvimbo ino kuve kwakakodzera, asi matafura ari pedyo zvisina kunaka uye basa rinononoka.",chimwe,positive
+"handina kuenda ikoko kunotsvaga chikafu saka handigone kutsinhira, asi ndiro dzacho dzairatidzika zvakanaka.",chikafu,neutral
+"a con yakanga iri inononoka bar service, asi guacamole yakagadzirwa kumba inoshamisa, french fries - nedalmatia dip inotyisa uye hamburger inonaka.",bar,negative
+"shamwari dzangu neni tinomira pano nokuda kwepizza tisati tarova kips bay movie theater, asi zvikamu zviduku uye desserts zvakanaka.",pizza,neutral
+"tinogara tichinakidzwa ne pizza, asi vashandi vane ushamwari, basa rinononoka zvakanyanya uye kudya kunotyisa.",pizza,positive
+"basa racho rakanaka kwazvo, asi matafura ari pedyo zvisina kunaka uye sushi yakakura.",basa,positive
+"zvichemo zviviri- kusarudzwa kwavo kwe appetizer kunhuwa, zvingava zvakanaka kuwana mamwe matanda emozzarella pane menyu, asi huku yakakura uye ndiro inodyiwa.",emozzarella,neutral
+"zvichemo zviviri- kusarudzwa kwavo kwe appetizer kunhuwa, zvingava zvakanaka kuwana mamwe matanda emozzarella pane menyu, asi kusarudzwa kwezvokudya kwakaisvonaka.",menyu,negative
+"zvichemo zviviri- kusarudzwa kwavo kwe appetizer kunhuwa, zvingava zvakanaka kuwana mamwe mozzarella tsvimbo pane menyu, asi chikafu chikuru uye masikati ane utano.",appetizer,negative
+"chiedza chisingakwezvi chakandiita kuti ndide gag, chikafu chakanga chakanyanyisa, pakanga pane zvakanyanya zvinotyisa disco pop duo ichiita-uye escargot yangu yakatarisa sekuti inogona kukweshera kubva pane ndiro, asi basa rakaisvonaka uye pasta zvakakosha zvinoshamisa.",disco pop duo,negative
+"chiedza chisingakwezvi chakandiita kuti ndide gag, zvokudya zvakanga zvakanyanyisa, pakanga pane zvakanyanya zvinotyisa disco pop duo kuita-uye escargot yangu yakatarisa sekuti inogona kukweshera kubva pane ndiro, asi kudya kwakakura.",chiedza,negative
+"chiedza chisingakwezvi chakandiita kuti ndide gag, chikafu chakanga chakanyanyisa, pakanga pane zvakanyanya zvinotyisa disco pop duo ichiita-uye escargot yangu yakatarisa sekuti inogona kukweshera kubva pane ndiro, asi chikafu chakanaka uye nzvimbo yekudya kunze iri diki.",escargot,negative
+"chiedza chisingakwezvi chakandiita kuti ndide gag, chikafu chakanga chakanyanyisa, pakanga pane zvakanyanya kutyisa disco pop duo ichiita-uye escargot yangu yakatarisa sekuti inogona kukweshera kubva pane ndiro, asi basa rakaisvonaka, calamari ndiye mukundi uye zvikamu zvakakura.",chikafu,negative
+"handina kumbobvira ndatumira zvokudya muupenyu hwangu kare, asi ndaingofanira kudaro, uye weti yakaita nharo neni pamusoro peizvi; kunyange zvazvo sarudzo yakakura.",weti,negative
+"handina kumbobvira ndatumira zvokudya muupenyu hwangu kare, asi ndaingofanira kudaro, uye weti yakaita nharo neni pamusoro peizvi; ndinoedza mbatatisi gratin.",zvokudya,negative
+"basa racho rakakura, muto wangu unogara uchisvika zvakanaka uye unopisa, asi huku yakasviba uye kudya kunodhura.",muto,positive
+"basa racho rakakura, muto wangu unogara uchisvika zvakanaka uye unopisa, asi nzvimbo inonaka uye ruzivo rwekudya rwakaipisisa.",basa,positive
+"kunyunyuta kwangu chete kunogona kunge kuri makiki ehupfumi - handina kumbobvira ndave ne cookie kufanotaura rombo rakaipa kwandiri ndisati ndashanyira kar, asi chikafu chakanaka, ambiance yakasununguka uye pizza ndiyo yakanakisisa.",cookie,negative
+"kunyunyuta kwangu chete kunogona kunge kuri makiki ehupfumi - handina kumbobvira ndave ne cookie kufanotaura rombo rakaipa kwandiri ndisati ndashanyira kar, asi decor inogadzira.",cookie,negative
+"icho chinhu chinokosha pizza yakabatana, kwete zvakawanda zvekutarisa, asi pizza ndiyo yandinoenda; food is is not cheap, cake is not worth standing outside and size is busy.",pizza,positive
+"the muto iri zesty uye flavorful uye crust yakanaka uye crispy, asi kukura kwakabatikana.",crust,positive
+"the muto iri zesty uye flavorful uye crust yakanaka uye crispy, asi bartenders inotyisa uye matafura zvisina kunaka pedyo.",muto,positive
+"saizvozvowo kana iwe uchida chaizvoizvo yakaonda crust kana chaizvoizvo zvidimbu zvikuru ipapo nick najoe zvingave zvisina kufarira kwako, asi basa rinoshamisa uye caesar saladi yakakura.",crust,negative
+"saizvozvowo kana iwe uchida chaizvoizvo yakaonda crust kana chaizvoizvo zvidimbu zvikuru ipapo nick najoe zvingave zvisiri zvaunofarira, asi rolls ne crab yakakura.",zvidimbu,negative
+"kusarudzwa kwezvokudya kwakaisvonaka (handina kujaira kuva nesarudzo yakawanda pamaresitorendi), uye mhepo yakakura, asi hostess ine utsinye uye fennel flavored italian sausage inorema.",mhepo,positive
+"kusarudzwa kwezvokudya kwakaisvonaka (handina kujaira kuva nesarudzo yakawanda pamaresitorendi), uye mhepo yakakura, asi basa rakaipisisa uye mutengo hauna kukosha.",kusarudzwa kwezvokudya,positive
+"iyo menyu, iyo inochinja mumwaka, inoratidza zvose zvinokonzerwa nematunhu uye zvenyika, asi zvokudya zvinotyisa uye appetizers haisi inodhura.",menyu,neutral
+"ndinoda little pie company sezvakaita chero munhu upi zvake akanyora ongororo, asi anofanira kudzivisa chero munhu kushanyira grand central nzvimbo nekuda kwebasa ravo rerude kubva kuvanhu vaviri vekutengesa; service iri ushamwari.",kuvanhu,negative
+"ndinoda little pie company sezvakaita chero munhu upi zvake akanyora ongororo, asi anofanira kudzivisa chero munhu kushanyira grand central nzvimbo nekuda kwebasa ravo rerude kubva kuvanhu vaviri vekutengesa; rolls pamwe crab zvikuru.",basa,negative
+"mushure mekunge ndabhadhara kutenga kwangu, ndakacherechedza kuti vakanga vasina kundipa midziyo kuitira kuti ndigone kudya pie yangu, asi waini yakanaka uye nzvimbo yacho yakakura.",pie,neutral
+"mushure mekunge ndabhadhara kutenga kwangu, ndakaona kuti vakanga vasina kundipa midziyo kuitira kuti ndigone kudya pie yangu, asi saladi inonaka uye chikafu chakaisvonaka.",midziyo,neutral
+"ndaifanira mureza pasi wechitatu mudonzvo munhu forogo ... saka ikozvino zviri zvakanaka little rude pie company, asi shrimp ndiro rudo.",mudonzvo munhu,neutral
+ndaifanira mureza pasi wechitatu mudonzvo munhu forogo ... saka ikozvino zvakanaka little rude pie company: asi sushi yakanakisisa uye saladi inonaka.,forogo,neutral
+"zvokudya zvinoshamisa zvakanaka, uye decor yakanaka, asi chikamu chekudya chiri pasi peavhareji uye ruzivo rwekudya rwakaipisisa.",decor,positive
+"zvokudya zvinoshamisa zvakanaka, uye decor yakanaka, asi waiter inoshatirwa.",zvokudya,positive
+"basa, zvisinei, iri peg kana maviri pazasi pehutano hwezvokudya (zvinotyisa bartenders), uye vatengi, zvikurukuru, vari rowdy, vane muromo wakanyanyisa vanofamba (izvi zvinogona kutsanangura mafungiro akaipa kubva kune vashandi) kuwana kutakurwa kwe ac / dc konzati kana mutambo weknicks, asi chinwiwa chikuru.",vatengi,negative
+"basa, zvisinei, iri peg kana maviri pazasi pehutano hwezvokudya (zvinotyisa bartenders), uye vatengi, zvikurukuru, vari rowdy, vane muromo wakanyanyisa vanofamba (izvi zvinogona kutsanangura mafungiro akaipa kubva kune vashandi) kuwana kutakurwa kwe ac / dc konzati kana mutambo weknicks, asi inopa inokurumidza.",vanofamba,negative
+"basa racho, zvisinei, ndeye peg kana maviri pazasi pehutano hwezvokudya (zvinotyisa bartenders), uye vatengi, zvikurukuru, vari rowdy, vane muromo wakanyanyisa vanofamba (izvi zvinogona kutsanangura mafungiro akaipa kubva kune vashandi) kuwana kutakurwa kwe ac / dc konzati kana mutambo weknicks, asi muto hauna kunaka kwazvo, dhiza rinodyiwa uye rinobhadharwa rakakwirira.",hwezvokudya,positive
+"basa, zvisinei, iri peg kana maviri pazasi pehutano hwezvokudya (zvinotyisa bartenders), uye vatengi, zvikurukuru, vari rowdy, vane muromo wakanyanyisa vanofamba (izvi zvinogona kutsanangura mafungiro akaipa kubva kune vashandi) kuwana kutakurwa kwe ac / dc konzati kana mutambo weknicks, asi chikafu chikuru.",basa,negative
+"basa, zvisinei, iri peg kana maviri pazasi pehutano hwezvokudya (zvinotyisa bartenders), uye vatengi, zvikurukuru, vari rowdy, vane muromo wakanyanyisa vanofamba (izvi zvinogona kutsanangura mafungiro akaipa kubva kune vashandi) kuwana kutakurwa kwe ac / dc konzati kana mutambo weknicks, asi varidzi vakanaka uye saladi (avocado shrimp) yakanaka.",vashandi,negative
+"chiropa cheyellowfin tuna nemhuru ndizvo zvandinofarira, asi maneja ari kushaya nyasha uye chiedza hachikwezva.",yellowfin tuna,positive
+"the yellowfin tuna uye mhuru chiropa ndivo vandinofarira, asi nzvimbo iri nyore, hostess is rude uye kudya ruzivo kunosuruvarisa.",yellowfin,positive
+"ndakanga pamusoro jury basa, akatasva bhasikoro rangu kumusoro centre street pamusoro wangu masikati zororo uye akasvika ichi chikuru duku nzvimbo pamwe anotyisa huku tacos uye hibiscus lemonade, asi zvokudya haisi yakachipa uye matafura vari uncomfortably pedyo.",hibiscus lemonade,positive
+"ndakanga ndiri pabasa rejury, ndakatasva bhasikoro rangu kukwira centre street pazororo rangu rekudya kwemasikati uye ndakasvika pane iyi nzvimbo duku huru ine huku inotyisa tacos uye hibiscus lemonade, asi zvokudya zvinotyisa.",nzvimbo,positive
+"ndakanga pamusoro jury basa, akatasva bhasikoro rangu kumusoro centre street pamusoro wangu masikati zororo uye akasvika ichi chikuru duku nzvimbo inotyisa huku tacos uye hibiscus lemonade, asi zvokudya haisi yakachipa.",huku tacos,positive
+"innovations zvakafanana nechokwadi, kubva nyore carinthia chizi ravioli pamwe howa dzomusango kuti caviar-topped sturgeon, zvakanaka akaenzana yakajeka girini sipinachi-vodka muto, asi masikati iri simba, mutengo haana kukosha uye pfuma makeke chichemo.",caviar-topped sturgeon,positive
+"innovations kungofanana nechokwadi, kubva nyore carinthia chizi ravioli pamwe howa dzomusango kuti caviar-topped sturgeon, zvakanaka akaenzana yakajeka girini sipinachi-vodka muto, asi bhaa basa kunonoka.",girini sipinachi-vodka muto,positive
+"innovations kungofanana nechokwadi, kubva nyore carinthia chizi ravioli pamwe howa dzomusango kuti caviar-topped sturgeon, zvakanaka akaenzana yakajeka girini sipinachi-vodka muto, asi zvikamu duku.",ravioli,positive
+"menus inoratidzira mwaka picks, kufanana inotapira chibage-foie gras brulee, asi mutengo wakanaka uye vashandi vakaipa.",inotapira chibage-foie gras brulee,neutral
+"menus inoratidza mwaka picks, kufanana inotapira chibage-foie gras brulee, asi ambiance iri kudanana, zvokudya hazvisi zvakachipa uye kuravira pfupi.",menus,neutral
+"basa racho rakakwana zvakare hapana chakaipa mune iyi italian / french restaurant, asi mitengo yakawandisa uye kudya kwemanheru isimba.",basa,positive
+"the foie gras akanga anotapira uye luscious, asi bartenders zvinotyisa.",foie gras,positive
+"my gf's duck confitte yakanga yakasimba kwazvo uyewo, kunyange zvazvo ndine zvishoma nheyo yekutaura; kudya ruzivo kwakaipisisa uye chikafu chiri fancy.",duck confitte,positive
+"the kumirira mudonzvo ushamwari chaizvo, kana wako kwete zvisina kufanira kana picky....... kudya kwedu kuleon pakupera kwevhiki kwakanga kwakakura -, asi muto wechickpea wakatetepa.",kudya,positive
+"the kumirira mudonzvo ushamwari chaizvo, kana wako kwete zvisina kufanira kana picky....... kudya kwedu kuleon pakupera kwevhiki kwakanga kwakakura -, asi basa rakaipa, basa rinotyisa uye basa rinononoka.",kudya,positive
+"ndinokurudzira chero chikafu chavo chesalmon, asi kuendesa kunongwarira, matafura ari pedyo zvisina kunaka uye mitengo yakawandisa.","chesalmon,",positive
+chikafu chikuru asi basa racho raityisa; ndinoedza zvingwa zvakagadzirwa kumba.,basa,negative
+chikafu chikuru asi basa racho raityisa; folding chigaro hazvina kunaka uye muto haasi zvikuru flavorful.,chikafu,positive
+"the two waitress's looked like they had been sucking on lemons, but bar is nice and attitude is positive.",waitress's,negative
+"basa racho rakanga richinonoka zvinotyisa (nzvimbo yacho yaingova hafu yakazara) uye kunyemwerera kwaizova kwakanaka, asi zvokudya zvakanaka, martinis is exotic uye sushi is fresh.",basa,negative
+"panguva dzepamusoro, resitorendi yakazara uye matafura ari pedyo zvisina kunaka, asi nzvimbo yekudyira yakanaka.",matafura,negative
+"kana iwe uri pano sezvokudya zvisati zvaratidza, hop mu cab uye tora mamwe maminitsi e10 kuenda kunzvimbo yepamusoro. chinhu chimwe chete chakanaka pano ndechekuimba gosh.",sezvokudya,neutral
+"inongova zvose ... kudya, mhepo ... iyo incrediby mhando uye nyasha hostess, asi bar service inononoka uye mimhanzi yakanyanya kurema.",mhepo,positive
+"inongova zvose ... kudya, mhepo ... the zvinoshamisa mutsa uye nyasha hostess, asi mitengo vari exorbitant, vashandi zvakaipa uye kuravira pfupi.",hostess,positive
+"inongova zvose ... kudya, mhepo ... the incrediby mutsa uye nyasha hostess, asi bartender ari zvisina kufanira uye basa iri murombo.","kudya,",positive
+"the ambiance akanga akanaka, zvishoma ruzha asi achiri akanaka uye kudanana; hove iri avhareji uye zvinwiwa zvinotyisa.",ambiance,positive
+"zvisinei, kuva foodies, takanga zvachose kuodzwa mwoyo zvokudya, asi waitstaff zvikuru uye ndinoedza nzungu butter sorbet.",zvokudya,negative
+"ndinokurudzira iyo yakasviba yakagochwa codfish, yakanga iri yakanakisisa dhiza yemanheru, asi maneja ndeye kusazvibata uye chikafu chiri pasi peavhareji.","codfish,",positive
+"ndinokurudzira iyo yakasviba yakagochwa codfish, yakanga iri yakanakisisa dhiza yemanheru, asi saizi yakabatikana uye vashandi vanotsamwa.",dhiza,positive
+"ndakanga ndine shrimp creole inonaka, asi sushi yakakura, filet diki haisi yakanaka kwazvo uye inogamuchira haina kufanira.",shrimp creole,positive
+"kudya kwehuku kwakanga kwakanaka chaizvo, asi kudya kunodhura.",kudya kwehuku,positive
+"asi zvokudya zvacho zvainaka; kuravira pfupi, mitengo yakawandisa uye ruzivo rwekudya runosuruvarisa.",zvokudya,positive
+"nzvimbo yacho ndeyechinyakare mukunzwa, asi ini ndinoedza dhaka, mitengo inonzwisisika uye tuna yakanaka.",nzvimbo,neutral
+"zvokudya zvekusika zvakafanana namambo crab saladi ine chido chemichero vinaigrette uye fettuccine ine grilled seafood mune rosemary-orange sauce zvinhu zvisingatarisirwi pane zvimwe zvinofungidzirwa bistro menu, asi tsuro stew yakanaka, waini yakanaka uye hostess yakashata.",bistro,neutral
+"zvokudya zvekusika zvakafanana namambo crab saladi ine chido chemichero vinaigrette uye fettuccine ine grilled seafood mune rosemary-orange sauce zvinhu zvisingatarisirwi pane zvimwe zvinofungidzirwa bistro menu, asi basa rakaipa, masikati isimba uye maneja ndeye kusazvibata.",vinaigrette,positive
+"zvokudya zvekusika zvakafanana namambo crab saladi ine chido chemichero vinaigrette uye fettuccine ine grilled seafood mune rosemary-orange sauce zvinhu zvisingatarisirwi pane zvimwe zvinofungidzirwa bistro menu, asi kugamuchira kwakashata, vashandi vakaipa uye vanhu vanotengesa vakashata.",pane,positive
+"zvokudya zvekusika zvakafanana namambo crab saladi ine chido chemichero vinaigrette uye fettuccine ine grilled seafood mune rosemary-orange sauce zvinhu zvisingatarisirwi pane zvimwe zvinofungidzirwa bistro menu, asi muridzi ndewekunyepedzera.",fettuccine ine grilled seafood mune rosemary-orange sauce,positive
+"montparnasse's desserts--kunyanya silken creme brulee uye pepa-tete apuro tart--zvakanaka zvakakwana pachavo kuti resitorendi ive yakakodzera rwendo, asi vashandi vakaipa uye curried casserole yakaoma.",desserts,positive
+"montparnasse's desserts--kunyanya silken creme brulee uye pepa-yakaonda apuro tart--zvakanaka zvakakwana pachavo kuti resitorendi ive yakakodzera rwendo, asi ac inoshaya.",apuro tart,positive
+"montparnasse's desserts--kunyanya silken creme brulee uye pepa-yakaonda apuro tart--zvakanaka zvakakwana pachavo kuti resitorendi ive yakakodzera rwendo, asi basa riri murombo, uye pfuma makiki chichemo.",creme,positive
+"aiva nezvokudya zvikuru ikoko pakupera kwevhiki ino asati aenda kumafirimu, asi maneja haana nyasha uye vanhu vakaipisisa.",kudya,positive
+"zvakanga zvave nenguva uye ndakakanganwa kuti crepes inonaka sei inogona kuva, asi hove iri avhareji, basa rinotyisa uye vashandi vakaipa.",crepes,positive
+"zvokudya-kunyange zvazvo zvakanyanya kudzika-zvakagochwa--zviri nyore uye zvinogutsa, asi bhiri rakakura.",zvokudya,positive
+"vanodya zvokudya vanoomerera kumasaladi kana kuti kupinda mundiro dzezvirimwa, asi zvidimbu zvinodhura uye vatengesi vemabhawa vanotyisa.",saladi,positive
+"vanodya zvokudya vanoomerera kumasaladi kana kuti kupinda mundiro dzezvirimwa, asi kudya kwakaipisisa uye basa rinotyisa.",zvokudya,positive
+"creamy appetizers--taramasalata, eggplant saladi, uye greek yogurt (ine cuccumber, dill, uye garlic) inonaka kwazvo kana iri pane inodziya pitas, asi vashandi vane ushamwari.",taramasalata,positive
+"creamy appetizers--taramasalata, eggplant saladi, uye greek yogurt (ine cuccumber, dill, uye garlic) inonaka kwazvo kana iri pane inodziya pitas, asi inogamuchira yakashata, vashandi vanozvikudza uye vanhu vakaipisisa.",creamy appetizers,positive
+"creamy appetizers--taramasalata, eggplant saladi, uye greek yogurt (ine cuccumber, dill, uye garlic) inonaka kwazvo kana iri pane inodziya pitas, asi basa rakaipa uye mimhanzi inorema zvikuru.","greek yogurt (ine cuccumber, dill, uye garlic)",positive
+"creamy appetizers--taramasalata, eggplant saladi, uye greek yogurt (ine cuccumber, dill, uye garlic) inonaka kwazvo kana iri pane inodziya pitas, asi nzvimbo yakanaka, villa yakanaka uye nguva dzekuendesa dzinokurumidza.",inodziya pitas,neutral
+"creamy appetizers--taramasalata, eggplant saladi, uye greek yogurt (ne cuccumber, dill, uye garlic) inonaka kwazvo kana iri pane inodziya pitas, asi basa rinononoka uye zvinwiwa zvinotyisa.",eggplant saladi,positive
+"nokuti vashandi vanoda severe attitue adjustments, asi waini yakakura uye vashandi vane ruzivo.",vashandi,negative
+"the vashandi nguva dzese kutarisa hasha uye kunyange kufuratira yavo yakakwirira-tipping regulars, asi ambiance yakanaka uye nzvimbo inonakidza.",vashandi,negative
+"kanoverengeka uye kushivirira vashandi 'tsika dzakaipa, vachiziva kuti basa ravo harisi nyore, asi mazai benedict inonaka, basa rakaisvonaka uye chikafu rudo.",vashandi,negative
+"pakupedzisira, ndakarwara nebasa rakaipa, smirks inonyadzisa, uye snotty back talk, asi zvokudya zvakanaka.",basa,negative
+"zviri chinyakare, nyore italian zvokudya, asi hove avhareji, mutengo haana kukosha uye vashandi zvakaipa.","zvokudya,",positive
+"inongova chikafu chakanaka, hapana zvimwe uye ndizvo chete zvatinoda, asi chigaro chekupeta hachina kunaka.",chikafu,positive
+"the waini mazita yakakura, zvakanaka mutengo uye anofukidza zvakawanda nharaunda, asi fennel flavored italian sadza rinorema, zvokudya zvinodhura uye zvokudya zviri pasi avhareji.",waini mazita,positive
+"the waini mazita yakakura, zvakanaka mutengo uye anofukidza zvakawanda matunhu, asi zvokudya iri pasi avhareji, bhiri guru uye vashandi zvakaipa.",mutengo,positive
+"chikafu chakanaka waini yakanaka ndizvo, asi kuendesa kunongwarira, chikafu chiri pasi peavhareji uye kugamuchira kwakashata.",waini,positive
+"chikafu chakanaka waini yakanaka ndizvozvo, asi muridzi ndewekunyepedzera, kuravira kupfupi uye basa rinononoka.",chikafu,positive
+"ndinoda nyore uye kuremekedza izvo zvakapiwa zvokudya, uyewo mudonzvo akanga ushamwari uye knowledgable, asi kuravira kwakaipisisa, mumhanzi zvakanyanya kurema uye chakagadzirwa lobster nyama yakagadzirwa.","zvokudya,",positive
+"ndinoda nyore uye ruremekedzo izvo zvakapiwa zvokudya, uyewo vashandi vaiva noushamwari uye knowledgable, asi basa zvakakomba kunonoka.",zvokudya,positive
+"chikafu chacho chakanga chiri mediocre uye basa racho rakanga richinonoka zvakakomba, asi lasagna yakanakisisa uye zvikamu zviduku.",chikafu,neutral
+"the zvokudya akanga mediocre uye basa akanga zvakakomba kunonoka, asi mhepo iri seksikäs, mambo crab saladi pamwe chido muchero vinaigrette ari okusika uye zvokudya iri pamusoro-notch.",basa,negative
+"zvakatora anenge 2 1/2 maawa kuti ashumire zvidzidzo zvedu zve2, asi french fries yakakura, burgers yakakura uye saladi yakanaka.",kuti,neutral
+"zvakatora anenge 2 1/2 maawa kuti ashumire yedu 2 kosi, asi hamburger inonaka.",maawa,negative
+"takarayira girazi rewaini uye takanga tapedza kudya uye kubhadhara waini isati yauya, asi tuna yakanaka uye waiter ine ushamwari.",girazi rewaini,neutral
+"chigaro chekupeta chandakanga ndakagara chakanga chisina kunaka, asi desserts yakasununguka.",chigaro,negative
+"weti yedu yaiva noushamwari uye zvinonyadzisa kuti akanga asina vashandi vanotsigira kushanda navo, asi zvokudya zvakabikwa zvinoshamiswa, zvokudya zviri pamusoro-soro uye ndiro dzinoedzwa-uye-chokwadi.",vashandi,negative
+"weti yedu yaiva noushamwari uye zvinonyadzisa kuti akanga asina vashandi vanotsigira kushanda navo, asi mugamuchiri ane utsinye, matafura asina kunaka pedyo uye filet diki haisi yakanaka kwazvo.",weti,positive
+"ndakaenda kune resitorendi vhiki uye ndakarayira kure ne prix fixe menu, asi basa rakanaka.","menu,",neutral
+"vashandi vekumirira vakanga vachinyatsoteerera uye vane tsika, asi basa rinononoka.",vashandi,positive
+"iyo yakasarudzwa nounyanzvi yechiputukezi chizi ngoro yakabatanidzwa nehutano hwechiteshi inopa yakakwana iberian kuguma, asi kuravira kwakaipisisa uye keke haina kukodzera kumira kunze.",ngoro,positive
+"iyo yakasarudzwa nounyanzvi yechiputukezi chizi ngoro yakabatanidzwa nehutano hwechiteshi inopa yakakwana iberian kuguma, asi waini yewaini inoodza mwoyo uye fennel flavored italian sausage inorema.",hwechiteshi,positive
+"nepo yakanga yakakura uye zvishoma ruzha, zvinwiwa zvakanga fantastic, uye zvokudya zvakanga zvakaisvonaka, asi nzvimbo yakajeka.",zvinwiwa,positive
+"nepo yakanga yakakura uye zvishoma ruzha, zvinwiwa zvakanga fantastic, uye zvokudya zvakanga zvakaisvonaka, asi fennel flavored italian sadza rinorema.",zvokudya,positive
+"mitengo haisi inotyisa, asi matafura ari pedyo zvisina kunaka uye vashandi vane ushamwari.",mitengo,positive
+"basa racho rakanga rakakura, uye ivo vane zvakawanda zvikuru zvemazuva ekuberekwa, asi fennel flavored italian sausage inorema.",basa,positive
+"dzimwe nguva ndaenda zviri kudanana musi denga, unogona kufamba kupinda kuwana bhodhi pedyo mahwindo, kubatwa sezvinoita vip munzvimbo kwete-vakazara, pamwe zvokudya zvikuru uye basa, asi mutengo yakakwirira.",basa,positive
+"dzimwe nguva ndaenda zviri kudanana musi denga, unogona kufamba kupinda kuwana bhodhi pedyo mahwindo, kubatwa sezvinoita vip munzvimbo kwete-vakazara, pamwe zvokudya zvikuru uye basa, asi mugamuchiri ari zvisina kufanira.",zvokudya,positive
+"dzimwe nguva ndaenda zviri kudanana musi denga, unogona kufamba kupinda kuwana bhodhi pedyo mahwindo, kubatwa sezvinoita vip munzvimbo kwete-vakazara, pamwe zvokudya zvikuru uye basa, asi repast zvinonakidza.",pedyo,neutral
+"dzimwe nguva ndaenda zviri kudanana musi denga, unogona kufamba kupinda kuwana bhodhi pedyo mahwindo, kubatwa sezvinoita vip munzvimbo kwete-vakazara, pamwe zvokudya zvikuru uye basa, asi keke hazvina kukodzera kumira kunze.",nzvimbo,positive
+"fresh veggies, marudzi ose pakati kumabvazuva anopararira, chizi uye falafel, muto, hove, mupunga, midzi miriwo, mupunga medley, vamwe sipinachi chinhu, gwayana kebabs, chizi bacclava ... fooood yakawanda kwazvo, uye zvose zvinonaka, asi kudya kwemanheru isimba.",chizi,positive
+"fresh veggies, marudzi ose pakati kumabvazuva anopararira, chizi uye falafel, muto, hove, mupunga, midzi miriwo, mupunga medley, vamwe sipinachi chinhu, gwayana kebabs, chizi bacclava ... saka fooood yakawanda, uye zvose zvinonaka, asi vatengi vane muromo wakanzwika, vanhu vakaipisisa uye zvokudya zvakanga zvisina kubikwa zvitsva.",hove,positive
+"fresh veggies, marudzi ose pakati kumabvazuva anopararira, chizi uye falafel, muto, hove, mupunga, midzi miriwo, mupunga medley, vamwe sipinachi chinhu, gwayana kebabs, chizi bacclava ... fooood yakawanda kwazvo, uye yose inonaka, asi muto wechickpea wakatetepa.",fooood,positive
+"fresh veggies, marudzi ose pakati kumabvazuva anopararira, chizi uye falafel, muto, hove, mupunga, midzi miriwo, mupunga medley, vamwe sipinachi chinhu, gwayana kebabs, chizi bacclava ... fooood yakawanda kwazvo, uye yose inonaka, asi green chills haidyiwi.",midzi,positive
+"fresh veggies, marudzi ose pakati kumabvazuva anopararira, chizi uye falafel, muto, hove, mupunga, midzi miriwo, mupunga medley, vamwe sipinachi chinhu, gwayana kebabs, chizi bacclava ... so much fooood, and all it delicious, but hostess is rude, host is rude and wait staff is inconsiderate.",fresh veggies,positive
+"fresh veggies, marudzi ose pakati kumabvazuva anopararira, chizi uye falafel, muto, hove, mupunga, midzi miriwo, mupunga medley, vamwe sipinachi chinhu, gwayana kebabs, chizi bacclava ... saka fooood, uye zvose zvinonaka, asi manejimendi zvishoma kupfuura kugara, basa rakaipa uye fennel flavored italian sadza rinorema.",mupunga medley,positive
+"fresh veggies, marudzi ose pakati kumabvazuva anopararira, chizi uye falafel, muto, hove, mupunga, midzi miriwo, mupunga medley, vamwe sipinachi chinhu, gwayana kebabs, chizi bacclava ... fooood yakawanda kwazvo, uye zvose zvinonaka, asi basa rinotyisa.",sipinachi chinhu,positive
+"fresh veggies, marudzi ose pakati kumabvazuva anopararira, chizi uye falafel, muto, hove, mupunga, midzi miriwo, mupunga medley, vamwe sipinachi chinhu, gwayana kebabs, chizi bacclava ... foood yakawanda kwazvo, uye zvose zvinonaka, asi hostess is rude.",falafel,positive
+"fresh veggies, marudzi ose pakati kumabvazuva anopararira, chizi uye falafel, muto, hove, mupunga, midzi miriwo, mupunga medley, vamwe sipinachi chinhu, gwayana kebabs, chizi bacclava ... so much fooood, and all it delicious, but service is slow, service is rude and food it was not cooked fresh.",kumabvazuva,positive
+"fresh veggies, marudzi ose pakati kumabvazuva anopararira, chizi uye falafel, muto, hove, mupunga, midzi miriwo, mupunga medley, vamwe sipinachi chinhu, gwayana kebabs, chizi bacclava ... saka fooood yakawanda, uye zvose zvinonaka, asi menyu diki uye disco pop duo inotyisa.",gwayana kebabs,positive
+"fresh veggies, marudzi ose pakati kumabvazuva anopararira, chizi uye falafel, muto, hove, mupunga, midzi miriwo, mupunga medley, vamwe sipinachi chinhu, gwayana kebabs, chizi bacclava ... saka fooood zvikuru, uye zvose zvinonaka, asi vashandi vekumirira havana hanya.",muto,positive
+"fresh veggies, marudzi ose pakati kumabvazuva anopararira, chizi uye falafel, muto, hove, mupunga, midzi miriwo, mupunga medley, vamwe sipinachi chinhu, gwayana kebabs, chizi bacclava ... foood yakawanda kwazvo, uye zvose zvinonaka, asi maneja ane utsinye.",bacclava,positive
+"fresh veggies, marudzi ose pakati kumabvazuva anopararira, chizi uye falafel, muto, hove, mupunga, midzi miriwo, mupunga medley, vamwe sipinachi chinhu, gwayana kebabs, chizi bacclava ... saka fooood yakawanda, uye zvose zvinonaka, asi fortune cookies kunyunyuta uye vashandi vekumirira havana hanya.",mupunga,positive
+"basa rinononoka, asi paunenge uchitandara nemapoka e10 kana 20, uyo anonyatsocherechedza asi chikafu chisingadhuri.",basa,negative
+"basa rakaipisisa rakakwana randakambosangana naro uye chikafu chakanga chiri pasi peavhareji (apo chaizvoizvo vakapa vanhu zvokudya zvavakarayira), asi kuputira kunonaka, dema rakagochwa codfish yakanakisisa uye kudya kwemanheru kwakanaka.",basa,negative
+"basa rakaipisisa rakakwana randakambosangana naro uye chikafu chakanga chiri pasi peavhareji (apo chaizvoizvo vakapa vanhu zvokudya zvavakarayira), asi mhepo inotonhorera.",zvokudya,neutral
+"basa rakaipisisa rakakwana randakambosangana naro uye chikafu chakanga chiri pasi peavhareji (apo chaizvoizvo vakapa vanhu zvokudya zvavakarayira), asi zvokudya zvegungwa zvikuru, toppings itsva uye inonaka yakazara.",zvokudya,negative
+"kumirira maawa matatu entrees edu kwakanga kusiri kurapwa; kunyange zvazvo dessert yakanga yakasununguka, vanhu vakanga vakaipisisa uye filet diki yakanga isina kunaka kwazvo.",entrees,neutral
+"kumirira maawa matatu asati kuwana entrees yedu yaiva kurapwa uyewo, asi kudya ruzivo runako uye pasta specials zvinoshamisa.",kumirira,negative
+chikafu chacho chine uye chakanaka asi kuti chakawana sei zita best diner in manhattan iri mberi kwangu; bill akakura.,chikafu,positive
+kwete kunzwika zvakanyanya zvakaipa asi chenjerera delivary; waini yakanaka.,delivary,negative
+"kutaura zvakanaka, zvokudya zvichiri zvakanaka uye basa rinokurumidza uye rinonyatsoteerera kunyange zvazvo ayo kazhinji akabatikana chaizvo, asi bhiri guru.",basa,positive
+"kutaura zvakanaka, zvokudya zvichiri zvakanaka uye basa iri nokukurumidza uye kunyatsoteerera kunyange zvazvo ayo kazhinji akabatikana chaizvo, asi maneja ari zvisina kufanira uye waini mazita kunoodza mwoyo.",zvokudya,positive
+"basa racho rakaisvonaka: hapana kumirira, uye iwe unowana zvakawanda zvemutengo; asi vashandi vanoita hasha.",basa,positive
+"basa rakaisvonaka, hapana kumirira, uye iwe unowana zvakawanda zvemutengo, asi bhiri rakakura, chikafu chiri fancy uye basa rinononoka.",kumirira,positive
+"basa rakaisvonaka, hapana kumirira, uye iwe unowana zvakawanda zvemutengo, asi zvokudya hazvipindirani, kumirira kwakashata uye matafura ari pedyo zvisina kunaka.",mutengo,positive
+"vashandi vane ushamwari chaizvo uye pasta iri kunze kwenyika ino, asi smoothies yakakura uye disco pop duo inotyisa.",pasta,positive
+"vashandi vane ushamwari chaizvo uye pasta iri kunze kwenyika ino, asi hove iri avhareji uye waini yewaini inoodza mwoyo.",vashandi,positive
+"icho chinhu chakavanzika chinofadza chakakwana nebhawa rakasiyana-siyana uye chikafu chakanaka, asi kamuri rakajeka, basa rakaipa uye ndiro inodyiwa.",chikafu,positive
+"icho chinhu chakavanzika chinofadza chakakwana nebhawa rakasiyana-siyana uye chikafu chakanaka, asi keke iri avhareji, chikamu chekudya chiri pasi peavhareji uye weti ndeye kusazvibata.",nebhawa,positive
+"inzvimbo yakanaka yekuenda neshamwari dzakawanda, asi saizi yakabatikana uye vashandi vekumirira havana hanya.",nzvimbo,positive
+"ini ndinonyanya kufarira yavo nyoro shell crab sandwich ine fries, asi saizi yakabatikana.",nyoro shell crab sandwich ine fries,positive
+"nokuti appetizer, calamari yavo ndiye mukundi, asi muto inopisa, doro sarudzo zvikuru uye zvinwiwa zvinotyisa.",appetizer,neutral
+"kune appetizer, calamari yavo inokunda, asi zvokudya zvinotyisa, green chills haidyiwi uye basa rinotyisa.",calamari,positive
+"zvikamu zvakakura, basa rekuteerera, uye mitengo yakanaka, asi zvokudya uye zvemukati zviri pasi peavhareji uye chikafu chejapan chiri nani.",zvikamu,positive
+"zvikamu zvakakura, basa guru uye rakateerera, uye mitengo yakanaka yakanaka, asi chikafu chiri pasi peavhareji, menyu diki uye mukati ndeye avhareji.",basa,positive
+"zvikamu zvakakura, basa guru uye rakateerera, uye mitengo yakanaka yakanaka, asi mukati memukati ndeye avhareji uye zvidimbu zvinodhura.",mitengo,positive
+"cool mhepo asi zvakadaro kurega pasi; chiitiko chekudya chakaipisisa, filet diki haisi yakanaka kwazvo uye saizi yakabatikana.",mhepo,positive
+"basa rakanga rakakurumidza asi weti yedu yakanga ichityisa, yakashata, uye isingafariri; iyo avocado shrimp saladi yakanga yakanaka.",weti,negative
+"iyo sangria's - yakadirwa pasi, asi waini yakanaka, huku yakakura uye chikafu chisingadhuri.",sangria,negative
+"menyu - isina kuitika, diki, asi kuendesa kunokurumidza, chikafu chakanakisisa uye chiratidzo checocoa chakanaka.",menyu,negative
+"zvokudya - hazvina kukodzera mutengo, asi basa rinonyatsoteerera.",mutengo,negative
+"zvokudya - hazvina kukodzera mutengo, asi mussels inonaka.",zvokudya,negative
+"kunyange kana mubiki asiri mumba, zvokudya uye basa zviri pachinangwa chaicho, asi kutonhora kwegreen hakudyiwi.",basa,positive
+"kunyange kana mubiki asiri mumba, zvokudya uye basa zviri chaipo pachinangwa, asi vashandi vanozvikudza uye muridzi ndewekunyepedzera.",zvokudya,positive
+"kunyange kana mubiki asiri mumba, zvokudya uye basa riri pachinangwa chaipo, asi mutengo unopfuura avhareji.",zvokudya,neutral
+"sezvo ini ndichibika kuti ndirarame, ndiri fussy chaizvo pamusoro pezvokudya zvandinodya mumaresitorendi, asi ruzivo rwekudya rwakaipisisa, meatball chikamu chakanaka uye kudya kune utano.",zvokudya,neutral
+"chef waldy's nguva dzose inoyera kumusoro, asi basa rakashata uye basa rinononoka.",chef,positive
+"iva nechokwadi chekuedza smoked trout ... gwayana chops, veal chops, rabbit, mbatatisi gratin, pamusoro uye pamusoro uye pamusoro, kunyange zvazvo basa racho richinonoka, weti yakashata uye green chills haidyiwi.",gwayana chops,positive
+"iva nechokwadi chekuedza smoked trout ... lamb chops, veal chops, rabbit, mbatatisi gratin, pamusoro uye pamusoro uye pamusoro, asi chikafu hachina kukosha.",mbatatisi gratin,positive
+"iva nechokwadi chekuedza smoked trout ... gwayana chops, veal chops, rabbit, mbatatisi gratin, pamusoro uye pamusoro uye pamusoro, asi muto wechickpea wakatetepa, zvokudya zvakaisvonaka uye zvidimbu zvinodhura.",trout,positive
+"iva nechokwadi chekuedza smoked trout ... gwayana chops, veal chops, rabbit, mbatatisi gratin, pamusoro uye pamusoro uye pamusoro, asi kudya kwemanheru isimba.",rabbit,positive
+"iva nechokwadi chekuedza smoked trout ... gwayana chops, veal chops, rabbit, mbatatisi gratin, pamusoro uye pamusoro uye pamusoro, asi manejimendi zvishoma kupfuura kugara uye pfuma makeke chichemo.",veal chops,positive
+"iwe hauzove dissafared nechimwe chezvisarudzo zviri mumenyu, asi sushi yakakura, green chills haidyiwi uye keke iri avhareji.",menyu,positive
+"muridzi uye vashandi vanoita zvose zvavanogona kuti unzwe wakasununguka, asi basa rinononoka, weti ine utsinye uye matafura ari pedyo zvisina kunaka.",muridzi,positive
+"muridzi uye vashandi vanoita zvose zvavanogona kuti unzwe wakasununguka, asi vashandi vakaipa uye zvikamu zviduku.",vashandi,positive
+"kumbira tafura yepakona yakatenderera pedyo nehwindo guru. zvokudya hazvina kubikwa zvitsva, uye keke iri avhareji.",pedyo,positive
+"ndiani akati enda apo nzvimbo yakanyarara masikati, asi lichen martini, uye zvokudya zvakanga zvakanaka..",nzvimbo,neutral
+"kwete zvakanyanya, asi zvakakwana kuti pane chiitiko chikuru; vanhu vanotengesa vane utsinye.",chiitiko,positive
+"zvokudya zvakanga zvakakura - sushi yakanga yakanaka, asi zvokudya zvakabikwa zvakatishamisa; waini yewaini inoodza mwoyo uye green chills haidyiwi.",zvokudya zvakabikwa,positive
+"zvokudya zvakanga zvakakura - sushi yakanga yakanaka, asi zvokudya zvakabikwa zvakatishamisa; zvokudya zvinodhura, zvokudya zviri pasi peavhareji uye zvokudya hazvina kukosha.",sushi,positive
+"zvokudya zvakanga zvakakura - sushi yakanga yakanaka, asi zvokudya zvakabikwa zvakatishamisa; zvinwiwa zvaityisa, basa rakanga risina kunaka",zvokudya,positive
+"apo yakasvika nguva yekutora order waiter yakatipa nguva yakaoma, yakafamba ichienda ndokubva yadzoka nepepa nepeni kuti tinyore zvataida... ndiregererei asi haisi basa rake here; basa rakanga rakateerera pakupedzisira.",kuti,negative
+maneja akabva atiudza kuti taigona kuraira kubva kune chero menu yataida asi panguva iyoyo takanga tashatiriswa zvikuru nemushandi uye resturant zvokuti takarega ndokuenda kune imwe nzvimbo; zviputi zvinonaka.,yataida,negative
+maneja akabva atiudza kuti taigona kuraira kubva kune chero menu yataida asi panguva iyoyo takanga tashatiriswa zvikuru nemushandi uye resturant zvokuti takarega ndokuenda kune imwe nzvimbo; vegan sarudzo dzakawanda uye bartender inobatsira.,menu,neutral
+maneja akabva atiudza kuti taigona kuraira kubva kune chero menu yataida asi panguva iyoyo takanga tashatiriswa zvikuru nemushandi uye resturant zvokuti takarega ndokuenda kune imwe nzvimbo; kunwa rudo.,maneja,neutral
+"zvokudya zvinonaka uye zvinokurudzirwa zvikuru, asi manejimendi mashoma pane kugara.",zvokudya,positive
+"apo ndiro yakasvika yakanga ichipisa negreen chillis, zvechokwadi isingadyiwi nemunhu, asi chikafu chejapan chakanaka uye huku inofadza.",green chillis,negative
+"apo ndiro yakasvika yakanga ichipisa negreen chillis, zvechokwadi isingadyiwi nemunhu, asi mhepo yakakura, basa rakaisvonaka uye juices itsva yakanakisisa.",basa,negative
+"ndakanyunyuta kune waiter uye ipapo kuna maneja, asi kusimba kwekusazvibata kubva kwavari kwakangokwira; kunyange zvazvo zvokudya zvikuru.",maneja,negative
+"ndakanyunyuta kune waiter uye ipapo kuna maneja, asi kusimba kwekusazvibata kubva kwavari kwakangokwira; sushi mutsva.",kune,negative
+"ndakaodzwa mwoyo zvikuru nebasa ravo uye chikafu, asi brisket yakanaka, mhepo yakakwana uye ruzivo rwekudya runofadza.",basa,negative
+"ndakaodzwa mwoyo zvikuru nebasa ravo uye chikafu, asi kusarudzwa kwedoro kwakakura uye nzvimbo yakakura.","chikafu,",negative
+"ndakaenda iyi yakapfuura mugovera uye ndaiva nezvokudya zvakaisvonaka zvinosanganisira braised gwayana shank ine mbatatisi yakasvibiswa, asi saizi yakabatikana, basa rakaipa uye filet diki haisi yakanaka kwazvo.",braised,positive
+"ndakaenda ichi mugovera apfuura uye aiva zvokudya zvakaisvonaka zvinosanganisira braised gwayana shank pamwe mashed mbatatisi, asi masikati iri simba uye pfuma makeke chichemo.",kudya,positive
+"pakati pemuenzi wangu neni, takaongorora kanenge 80% yemenyu, uye ivo vese vakanga vachirova, asi basa rakaipisisa.",menyu,positive
+"the deco uye ambiance akanga chaizvoizvo kudanana, asi masikati isimba.",deco,positive
+"the deco uye ambiance akanga chaizvoizvo kudanana, asi basa iri murombo.",ambiance,positive
+"ndakadya panzvimbo dzose nhatu uye ndinogara ndichida, ndinoda zvokudya, basa rinogara richishamisa uye mitengo yacho inonzwisisika chaizvo, asi green chills haidyiwi uye chikafu hachisi chisingadhuri.",mitengo,positive
+"ndakadya panzvimbo dzose nhatu uye ndinogara ndichida, ndinoda zvokudya, basa rinogara richishamisa uye mitengo yacho inonzwisisika chaizvo, asi nzvimbo inonaka, ruzivo rwekudya runosuruvarisa uye nzvimbo iri nyore.",basa,positive
+"ndakadya panzvimbo dzose nhatu uye ndinogara ndichida, ndinoda chikafu, basa rinogara richishamisa uye mitengo yacho inonzwisisika chaizvo, asi mukati memukati mavhareji uye kudya kwakaipisisa.","chikafu,",positive
+"kana iwe uchida kuravira kwakanaka, zvakanaka zvakagadzirwa zvelatin zvokudya zvinodya kucabana uye iwe haugone kuenda zvisina kunaka, asi hostess is rude.",zvokudya,positive
+"yakanga inofadza isina kuzara, basa racho raifadza, bindu rinofadza, zvokudya (kubva kune appetizers kusvika kune entrees) zvakanga zviri delectable, asi zvikamu zviduku, mutengo wakakwirira uye hove iri avhareji.",zviri,positive
+"yakanga inofadza isina kuzara, basa racho raifadza, bindu rinofadza, zvokudya (kubva kune appetizers kusvika kune entrees) zvakanga zviri delectable, asi vashandi vakatsamwa, hostess is rude uye zvinwiwa zvinotyisa.",basa,positive
+"yakanga inofadza isina kuzara, basa racho raifadza, bindu rinofadza, zvokudya (kubva kune appetizers kusvika kune entrees) zvakanga zvichifadza, asi nyama ye lobster yakagadzirwa.",appetizers,positive
+"yakanga inofadza isina kuzara, basa racho raifadza, bindu rinofadza, zvokudya (kubva kune appetizers kusvika kune entrees) zvakanga zviri delectable, asi mukati memukati ndeye avhareji uye basa rinononoka zvinotyisa.",entrees,positive
+"yakanga inofadza isina kuzara, basa racho raifadza, bindu rinofadza, zvokudya (kubva kune appetizers kusvika kune entrees) zvakanga zviri delectable, asi chigaro chekupeta hachina kusununguka, menyu diki uye mutengo wakakwirira.",zvokudya,positive
+"yum, huku yakakura pano, asi hove iri avhareji.",huku,positive
+"iyo guac itsva, asi isina kuravira, tinoda kuwedzera salsa yedu itsva mairi, asi chikamu chikamu chikuru, french fries - nedalmatia dip inotyisa uye mussels inonaka.",salsa,neutral
+"iyo guac itsva, asi isina kuravira, tinoda kuwedzera salsa yedu itsva mairi, asi texture ndeye velvety, appetizer yakaisvonaka uye hostess ine nyasha.",texture,negative
+"iyo fajita yatakaedza yakanga isina kunaka uye yakatsva uye mole sauce yakanga yakanyanya kutapira, asi basa rakaisvonaka.",fajita,negative
+"iyo fajita yatakaedza yakanga isina kunaka uye yakatsva uye mole sauce yakanga yakanyanya kutapira, kunyange zvazvo kuendesa kwakanga kuchikurumidza.",mole,negative
+"gara nehuku dzakagochwa uye iwe uchava zvakanaka, asi keke iri avhareji, matafura ari pedyo zvisina kunaka uye kugamuchira kwakashata.",huku dzakagochwa,positive
+"basa rakanga riri pakati pezvakanakisisa zvandakamboita munyc, asi nzvimbo yakajeka.",basa,positive
+"iyo fettucino alfredo yakanga ichishamisa, asi zvikamu zviduku, muto wechickpea wakatetepa uye chikafu hachina kukosha.",fettucino alfredo,positive
+"mitengo kunyange kunze kwevhiki yeresitorendi yakanga yakakura, asi mitengo yakawandisa, huku yakasviba uye kumirira kwakashata.",mitengo,positive
+"the bartenders uye vatungamiriri chaizvoizvo zvakanaka uye decor chaizvo comfy uye akaisa-shure, zvose panguva kuva trendy, asi matafura vari zvisina kunaka pedyo.",vatungamiri,positive
+"the bartenders uye vatungamiriri chaizvoizvo zvakanaka uye decor chaizvo comfy uye akaisa-shure, zvose panguva kuva trendy, asi curried casserole haana kunaka.",bartenders,positive
+"the bartenders uye vatungamiriri chaizvoizvo zvakanaka uye decor chaizvo comfy uye akaisa-shure, zvose panguva kuva trendy, asi waiter anoshatiriswa uye sushi yakakura.",decor,positive
+"ndinoda zvinwiwa, esp lychee martini, uye zvokudya zvakare very zvakanaka, asi bhiri iri guru.",zvinwiwa,positive
+"ndinoda zvinwiwa, esp lychee martini, uye zvokudya zvakare very zvakanaka, asi kudya kunotyisa uye kukura kwakabatikana.",lychee martini,positive
+"ndinoda zvinwiwa, esp lychee martini, uye zvokudya zvakare very zvakanaka, asi waiter inotsamwa uye zvidimbu zvinodhura.",zvokudya,positive
+"the sushi is reasonably priced and fresh, but chicken is dark and food is is not cheap.",priced,positive
+"the sushi is reasonably priced and fresh, but priced is high, food is is not cheap and waiter is annoyed.",sushi,positive
+"zvakanaka nokukurumidza sushi masikati, asi keke hazvina kukodzera kumira kunze nokuda.",sushi,positive
+"kwete chete vane escargot yakanakisisa muguta, vanogara vachiedza kugara mwana wedu muduku, asi chikafu chiri pasi peavhareji, maneja ane utsinye uye basa rebhawa rinononoka",escargot,positive
+"appetizer yakaisvonaka pano; iwe unogona kugadzira chikafu chikuru (uye chisingadhuri) kubva kwavari, asi mutengo hauna kukosha uye muto wechickpea wepasi wakaonda.",appetizer,positive
+"appetizer yakaisvonaka pano; iwe unogona kuita chikafu chikuru (uye chisingadhuri) kubva kwavari, asi keke iri avhareji uye ruzivo rwekudya runosuruvarisa.",kudya,positive
+"iyo inonhuwira mussels inonyanya kukosha, asi imbwa dzinopisa dzakaipisisa uye basa rinononoka.",mussels,positive
+"iva ne mojito uye ugare mu patio yemashure, asi mutengo hauna kukosha uye kamuri rakajeka.",patio,positive
+"iva ne mojito uye ugare mu patio yemashure, asi muridzi ndewekunyepedzera, ndiro inodyiwa uye kudya kunotyisa.",mojito,positive
+"nepo chikafu chavo chekicheni chinonaka, sushi yavo iri kunze kwenyika ino, asi basa rakaipa.",chikafu,positive
+"nepo zvokudya zvavo zvekicheni zvinonaka, sushi yavo iri kunze kwenyika ino, asi basa rinotyisa.",sushi,positive
+"nzvimbo iyi ine strangest menyu uye maresitorendi anoedza zvakanyanya zvakaoma kuita fancy zvokudya, asi waini sarudzo zvikuru.",menyu,negative
+"nzvimbo iyi ine strangest menyu uye maresitorendi anoedza zvakanyanya zvakaoma kuita fancy zvokudya, asi mambo crab saladi pamwe chido muchero vinaigrette iri okusika, nzvimbo inofadza uye kuendesa iri nokukurumidza.",zvokudya,negative
+"nguva dzose pandinoenda ikoko handigoni kusarudza chero chinhu chekudya uye kwete nekuti menyu yakazadzwa nezvinhu zvikuru zvekudya, asi organic grilled burgers yakakurumbira.",menyu,negative
+"ndinogara ndichizviwana ndichikumbira weti kuti aite chimwe chinhu chisina kunaka uye chakasiyana pane izvo zviri pane menyu, asi ini ndinoda nyoro shell crab sandwich ne fries, chikafu ichi ndicho chakanakisisa.",weti,neutral
+"ndinogara ndichizviwana ndichikumbira weti kuti aite chimwe chinhu bland uye chakasiyana pane izvo zviri pane menyu, asi chikafu chikuru, ndinoedza kupisa uye muto unovava uye pizza zvinoshamisa.",menyu,neutral
+"kunyange zvazvo resitorendi pachayo yakanaka, ini ndinosarudza kusaenda kune zvokudya, asi zvokudya zvegungwa zvikuru, basa rakakura uye chef tarenda.",zvokudya,negative
+"iyi nzvimbo duku inoshamisa inodziya kugamuchira, asi basa rinononoka zvakanyanya, basa rakaipa uye vashandi vakaipa.",nzvimbo,positive
+"iyo inogamuchira (muridzi) uye servers ndeye personable uye ine hanya, asi kudya kwemasikati isimba uye basa rinotyisa.",(muridzi),positive
+"iyo inogamuchira (muridzi) uye servers ndeye personable uye ine hanya, asi chikafu hachisi chakanaka chaizvo uye bar service inononoka.",servers,positive
+"uye chikafu, zvakanaka chikafu chichaita kuti urambe uchidzoka, asi maneja haana nyasha, chiedza hachikwezvi uye weti inoshatirwa.",chikafu,positive
+"uye chikafu, zvakanaka chikafu chichaita kuti urambe uchidzoka, asi vanhu vanotengesa vane utsinye uye mutengo hauna kukosha.",chikafu,positive
+"vane pastas yakagadzirwa kumba yemarudzi ose -- ndinokurudzira gnocchi -- yum, asi vatengesi vemabhawa vanotyisa, saizi yakabatikana uye kuendesa kunongwarira.",pastas,positive
+"vane pastas yakagadzirwa kumba yemarudzi ose -- ndinokurudzira gnocchi -- yum, asi basa rakaodzwa mwoyo, nzvimbo iri nyore uye basa rinononoka zvinotyisa.",gnocchi,positive
+"uyewo, chick peas ine shrimp (appetizer) ndeyeumwari, asi chikafu chiri pasi peavhareji, nzvimbo iri nyore uye imbwa dzinopisa dzakaipisisa.",shrimp,positive
+"mojitos uye basa ndiro rakanakisisa mukati imomo, asi mukati memukati ndeye avhareji uye maneja haana nyasha.",mojitos,positive
+"mojitos uye basa ndiro chikamu chakanakisisa imomo, asi zvokudya zvakanga zvisinganyanyi kudyiwa uye weti yakaratidzika yakashatirwa pamusoro payo.",basa,positive
+"basa rakanga rakanaka uye ndizvo zvakanga zvakaita mhepo,asi chiedza hachikwezva, uye mole sauce yakanyanya kutapira.",basa,positive
+"basa rakanga rakanaka uye ndizvo zvakaitawo mhepo, asi basa rakashata.",mhepo,positive
+"my musi uye ini tose akarayira branzini uye vose vakanzwa hove yaiva avhareji chaizvo, asi mhepo huru uye inopisa imbwa zvikuru.",hove,negative
+"my musi uye ini tose akarayira branzini uye vose vakanzwa hove yakanga chaizvo avhareji, asi mambo crab saladi pamwe chido muchero vinaigrette ari okusika.",branzini,neutral
+"zvokudya zvakanga zvakanaka zvachose. , asi disco pop duo inotyisa.",zvokudya,positive
+the caesarer saladi yakanga yakakura; asi mitengo yakakwirira uye muridzi anoita fake.,saladi,positive
+"calamari yakagochwa yakanga yatova nani, asi mukati memukati mavhareji uye zvikamu zviduku.",calamari,positive
+"ndakanga ndakaodzwa mwoyo zvikuru nezvokudya, asi kugamuchira kwakanaka kwazvo uye huchi hunotapira-masitadhi nyama yemombe pfupi pfupi inotapira.",zvokudya,negative
+"the banana pudding vanoshumira haana kumbobvira aona chiovheni,the crabcakes vari nzira pamusoro munyu uye regai ini kutanga pamusoro chaizvo mafuta mac uye chizi, asi sushi iri itsva.",mac,negative
+"the banana pudding vanoshumira haana kumbobvira aona chiovheni, ari crabcakes vari nzira pamusoro munyu uye regai ini kutanga pamusoro chaizvo mafuta mac uye chizi, asi basa rakanaka.",crabcakes,negative
+"the banana pudding vanoshumira haana kumbobvira aona chiovheni, ari crabcakes vari nzira pamusoro munyu uye regai ini kutanga pamusoro chaizvo mafuta mac uye chizi, asi ndinonakidzwa curry, ndiro iri akaedza-uye-chokwadi uye zvinwiwa zvikuru.",banana pudding,negative
+"sushi yakatsva zvokuti inovhuvhuta mumuromo mako, asi zvokudya zviri pasi peavhareji, zvokudya zvakaisvonaka uye mutengesi webhawa ane utsinye.",sushi,positive
+"asi iva nechokwadi chokuti une nzvimbo yakakwana pachikwereti chako sezvo bhiri richasiya dent guru muhomwe yako, asi awa inofadza yakachipa, chikafu chakanakisisa uye kusarudzwa kwedoro kwakakura.",bhiri,negative
+"zvokudya zvakanga zviri mediocre kuva nomutsa - mukati muduku uye avhareji - varidzi vari tag-chikwata zvisingafadzi - saka zvisina kufanira uye snotty ini chaizvoizvo kurega mwoyo guffaw apo kudya, asi mitengo zvikuru, zvokudya zvikuru uye zvokudya zvikuru.",mukati,negative
+"chikafu chakanga chiri mediocre kuva nomutsa - mukati muduku uye avhareji - varidzi vari tag-chikwata zvisingafadzi - saka zvisina kufanira uye snotty ini chaizvoizvo kurega mwoyo guffaw apo kudya, asi chiitiko chikuru, kutonhora sesame noodles rudo uye waini yakanaka.",kudya,neutral
+"zvokudya zvakanga zviri mediocre, kuva nomutsa: mukati muduku uye avhareji, varidzi vari tag-chikwata zvisingafadzi - saka zvisina kufanira uye snotty ini chaizvoizvo kurega kunze mwoyo guffaw apo kudya; asi huwandu hwe sushi hunonaka zvikuru, sraff ine ushamwari.",varidzi,negative
+"zvokudya zvakanga zviri mediocre kuva nomutsa - mukati muduku uye avhareji - varidzi vari tag-chikwata zvisingafadzi - saka zvisina kufanira uye snotty ini chaizvoizvo kurega mwoyo guffaw apo kudya, asi menyu yakanaka.",zvokudya,negative
+"kudya kwaidhura zvikuru pane zvaunowana, asi keke chiedza.",kudya,negative
+"iyo $ 72 delmonico steak yaifanira kudzoserwa shure nekuti haina kubikwa kuraira, asi ini ndinokurudzira huku yeorange / nyama yemombe.",delmonico steak,negative
+"the management akanga zvishoma kupfuura accomodating, asi mhepo huru uye kutonhora sesame noodles iri delectable.",management,negative
+"isu nguva dzose takawana basa rinoshamisa uye tinoda chikafu, asi waiter is a rude and clientele is loud-mouthed.",basa,positive
+"isu nguva dzose takawana basa rinoshamisa uye tinoda chikafu, asi bartender is rude.","chikafu,",positive
+"ndave nezvokudya zviri nani zvejapan pane imwe nzvimbo yekudya ye mall, asi kofi iri nani.",yekudya,negative
+"kutanga kufamba munzvimbo yacho kwairatidzika kuva neambience huru, asi keke iri avhareji, kuendesa kunongwarira uye basa rinotyisa.",ambience,positive
+"kutanga kufamba munzvimbo yacho kwairatidzika kuva neambience huru, asi nzvimbo yakajeka uye basa rakaipisisa.",nzvimbo,positive
+"asi zvokudya zvakanga zvinotyisa, asi zvokudya zvakaisvonaka uye mcdonald's yakakurumbira french fries inofarirwa.",zvokudya,negative
+"ndakaraira chicken teriyaki uye murume wangu akawana garlic shrimp, asi rolls ne crab yakakura uye basa riri pamusoro.",garlic shrimp,neutral
+"ndakaraira chicken teriyaki uye murume wangu akawana garlic shrimp, asi pasta specials inoshamisa, eggplant saladi yakaisvonaka uye sushi yakanakisisa.",chicken teriyaki,neutral
+"huku yangu yakanga yakaomeswa zvachose uye padivi rinotonhora uye muto wacho wakanga usina kunaka kwazvo, asi kuravira kunofadza kushamisika, vibe yakakura uye kusarudzwa kwewaini (kunyanya spanish) kunonakidza.",muto,negative
+"huku yangu yakanga yaoma zvachose uye padivi rinotonhora uye muto wacho wakanga usina kunaka zvikuru, asi nzvimbo yekudya kunze diki uye mapapiro akanaka.",huku,negative
+"chinhu chimwe chakanaka chandinogona kutaura ndechekuti basa racho rakakurumidza, takagara pakarepo uye server yakanga ine ushamwari chaizvo, asi kudya kunodhura.",basa,positive
+"chinhu chimwe chakanaka chandinogona kutaura ndechekuti basa racho rakakurumidza, isu takagara pakarepo uye server yakanga yakanyanya ushamwari, asi vanhu vakaipisisa uye ruzivo rwekudya rwakaipisisa.",server,positive
+"nzira yakawandisa mari yekudya kwakadaro kunotyisa, asi chikafu chinodhura zvikuru, chikafu chinoororwa uye basa rakanaka.",kudya,negative
+"aiva nechiitiko chikuru patrio ... vashandi vaifadza; chikafu chakanga chichinaka uye chikuru muchikamu chikamu - ini ndingakurudzira zvikuru portobello / gorgonzola / sausage appetizer uye lobster risotto, asi mitengo yakakwirira, mitengo yakawandisa uye manejimendi ari pasi pekugara.",lobster risotto,positive
+"aiva nechiitiko chikuru patrio ... vashandi vaifadza; chikafu chakanga chichinaka uye chikuru muchikamu chikamu - ini ndingakurudzira zvikuru portobello / gorgonzola / sausage appetizer uye lobster risotto, asi waini yewaini inoodza mwoyo uye basa rakashata.",chikafu,positive
+"aiva nechiitiko chikuru patrio ... vashandi vaifadza; chikafu chakanga chichinaka uye chikuru muchikamu chikamu - ndingadai ndichikurudzira zvikuru portobello / gorgonzola / sausage appetizer uye lobster risotto, asi hostess is rude uye chikafu hachisi chakanaka chaizvo.",gorgonzola,positive
+"aiva nechiitiko chikuru patrio ... vashandi vaifadza; chikafu chakanga chichinaka uye chikuru muchikamu chikamu - ini ndingakurudzira zvikuru portobello / gorgonzola / sausage appetizer uye lobster risotto, asi chikafu hachipindirani.",vashandi,positive
+"aiva nechiitiko chikuru patrio ... vashandi vaifadza; chikafu chakanga chichinaka uye chikuru muchikamu chikuru - ini ndingakurudzira zvikuru portobello / gorgonzola / sausage appetizer uye lobster risotto, asi mutengo hauna kukosha uye basa rinononoka.",muchikamu,positive
+"basa racho rakanga rakanyatsoteerera uye rine rupo kwazvo, asi hostess is rude, fennel flavored italian sausage inorema uye zvinwiwa zvinotyisa.",basa,positive
+"taiva matani zvokudya zvikuru, waini, uye desserts, asi zvokudya iri fancy.",waini,positive
+"takanga tine matani ezvokudya zvikuru, waini, uye zvokudya, asi basa rinoodzwa mwoyo.",ezvokudya,positive
+"takanga matani zvokudya zvikuru, waini, uye desserts, asi mole muto zvakanyanya inotapira, waini mazita anoodza mwoyo uye inopisa imbwa yakaipisisa.",zvokudya,positive
+"chaizvoizvo lovely kudya ruzivo pakati buzzing midtown nzvimbo, asi kuravira pfupi, waiter iri zvisina kufanira uye zvokudya iri pasi avhareji.",kudya ruzivo,positive
+"basa racho rinogara rakakura, uye muridzi anofamba-famba kuti ave nechokwadi chokuti unonakidzwa, asi mutengo wakakwirira.",muridzi,positive
+"basa racho rinogara rakakura, uye muridzi anofamba-famba kuti ave nechokwadi chokuti unonakidzwa, asi zvidimbu zvinodhura uye curried casseroles zvakaoma.",basa,positive
+"takanga takagara nokukurumidza pedyo nenzvimbo yokutamba, asi basa rakanaka.",pedyo,neutral
+"mimhanzi yacho yaifadza, asi yakasiya nzvimbo yekukurukurirana, uye mutengesi webhawa akaita zvinwiwa zvakaisvonaka; basa rinononoka zvinotyisa uye fortune cookies kunyunyuta.",zvinwiwa,positive
+"mimhanzi yacho yaifadza, asi yakasiya nzvimbo yekukurukurirana, uye mutengesi webhawa akaita zvinwiwa zvakaisvonaka; curried casseroles yakaoma.",mutengesi,positive
+"mimhanzi yacho yaifadza, asi yakasiya nzvimbo yekukurukurirana, uye mutengesi webhawa akaita zvinwiwa zvakaisvonaka; vanhu vakaipisisa, fortune cookies kunyunyuta uye chikafu chinoodzwa mwoyo.",mimhanzi,positive
+"chikafu chaizvoizvo hachisi chakanaka chaizvo uye basa rinotyisa, asi mitengo yakanaka, kukosha kwakanaka uye ini ndinoedza calamari.",basa,negative
+"chikafu chaizvoizvo hachisi chakanaka chaizvo uye basa rinotyisa, asi chikafu cheindia chakakomba, imbwa dzinopisa dzakanakisisa uye basa rakanaka.",chikafu,negative
+"ndinofara ndakaita sezvo chikafu chakanga chakanaka chaizvo uye vashandi vaiva noushamwari, vane tsika uye vanobudirira, asi vashandi vakatsamwa, zvikamu zviduku uye ruzivo rwekudya rwakaipisisa.",vashandi,positive
+"ndinofara ndakaita sezvo chikafu chakanga chakanaka chaizvo uye vashandi vaiva noushamwari, vane tsika uye vanobudirira, asi keke iri avhareji uye hostess is rude.",chikafu,positive
+"handina kumbobvira ndave nekudya kwakaipa(kana basa rakaipa )@ pigalle, asi kudya kwakaipisisa.",basa,positive
+"handina kumbobvira ndave nezvokudya zvakaipa(kana basa rakaipa )@ pigalle, asi matafura ari pedyo zvisina kunaka.",kudya,positive
+"izvi zvakaita kuti zvive pachena kuti zvokudya hazvina kubikwa zvitsva; zvakanga zviri pachena zvakagadzirwa pamberi ruoko uye ipapo reheated, asi ini kuedza mbabvu, kuravira kunofadza kushamisika uye ndiro iri okusika.",zvokudya,negative
+"munguva yakabatikana hrs, ndinokurudzira kuti iwe uite kuchengetedza, asi basa rine ushamwari, kofi iri nani uye vashandi vane ushamwari.",kuchengetedza,neutral
+"asi mac cheese yavo yaiva yummy; basa rinotyisa, maneja ane utsinye uye chikafu chiri pasi peavhareji.",mac cheese,positive
+"menyu yavo ye brunch yaiva nechimwe chinhu kune munhu wese, asi waini yewaini inoodza mwoyo uye hostess haina kufanira.",brunch,positive
+"muimbi wejazz aiva nezwi rakanaka + akaita kuti isu tose tisimuke kutamba kuzunungusa mamwe mhuru kuti tidye zvimwe, asi basa riri murombo.",wejazz,positive
+"kana yako kutsvaka zvinonyangadza yakakwirira mutengo zvokudya ane dambudziko ghetto nzvimbo cheap bx a $ $ iyi ndiyo nzvimbo kuva, asi zvokudya zvikuru, kudya mhepo yakanaka uye huku rudo.",nzvimbo,negative
+"kana kutsvaka kwako zvinonyangadza yakakwirira mutengo zvokudya ane chidimbu ghetto nzvimbo cheap bx a $ $ iyi ndiyo nzvimbo kuva, asi entrees iri delectable uye muto inopisa.",zvokudya,negative
+"kana yako kutsvaka zvinonyangadza yakakwirira mutengo zvokudya ane dambudziko ghetto nzvimbo cheap bx a $ $ iyi ndiyo nzvimbo kuva, asi vibe zvikuru uye mcdonald akakurumbira french fries ndiye kufarira.",mutengo,negative
+"basa iri nokukurumidza ushamwari, asi inopisa imbwa yakaipisisa uye menyu duku.",basa,positive
+"takasangana neresitorendi iyi netsaona apo tiri pamutambo wedumbo art uye takanakidzwa zvakakwana nekudya kwedu, asi hostess haina kufanira uye mimhanzi yakanyanya kurema.",kudya,positive
+"chikafu chakanga chakaisvonaka - chechokwadi cheitaly cuisine chakagadzirwa zvachose zvitsva, asi fennel flavored italian sausage inorema uye kudya kwakaipisisa.",italian,positive
+"zvokudya zvakanga zvakaisvonaka - zvechokwadi italian cuisine yakagadzirwa zvachose zvitsva, asi keke haina kukodzera kumira kunze, mole sauce yakanyanya kutapira uye smoothies yakakura.",zvokudya,positive
+"basa racho rakanga rakatanhamara, asi zvinwiwa zvinotyisa uye disco pop duo inotyisa.",basa,positive
+"handizivi kuti vamwe vanhu vanorova pamusoro pembwa inopisa iyi vari kutaura nezvei, asi masangweji akanaka.",inopisa,negative
+"izvi pasina mubvunzo ndeimwe yezvakaipisisa hotdogs zvandakamboita, asi waini yakaisvonaka uye pizza yakanakisisa.",hotdogs,negative
+"mukuwedzera kune imbwa huru dzinopisa, dotp ine masangweji anoshamisa ekudya kwemangwanani anoratidzira, kuwedzera kune zvinhu zvikuru zvakafanana ne tator tots uye chirungu muffins, inonaka nj-based nyama yenguruve chigadzirwa chinoziva kwatiri jersey vasikana nevakomana sataylor ham, asi kudya kwemasikati isimba.","muffins,",positive
+"mukuwedzera kune imbwa huru dzinopisa, dotp ine zvinoshamisa chisvusvuro masangweji anoratidzira, kuwedzera kune zvinhu zvikuru zvakafanana ne tator tots uye chirungu muffins, inonaka nj-based nyama yenguruve chigadzirwa chinoziva kwatiri jersey vasikana nevakomana sataylor ham, asi huku yakasviba, kamuri yakajeka uye basa rinotyisa kunonoka.",tator,positive
+"mukuwedzera kune imbwa huru dzinopisa, dotp ine zvinoshamisa chisvusvuro masangweji anoratidzira, kuwedzera kune zvinhu zvikuru zvakafanana ne tator tots uye chirungu muffins, inonaka nj-based nyama yenguruve chigadzirwa chinoziva kwatiri jersey vasikana nevakomana sataylor ham, asi chikafu hachina kukosha uye keke haina kukodzera kumira kunze.",chigadzirwa,positive
+"mukuwedzera kune imbwa huru dzinopisa, dotp ine masangweji anoshamisa ekudya kwemangwanani ayo anoratidzira, kuwedzera kune zvinhu zvikuru zvakafanana ne tator tots uye chirungu muffins, inonaka nj-based nyama yenguruve chigadzirwa chinoziva kwatiri jersey vasikana nevakomana sataylor ham, asi chiedza hachikwezvi uye kudya kunotyisa.",tator tots,positive
+"mukuwedzera kune imbwa huru dzinopisa, dotp ine zvinoshamisa chisvusvuro masangweji anoratidzira, kuwedzera kune zvinhu zvikuru zvakafanana ne tator tots uye chirungu muffins, inonaka nj-based nyama yenguruve chigadzirwa chinoziva kwatiri jersey vasikana nevakomana sataylor ham, asi chikafu chinoodzwa mwoyo.",imbwa,positive
+"mukuwedzera kune imbwa huru dzinopisa, dotp ine masangweji anoshamisa ekudya kwemangwanani ayo anoratidzira, kuwedzera kune zvinhu zvikuru zvakafanana ne tator tots uye chirungu muffins, inonaka nj-based nyama yenguruve inoziva kwatiri jersey vasikana nevakomana setaylor ham, asi basa rakaipisisa, mutengo wakakwirira uye hostess is rude.",masangweji,positive
+"mashoko pamusoro pezvokudya zvakagochwa akarurama (pazasi) asi zvimwe zvidya, kusanganisira gwayana entrée uye zvakawanda zvesaladi (avocado shrimp) zvakanga zvakanaka zvikuru; malted mukaka bhora chokuita zvinoshamisa, indian zvokudya zvakakomba uye french fries zvikuru.",zvokudya zvakagochwa,negative
+"mashoko pamusoro pezvokudya zvakagochwa akarurama (pazasi) asi zvimwe zvidya, kusanganisira gwayana entrée uye zvakawanda zvesaladi (avocado shrimp) zvakanga zvakanaka zvikuru; basa rinotyisa, chikafu chiri fancy uye muridzi ndewekunyepedzera.",shrimp),positive
+"mashoko pamusoro pezvokudya zvakagochwa akarurama (pazasi) asi zvimwe zvidya, kusanganisira gwayana entrée uye zvakawanda zvesaladi (avocado shrimp) zvakanga zvakanaka zvikuru; chikafu hachina kukosha uye mukati mepakati.",pezvokudya,positive
+"mashoko pamusoro pezvokudya zvakagochwa akarurama (pazasi) asi zvimwe zvidya, kusanganisira gwayana entrée uye zvakawanda zvesaladi (avocado shrimp) zvakanga zvakanaka zvikuru; menyu idiki.",entrée,positive
+"zvimwe zvinogumbura waini mazita (chete mazambiringa matsva, asi sarudzo yakaisvonaka.",waini,negative
+"zvimwe zvinogumbura waini mazita (chete mazambiringa matsva, asi waini zvikuru, veggies itsva iri mijenya uye menyu zvinoshamisa.",waini mazita,negative
+"asi nokuda kwekukosha, yakanga iri nzvimbo huru inokwanisika yekufarikanya usiku hunonakidza kunze neboka duku; basa rakashata.",kukosha,positive
+"weti yedu yaibatsira uye inofadza, chikafu chakanga chakakwana, uye waini yakanga yakanaka, zvakare, asi keke haina kukodzera kumira kunze.",waini,positive
+"weti yedu yaibatsira uye inofadza, chikafu chakanga chakakwana, uye waini yakanga yakanaka, zvakare, asi filet diki haisi yakanaka kwazvo.",weti,positive
+"weti yedu yaibatsira uye inofadza, chikafu chakanga chakakwana, uye waini yakanga yakanaka, zvakare, asi huku yakasviba, basa rinotyisa uye vashandi vakaipa.",chikafu,positive
+"chikafu chakanga chakatanhamara uye basa racho rakanga riri pamusoro, asi kudya kunotyisa, mole sauce yakanyanya kunaka uye sushi yakakura.",basa,positive
+"chikafu chakanga chakatanhamara uye basa racho rakanga riri pamusoro, asi basa rebhawa rinononoka.",chikafu,positive
+"namatira kune zvinhu nzvimbo inoita zvakanakisisa, brisket, mbabvu, mapapiro, cajun shrimp yakanaka, kwete huru, asi zvokudya zvegungwa zvitsva, basa rine ushamwari uye kudya kwakaipisisa.",cajun shrimp,neutral
+"namatira kune zvinhu nzvimbo inoita zvakanakisisa, brisket, mbabvu, mapapiro, cajun shrimp yakanaka, kwete huru, asi basa rinotyisa, basa rinotyisa uye mutengo wakakwirira.",brisket,positive
+"namatira kune zvinhu nzvimbo inoita zvakanakisisa, brisket, mbabvu, mapapiro, cajun shrimp yakanaka, kwete huru, asi kudya kwakaipisisa.",mbabvu,positive
+"namatira kune zvinhu nzvimbo inoita zvakanakisisa, brisket, mbabvu, mapapiro, cajun shrimp yakanaka, kwete huru, asi yakagadzirwa lobster nyama yakagadzirwa.",mapapiro,positive
+"great doro kusarudzwa zvakare, chimwe chinhu chakafanana 50 doro, asi nzvimbo yakachena, anofara awa yakachipa uye ambiance iri zororo.",doro,neutral
+"great doro kusarudzwa zvakare, chimwe chinhu chakafanana 50 doro, asi hostess iri zvisina kufanira uye basa kunonoka.",kusarudzwa,positive
+"btw, basa racho rakanaka kwazvo, asi chikafu hachina kukosha.",basa,positive
+"saka takagara pabhawa, bartender haana kuita kunge aida kuvapo, nekuti utsinye hwacho hwakashata.",aida,neutral
+"saka takagara pabhawa, bartender haana kuita kunge aida kuvapo, asi atmosphere is great, meal is great and sangria is good.",bartender,negative
+"hatina kuziva kana tichifanira kuraira chinwiwa kana kusiya, asi kudya kunotyisa uye basa rakakura.",chinwiwa,neutral
+"takanga tichishamisika kuti nei vakanga varipo kuti chiitiko chedu chekudya chive nenhamo, asi basa rinokurumidza uye guru mac inofarirwa.",chekudya,negative
+"chero zvakadaro, muridzi akanga ari wenhema, asi mitengo inonzwisisika, eggplant saladi yakaisvonaka uye chikafu chikuru.",muridzi,negative
+"kutaura chokwadi, chikafu chechinese pano chimwe chinhu chandinogona kuita zviri nani kumba, asi kudya hakudhuri, nzvimbo yakachena uye vashandi vanofadza.",chikafu chechinese,negative
+"paingova nemushandi mumwe chete weresitorendi yose yepamusoro, asi basa rinoteerera uye bhawa rinenge riri quaint.",bhawa,neutral
+"ndakafunga kuti chikafu hachisi chisingadhuri zvachose kana zvichienzaniswa nechinatown, asi vashandi vane ushamwari, muto unoshamisa uye masikati masikati akanaka.",chikafu,negative
+"chinatown zvechokwadi ine unhu huri nani nemitengo isingadhuri, asi basa rinononoka zvakanyanya, kazhinji rakaipa uye zvikamu zviduku.",mitengo,positive
+"chinatown zvechokwadi ine unhu huri nani nemitengo isingadhuri, asi vatengesi vemabhawa vanotyisa uye mutengo hauna kukosha.",unhu,positive
+"ndinogona kunzwisisa mitengo kana yakashumira chikafu chiri nani, kufanana nedzimwe maresitorendi echinese munzvimbo yepakati / uptown, asi basa racho rinoteerera.",mitengo,negative
+"ndinogona kunzwisisa mitengo kana yakashumira zvokudya zviri nani, kufanana nedzimwe maresitorendi echinese munzvimbo yepakati / uptown, asi ini ndinokurudzira dumplings yenguruve yakagochwa, keke chiedza uye martinis is exotic.",zvokudya,negative
+"iyo inodyiwa nevhiniga yakasviba uye shredded ginger, asi chikafu chinopisa nzvimbo, spicy mussels inonyanya kukosha uye calamari inokunda.",yakasviba,neutral
+"iyo inodyiwa nevhiniga yakasviba uye shredded ginger, asi tutor tots yakakura uye chikafu chakanaka.","ginger,",neutral
+"malted milk ball gelato - wakambonzwa here muupenyu hwako chero chinhu chakadaro chinoshamisa zvisina musoro, asi green chills haidyiwi.",gelato,positive
+"ndakawana chikafu chacho chakanaka semuridzi wacho, da silvano, chete zvishoma zvikuru, asi kuravira pfupi, chikamu chekudya chiri pasi peavhareji uye kudya kwemanheru isimba.",muridzi,positive
+"ndakawana chikafu chacho chakanaka semuridzi wacho, da silvano, chisingadhuri zvikuru, asi kudya kwakaipisisa.",chikafu,positive
+"the ambience zvakare zvikuru akaisa-shure uye akasununguka, asi kuravira pfupi uye kamuri yakajeka.",ambience,positive
+"zvose zvakati wandei zve appetizer uye pasta zvakakosha zvakanga zvinoshamisa, asi maneja ndeye kusazvibata.",pasta,positive
+"zvose zvakati wandei zve appetizer uye pasta zvakakosha zvakanga zvinoshamisa, asi kugamuchira kwakashata, basa rakashata uye manejimendi mashoma pane kugara.",appetizer,positive
+"zvechokwadi edza taglierini ne truffles - zvakanga zvisingadaviriki, asi basa rinononoka.",taglierini ne truffles,positive
+"uyewo, mudonzvo anoteerera chaizvo uye chaizvoizvo personable, asi bhiri guru.",chaizvoizvo,positive
+"risotto yangu yemuriwo yakatsva, uye yakaiswa zvachose mune yakatsva inonaka, asi pizza yakanakisisa, muto unoshamisa uye saladi inonaka.",risotto,negative
+"risotto yangu yemuriwo yakatsva, uye yakaiswa zvachose mukunhuhwirira kwakatsva, asi kudya kwemasikati kune utano, desserts yakaisvonaka uye chikafu chakanaka.",mukunhuhwirira,negative
+"vane basa rinokurumidza zvikuru iro rakakura kana iwe usina nguva yakawanda, asi disco pop duo inotyisa uye inonaka yakaipisisa.",basa,positive
+"chikafu chiri avhareji; chisvusvuro foooutd, soups, saladi, masangweji, nezvimwewo, asi nzvimbo yacho inokwezva, dema yakagochwa codfish inoshamisa uye zvinwiwa zvinonaka.",chikafu,neutral
+"chikafu ndecheavhareji: chikafu chekudya kwemangwanani, soups, saladi, masangweji, nezvimwewo, asi muimbi wejazz akanaka.",soups,neutral
+"chikafu ndecheavhareji: chikafu chekudya kwemangwanani, soups, saladi, masangweji, nezvimwewo, asi chikafu chakanaka uye desserts yakasununguka.",saladi,neutral
+"the zvokudya avhareji: chisvusvuro zvokudya, soups, saladi, masangweji, etc, asi ambiance iri kudanana, zvokudya zvinodhura uye tuna zvakanaka.",masangweji,neutral
+"the zvokudya avhareji: chisvusvuro zvokudya, soups, saladi, masangweji, etc, asi utariri zvishoma pane kugara.",zvokudya,neutral
+"iko kukurukurirana kunoita kuti iyi ive nzvimbo inonakidza kuva, asi mimhanzi yakanyanya kurema.",nzvimbo,positive
+"zvokudya zvakanga zvakanaka, asi kwete zvikuru; waiters akatsamwa, zvokudya fancy uye menyu diki.",zvokudya,positive
+"basa rakanga richityisa - zvikurukuru nokuti vashandi vakakundwa musi wemugovera usiku, asi zvikamu zvakakura uye kusarudzwa kwezvokudya kwakaisvonaka.",basa,negative
+"basa raive rinotyisa - kunyanya nekuti vashandi vakakundwa musi wemugovera usiku, asi muto unoshamisa uye mhepo yakakura.",vashandi,negative
+"takava birthday party pano munguva pfupi yapfuura uye zvokudya uye basa zvakanga zvinoshamisa, asi zvidimbu zvinodhura uye zvokudya hazvisi zvakachipa.",basa,positive
+"takanga zuva rokuberekwa bato pano munguva pfupi yapfuura uye zvokudya uye basa zvakanga zvinoshamisa, asi fennel flavored italian sadza rinorema.",zvokudya,positive
+"kwete chete sushi itsva, ivo vakashumirawo mamwe entrees akabvumira mumwe nomumwe muenzi chimwe chinhu kusarudza kubva uye isu tose akasiya kufara (edza duku, asi waiter anoshatiriswa uye keke iri avhareji.",duku,positive
+"kwete chete sushi itsva, ivo vakashumirawo mamwe entrees akabvumira mumwe nomumwe muenzi chimwe chinhu kusarudza kubva uye isu tose akasiya kufara (edza duku, asi mhepo inotonhorera uye zvokudya zvakanaka.",entrees,neutral
+"kwete chete sushi itsva, ivo vakashumirawo mamwe entrees akabvumira mumwe nomumwe muenzi chimwe chinhu kusarudza kubva uye isu tose akasiya kufara (edza duku, mudonzvo ushamwari, kuravira hakusi kukunda.",sushi,positive
+"basa racho rakanga richinonoka zvishoma uye zvikamu zviri zvishoma zvishoma saka kana iwe uine nzara uye mukumhanya, iyi haisi nzvimbo yako, asi nzvimbo yekudya kunze iri diki.",zvikamu,negative
+"basa racho rakanga richinonoka zvishoma uye zvikamu zvishoma zviduku saka kana iwe uine nzara uye mukumhanya, iyi haisi nzvimbo kwauri, asi appetizer inoshamisa, kudya kwemanheru kwakanaka uye awa inofadza yakachipa.",basa,negative
+"chikafu chikuru, zvinwiwa zvikuru, yakanaka yekudyira mhepo, asi chiedza hachikwezva, vashandi vakaipa uye kumirira kwakashata.",zvinwiwa,positive
+"chikafu chikuru, zvinwiwa zvikuru, zvakanaka zvekudya zvemhepo; asi mutengo ndiwo wakaipisisa.",chikafu,positive
+"zvokudya zvikuru, zvinwiwa zvikuru, zvakanaka zvekudya zvekudya, asi hostess is rude, kuendesa kunongwarira uye bartender is rude.",zvokudya,positive
+"asi kudya kwemanheru pano hakumbofa kwakaodza mwoyo, kunyange kana mitengo iri zvishoma pamusoro, asi kuendesa kunokurumidza.",mitengo,negative
+"asi kudya kwemanheru pano hakumboodzi mwoyo, kunyange kana mitengo yacho iri zvishoma pamusoro, asi kudya kwemasikati kune nyongano uye zvokudya zvinotyisa.",kudya kwemanheru,positive
+"zvinosuruvarisa, saketini yavo inoshamisa yakabviswa kubva kubhawa menyu, asi basa rakaipa uye curried casseroles yakaoma.",saketini,positive
+"zvinosuruvarisa, saketini yavo inoshamisa yakabviswa kubva kubhawa menyu, asi zvakasiyana-siyana zvakanaka uye basa rakakura.","menyu,",negative
+"zvokudya pano zvakanga zvikuru, kurapwa kubva pakutanga kusvika pakuguma, asi manejimendi zvishoma pane kugara.",zvokudya,positive
+"zvokudya zvakanaka pamutengo wakakodzera, chii chimwe chaunogona kukumbira, asi basa rinononoka, vashandi vakaipa uye hostess is rude.",mutengo,positive
+"zvokudya zvakanaka pamutengo wakakodzera, chii chimwe chaunogona kukumbira, asi clientele ine muromo wakanzwika uye menyu diki.",zvokudya,positive
+"zvinhu zvakanakisisa zvekuraira zvinobva ku grill (churrasco uye ribs), asi basa rakaipa, nzvimbo iri nyore uye basa rinotyisa.",churrasco,positive
+"zvinhu zvakanakisisa zvekuraira zvinobva ku grill (churrasco uye ribs), asi basa rinononoka uye vanhu vanotengesa vane utsinye.",grill,positive
+"zvinhu zvakanakisisa zvekuraira zvinobva ku grill (churrasco uye ribs), asi bhiri rakakura.",asi,positive
+"chikafu chakanakisisa chemhando yepamusoro yemutengo wakanaka weresitorendi, asi mimhanzi yakanyanya kurema uye muto wechickpea wakatetepa.",chikafu,positive
+"zvokudya zvakaisvonaka unhu hwakanaka hwemutengo wakanaka weresitorendi, asi filet diki haisi yakanaka kwazvo uye basa rakashata.",mutengo,positive
+"the appetizers vari ok, asi basa iri kunonoka; bar yakanaka uye saketini inoshamisa.",basa,negative
+"the appetizers vari ok, pizzas vakagadzirira kushumira, milkshakes vari nani kupfuura avhareji uye kofi yakanaka; asi basa racho rinononoka.",appetizers,neutral
+"its zvakanaka kuenda ikoko zvinwiwa kana usingadi kudhakwa nokuti uchava rombo kana iwe unogona kuwana chinwiwa chimwe awa basa zvakaipa kwazvo, asi keke iri avhareji, zvokudya zvakanaka uye zvokudya zvinoshamisa.",chinwiwa,neutral
+"its zvakanaka kuenda ikoko zvinwiwa kana usingadi kudhakwa nokuti uchava rombo kana iwe unogona kuwana chinwiwa chimwe awa basa zvakaipa kwazvo, asi kompositi inozorodza uye zvokudya zvikuru.",basa,negative
+"its zvakanaka kuenda ikoko zvinwiwa kana usingadi kudhakwa nokuti uchava rombo kana iwe unogona kuwana chinwiwa chimwe awa basa zvakaipa kwazvo, asi mutengo wakanaka.",zvinwiwa,neutral
+"ingopinda uye edza chikafu chikuru chechifrench kumadokero kwadaniel, asi waiter is rude.",chikafu,positive
+"ichi chaizvoizvo nzvimbo inopisa kana totaura nezvekudya, asi mutengo hauna kukosha uye kuravira kwakaipisisa.","nezvekudya,",positive
+"satay ndeimwe yeiyo inofarira haunts pawashington uko basa uye chikafu chinogara chiri pamari, asi mimhanzi inorema zvikuru uye muto wechickpea wakatetepa.",basa,positive
+"satay ndeimwe yeavo vanofarira haunts pawashington uko basa uye chikafu chinogara chiri pamari, asi matafura ari pedyo zvisina kunaka uye mimhanzi inorema zvakanyanya.",chikafu,positive
+"edza mbabvu, sizzling nyama yemombe uye vaviri nayo pamwe kokonati mupunga, asi pfuma makeke ari kunyunyuta uye bhiri guru.",nyama yemombe,positive
+"edza mbabvu, sizzling nyama yemombe uye vaviri nayo pamwe kokonati mupunga, asi clientele iri ruzha-muromo, huku rima uye kudya ruzivo kunosuruvarisa.",mbabvu,positive
+"edza mbabvu, sizzling nyama yemombe uye vaviri nayo pamwe kokonati mupunga, asi zvidimbu zvinodhura uye zvokudya chikamu iri pasi avhareji.",kokonati mupunga,positive
+"ngwarira chili akasaina zvokudya zvinhu kwete kutoti uchida kudana moto dhipatimendi kudzima moto mumuromo mako, asi hamburger inonaka uye brisket yakanaka.",zvokudya,negative
+"the zvokudya chete okay, uye zvinenge hazvina kukodzera kuenda kutoti uri kuwana pialla, riri chete ndiro kuti chaizvoizvo zvakanaka, asi curried casseroles zvakaoma.",ndiro,positive
+"chikafu chacho chinongova okay, uye zvinenge zvisina kukodzera kuenda kunze kwekunge iwe uri kuwana pialla, iyo ndiyo chete dhiza yakanaka chaizvo, asi menyu diki, hove iri avhareji uye bartenders inotyisa.",pialla,positive
+"vashandi vane ushamwari chaizvo, asi zvidimbu zvinodhura, sushi yakakura uye mole sauce yakanyanya kutapira.",vashandi,positive
+"vanoita pizza yakanakisisa munew jersey, asi basa rakaipisisa, waiter inoshatiriswa uye vashandi vanozvikudza.",pizza,positive
+"kwete chete weti yakanga ichishanda zvakanaka uye ine tsika, asiwo inobatsira zvikuru. ; hostess haina kufanira uye chikafu hachina kuwirirana.",weti,positive
+"tiny resitorendi pamwe nokukurumidza chaizvo basa, asi zvokudya hazvina kukosha uye zvokudya zviri pasi avhareji.",basa,positive
+"great burgers, grilled cheeses uye french fries, asi kudya kunotyisa uye muridzi ari fake.",cheeses,positive
+"great burgers, grilled cheeses uye french fries, asi chikafu chejapan chiri nani.",french fries,positive
+"great burgers, grilled cheeses uye french fries, asi kupeta chigaro hazvina kunaka, hove iri avhareji uye kugamuchira iri zvisina kufanira.",burgers,positive
+"zvokudya zvakakura, ndinoda dumplings dzavo, kutonhora sesame noodles, huku uye shrimp ndiro, asi muto haasi zvikuru flavorful, mukati iri avhareji uye mole muto zvakanyanya kutapira.",huku,positive
+"chikafu chikuru, ndinoda dumplings dzavo, kutonhora sesame noodles, huku uye shrimp ndiro, asi kudya kwemanheru isimba, saizi yakabatikana uye masikati isimba.",chikafu,positive
+"chikafu chikuru, ndinoda dumplings dzavo, kutonhora sesame noodles, huku uye shrimp ndiro, asi zvokudya zviri pasi avhareji, mukati iri avhareji uye curried casseroles zvakaoma.",kutonhora sesame noodles,positive
+"chikafu chikuru, ndinoda dumplings dzavo, kutonhora sesame noodles, huku uye shrimp ndiro, asi basa riri murombo uye masikati isimba.",dumplings,positive
+"chikafu chikuru, ndinoda dumplings dzavo, kutonhora sesame noodles, huku uye shrimp ndiro, asi hostess is rude.",shrimp ndiro,positive
+"best chinese pamusoro upper east, nokukurumidza kuendesa, kukosha kwakanaka, asi zvinwiwa zvinotyisa uye zvokudya iri haisi yakanaka chaizvo.",kukosha,positive
+"best chinese pamusoro upper east, nokukurumidza kuendesa, kukosha kwakanaka, asi kutengesa vanhu zvisina kufanira.",kuendesa,positive
+"handina kumbobvira ndave neorange donut kare saka ndakazvipa mboro, asi chikafu chikuru uye imbwa dzinopisa ndidzo dzakanakisisa.",donut,neutral
+"ndakashamiswa zvinofadza nekunakirwa, asi basa rinotyisa uye kudya kwakaipisisa.",rinotyisa,positive
+"a musanganiswa vadzidzi uye nharaunda vagari vanoungana kupinda ichi yakatetepa, zvishoma ikoko nzvimbo nokuda kwayo nokukurumidza, inonaka anobata panguva tsvina-zvakachipa mitengo, asi zvokudya kunoshamisa uye basa rakaisvonaka.",nzvimbo,negative
+"a musanganiswa vadzidzi uye nharaunda vagari vanoungana kupinda ichi yakatetepa, zvishoma ikoko nzvimbo nokuda kwayo nokukurumidza, inonaka anobata panguva tsvina-zvakachipa mitengo, asi zvokudya akaodzwa mwoyo.",anobata,positive
+"a musanganiswa vadzidzi uye nharaunda vagari vanoungana kupinda ichi yakatetepa, zvishoma ikoko nzvimbo nokuda kwayo nokukurumidza, inonaka anobata panguva tsvina-zvakachipa mitengo, asi hostess ari zvisina kufanira uye kumirira iri zvisina kufanira.",mitengo,positive
+"asi vanogara vachiziva kuti masangweji ndiwo nyeredzi chaiyo pano, asi chikafu chejapan chiri nani, muto wechickpea wakatetepa uye filet diki haisi yakanaka kwazvo.",masangweji,positive
+"nokuti savory kutora pamusoro muto uye sandwich zvokudya, edza inopisa uye inovava muto, asi basa rakaipa, bartenders zvinotyisa uye kudya ruzivo zvakaipisisa.",inopisa,positive
+"nokuti flavorful kutora pamusoro muto uye sandwich zvokudya, edza zvose zvitsva inopisa uye inovava muto, asi basa iri murombo!",sandwich,positive
+"vane gorosi crusted pizza yakagadzirwa chaizvoizvo itsva uye yummy zvinoriumba, asi basa zvakakomba kunonoka.",gorosi crusted pizza,positive
+"vane gorosi crusted pizza yakagadzirwa chaizvoizvo itsva uye yummy zvinoriumba, asi curried casseroles zvakaoma, mukati iri avhareji uye basa kunonoka.",zvinoriumba,positive
+"kuvhiringidzika kwavo pamusoro pepizza ndeye heatlhy, asi izere nekunakirwa; kuravira pfupi, disco pop duo inotyisa uye basa rinononoka.",izere,positive
+"kuvhiringidzika kwavo pamusoro pepizza ndeye heatlhy, asi izere nekunakirwa; basa rakaodzwa mwoyo uye vashandi vanozvikudza.",pepizza,positive
+"kana uri kuda zvimwe zvakakomba indian zvokudya uye chido cozy ambiance, ichi zvikuru uye yakaisvonaka sarudzo, asi basa zvakaipa.",ambiance,positive
+"kana uri kuda zvimwe zvakakomba indian zvokudya uye chido cozy ambiance, ichi zvikuru uye yakaisvonaka sarudzo, asi inopisa imbwa yakaipisisa, matafura zvisina kunaka pedyo uye kudya zvakaipisisa.",zvokudya,positive
+"kwete chete basa guru, asi kuumba kukurukurirana kumativi tafura zviri nyore kwazvo nokuti mhepo inogona kuva zvose kudanana uye wakasununguka; mimhanzi inorema zvikuru uye kutonhora kwegreen hakudyiwi.",basa,positive
+"kwete chete basa guru, asi kuumba kukurukurirana kumativi tafura zviri nyore kwazvo nokuti mhepo inogona kuva zvose kudanana uye wakasununguka; basa rinotyisa.",mhepo,positive
+"pane chiedza chekenduru nemimhanzi, asi chikafu chikuru uye masangweji anoshamisa.",mimhanzi,neutral
+"pane chiedza chekenduru nemimhanzi, asi basa rakanaka.",chiedza chekenduru,neutral
+"ini zvechokwadi kunakidzwa zvokudya uyewo, asi kudya ruzivo inosuruvarisa, bhiri iri guru uye matafura ari zvisina kunaka pedyo.",zvokudya,positive
+"the pasi bhaa chiitiko chaizvo inotonhorera uye chill, asi keke hazvina kukodzera kumira kunze.",pasi bhaa chiitiko,positive
+"chikafu chacho chakanga chakanaka zvechokwadi, asi apo zvose zvakataurwa uye zvakaitwa, ini ndakanga ndisingagoni kuzviruramisa nemutengo (kusanganisira 2 zvinwiwa, $ 100 / munhu); emcenadas yakaisvonaka, decor yakanaka uye maneja akanaka.",mutengo,negative
+"chikafu chacho chakanga chakanaka zvechokwadi, asi apo zvose zvakataurwa uye zvakaitwa, ini ndakanga ndisingagoni kuzviruramisa nemutengo (kusanganisira 2 zvinwiwa, $ 100 / munhu); bindu rinofadza, mutengo unonzwisisika uye vatengesi vemabhawa vanotyisa.",zvinwiwa,neutral
+"chikafu chacho chakanga chakanaka zvechokwadi, asi apo zvose zvakataurwa uye zvakaitwa, ini ndakanga ndisingagoni kuzviruramisa nemutengo (kusanganisira 2 zvinwiwa, $ 100 / munhu); host is rude.",chikafu,positive
+"the best chinese zvokudya uptown, asi vashandi zvakaipa uye vashandi ushamwari.",zvokudya,positive
+"kukurumidza kuendesa, chikafu chikuru, mitengo yakanaka, uye basa reushamwari rinobatanidza kuti uve nechokwadi chekunakidzwa repast, asi mutengo wakakwirira.",chikafu,positive
+"kukurumidza kuendesa, chikafu chikuru, mitengo yakanaka, uye basa reushamwari rinobatanidza kuti uve nechokwadi chekunakidzwa repast, asi nzvimbo iri nyore.",mitengo,positive
+"kukurumidza kuendesa, chikafu chikuru, mitengo yakanaka, uye basa reushamwari rinobatanidza kuti uve nechokwadi chekunakidzwa repast, asi chikafu chakaodzwa mwoyo, nyama yakagadzirwa lobster yakagadzirwa uye vashandi vanozvikudza.",basa,positive
+"kukurumidza kuendesa, chikafu chikuru, mitengo yakanaka, uye basa reushamwari rinobatanidza kuti uve nechokwadi chekunakidzwa repast, asi huku yakasviba, maneja haana nyasha uye mitengo yakawandisa.",haana,positive
+"kukurumidza kuendesa, chikafu chikuru, mitengo yakanaka, uye basa reushamwari rinobatanidza kuti uve nechokwadi chekunakidzwa repast, asi bhiri rakakura.",repast,positive
+"iyo inotonhora sesame noodles, iyo iri freebie kana iwe uchiraira $ 10 +, iri delectable, asi menyu diki uye maneja haana nyasha.",sesame,positive
+"iyo avocado saladi ndeye fave yemunhu oga, asi mutengo hauna kukosha, menyu diki uye inonaka pfupi.",avocado saladi,positive
+"uye, uchi bbq mbabvu mazano vari yummy, asi waiter inoshatiriswa uye smoothies yakakura.",uchi bbq mbabvu mazano,positive
+"takarayira gwayana iro rakabikwa zvakakwana uye rakaravira rinotyisa, asi mutengo wakakwirira uye nzvimbo iri nyore.",gwayana,positive
+"zvose kubva mazai benedict kuti mussels uye kunyange hamburger zvakaitwa zvakanaka uye zvinonaka chaizvo, asi waiters zvakaipa uye smoothies guru.",mussels,positive
+"zvose kubva mazai benedict kuti mussels uye kunyange hamburger zvakaitwa zvakanaka uye zvinonaka chaizvo, asi maneja ari graceless uye zvokudya haisi yakachipa.",mazai benedict,positive
+"zvose kubva mazai benedict kuti mussels uye kunyange hamburger zvakaitwa zvakanaka uye zvinonaka chaizvo, asi vashandi vanozvikudza, basa rinotyisa uye mitengo iri exorbitant.",hamburger,positive
+"zvechokwadi kwete yakanakisisa sushi munew york, zvisinei, inogara iri itsva, uye nzvimbo yacho yakachena kwazvo, isina utachiona, asi chikafu hachisi chisingadhuri, kamuri yakajeka uye basa rinotyisa.",nzvimbo,positive
+"ndinovimba nevanhu pago sushi, hazvimboodzi mwoyo, asi imbwa dzinopisa dzakaipisisa.",vanhu,positive
+"straight-mberi, hapana zvinoshamisa, zvokudya zvakanaka chaizvo zvejapan, asi nyama yakagadzirwa lobster yakagadzirwa, matafura asina kunaka pedyo uye chiedza hachikwezva.",zvokudya,positive
+"don't get me wrong - sushi was good, just not fantastic, but bill is big, staff is friendly and dish is edible.",sushi,positive
+zvakanaka siyana asi hapana chinoshamisa; vanhu vakaipisisa.,siyana,positive
+"harumi sushi ane zvitsva uye zvinonaka zvikuru zve sushi munyc, asi basa rinononoka, fennel flavored italian sausage inorema uye inonaka yakaipisisa.",sushi,positive
+"ini zvikuru vanokurudzira kuti kwete chete ayo superb cuisine, asiwo nokuda kwayo ushamwari varidzi uye vashandi; fortune cookies kunyunyuta.",cuisine,positive
+"ini zvikuru vanokurudzira kuti kwete chete ayo superb cuisine, asiwo nokuda kwayo ushamwari varidzi uye vashandi; mole sauce yakanyanya kutapira, chikafu hachina kukosha uye ac inoshaikwa.",vashandi,positive
+"ini zvikuru vanokurudzira kuti kwete chete ayo superb cuisine, asiwo nokuda kwayo ushamwari varidzi uye vashandi; vanhu vakaipisisa, fennel flavored italian sadza rinorema uye kuendesa kunongwarira.",varidzi,positive
+"imwe shamwari yaifanira kukumbira 3 nguva parmesan cheese, asi mutengo wakakwirira.",parmesan cheese,neutral
+"basa racho chaizvoizvo rinokurumidza uye rine ushamwari, uye kukosha kwacho kwakakura, asi kudya kwakaipisisa, zvikamu zviduku uye maneja ndeye kusazvibata.",kukosha,positive
+"basa racho rinonyatsokurumidza uye rine ushamwari, uye kukosha kwacho kwakakura, asi ndiro inodyiwa, chikamu chekudya chiri pasi peavhareji uye chikafu hachina kukosha.",basa,positive
+"ndakanga ndichifa nenzara uye zvikamu zviduku zvakanga zvichindipenga, asi basa rakakura.",zvikamu,negative
+"akanga ari muvhuro wake wekudya kwemasikati - akanga achishanda pafirimu munharaunda - uye akawana ichi chinhu chisingawanzoitiki, asi chimbuzi chinofadza.",kudya kwemasikati,neutral
+"uye izvi hazvisi zviduku, wimpy fast food type burgers - izvi ndezvechokwadi, zvizere zvakakura patties, asi bar service inononoka.",burgers,positive
+"uye izvi hazvisi zviduku, wimpy fast food type burgers - izvi ndezvechokwadi, zvizere zvakakura patties, asi bhiri rakakura uye maneja ndeye kusazvibata.",patties,positive
+"nokuda kwemutengo waunobhadhara chikafu pano, iwe waizotarisira kuti chive chinenge chakaenzana nemamwe maresitorendi ejapan, asi fettuccine ine grilled seafood mune rosemary-orange sauce isingatarisirwi, imbwa dzinopisa dzakanakisisa uye foni gasi iri luscious.",chikafu,negative
+"nokuda kwemutengo waunobhadhara chikafu pano, iwe waizotarisira kuti chive chinenge chakaenzana nemamwe maresitorendi ejapan, asi bartender anofara, chikafu chakanakisisa uye vashandi vanofadza.",mutengo,negative
+"chikamu chekudya chaive small uye pasi peavhareji, asi bhaa rakakura, chikafu chakanaka uye lichen martini rudo.",chikamu chekudya,negative
+"the waitress came by to pick up the soy sauce when we were eating our lunch, but service is horrible, owner is fake and green spinach-vodka sauce is bright.","lunch,",neutral
+"the waitress came by to pick up the soy sauce when we were eating our lunch, but food is top-notch, waiter is friendly and coffee is better.",soy,neutral
+"the waitress came by to pick up the soy sauce when we were eating our lunch, but i try duck, service is highest and staff is knowledgeable.",waitress,negative
+"nzvimbo yakanaka yekutandara masikati mushure mekutenga kana kubata muto wakapfava kana classic french dish pamusoro pegirazi rewaini, asi chikafu chakanakisisa uye waini yewaini inoodza mwoyo.",muto,neutral
+"nzvimbo yakanaka yekutandara masikati mushure mekutenga kana kubata muto wakapfava kana classic french dish pamusoro pegirazi rewaini, asi chigaro chekupeta hachina kunaka, manejimendi ari pasi pekugara uye keke haina kukodzera kumira kunze.",nzvimbo,positive
+"nzvimbo yakanaka yekutandara masikati mushure mekutenga kana kubata muto wakapfava kana classic french dish pamusoro pegirazi rewaini, asi ini ndinoedza pasta.",girazi rewaini,neutral
+"nzvimbo yakanaka yekutandara masikati mushure mekutenga kana kubata muto wakapfava kana classic french dish pamusoro pegirazi rewaini, asi basa rinoteerera uye basa rinoshamisa.",french,neutral
+"chikafu chacho chikuru uye mitengo inonzwisisika, asi filet diki haisi yakanaka kwazvo.",mitengo,positive
+"chikafu chacho chikuru uye mitengo inonzwisisika, asi keke haina kukodzera kumira kunze uye ruzivo rwekudya rwakaipisisa.",chikafu,positive
+"nzvimbo yacho yakachena, uye kana iwe uchida chikafu chemweya, ipapo iyi ndiyo nzvimbo yekuve, asi ndiro inodyiwa, weti ine utsinye uye ruzivo rwekudya runosuruvarisa.",chikafu,positive
+"nzvimbo yacho yakachena, uye kana iwe uchida mweya wekudya, ipapo iyi ndiyo nzvimbo yekuve, asi disco pop duo inotyisa, ac isina uye ruzivo rwekudya rwakaipisisa.",nzvimbo,positive
+"nhengo dzevashandi dzine ushamwari hwakanyanya uye dzakatotsiva chinwiwa changu kamwe chete pandakaidonhedza kunze, asi zvikamu zviduku uye basa rakaipa.",nhengo dzevashandi,positive
+"nhengo dzevashandi dzine ushamwari hwakanyanya uye kunyange kutsiva chinwiwa changu kamwe chete pandakadonhedza kunze, asi pastas yakanaka, muridzi anonyengera uye zvikamu zvikuru.",chinwiwa,neutral
+"izvo zvinonyanya kuita smoothies uye zvitsva zvitsva, asi zvokudya hazvisi zvakanaka kwazvo, mole sauce yakanyanya kutapira uye imbwa dzinopisa dzakaipisisa.",smoothies,positive
+"izvo zvinonyanya kuita smoothies uye juices itsva, asi huku yakasviba uye saizi yakabatikana.",juices,positive
+"kunyange zvazvo smoothies zvishoma zvakakura kwandiri, juices itsva ndiyo yakanakisisa yandakamboita, asi mukati memukati inofadza uye ini ndinoedza rose roll.",smoothies,negative
+"nepo smoothies zvishoma zvikuru kwandiri, juices itsva ndiyo yakanakisisa yandakamboita, asi kuravira pfupi.",juices,positive
+"vane huku yakanaka kwazvo ine avocado uye tuna yakanaka uyewo, asi basa rakaodzwa mwoyo, waiter inoshatiriswa uye basa rinononoka zvakanyanya.",avocado,positive
+"vane huku yakanaka kwazvo ine avocado uye tuna yakanaka uyewo, asi muridzi ndewekunyepedzera.",tuna,positive
+"zvizhinji zvemasangweji zvinogadzirwa ne soy mayonaise iyo chaizvoizvo yakanaka, asi chikafu hachisi chakanaka chaizvo uye kudya kwakaipisisa.",masangweji,positive
+"zvizhinji zvemasangweji zvinogadzirwa ne soy mayonaise iyo chaizvoizvo yakanaka, asi bartender is rude.",soy mayonaise,positive
+"kwete chete vaiva muto zvinoshamisa, pizza, nezvimwewo, asi sorbets dzavo dzakagadzirwa kumba dziri kunze kwenyika ino; the hostess is rude and bartenders are horrible.",sorbets,positive
+"kwete chete vaiva zvinoshamisa, masangweji, muto, pizza nezvimwewo, asi sorbets dzavo dzakagadzirwa kumba dziri kunze kwenyika ino; imbwa dzinopisa dzakaipisisa, vatengesi vemabhawa vanotyisa uye menyu diki.",muto,positive
+"kwete chete vaiva zvinoshamisa, masangweji, muto, pizza nezvimwewo, asi sorbets dzavo dzakagadzirwa kumba dziri kunze kwenyika ino; matafura ari pedyo zvisina kunaka uye chikamu chezvokudya chiri pasi peavhareji.",masangweji,positive
+"kwete chete vaiva zvinoshamisa, masangweji, muto, pizza nezvimwewo, asi sorbets dzavo dzakagadzirwa kumba dziri kunze kwenyika ino; chiitiko chekudya chakaipisisa uye basa rinotyisa.",pizza,positive
+"edza peanut butter sorbet uye pizza ne soy cheese, asi bhiri rakakura.",pizza ne soy cheese,positive
+"edza peanut butter sorbet uye pizza ne soy cheese, asi chikafu hachina kukosha uye matafura ari pedyo zvisina kunaka.",sorbet,positive
+"basa racho rakakura (zvichida kunyange muganhu unonetsa asi kanenge iwe unowana ngwariro), iyo desserts yakaisvonaka uye kofi yakanaka kwazvo; ac kushaikwa uye mutengo hauna kukosha.",desserts,positive
+"basa racho rakakura (zvichida kunyange muganhu unonetsa asi kanenge iwe unowana ngwariro), iyo desserts yakaisvonaka uye kofi yakanaka kwazvo; basa rinotyisa, mitengo yakakwirira uye basa rinotyisa.",kofi,positive
+"mimhanzi iyo dzimwe nguva inorema zvishoma nokuda kwekufarira kwangu, asi kudya kwemanheru hakumbofa kwakaodza mwoyo.",mimhanzi,negative
+"casablanca servces inonaka falafel, tabouleh, humus uye zvimwe zvinofadza zvemediterranean, izvo zvose zvisingadhuri zvikuru, asi muto wechickpea wakatetepa, basa rinononoka uye mimhanzi inorema zvikuru.","zvemediterranean,",positive
+"casablanca inoshumira falafel inonaka, tabouleh, humus uye zvimwe zvinofadza zvemediterranean, izvo zvose zvisingadhuri zvikuru, asi chikafu chejapan chiri nani.",falafel,positive
+"casablanca inoshumira falafel inonaka, tabouleh, humus uye zvimwe zvinofadza zvemediterranean, izvo zvose zvisingadhuri zvikuru, asi kuravira kwakaipisisa uye kudya kunodhura.",humus,positive
+"casablanca inoshumira falafel inonaka, tabouleh, humus uye zvimwe zvinofadza zvemediterranean, izvo zvose zvisingadhuri zvikuru, asi kudya kwemasikati isimba, zvikamu zviduku uye maneja ndeye kusazvibata.",tabouleh,positive
+"ikoko resitorendi chaizvo zvakajairika, asi akakwana masikati, uye kwavo kuendesa basa nguva dzose chaizvo nokukurumidza; huku yakanaka.","masikati,",neutral
+"ikoko resitorendi chaizvo zvakajairika, asi akakwana masikati, uye kwavo kuendesa basa nguva dzose chaizvo nokukurumidza; nzvimbo inonaka, inogamuchira ine utsinye uye muto wechickpea wakatetepa.",kuendesa,positive
+"ivo zvakare vane assortment huru yekuputira kana yako isiri mumamiriro ezvinhu echinyakare mediterranean fare, asi ruzivo rwekudya runosuruvarisa uye basa rinotyisa.",assortment,positive
+"vanewo assortment guru wraps kana wako kwete mumamiriro ezvinhu chinyakare mediterranean fare, asi ambiance iri kudanana, zvokudya zvikuru uye appetizers zvakanaka.",chinyakare mediterranean fare,neutral
+"zvakatora makore 100 kuti parisi iende kumativi ekugadzira pizza (kanenge handifungi kuti vakamboita gore rino risati rasvika) ... asi zvakanga zvakakodzera kumirira; chiitiko chekudya chakaipisisa, vashandi vane ushamwari uye chikafu chiri pasi peavhareji.",pizza,positive
+"muto wacho wakaisvonaka (mutsva kwazvo) ne dabs ye mozzarella chaiyo, asi mhepo inotonhorera.",mozzarella,neutral
+"muto wacho wakaisvonaka (mutsva kwazvo) une dabs ye mozzarella chaiyo, asi waiter is a rude uye chikafu chiri fancy.",muto,positive
+"the chingwa iri pamusoro notch uyewo, asi utariri zvishoma kupfuura kugara.",chingwa,positive
+"izvo zvinoshandiswa pachingwa chefocacchia uye zvinofanira kufa, asi basa rakaipa uye ndinokurudzira mupunga wakagochwa.",zvinoshandiswa,neutral
+"izvo zvinoshandiswa pachingwa chefocacchia uye zvinofanira kufa, asi mimhanzi yakanyanya kurema uye vashandi vanofadza.",chefocacchia,neutral
+"uyewo tora onion rings -- zvakanakisisa zvatakamboita, asi menyu diki.",onion,positive
+"mhepo yakanaka, yakakwana kune zvinwiwa uye / kana appetizers, asi vanhu chivimbo, chikafu chakanaka uye mukati mepakati.",appetizers,neutral
+"mhepo yakanaka, yakakwana kune zvinwiwa uye / kana appetizers, asi basa rakashata, chikafu hachisi chisingadhuri uye kuravira kwakaipisisa.",mhepo,positive
+"mhepo yakanaka, yakakwana kune zvinwiwa uye / kana appetizers, asi chikafu chiremekedzo, desserts inoshamisa uye ndakaedza veal chops.",zvinwiwa,neutral
+"cuisine iri billed sezvo asian fusion - haasangani bhiri, asi chiteshi iri unhu.",billed,negative
+"cuisine iri billed sezvo asian fusion - haasangani bhiri, asi zvokudya zvakanaka uye nzvimbo inonakidza.",asian fusion,neutral
+"cuisine iri billed sezvo asian fusion - haasangani bhiri, asi mhepo inotonhorera.",cuisine,negative
+"cuisine iri billed sezvo asian fusion - haasangani bhiri, asi ini kuedza duku, zvokudya zvikuru uye chiteshi iri unhu.",bhiri,negative
+"vashandi vaiva nyanzvi chaizvo, vane tsika uye vanoteerera, asi chikafu chejapan chiri nani uye vatengi vane muromo unonzwika.",vashandi,positive
+"yave kune iyo mubrooklyn kwemakore anopfuura 25, ikozvino handifaniri kuenda pamusoro pebhiriji kune yakanakisisa pizza .... hanx, asi nzvimbo inonaka.",pizza,positive
+"ndinoziva chikafu chaicho cheindia uye izvi zvakanga zvisiri izvo, asi mafungiro akanaka.",chikafu,negative
+"ndinokurudzira dumplings yenguruve yakagochwa, huku yeorange / nyama yemombe, uye mupunga wakagochwa, asi basa rinononoka zvinotyisa.",dumplings,positive
+"ndinokurudzira dumplings yenguruve yakagochwa, huku yeorange / nyama yemombe, uye mupunga wakagochwa, asi kudya kwemasikati isimba.",mupunga wakagochwa,positive
+"ndinokurudzira dumplings yenguruve yakagochwa, iyo orange huku / nyama yemombe, uye mupunga wakagochwa, asi basa rakaipisisa, basa rakashata uye mutengo hauna kukosha.",nyama,positive
+"iva nechokwadi chekuperekedza chikafu chako nechimwe chezvinhu zvavo zvitsva zvemuto concoctions, asi huwandu hwe sushi hunonyanya kunaka uye pizza yakanakisisa.",chikafu,neutral
+"iva nechokwadi chekuperekedza chikafu chako nechimwe chezvinhu zvavo zvitsva zvemuto concoctions, asi basa rakashata.","concoctions,",positive
+"hongu, ivo vanodhura zvishoma ipapo zvakajairika, asi ipapo zvakare, ndizvo zvakaita zvokudya zvavo; nzvimbo iri nyore uye mimhanzi yakanyanya kurema.",zvokudya,positive
+"ndinokurudzira zvikuru guru marnier shrimp, zviri insanely zvakanaka, asi zvinwiwa zvinotyisa.",marnier,positive
+"glechik angava nzira zvikuru duku kuti resitorendi kubudikidza russian mitemo, asi zviri cozy uye zvokudya chete great; waiters akatsamwa.",zvokudya,positive
+"unofanira kuedza odessa stew kana rabbit stew; saladi-zvose zvakanaka; uye kompot inozorodza kwazvo mukati mezuva rinopisa rezhizha (vanozviita nenzira iyo amai vangu vanoita, inondiyeuchidza nezvemusha zvakanyanya), asi sushi yakakura uye mutengo hauna kukosha.",saladi,positive
+"unofanira kuedza odessa stew kana rabbit stew; saladi-zvose zvakanaka; uye kompot inozorodza kwazvo mukati mezuva rinopisa rezhizha (vanozviita nenzira iyo amai vangu vanoita, inondiyeuchidza nezvemusha zvakanyanya), asi mitengo yakakwirira.",kompot,positive
+"unofanira kuedza odessa stew kana rabbit stew; saladi-zvose zvakanaka; uye kompot inozorodza kwazvo mukati mezuva rinopisa rezhizha (vanozviita nenzira iyo amai vangu vanoita, inondiyeuchidza nezvemusha zvakanyanya), asi kusununguka kunongwarira.",rabbit stew,positive
+"unofanira kuedza odessa stew kana rabbit stew; saladi-zvose zvakanaka; uye kompot inozorodza kwazvo mukati mezuva rinopisa rezhizha (vanozviita nenzira iyo amai vangu vanoita, inondiyeuchidza nezvemusha zvikuru), asi chikafu chinoodzwa mwoyo.",odessa stew,positive
+"saka nokuda kwekudya kunozadza uye kune utano kupa iyo kuenda, asi chigaro chekupeta hachina kunaka.",kudya,positive
+"simple utano unglamorous zvokudya zvakachipa, asi filet duku haisi yakanaka chaizvo.",zvokudya,positive
+"the pasi chickpea muto isu sampled sezvo starter akaravira zvimwe mutete, asi basa zvikuru uye menyu zvinoshamisa.",pasi chickpea muto,negative
+"the pasi chickpea muto isu sampled sezvo starter akaravira zvimwe mutete, asi foni gasi iri luscious, zvokudya kunoshamisa uye nzvimbo zvikuru.",starter,neutral
+"the huku uye falafel ndiro vakanga nondescript mubatanidzwa pamwe itsva shizha saladi, asi anoputira inonaka uye maneja ari nyasha.",huku uye falafel ndiro,neutral
+"the huku uye falafel ndiro vakanga nondescript mubatanidzwa pamwe itsva shizha saladi, asi basa rinodzidzisa, bhaa basa zvishoma nezvishoma uye guru mac ndiye kufarira.",itsva shizha saladi,neutral
+"the falafal akanga panzvimbo pamusoro yakabikwa uye akaomeswa asi huku yakanga yakanaka; weti haina kufanira, kamuri rakajeka uye kudya ndiko kwakaipisisa.",huku,positive
+"the falafal akanga panzvimbo pamusoro yakabikwa uye akaomeswa asi huku yakanga yakanaka; ndinoedza rose roll, chikafu chakanakisisa uye chikafu chinoshamisa.",falafal,negative
+"chikuru chinokweva nzvimbo ino mutengo, asi kupeta chigaro hazvina kunaka, zvokudya zvinoodzwa mwoyo uye zvokudya zvinotyisa.",mutengo,positive
+"pakupedzisira kurega kupinda muchitoro 5 panguva, kutenga zvidimbu zvinodhura kubva kune vashandi vanokurumidza, asi pizzas yakaisvonaka, chikafu chakanaka uye mbatatisi sipinachi gnocchi inofarirwa.",zvidimbu,negative
+"pakupedzisira kubvumirwa kupinda muchitoro 5 panguva, kutenga zvidimbu zvinodhura kubva kune vashandi vanokurumidza, asi zvokudya zvakaisvonaka.",vashandi,negative
+"mhedzisiro (tsvuku velvet): great texture, nyoro uye velvety, yakanaka pfungwa cocoa, asi kupeta chigaro hazvina kunaka.","cocoa,",positive
+"mhedzisiro (tsvuku velvet): great texture, nyoro uye velvety, yakanaka pfungwa cocoa, asi basa rinotyisa, basa rinononoka uye zvokudya zvakanga zvisina kubikwa zvitsva.",nyoro,positive
+"iyo icing made keke iri, yakanga iri fluffy, kwete ultra inotapira, creamy uye chiedza, asi basa rinononoka.",keke,positive
+"keke rakanaka asi: yakanga isiri keke yakanakisisa yandakamboita, uye zvechokwadi haina kukodzera kumira kunze kwemugwagwa uchiunganidzwa semombe nevashandi vasina hanya uye vanoshanda zvakanyanya, asi mitengo ine tsvina-yakachipa.",vashandi,negative
+"keke rakanaka asi: yakanga isiri keke yakanakisisa yandakamboita, uye zvechokwadi haina kukodzera kumira kunze kwemugwagwa uchiunganidzwa semombe nevashandi vasina hanya uye vanoshanda zvakanyanya, asi kudya hakudhuri.",keke,negative
+"avhareji keke kuti yave courted ne lot hype, asi menyu itsva iri okusika, menyu zvikuru uye martinis ari exotic.",keke,negative
+iyo decor yakagadzirirwa mune imwe nguva yejapan style restaurant; dish yakanaka uye mushroom barley soup inoshamisa.,decor,neutral
+"chikafu chakanaka, teriyaki yandinokurudzira, asi chikafu chiri pasi peavhareji.",teriyaki,positive
+"chikafu chakanaka, teriyaki yandinokurudzira, asi mutengo wakakwirira.",chikafu,positive
+"chikamu chesashimi chikuru zvakakwana kunyaradza vanhu vakawanda, asi ini handina kufarira chokwadi chekuti vakashandisa artifical lobster nyama; zvidimbu zvinodhura.",chikamu,positive
+"chikamu chesashimi chikuru zvakakwana kunyaradza vanhu vakawanda, asi ini handina kufarira chokwadi chekuti vakashandisa artifical lobster nyama; ndinoedza tsuro.",artifical lobster nyama,negative
+"kazhinji, iyi inzvimbo yakanaka yekutora shamwari shomanana kuti dzitambe uye basa racho rakaisvonaka, asi chikafu hachina kukosha.",basa,positive
+"kazhinji, iyi inzvimbo yakanaka yekutora shamwari shomanana kuti dzitambe uye basa racho rakaisvonaka, asi waiter inoshatiriswa uye chikafu chiri fancy.",nzvimbo,positive
+"chikafu chacho chikuru uye milkshakes inotova nani, asi chikafu hachisi chisingadhuri, basa rinotyisa uye manejimendi mashoma pane kugara.",milkshakes,positive
+"chikafu chacho chikuru uye milkshakes inotova nani, asi mutengo hauna kukosha, vashandi vanozvikudza uye masikati isimba.",chikafu,positive
+"kuvaka kudya nemirairo yemativi sezvinoshamisa 'greens saladi, buffalo chicken kickers uye cinna stix, asi apuro tart yakaonda.",buffalo chicken kickers,neutral
+"kuvaka kudya nemirairo yemativi sezvinoshamisa 'greens saladi, buffalo chicken kickers uye cinna stix, asi hostess is rude, veggie burger inoshamisa uye gnocchi inonyungudika.",kudya,neutral
+"kuvaka kudya nemirairo yemativi sezvinoshamisa 'greens saladi, buffalo chicken kickers uye cinna stix, asi chikafu chakanaka, chiteshi chinhu chakanaka uye yellow fin tuna inofarirwa.",sezvinoshamisa,neutral
+"kuvaka kudya nemirairo yemativi sezvinoshamisa 'greens saladi, buffalo chicken kickers uye cinna stix, asi vanhu vanotengesa vakashata.",cinna stix,neutral
+"kuvaka kudya nemirairo yemativi sezvinoshamisa 'greens saladi, buffalo chicken kickers uye cinna stix, asi chikafu chakanaka, basa rakakura uye mapapiro akanaka.",'greens,neutral
+"takaororwa zvikuru nezvokudya uye kukosha, asi kudya kwemanheru isimba.",kukosha,positive
+"takaororwa zvikuru nezvokudya uye kukosha, asi basa racho rakanonoka.",zvokudya,positive
+"iwe unofanirwa kuedza muto wegariki, asi muridzi ndewekunyepedzera, basa rakaipisisa uye kudya kwakaipisisa.",muto,positive
+"chikafu chacho chikuru (kusarudzwa kukuru, mitengo inonzwisisika) uye zvinwiwa zvakanaka chaizvo, asi muto wepasi chickpea wakatetepa, chikafu hachisi chakanaka chaizvo uye bartenders inotyisa.",zvinwiwa,positive
+"chikafu chacho chikuru (kusarudzwa kukuru, mitengo inonzwisisika) uye zvinwiwa zvakanaka chaizvo, asi muto wechickpea wakatetepa uye vashandi vakatsamwa.",mitengo,positive
+"chikafu chacho chikuru (kusarudzwa kukuru, mitengo inonzwisisika) uye zvinwiwa zvakanaka chaizvo, asi vatengi vane muromo wakanzwika, chikafu chiri pasi peavhareji uye hostess is rude.",kusarudzwa,positive
+"chikafu chikuru (kusarudzwa kukuru, mitengo inonzwisisika) uye zvinwiwa zvakanaka chaizvo, asi basa rinononoka.",chikafu,positive
+"mhepo inodziya, yakasununguka, artsy uye sexy, asi bartender ine utsinye, chikafu chinoodzwa mwoyo uye zvokudya zvinotyisa.",mhepo,positive
+"tave ikoko uye isu chaizvoizvo kunakidzwa zvokudya, akanga areally chikafu chikuru, uye basa rakanga chaizvoizvo zvakanaka, asi vashandi zvakaipa.",zvokudya,positive
+"tave ikoko uye takanakidzwa nezvokudya; basa racho rakanga rakanaka chaizvoizvo, asi iyo curried casseroles yakanyanya kunhuhwirira uye vatengi ndivo vakaipisisa.",basa,positive
+"tave ikoko uye isu chaizvoizvo kunakidzwa zvokudya, akanga areally chikafu chikuru, uye basa rakanga chaizvoizvo zvakanaka, asi vashandi vanozvikudza, chakagadzirwa lobster nyama iri chakagadzirwa uye basa zvakaipa.",zvokudya,positive
+"kushongedzwa kwakanga kuchinzwa sokuti takanga tiri pacairo, chaizvoizvo mugwagwa chikamu cheiyo adventure, asi smoothies yakakura uye chikafu chiri fancy.",kushongedzwa,positive
+"chikafu chacho chakanaka uye chakakurumbira zvokuti kumirira kunogona chaizvoizvo kuva kurota kunotyisa, asi mhepo inotonhorera uye huku rudo.",kumirira,negative
+"chikafu chacho chakanaka kwazvo uye chakakurumbira zvokuti kumirira kunogona chaizvoizvo kuva kurota kunotyisa, asi chikafu chejapan chiri nani.",chikafu,positive
+"iyi nzvimbo chaiyo zvechokwadi inoshandisa nyama dzisina kufanira, asi vashandi vanofadza, zvokudya zvakanaka uye zvinonhuwira mussels chinhu chinokosha.",nyama,negative
+"kunyange zvazvo diki, ine ambience yakanaka, chikafu chakanakisisa (iyo catfish inonaka - kana iwe usina hanya nayo lil salty) uye kunyatsoteerera basa, asi pasi chickpea soup yakaonda, imbwa dzinopisa dzakaipisisa uye bartenders inotyisa.",basa,positive
+"kunyange zvazvo diki, ine ambience yakanaka, chikafu chakanakisisa (iyo catfish inonaka - kana iwe usina hanya nayo lil salty) uye kunyatsoteerera basa, asi vashandi vane ushamwari.",ambience,positive
+"kunyange zvazvo diki, ine ambience yakanaka, chikafu chakanakisisa (iyo catfish inonaka - kana iwe usina hanya nayo lil salty) uye kunyatsoteerera basa, asi mutengo hauna kukosha uye waiter is a rudeness.",catfish,positive
+"kunyange zvazvo diki, ine ambience yakanaka, chikafu chakanakisisa (iyo catfish inonaka - kana iwe usina hanya nayo lil salty) uye kunyatsoteerera basa, asi hove iri avhareji uye pfuma makiki akaipa.",chikafu,positive
+"the zvokudya akaita kutora mashoma mamwe maminitsi kuuya, asi akanaka vashandi 'majee uye ushamwari akaita kuti zviite; muridzi anovaraidza uye basa rine ushamwari.",zvokudya,neutral
+"the zvokudya akaita kutora mashoma mamwe maminitsi kuuya, asi akanaka vashandi 'majee uye ushamwari akaita kuti zviite; keke haina kukodzera kumira panze uye hostess is rude.",vashandi,positive
+"ndauya kuno kuzodya zvokudya zvemasikati zvisina kujairika pamwe chete nekuberekwa kweshamwari uye ndinogara ndichinakidzwa, asi chikafu chakaisvonaka.",zvokudya zvemasikati zvisina kujairika,neutral
+"iyo sushi inogara iri itsva uye yummy uye menyu yakanaka yakasiyana-siyana, asi nzvimbo inonaka.",menyu,positive
+"iyo sushi inogara iri itsva uye yummy uye menyu yakanaka yakasiyana-siyana, asi chikafu hachina kukosha uye basa rinononoka zvakanyanya.",sushi,positive
+"ndakanyanya kuororwa panguva ye bday party apo waitstaff yakaenda pamusoro uye kupfuura mukundibatsira kushongedza uye kuburitsa keke re bday pamwe nekupa basa rekukurumidza uye reushamwari kune 15 munhu bato, asi vanhu vanotengesa vane utsinye uye zvikamu zviduku.",basa,positive
+"ndakanyanya kuororwa panguva ye bday party apo waitstaff yakaenda pamusoro uye kupfuura mukundibatsira kushongedza uye kuburitsa keke re bday pamwe nekupa basa rekukurumidza uye reushamwari kune 15 munhu bato, asi bartenders inotyisa.",waitstaff,positive
+"chikafu chakanakisisa cheindia chandakambodya, asi muridzi ndewekunyepedzera uye sushi yakakura.",chikafu,positive
+"vashandi vane ushamwari husingadaviriki, uye ini ndinorota nezve saag gosht yavo ... saka zvakanaka, asi basa rinotyisa, fortune cookies kunyunyuta uye kudya kwemanheru isimba.",saag gosht,positive
+"vashandi vane ushamwari husingadaviriki, uye ini ndinorota nezve saag gosht yavo ... saka zvakanaka, asi hostess is rude, menu is small and prices is exorbitant.",vashandi,positive
+"zvinosuruvarisa, kunze kwekunge iwe uchigara munharaunda, haisi munzvimbo yakanaka asi inonyanya kufanana nepfuma yakavanzwa; ndinoda nyoro shell crab sandwich ine fries uye yellow fin tuna inofarirwa.",nzvimbo,negative
+"vashandi vakandikwazisa noushamwari pasuo uye ndakanga ndakagara nokukurumidza uye zvokudya zvakanga zvakaisvonaka, asi mole sauce yakanyanya kutapira, muto hauna kunaka zvikuru uye waiter is rude.",vashandi,positive
+"vashandi vakandikwazisa noushamwari pasuo uye ndakanga ndakagara nekukurumidza uye chikafu chakanga chakaisvonaka, asi waiters akatsamwa, smoothies yakakura uye kumirira kwakashata.",chikafu,positive
+"iyo menyu yakakura, ine sarudzo yakanaka, uye zvese zvandakaedza zvinonaka zvachose, asi mutengo wakakwirira, basa riri murombo uye kugamuchira kwakashata.",menyu,positive
+"iyo menyu yakakura, ine sarudzo yakanaka, uye zvese zvandakaedza zvinonaka zvachose, asi kudya kunotyisa uye disco pop duo inotyisa.",sarudzo,positive
+"ndakaenda kuswiftys nevamwe shamwari dzemhuri uye takanga tine kudya kwakanaka kwazvo, asi hapana chinoshamisa; zvikamu zviduku uye keke hazvina kukodzera kumira kunze.",kudya,positive
+"ndakanga ndine huku yakagochwa uye saladi, asi chikafu chakaisvonaka, desserts inoshamisa uye waini yakanaka.",saladi,neutral
+"ndakanga ndine huku yakagochwa uye saladi, asi basa rakanaka.",yakagochwa,neutral
+"nzvimbo iyi ine yakanakisisa sushi muguta, asi kumirira vashandi haina hanya, menyu diki uye huku yakasviba.",sushi,positive
+"vane sarudzo yakaisvonaka (iyo mipumburu ine crab chaizvoizvo yakakura), asi kudya kwemasikati isimba, kumirira vashandi havana hanya uye vatengi vane ruzha-muromo.",crab,positive
+"vane sarudzo yakaisvonaka (iyo mipumburu ine crab chaizvoizvo yakakura), asi zvinwiwa zvinotyisa.",sarudzo,positive
+"zvine musoro mutengo pamwe sushi itsva chaizvo, asi waiter is rude uye mukati iri avhareji.",sushi,positive
+"nenzira inonzwisisika mutengo ne sushi itsva kwazvo, asi maneja ndeye kusazvibata uye basa rinononoka.",mutengo,positive
+"ndakapinda rimwe zuva ndichikumbira tafura yeboka uye ndakakwaziswa nehostess yakashata zvikuru, asi mitengo yakaderera.",hostess,negative
+"ndakapinda rimwe zuva ndichikumbira tafura yeboka uye ndakakwaziswa ne hostess yakashata kwazvo, asi basa rakakwana uye keke harina kukodzera kumira kunze.",tafura,neutral
+"resitorendi yakanga isina chinhu zvachose, asi akandipa kutarisa kwakasviba uye akabvunza, hapana reservations; zvikamu zvikuru.",reservations,neutral
+"ipapo akaita mhere-mhere pamusoro pekusakwanisa kuwedzera 1 kana 2 zvigaro pane imwe nzvimbo yetafura yekuwedzera vanhu, asi ini ndinoedza pizza ne soy cheese.",zvigaro,neutral
+"ipapo akaita mhere-mhere pamusoro pekusakwanisa kuwedzera 1 kana 2 zvigaro pane imwe nzvimbo yetafura yekuwedzera vanhu, asi calamari yakagochwa iri nani, waiter inofadza uye mabikirwo anoedzwa-uye-chokwadi.",tafura,neutral
+"ndakadya pano pane imwe nguva yakasiyana - chikafu chiri mediocre nokuda kwemitengo, asi taglierini ne truffles inoshamisa, vanhu vakaipisisa uye zvinwiwa zvinotyisa.",chikafu,neutral
+"ndakadya pano pane imwe nguva yakasiyana - chikafu chiri mediocre nokuda kwemitengo, asi jerusarema musika-maitiro falafel wraps zvakaenzana scrumptious, ambiance yakasununguka uye maratha yakatsva.",mitengo,negative
+"desserts inosanganisira flan uye sopaipillas, asi basa rakakura.",sopaipillas,neutral
+"desserts inosanganisira flan uye sopaipillas, asi waiter ine ushamwari uye chikafu hachina kukosha.",desserts,neutral
+"desserts zvinosanganisira flan uye sopaipillas, asi zvokudya delectable.",flan,neutral
+iyo 'yakazaruka chete yekudya kwemasikati asi chikafu chakanaka kwazvo; zvikamu zvine rupo.,kudya kwemasikati,neutral
+iyo 'yakazaruka chete yekudya kwemasikati asi chikafu chakanaka kwazvo; basa rakashata.,chikafu,positive
+"inenge $ 7 yekudya kwemasikati uye vane kutora-kunze kana kudya-mukati, asi basa rakaisvonaka uye zvinonhuwira zvakasiyana.","kudya-mukati,",neutral
+"zviri pamusoro $ 7 kuti masikati uye vane kutora-panze kana kudya-mu, asi nzvimbo zvikuru, tapas yakaisvonaka uye guru mac ndiye kufarira.",masikati,neutral
+"zviri pamusoro $ 7 kuti masikati uye vane kutora-kunze kana kudya-mu, asi lichen martini rudo.",tora-kunze,neutral
+"zvokudya zvakaisvonaka uye zvakare zvine empenadas uye plaintains izvo zvakanaka masikati masikati, asi chiedza hachikwezvi uye basa rakaipa.",plaintains,positive
+"zvokudya zvakaisvonaka uye zvakare zvine empenadas uye plaintains izvo zvakanaka masikati masikati, asi green chills haina kudyiwa, kuendesa kunongwarira uye zvinwiwa zvinotyisa.",zvokudya,positive
+"zvokudya zvakaisvonaka uye zvakare zvine empenadas uye plaintains izvo zvakanaka masikati masikati, asi chikamu chekudya chiri pasi peavhareji, kamuri yakajeka uye disco pop duo inotyisa.",masikati,positive
+"zvokudya zvakaisvonaka uye zvakare zvine empenadas uye plaintains izvo zvakanaka masikati masikati, asi muto wechickpea wakatetepa, zvinwiwa zvinotyisa uye bartender is rude.",empenadas,positive
+"chikafu chikuru, waini yakanaka uye yakanakisisa yekugamuchira, asi basa rebhawa rinononoka.",asi,positive
+"chikafu chikuru, waini yakanaka uye yakanakisisa yekugamuchira, asi basa rebhawa rinononoka.",waini,positive
+"chikafu chikuru, waini yakanaka uye yakanakisisa yekugamuchira, asi ruzivo rwekudya rwakaipisisa.",chikafu,positive
+"zvose toppings zvitsva kwazvo iwe unofunga kuti zvaiva nebindu ravo remuriwo uye crust yakakwana kwazvo, kuti munhu chaizvoizvo anofunga kuti yakagadzirwa sei, asi kuravira kwakaipisisa.",crust,positive
+"zvose toppings zvitsva kwazvo iwe unofunga kuti vaiva nebindu ravo remuriwo uye crust yakakwana kwazvo, kuti munhu chaizvoizvo anofunga kuti yakagadzirwa sei, asi vashandi vakaipa.",toppings,positive
+"nzvimbo iyi ine pizza yakanakisisa, asi basa rinotyisa uye zvinwiwa zvinotyisa.",pizza,positive
+inowana yakazara panguva yekudya kwemasikati asi kune zvigaro zvakawanda kumashure uye munhu wese anoshanda ikoko akanaka kwazvo; waiter is rude and sushi is bigger.,zvigaro,positive
+"ndinokurudzirawo garlic knots, asi ndiro inodyiwa, basa rakaipisisa uye basa rinononoka.",garlic,positive
+"ndinofunga kuti meatball parm yakanaka, asi manejimendi mashoma kupfuura kugara, kudya kwakaipisisa uye basa rakaipa.",meatball parm,positive
+"chikafu chinonakidza uye bhaa rine vibe huru, asi menyu diki.",bhaa,positive
+"chikafu chinonakidza uye bhaa rine vibe huru, asi mimhanzi yakanyanya kurema.",vibe,positive
+"chikafu chinonakidza uye bhaa rine vibe huru, asi basa rinotyisa.",chikafu,positive
+"ndakamira kune imwe brunch nhasi uye ndaiva ne vegan cranberry pancakes uye mumwe mukaka wemupunga, asi kofi yakanaka uye basa rakakwana.",vegan cranberry pancakes,neutral
+"ndakamira kune imwe brunch nhasi uye ndakanga ndine vegan cranberry pancakes uye mumwe mupunga mukaka, asi gwayana rinofarirwa.",brunch,neutral
+"ndakamira kune imwe brunch nhasi uye ndaiva ne vegan cranberry pancakes uye mumwe mupunga mukaka, asi basa rine rupo, chiitiko chikuru uye kuendesa kunongwarira.",mupunga mukaka,neutral
+"chikafu chakanga chakanaka chaizvo uye ndakashamisika zvinofadza kuona sarudzo dzakawanda dze vegan, asi chigaro chekupeta hachina kunaka.","vegan,",positive
+"chikafu chakanga chakanaka chaizvo uye ndakashamisika zvinofadza kuona sarudzo dzakawanda dze vegan, asi matafura ari pedyo zvisina kunaka, basa rakaipa uye vanhu vanotengesa vane utsinye.",chikafu,positive
+"kune mumwe munhu aimbovenga chikafu cheindia, baluchi's yakachinja pakati pangu, asi muto wechickpea wakatetepa.",chikafu cheindia,positive
+"pakupedzisira curry yandinogona kudya, kunakidzwa uye kwete kutambura gastritis kubva 3 maawa gare gare, asi zvokudya hazvina kukosha, kupeta chigaro hazvina kunaka uye pasi chickpea muto mutete.",curry,positive
+"edza zvingwa zvakagadzirwa kumba, asi basa rebhawa rinononoka uye mutengo wakakwirira.",zvingwa zvakagadzirwa kumba,positive
+"vose vari great - poori, naan, paratha zvose fresh, asi basa rakaodzwa mwoyo, curried casseroles yakaoma uye mutengo wakakwirira.",vari,positive
+"zvose great - poori, naan, paratha zvose fresh, asi smoothies yakakura uye basa rinononoka zvakanyanya.",paratha,positive
+"zvose great - poori, naan, paratha zvose fresh, asi fennel flavored italian sadza rinorema.",naan,positive
+"ini nemudzimai wangu nguva pfupi yadarika takashanyira bistro kudya kwemanheru uye ndakava nechiitiko chinoshamisa, asi ndinoedza pizza ne soy cheese.",kudya kwemanheru,neutral
+"iyo crab makeke inonaka uye bbq rib yakanga yakakwana, asi basa rakaipisisa, vanhu vanotengesa vane utsinye uye waiter is rude.",crab makeke,positive
+"iyo crab makeke inonaka uye bbq rib yakanga yakakwana, asi muridzi ndeyekunyepedzera, basa rinotyisa uye sushi yakakura.",bbq,positive
+"great waini mazita uye guru cocktail menyu, asi sushi yakakura uye basa rinotyisa.",cocktail menyu,positive
+"great waini mazita uye guru cocktail menyu, asi mugamuchiri ari zvisina kufanira.",waini mazita,positive
+"chikafu chakanaka chaizvo uye basa rakakura, asi vashandi vanozvikudza.",basa,positive
+"chikafu chakanaka chaizvo uye basa rakakura, asi vashandi vakaipa uye basa rinononoka.",chikafu,positive
+"in mi burrito, pano pakanga pasina chinhu kunze kwehuku yakasviba iyo yakanga ine iyo yakabikwa svondo rapera uye yakangodziya mu microwave kuravira; zvidya zvinonaka.",huku,negative
+"in mi burrito, pano pakanga pasina chinhu kunze kwehuku yakasviba iyo yakanga ine iyo yakabikwa svondo rapera uye yakangodziya mu microwave kuravira; kukosha kwakanaka, macadamia-crusted mali inoedzwa-uye-yechokwadi uye appetizers iri delectable.",kuravira,negative
+"enda nezvakakosha, uye ugare kure nesalmon. , asi waini mazita kunoodza mwoyo.",mazita,positive
+"enda nezvakakosha, uye ugare kure nesalmon. , asi vashandi vane ushamwari, chikamu saizi yakakura uye basa rakakwana.",salmon,negative
+"iyo pastas yakanga yakanaka kwazvo, asi mitengo yakakwirira uye vanhu vakaipisisa.",pastas,positive
+"mhepo inobereka, asi kudya kwakaisvonaka, waini yakanaka uye ndinokurudzira mupunga wakagochwa.",mhepo,negative
+"enda pano kana iwe uchida saladi itsva uye inonaka yemhando ipi zvayo yaunogona kufungidzira, asi muridzi ndewekunyepedzera.",saladi,positive
+"chipiri chekupedzisira chekudya kwemasikati neshamwari, asi kuendesa kunokurumidza, zvinwiwa zvinotyisa uye toppings itsva.",kwemasikati,neutral
+"mushure mekumirira kweanenge awa, weti brusquely akatiudza kuti akanga akanganwa kupa kicheni yedu yekuraira, asi basa rakakura, basa rinokurumidza uye chikafu chakanaka.",weti,negative
+"mushure mekumirira kweinenge awa, weti yacho yakatiudza nehasha kuti akanga akanganwa kupa kicheni order yedu, asi mitengo yakanaka.",kumirira,negative
+"mushure mekumirira kweinenge awa, weti brusquely akatiudza kuti akanga akanganwa kupa kicheni yedu yekuraira, asi waiters inobatsira uye desserts yakaisvonaka.",kicheni,neutral
+"ndakabvunza kakawanda kuti chii chimiro chekudya chakanga chiri uye chakanga chakanaka chakanyanya grunted ne unbelievably rude waiter, asi bi-level space is gorgeous, service is good and food is outstanding.",kudya,neutral
+"ndakabvunza kakawanda kuti chimiro chezvokudya chakanga chiri chii uye chakanga chakanaka zvikuru grunted pamusoro neasingadaviriki zvisina kufanira waiter, asi desserts akasununguka uye kofi inoshamisa.",kuti,negative
+"nzvimbo iyi ine chikafu chakanakisisa cheindia munew york, maoko pasi, asi vashandi vakaipa uye nzvimbo iri nyore.",chikafu,positive
+"vashandi vane ushamwari chaizvo uye vanobatsira uye kana iwe uchigara vachikuyeuka, asi mutengo wakakwirira, muto hausi wakanyanya kunaka uye basa rinononoka.",vashandi,positive
+"zvokudya zvakare zvinoshamisa uye zvinoshumirwa nokukurumidza zvikuru, asi imbwa dzinopisa dzakaipisisa uye vashandi vanozvikudza.",zvinoshumirwa,positive
+"zvokudya zvakare zvinoshamisa uye zvinoshumirwa nokukurumidza zvikuru, asi muto wechickpea wakatetepa, kuravira kwakaipisisa uye chigaro chekupeta hachina kunaka.",zvokudya,positive
+"ini nemurume wangu tave tiri ikoko kanenge ka6 uye isu nguva dzose takapiwa basa repamusoro uye kazhinji vakasununguka desserts, asi bhiri rakakura uye vashandi vakaipa.",basa,positive
+"ini nemurume wangu tave tiri ikoko kanenge ka6 uye isu takagara tichipiwa basa repamusoro uye kazhinji vakasununguka desserts, asi basa rinoodzwa mwoyo.",desserts,positive
+"kana iwe uri kutarisa kuravira zvimwe zvokudya zvikuru zveindia uye uchida basa rakanaka, zvechokwadi shanyira curry leaf, asi kuravira pfupi uye kamuri yakajeka.",zvokudya,positive
+"kana iwe uri kutsvaga kuravira zvimwe zvokudya zvikuru zveindia uye uchida basa rakanaka, zvechokwadi shanyira curry leaf, asi maneja haana nyasha uye bartenders inotyisa.",basa,positive
+"el nidos imwe yezvokudya zvakanakisisa munew york izvo zvandakamboenda, ine zvakasiyana-siyana zvikuru zvinonaka, muromo unodiridza pizza's, asi keke iri avhareji, sushi yakakura uye imbwa dzinopisa dzakaipisisa.",pizza,positive
+"iyo pizza's inogadzirwa itsva, crispy, uye yakagadzirira kushumira, asi hostess is rude, ac is a lack and clientele is loud-mouthed.",pizza,positive
+"basa ratakasangana naro rakanga riri roushamwari uye rakanaka, asi mutengesi webhawa ane utsinye uye mugamuchiri ane utsinye.",basa,positive
+"ndinogona kutaura kuti zviputi, burgers uye saladi zvose zvakanga zvitsva, zvinonaka uye mango margareta pa $ 9 yakanga iri well worth mari, asi vashandi vakaipa, bartender is rude and wait staff is inconsiderate.",saladi,positive
+"ndinogona kutaura kuti kuputira, burgers uye saladi zvose zvakanga zvitsva, zvinonaka uye mango margareta pa $ 9 yakanga well worth mari, asi bar service inononoka uye masikati isimba.",mango margaret,positive
+"ndinogona kutaura kuti kuputira, burgers uye saladi zvose zvakanga zvitsva, zvinonaka uye mango margareta pa $ 9 yakanga well worth mari, asi curried casseroles yakaoma uye kamuri yakajeka.",kamuri,positive
+"ndinogona kutaura kuti zviputi, burgers uye saladi zvose zvakanga zvitsva, zvinonaka uye mango margareta pa $ 9 yakanga iri well worth mari, asi basa rakashata, zvidimbu zvinodhura uye chikafu chinoodzwa mwoyo.",burgers,positive
+"iye zvino inonzi nikki sushi, sushi is ok, asi appetizers haisi inodhura, waini yewaini inoodza mwoyo uye nzvimbo yakanaka.",sushi,neutral
+"new hamburger pamwe chaiwo muto zvakanaka - kanenge nani kupfuura big mac, asi pfuma makeke ari kunyunyuta uye kudya ruzivo zvakaipisisa.",hamburger,positive
+"new hamburger ine muto chaiwo zvakanaka - kanenge zviri nani kupfuura big mac, asi mabikirwo anoedzwa-uye-echokwadi, vegan sarudzo dzakawanda uye chikafu chikuru.",big mac,negative
+"asi, iyo filet mignon yakanga isiri yakanaka kwazvo pane zvose cocktail awa inosanganisira yakasununguka appetizers (yakanaka isiri-sushi sarudzo); hostess is rude, bill is big and manager is a rudeness.",isiri-sushi,positive
+"asi, iyo filet mignon yakanga isiri yakanaka kwazvo pane zvose cocktail awa inosanganisira yakasununguka appetizers (yakanaka isiri-sushi sarudzo); waiter is a rudeness.",appetizers,positive
+"asi, iyo filet mignon yakanga isiri yakanaka kwazvo pane zvose cocktail awa inosanganisira yakasununguka appetizers (yakanaka isiri-sushi sarudzo); kuravira pfupi uye fortune cookies kunyunyuta.",cocktail awa,positive
+"asi, iyo filet mignon yakanga isiri yakanaka kwazvo pane zvose cocktail awa inosanganisira yakasununguka appetizers (yakanaka isiri-sushi sarudzo); chikafu chakatanhamara.",filet mignon,negative
+"yakanga iri mukana wedu bedzi wokushanyira uye taida kudya kwechokwadi kweitaly, asi hamburger inonaka.",kudya,neutral
+"vane vashandi vari parutivi rwemugwagwa vachiedza kukudhonza mukati izvo zvakaita kuti tinyumwire, asi saketini inoshamisa uye vanhu vakaipisisa.",vashandi,neutral
+"the lasagna zvimwe yaive yakanakisisa yandakaravira, asi kudya kunotyisa, huku yakasviba uye inogamuchira haina kufanira.",lasagna,positive
+"the menyu inonakidza uye zvikuru zvine musoro mutengo, asi mugamuchiri ari zvisina kufanira uye zvokudya iri haisi yakachipa.",mutengo,positive
+"iyo menyu inonakidza uye inonzwisisika zvikuru mutengo, asi vanhu vakaipisisa uye kuendesa kunongwarira.",menyu,positive
+"zvokudya zvakanga zvinonaka uye zvakajeka zvinhu zvitsva zvakashandiswa, asi basa rinononoka zvinotyisa uye chikafu chinoodzwa mwoyo.",zvinhu,positive
+"chikafu chacho chakanga chichinaka uye zvakajeka zvinhu zvitsva zvakashandiswa, asi ruzivo rwekudya runosuruvarisa uye saizi yakabatikana.",chikafu,positive
+"vashandi vakanga vane ushamwari zvikuru uye vanofadza, asi chiedza hachikwezvi uye chikafu chakanga chisina kubikwa chitsva.",vashandi,positive
+"iyo kamuri iri zvishoma yakajeka, asi zvakaoma kuita kuti nzvimbo duku yakadaro inonakidza uye ini handingaratidzi kuti sechikonzero chekusaenda; maratha mutsva.",kamuri,negative
+"iyo kamuri iri zvishoma yakajeka, asi zvakaoma kuita kuti nzvimbo duku yakadaro inonakidza uye ini handingaratidzi kuti sechikonzero chekusaenda; kudya kwemanheru kwakanaka uye saketini inoshamisa.",nzvimbo,negative
+"aiva nekudya kwemanheru kwakanaka mune iyi yakatsaurirwa yegungwa yakabatana, chikafu chakanga chakanyatsogadzirirwa uye -yakapiwa uye basa racho raifadza uye rakakurumidza, asi kudya kunodhura, vashandi vanozvikudza uye basa rebhawa rinononoka.",basa,positive
+"aiva nekudya kwemanheru kwakanaka mune iyi yakatsaurirwa yegungwa yakabatana, chikafu chakanga chakanyatsogadzirirwa uye -yakapiwa uye basa racho raifadza uye rakakurumidza, asi green chills haisi inodyiwa, hostess is rude uye huku yakasviba.",chikafu,positive
+"aiva nekudya kwemanheru kwakanaka mune iyi yakatsaurirwa yegungwa yakabatana, chikafu chakanga chakanyatsogadzirirwa uye -chakaratidzwa uye basa racho raifadza uye rakakurumidza, asi kumirira kwakashata, kutonhora kwegreen hakudyiwi uye kukura kwakabatikana.",kudya kwemanheru,positive
+"nzvimbo yakanaka, chero bedzi isina kunyanya kuzara uye kuzvipira kune imwe chete kune yayo yakasarudzwa cuisine inoita kuti mare ive sarudzo huru kune vanoda zvegungwa, asi nzvimbo yakajeka uye keke iri avhareji.",cuisine,positive
+"nzvimbo yakanaka, chero bedzi isina kunyanya kuzara uye kuzvipira kune imwe chete kune yayo yakasarudzwa cuisine inoita kuti mare ive sarudzo huru kune vanoda hove dzegungwa, asi mimhanzi yakanyanya kurema, muridzi wekunyepedzera uye mole sauce yakanyanya kutapira.",hove dzegungwa,positive
+"nenzvimbo dzose dzepasi kana mediocre pa8th avenue zvakanaka kuva neimwe iyo iri danho riri pamusoro mu quaility uye mhepo, asi disco pop duo inotyisa uye mukati ndeye avhareji.",quaility,positive
+"nenzvimbo dzose dzepasi rose kana mediocre pa8th avenue zvakanaka kuva neimwe iyo iri danho riri pamusoro mu quaility uye mhepo, asi nzvimbo inonaka, kumirira kwakashata uye muridzi ndewekunyepedzera.",mhepo,positive
+"kana iwe uchida zvokudya zvegungwa uye / kana chikafu chechigiriki iwe uchada nzvimbo ino kunyange zvazvo isina kuganhurirwa kune zvinhu izvi chete, asi basa rinotyisa.",zvegungwa,positive
+"kana iwe uchida zvokudya zvegungwa uye / kana chikafu chechigiriki iwe uchada nzvimbo ino kunyange zvazvo isina kuganhurirwa kune zvinhu izvi chete, asi chikafu chiri fancy, vashandi vakaipa uye zvikamu zviduku.",chikafu chechigiriki,positive
+"chikafu chacho chakanga chinenge nguva dzose excellent, asi vashandi vakaipa, bartender is rude and hostess is rude.",chikafu,positive
+"ndinofarira pano ndivo tacos pastor uye tostada de tinga, asi curried casseroles zvakaoma.",tacos pastor,positive
+"ndinofarira pano ndivo tacos pastor uye tostada de tinga, asi chikafu chejapan chiri nani.",tostada de tinga,positive
+"iyo decor ndiyo yakatanga kundipinza mumukova, asi menyu diki.",decor,positive
+"gobvu fries, nyama chili uye stuffed yakabikwa mbatatisi round out a menu inosanganisira inotonhorera, ultra-thick chocolate frosty, asi chikafu chinoshamisa, rolls yakaisvonaka uye nzvimbo inofadza.",yakabikwa,neutral
+"gobvu fries, nyama chili uye stuffed yakabikwa mbatatisi round out a menu inosanganisira inotonhorera, ultra-thick chocolate frosty, asi chisvusvuro masangweji anoshamisa uye sushi yakatsva.",nyama chili,neutral
+"gobvu fries, nyama chili uye stuffed yakabikwa mbatatisi round out a menu that includes a cool, ultra-thick chocolate frosty, but bar service is slow and waiter is a rudeness.",chocolate,positive
+"gobvu fries, nyama chili uye stuffed yakabikwa mbatatisi round out a menu inosanganisira inotonhorera, ultra-thick chocolate frosty, asi mitengo yakakura uye sushi itsva.",menu,neutral
+"gobvu fries, nyama chili uye stuffed yakabikwa mbatatisi kumativi kunze menyu inosanganisira inotonhorera, ultra-gobvu chokoreti frosty, asi basa iri kunyatsoteerera uye italian zvokudya zviri nyore.",fries,neutral
+"ndinofanira kutaura kuti vane imwe yenguva dzinokurumidza kuendesa muguta, asi hostess is rude.",yenguva,positive
+"chikafu chinogara chiri chitsva uye chinopisa- chakagadzirira kudya, asi vashandi vanozvikudza.",chikafu,positive
+"kofi iri nani kupfuura overpriced cosi masangweji, asi kudya ruzivo zvakaipisisa.",kofi,positive
+"kofi iri nani kupfuura overpriced cosi masangweji, asi teas zvikuru.",cosi masangweji,negative
+"ndingadai chete kuenda kofi iyo nzira nani kupfuura starbucks kana zvakafanana, asi waiters zvakaipa, kumirira iri zvisina kufanira uye girini chills hazvidyiwi.",kofi,positive
+"kana iwe uri kutsvaga zvechokwadi hong kong-style chikafu, usatarisa mberi, asi vashandi vakaipa.",kong-style,positive
+"rice ndiro uye noodle ndiro kashoma kupfuura $ 5 uye wedzera pamusoro inozorodza chando chinwiwa nokuda $ 2 uye iwe wakagadzirirwa usiku, asi zvikamu zviduku.",ndiro,positive
+"zvidya zvemupunga uye zvokudya zve noodle hazviwanzopfuura $ 5 uye zvinowedzera pane chinwiwa chinozorodza chando che $ 2 uye iwe wakagadzirirwa usiku, asi basa rakashata, smoothies yakakura uye ndiro inodyiwa.",ndiro,positive
+"mupunga ndiro uye noodle ndiro kashoma kupfuura $ 5 uye wedzera pamusoro inozorodza chando chinwiwa nokuda $ 2 uye iwe wakagadzirirwa usiku, asi zvidimbu zvinodhura.",noodle ndiro,positive
+"zvinosuruvarisa, isu takasarudza nzvimbo iyi yekudya kwemasikati sezvatakanga taita kufamba kwakawanda uye takaguma kusouth st seaport, asi kusarudzwa kwewaini (kunyanya spanish) kunonakidza uye maumbirwo ndeye velvety.",kudya kwemasikati,neutral
+"hapana bhinzi dzakasvibirira, hapana zai, hapana anchovy kupfeka, hapana maorivhi e nicoise, hapana hanyanisi tsvuku, asi inotenderera ne crab yakakura.","tsvuku,",neutral
+"hapana bhinzi dzakasvibirira, hapana zai, hapana anchovy kupfeka, hapana maorivhi e nicoise, hapana hanyanisi tsvuku, asi menyu yakasiyana-siyana, kuravira pfupi uye basa rine ushamwari.",maorivhi,neutral
+"hapana bhinzi dzakasvibirira, hapana zai, hapana anchovy kupfeka, hapana nicoise maorivhi, hapana hanyanisi tsvuku, asi kofi iri nani, odessa stew yakanaka uye chisvusvuro masangweji anoshamisa.",zai,neutral
+"hapana bhinzi dzakasvibirira, hapana zai, hapana anchovy kupfeka, hapana maorivhi e nicoise, hapana hanyanisi tsvuku, asi chikafu chakanaka.",bhinzi dzakasvibirira,neutral
+"hapana bhinzi dzakasvibirira, hapana zai, hapana anchovy kupfeka, hapana nicoise maorivhi, hapana hanyanisi tsvuku, asi nzvimbo inoshamisa inodziya kugamuchira, huku yakakura uye ruzivo rwekudya rwakaipisisa.",anchovy kupfeka,neutral
+"kutaura zvazviri, iyi yakanga isiri saladi yenicoise uye yakanga isingadyiwi, asi sushi ndiyo yakanakisisa.",saladi,negative
+"mukadzi asina kutsarukana pedyo nesu akafunga kuti akanga arayira saladi (kusanganisira kukumbira saladi kupfeka) uye panzvimbo pezvo akapiwa quesedilla, asi mutengo unonzwisisika, unhu huri nani uye sarudzo yedoro yakakura.",saladi kupfeka,neutral
+"mukadzi asina kutsarukana pedyo nesu akafunga kuti akanga arayira saladi (kusanganisira kukumbira saladi kupfeka) uye panzvimbo pezvo akapiwa quesedilla, asi ndiro dzinonaka, ruzivo rwekudya runofadza uye vashandi vakanaka.",quesedilla,neutral
+"mukadzi asina kutsarukana pedyo nesu akafunga kuti akanga arayira saladi (kusanganisira kukumbira saladi kupfeka) uye panzvimbo pezvo akapiwa quesedilla, asi chikafu chikuru uye vashandi vanoziva.",saladi,neutral
+"apo akanyunyuta, waitress akati, sorry, asi chikafu chakanaka uye zvinwiwa zvinotyisa.",waitress,neutral
+"15% gratuity otomatiki akawedzera bhiri, asi italian cuisine itsva.",gratuity,negative
+"15% gratuity otomatiki akawedzera bhiri, asi zvokudya zvikuru.",bhiri,negative
+"iyo chokoreti raspberry keke iri kudenga- kwete yakanyanya kutapira, asi izere nekunakirwa; basa rinononoka zvikuru uye zvokudya hazvipindirani.",zvokudya,positive
+"iyo chokoreti raspberry keke iri kudenga- kwete yakanyanya kutapira, asi izere nekunakirwa; dhiza rinodyiwa, kuravira kupfupi uye basa rinononoka.",chokoreti raspberry keke,positive
+"gara shure mune chimwe chezvigaro izvozvo zvakanaka, asi vashandi vanozvikudza.",zvigaro,positive
+"mhepo inokuendesa kunzvimbo iyoyo, nzvimbo iyo vazhinji vanorota, asi chikafu hachina kukosha uye basa rinononoka.",mhepo,positive
+"kunyangwe yako sarudza iced yakasanganiswa mocha kana inopisa chena mocha iwe une chokwadi chekufara zvakanyanya, asi zvikamu zviduku uye fortune cookies chichemo.",mocha,positive
+"kunyangwe yako sarudza iced yakasanganiswa mocha kana inopisa chena mocha iwe une chokwadi chekufara zvikuru, asi fortune cookies chichemo, basa rinotyisa uye bartenders inotyisa.",iced yakasanganiswa mocha,positive
+"kunyange zvazvo pane menyu yakanaka, hazvifaniri kutora maminitsi gumi kuti uwane zvinwiwa zvako uye 45 ye dessert pizza, asi muto unopisa, smoothies yakakura uye kudya kwakaipisisa.",zvinwiwa,neutral
+"kunyange zvazvo pane menyu yakanaka, hazvifaniri kutora maminitsi gumi kuti uwane zvinwiwa zvako uye 45 ye dessert pizza, asi hostess haina kufanira.",menyu,positive
+"kunyange zvazvo pane menyu yakanaka, hazvifaniri kutora maminitsi gumi kuti uwane zvinwiwa zvako uye 45 ye dessert pizza, asi nzvimbo iri nyore.",dessert pizza,neutral
+"takaguma tichifanira kungosiya nekuti takanga tichinyanya kufuratirwa nevashandi vekumirira--kunyange zvazvo dzimwe nzvimbo dzeresitorendi dzakanga dzisina chinhu, asi nzvimbo yakanaka, basa rine ushamwari uye sarudzo isiri sushi yakanaka.",nevashandi,negative
+"kudya kwavo kwemanheru kunokosha kunoshamisa, asi imbwa dzinopisa dzakaipisisa.",kudya,positive
+"nokuti anenge gumi nerimwe bucks iwe kuwana rakakura burrito (kana tacos), margarita, uye dessert, asi vashandi vanozvikudza uye zvokudya zviri pasi avhareji.",tacos,positive
+"nokuti anenge gumi nerimwe bucks iwe kuwana rakakura burrito (kana tacos), margarita, uye dessert, asi zvokudya zvinoodzwa mwoyo uye zvokudya zvegungwa zvikuru.",margarita,neutral
+"nokuti anenge gumi nerimwe bucks iwe kuwana rakakura burrito (kana tacos), margarita, uye dessert, asi kudya zvikuru uye vegan mikana yakawanda.",dessert,neutral
+"nokuti anenge gumi nerimwe bucks iwe kuwana rakakura burrito (kana tacos), margarita, uye dessert, asi hove iri avhareji uye kudya ruzivo kunosuruvarisa.",burrito,positive
+"yakakwana yekukurumidza kudya, asi muto wechickpea wakatetepa.",kudya,positive
+"hazviratidziki zvakanyanya kunze, asi miniti yaunofamba mukati, imwe mhepo yose; sushi yakakura.",mhepo,positive
+"hazviratidziki zvakanyanya kunze, asi miniti yaunofamba mukati, imwe mhepo yose; sweet uchi-mustard nyama yemombe pfupi mbabvu inotapira.",kunze,negative
+"ndakaenda kucommon stock kunodya brunch and i was so impressed, but taste is short.",brunch,neutral
+"shamwari yangu yaiva burger uye ndaiva izvi zvinoshamisa blueberry pancakes, asi zvokudya zvikuru, flavor izere uye chiitiko chikuru.",burger,neutral
+"shamwari yangu yaiva burger uye ndaiva izvi zvinoshamisa blueberry pancakes, asi zvokudya zvinotyisa.",blueberry pancakes,positive
+"takafara zvikuru nezvokudya zvedu uye takatonyanya kufara patakaona bhiri, asi sushi yakakura.",bhiri,positive
+"takafara zvikuru nezvokudya zvedu uye takatonyanya kufara patakaona bhiri, asi ndiro inodyiwa.",zvokudya,positive
+"vanounza ngoro yemuto kusvika patafura yako uye vanokupa iwe kusvika ku7 kana 8 sarudzo dze sauces ye steak yako (ndakaedza ivo zvese), asi chikamu chekudya chiri pasi peavhareji uye basa rakanaka.",ngoro,neutral
+"vanounza ngoro yemuto kusvika patafura yako uye vanokupa iwe kusvika ku7 kana 8 sarudzo dze sauces ye steak yako (ndakaedza ivo zvese), asi mbabvu dzakanaka.",tafura,neutral
+"vanounza ngoro yemuto kusvika patafura yako uye vanokupa iwe kusvika ku7 kana 8 sarudzo dze sauces ye steak yako (ndakaedza izvo zvese), asi kuravira kwakaipisisa.",sarudzo,positive
+"vanounza ngoro yemuto kusvika patafura yako uye vanokupa iwe kusvika ku7 kana 8 sarudzo dze sauces ye steak yako (ndakaedza ivo zvese), asi chikafu chechinese chakanakisisa, nzvimbo yakachena uye kudya kwakanaka.",steak,neutral
+"basa racho rakanga riri pane pfungwa - chii chimwe chaungatarisira kubva kuritz, asi mugamuchiri ane utsinye, hostess is rude uye waiter is a rudeness.",basa,positive
+"dessert yaifanirawo kufa, asi basa riri murombo uye basa rinononoka.",dessert,positive
+"unhu hwenyama hwakanga huri pamwe chete nechitoro chako chezvokudya, asi calamari inokunda uye awa inofadza yakachipa.",hwenyama,negative
+"basa rinozivikanwa nekukotama kumashure kuti munhu wese afare, asi bartender ane utsinye, hove iri avhareji uye basa rakaipa.",basa,positive
+"zvidya zvinoratidzirwa se ""roy's classics"" (inoratidzirwa pane menyu ne asterisks) inoedzwa-uye yechokwadi mabikirwo, akadai se macadamia-crusted mahi mahi, kana nenzira inonyengera inotapira uchi-mustard nyama yemombe pfupi mbabvu, asi sushi yakakura uye ndiro inodyiwa.","""roy's classics""",positive
+"zvidya zvinoratidzirwa se ""roy's classics"" (inoratidzirwa pane menyu ne asterisks) inoedzwa-uye yechokwadi mabikirwo, akadai se macadamia-crusted mahi mahi, kana nenzira inonyengera inotapira uchi-mustard nyama yemombe pfupi mbabvu, asi chiedza hachikwezvi, pfuma makiki kunyunyuta uye mimhanzi yakanyanya kurema.",macadamia-crusted,positive
+"zvidya zvinoratidzirwa se ""roy's classics"" (yakaratidzirwa pane menyu ne asterisks) inoedzwa-uye yechokwadi mabikirwo, akadai se macadamia-crusted mahi mahi, kana nenzira inonyengera inotapira uchi-mustard nyama yemombe pfupi mbabvu, asi basa rakaipisisa, bhiri rakakura uye kudya kwemanheru isimba.",yemombe,positive
+"zvidya zvinoratidzirwa se ""roy's classics"" (yakaratidzirwa pane menyu ne asterisks) inoedzwa-uye yechokwadi mabikirwo, akadai se macadamia-crusted mahi mahi, kana nenzira inonyengera inotapira uchi-mustard nyama yemombe pfupi mbabvu, asi sushi yakakura, basa rakaipa uye basa rakaipisisa.",inotapira uchi-mustard nyama yemombe pfupi mbabvu,positive
+"zvidya zvinoratidzirwa se ""roy's classics"" (inoratidzirwa pane menyu ne asterisks) inoedzwa-uye yechokwadi mabikirwo, akadai se macadamia-crusted mahi mahi, kana nenzira inonyengera inotapira uchi-mustard nyama yemombe pfupi mbabvu, asi ambiance ine rudo, hanyanisi mhete yakanakisisa uye miriwo yakasiyana.",menyu,neutral
+"zvidya zvinoratidzirwa se ""roy's classics"" (inoratidzirwa pane menyu ne asterisks) inoedzwa-uye yechokwadi mabikirwo, akadai se macadamia-crusted mahi mahi, kana nenzira inonyengera inotapira uchi-mustard nyama yemombe pfupi mbabvu, asi muto wepasi chickpea wakatetepa uye basa rakaipisisa.",mabikirwo,positive
+"iyo yakanakisisa dessert, chokoreti uye nzungu butter tart, haisi kunyanya hawaiian, asi inyika duku kana totaura nezvezviwitsi; ndinoedza gwayana chops uye mutsva muto concoctions itsva.",zviwitsi,neutral
+"iyo yakanakisisa dessert, chokoreti uye nzungu butter tart, haisi kunyanya hawaiian, asi inyika duku kana totaura nezvezviwitsi; folding chair haina kunaka uye basa rinotyisa.",dessert,positive
+"iyo yakanakisisa dessert, chokoreti uye nzungu butter tart, haisi kunyanya hawaiian, asi inyika duku kana totaura nezvezviwitsi; chakudya chokwanira kwambiri.",chokoreti uye nzungu butter tart,positive
+"the kudya kwemanheru menyu inopa zvakasiyana-siyana zvikuru entrees, kusanganisira itsva zvokudya zvegungwa uye hombe steaks, panewo vaviri vasiri nyama dzimwe nzira, asi zvokudya zvakanga zvisina kubikwa itsva.",steaks,positive
+"iyo menyu yekudya kwemanheru inopa zvakasiyana-siyana zvikuru entrees, kusanganisira zvitsva zvegungwa uye zvakakura steaks, panewo vaviri vasiri nyama dzimwe nzira, asi fennel flavored italian sadza rinorema, huku rudo uye gwayana entrée yakanaka.",nyama,neutral
+"the kudya menyu inopa siyana zvikuru entrees, kusanganisira itsva zvokudya zvegungwa uye hombe steaks, panewo vaviri vasiri nyama dzimwe nzira, asi kupeta chigaro hazvina kunaka.",zvegungwa,positive
+"the kudya kwemanheru menyu inopa zvakasiyana-siyana zvikuru entrees, kusanganisira itsva zvokudya zvegungwa uye hombe steaks, panewo vaviri vasiri nyama dzimwe nzira, asi vashandi zvakaipa, mutengo haana kukosha uye mugamuchiri ari zvisina kufanira.",entrees,positive
+"the kudya kwemanheru menyu inopa zvakasiyana-siyana zvikuru entrees, kusanganisira itsva zvokudya zvegungwa uye hombe steaks, panewo vaviri vasiri nyama dzimwe nzira, asi zvokudya akaodzwa mwoyo.",menyu,positive
+"zvose zviri scrumptious, kubva basa rakaisvonaka kubudikidza akanaka waitresses, kuti zvikuru yakasvibirira mhepo, asi zvokudya zvemanheru simba, nzvimbo inonaka uye bhaa basa kunonoka.",basa,positive
+"zvose zviri scrumptious, kubva basa rakaisvonaka kubudikidza akanaka waitresses, kuti zvikuru yakasvibirira mhepo, asi hostess ari zvisina kufanira.",waitresses,positive
+"zvose zviri scrumptious, kubva basa rakaisvonaka kubudikidza akanaka waitresses, kuti zvikuru yakasvibirira mhepo, asi kamuri yakajeka.",mhepo,positive
+"ivo chaizvoizvo vanopa kuzorora, kuisa-shure mhepo, asi vashandi vekumirira havana hanya uye basa rinononoka.",mhepo,positive
+"ndakauya itsva kutarisira zvokudya zvikuru, uye zvose ndakawana akanga marginally saka-saka zvokudya akashandiswa muresitorendi kuti akanga chete saka chando hatina kugona kunakidzwa kudya, asi nzvimbo iri pedyo.",kutarisira,neutral
+"ndakauya itsva kutarisira zvokudya zvikuru, uye zvose ndakawana akanga marginally saka-saka zvokudya akashandiswa muresitorendi kuti akanga chete saka chando hatina kugona kunakidzwa kudya, asi nzvimbo inofadza uye japanese zvokudya zvakanaka.",kudya,negative
+"ndakauya itsva kutarisira zvokudya zvikuru, uye zvose ndakawana akanga marginally saka-saka zvokudya akashandiswa muresitorendi kuti akanga chete saka chando hatina kugona kunakidzwa kudya, asi kudya utano.",zvokudya,negative
+"waitress yedu sezviri pachena yakanga isina kumboedza chero chikafu, uye pakanga pasina munhu anokurudzira chero waini, asi imbwa dzinopisa dzakakura uye basa rinofara.","chikafu,",neutral
+"sezviri pachena waitress wedu akanga asina kumboedza chero chipi zvacho chezvokudya, uye pakanga pasina munhu airumbidza waini ipi neipi, asi zvokudya zvakabikwa zvinoshamiswa.",waini,neutral
+"waitress yedu sezviri pachena akanga asina kumboedza chero zvokudya, uye pakanga pasina munhu anokurudzira chero waini, asi chisvusvuro masangweji zvinoshamisa uye zvokudya zvikuru.",waitress,negative
+"iyo halibut cheek appetizer yakauya nechikamu chine rupo che foie gras, asi ndizvo zvinenge chete chinhu chakanaka chandinogona kutaura nezvekudya; basa rine ushamwari uye hostess ine nyasha.",halibut,neutral
+"iyo halibut cheek appetizer yakauya nechikamu chine rupo che foie gras, asi ndizvo zvinenge chete chinhu chakanaka chandinogona kutaura nezvekudya; folding chair haina kusununguka, fortune cookies kunyunyuta uye green chills haidyiwi.",foie,positive
+"zvinhu zvechinyakare zveitaly zvakakura - zvakachipa uye zvakashandiswa munzvimbo yakanaka, asi maneja haana nyasha, dhiza rinodyiwa uye kuendesa kunongwarira.",kuendesa,positive
+"zvinhu zvechinyakare zveitaly zvakakura - zvakachipa uye zvakashandiswa munzvimbo yakanaka, asi basa rinotyisa.",munzvimbo,positive
+"zvinhu zvechinyakare zveitaly zvakakura - zvakachipa uye zvakashandiswa munzvimbo yakanaka, asi curried casseroles yakaoma.",zvechinyakare,positive
+"zvakakwana al dente pasta, isina kunyura mumuto - zvikamu zvine rupo, asi basa rakashata, basa rinononoka zvakanyanya uye basa rinotyisa.",zvikamu,positive
+"zvakakwana al dente pasta, isina kunyura mumuto -- zvikamu zvine rupo, asi basa rakaipisisa.",basa,positive
+"zvakakwana al dente pasta, isina kunyura mumuto - zvikamu zvine rupo, asi sushi itsva.",muto,neutral
+"takanakidzwa zvakakwana uye tichange tichidzokera kune desserts , asi chikafu hachina kuwirirana.",desserts,positive
+"my chelsea's inoshamisa uye yekugadzira menyu inosanganisira yemazuva ano, westernized japanese zvidya zvakadai sefoie gras unagi napolean, jap style hamburger steak, spicy cod roe spaghetti, black cod ne miso base, uye rack yegwayana mune dema truffle sauce, kungodudza zvishoma, asi kudya kwemanheru kwakanaka uye basa iri pamusoro.",spicy cod roe spaghetti,neutral
+"my chelsea's inoshamisa uye yekugadzira menyu inosanganisira yemazuva ano, westernized japanese zvidya zvakadai sefoie gras unagi napolean, jap style hamburger steak, spicy cod roe spaghetti, black cod ne miso base, uye rack yegwayana mune dema truffle sauce, kungodudza zvishoma, asi basa rakakura.",foie gras unagi napolean,neutral
+"my chelsea's inoshamisa uye yekugadzira menyu inosanganisira yemazuva ano, westernized japanese zvidya zvakadai sefoie gras unagi napolean, jap style hamburger steak, spicy cod roe spaghetti, black cod ne miso base, uye rack yegwayana mune dema truffle sauce, kungodudza zvishoma, asi basa rine ushamwari, saladi yakanaka uye chiitiko chikuru.",miso,neutral
+"my chelsea's inoshamisa uye yekugadzira menyu inosanganisira yemazuva ano, westernized japanese zvokudya zvakadai sefoie gras unagi napolean, jap style hamburger steak, spicy cod roe spaghetti, black cod ne miso base, uye rack yegwayana mune dema truffle sauce, kungodudza zvishoma, asi hostess haina kufanira uye maneja haana nyasha.",menyu,positive
+"my chelsea's inoshamisa uye yekugadzira menyu inosanganisira yemazuva ano, westernized japanese zvidya zvakadai sefoie gras unagi napolean, jap style hamburger steak, spicy cod roe spaghetti, black cod ne miso base, uye rack yegwayana mune dema truffle sauce, kungodudza zvishoma, asi mitengo inonzwisisika.",rack yegwayana mune dema truffle sauce,neutral
+"my chelsea's inoshamisa uye yekugadzira menyu inosanganisira yemazuva ano, westernized japanese zvidya zvakadai sefoie gras unagi napolean, jap style hamburger steak, spicy cod roe spaghetti, black cod ne miso base, uye rack yegwayana mune dema truffle sauce, kungodudza zvishoma, asi appetizers haisi inodhura uye kudya hakudhuri.",appetizers,neutral
+"my chelsea's inoshamisa uye yekugadzira menyu inosanganisira yemazuva ano, westernized japanese zvidya zvakadai sefoie gras unagi napolean, jap style hamburger steak, spicy cod roe spaghetti, black cod ne miso base, uye rack yegwayana mune dema truffle sauce, kungodudza zvishoma, asi kudya kwemanheru kunofadza uye kutonhora sesame noodles iri delectable.",jap style hamburger steak,neutral
+"desserts vanenge incredible: wangu pachangu kufarira ndiyo tart yavo day, asi kuravira kwakaipisisa.",desserts,positive
+"desserts zvinenge zvinoshamisa: wangu pachangu kufarira kwavo tart of day, asi waiter ari zvisina kufanira uye girini chills hazvidyiwi.",tart,positive
+"basa rakanaka, chikafu chikuru, kukosha kwakanaka, uye haimbofaniri kumirira mumutsetse, asi matafura ari pedyo zvisina kunaka.",basa,positive
+"basa rakanaka, chikafu chikuru, kukosha kwakanaka, uye haimbofaniri kumirira mumutsetse, asi mole sauce yakanyanya kutapira.",kumirira,positive
+"basa rakanaka, chikafu chikuru, kukosha kwakanaka, uye haimbofaniri kumirira mumutsetse, asi nyama yakagadzirwa lobster yakagadzirwa, basa rakaipa uye vanhu vanotengesa vakashata.",kukosha,positive
+"basa rakanaka, chikafu chikuru, kukosha kwakanaka, uye haimbofaniri kumirira mumutsetse, asi basa rinononoka, weti inoshatiriswa uye zvikamu zviduku.",chikafu,positive
+"zvakakosha kutora taxi kuenda kuchelsea chete kudya kunotyisa kumy chelsea, asi ac inoshaya, kuravira kwakaipisisa uye kudya kunodhura.",kudya,positive
+"ndakawana mukana wekudya pane yako kugadzwa zvakare masvondo mashomanana apfuura, ndakanga ndiri munzvimbo yako yekudyira upstrairs, asi zvigaro zvakasununguka, vashandi vane ushamwari uye ini ndinoedza pasta.",wekudya,neutral
+"zvikamu zvezvokudya zvakabuda zvakanga zviri mediocre, asi zvokudya zvinopisa nzvimbo uye waitstaff yakakura.",zvezvokudya,neutral
+"sei anogona kutarisira kugara mubhizimisi nebasa rakadai, asi naan yakakura uye mhepo inotonhorera.",basa,negative
+"best spicy tuna roll, saladi huru yeasia, asi mutengo hauna kukosha uye basa rinotyisa.",saladi,positive
+"best spicy tuna roll, saladi huru yeasia, asi waiter is a rude and manager is a rudeness.",spicy tuna roll,positive
+"edza rose roll (kwete pane menyu), asi filet diki haisi yakanaka kwazvo uye chikafu chinoodzwa mwoyo.",rose roll,positive
+"edza rose roll (kwete pane menyu), asi mhepo yakakwana.",menyu,neutral
+"ita mamwe matafura- zvichida bhaa repamusoro pedenga, asi saladi inonaka, mitengo haisi inotyisa uye zvinwiwa zvikuru.",bhaa,neutral
+"ita mamwe matafura- zvichida bhaa repamusoro pedenga, asi mapapiro akanaka uye kukosha kwakakura.",matafura,negative
+"iyo yakagadzirwa kumba guacamole, iyo isingadaviriki entree, uye iwe magwenga anoshamisa zvikuru, asi vashandi vanozvikudza.",magwenga,positive
+"iyo yakagadzirwa kumba guacamole, iyo isingadaviriki entree, uye iwe magwenga anoshamisa zvikuru, asi vashandi vakaipa, basa rinotyisa uye kumirira kwakashata.","entree,",positive
+"iyo yakagadzirwa kumba guacamole, iyo isingadaviriki entree, uye iwe unoshamisa zvikuru magwenga, asi basa rinotyisa kunonoka, nzvimbo inonaka uye clientele ine ruzha-muromo.","guacamole,",positive
+"kana iwe uri tequila fan iwe hauzoodzwi mwoyo, asi mutengo wakakwirira, curried casseroles yakaoma uye saizi yakabatikana.",tequila,positive
+"uyai musi wako uye bhodhoro waini, asi zvokudya zvakanga zvisina kubikwa itsva uye mitengo zvikuru.",bhodhoro,neutral
+"matafura ari pedyo, saka iwe zviri nani kuva wakasununguka bumping zvigunwe nevamwe patrons, asi crust yakakwana, empenadas yakaisvonaka uye basa rinogamuchira vaeni.",matafura,negative
+"chikafu chacho chakanga chakagadzira sezvo decor uye zvose zvakashanda, asi basa rinononoka zvakanyanya uye basa rinononoka.",decor,positive
+"chikafu chacho chakanga chakagadzira sezvo decor uye zvose zvakashanda, asi muridzi ndewekunyepedzera.",chikafu,positive
+"chete chikarakadzo ndechokuti iwe skip dessert, zvakanga overpriced uye akawira pasi kuravira, asi zvokudya zvikuru.",dessert,negative
+"chikarakadzo chete ndechekuti iwe unosvetuka dessert, yakanga yakanyanyisa mutengo uye yakaderera pane kuravira, asi mitengo ine mwero, kudya kunodhura uye tuna yakanaka.",kuravira,negative
+"sandwiches, burgers uye saladi, kufanana ne-lemon-yakapfeka cobb, ndeye classic kubudirira, asi chikamu chekudya chiri pasi peavhareji.",sandwiches,positive
+"sandwiches, burgers uye saladi, kufanana ne-lemon-yakapfeka cobb, ndeye classic kubudirira, asi fennel flavored italian sausage inorema uye vashandi vanotsamwa.",burgers,positive
+"sandwiches, burgers uye saladi, kufanana ne-lemon-yakapfeka cobb, ndeye classic kubudirira, asi waiter is rude.",saladi,positive
+"sandwiches, burgers uye saladi, kufanana ne-lemon-yakapfeka cobb, ndeye classic kubudirira, asi nzvimbo iri nyore.",lemon-yakapfeka cobb,positive
+"hip boutiques uye mabhawa pamusoro ludlow kuwedzera kuti artsy, akaisa-shure mhepo panguva iyi israeli-maitiro takeout uye kudya-mu burger pamwe, asi fennel flavored italian sadza rinorema.",mhepo,positive
+"young nharaunda trendies kufura panguva counter masikati, apo chic, unyanzvi-imba vanonwa vane rinorema doses pamusoro munchies murwi mukupera usiku, asi basa rakabatikana, bartender anofara uye basa rakanaka.",counter,neutral
+"nzvimbo duku, yekunze yekudya inoita kuti nzvimbo yakavanzika, yakasununguka yekudzidza yoga kana kusangana neshamwari, asi chigaro chekupeta hachina kunaka, basa rinononoka uye basa rinoodzwa mwoyo.",nzvimbo,positive
+"nzvimbo duku, yekudya kunze inoita nzvimbo yakavanzika, yakasununguka yekudzidza yoga kana kusangana neshamwari, asi vashandi vekumirira havana hanya.",yekudya,positive
+"norupo rakashongedzwa, organic grilled burgers ndiyo inonyanya kuzivikanwa dhiza, asi jerusarema musika-maitiro falafel wraps uye mediterranean saladi--yakaturikidzana ne beets, mbudzi cheese uye walnuts--zvakaenzana scrumptious; basa rinononoka.",falafel,positive
+"norupo rakashongedzwa, organic grilled burgers ndiyo inonyanya kuzivikanwa dhiza, asi jerusarema musika-maitiro falafel wraps uye mediterranean saladi--yakaturikidzana ne beets, mbudzi cheese uye walnuts--zvakaenzana scrumptious; chikafu hachisi chisingadhuri uye bar service inononoka.",dhiza,positive
+"norupo rakashongedzwa, organic grilled burgers ndiyo inonyanya kuzivikanwa dhiza, asi jerusarema musika-maitiro falafel wraps uye mediterranean saladi--yakaturikidzana ne beets, mbudzi cheese uye walnuts--zvakaenzana scrumptious; kuravira kwakaipisisa, muto hauna kunaka zvikuru uye zvikamu zviduku.",organic grilled burgers,positive
+"norupo rakashongedzwa, organic grilled burgers ndiyo inonyanya kuzivikanwa dhiza, asi jerusarema musika-maitiro falafel wraps uye mediterranean saladi--yakaturikidzana ne beets, mbudzi cheese uye walnuts--zvakaenzana scrumptious; hostess is rude and slices inodhura.",saladi--yakaturikidzana,positive
+"nyama-phobes iri mumhanza neyechienzi veggie burger, yakagadzirwa kubva kune yakasiyana kusanganiswa kwechickpeas, karoti nemimwe miriwo uye zvinonhuwira, asi curried casseroles yakaoma, zvinwiwa zvinotyisa uye ndiro inodyiwa.",karoti,positive
+"nyama-phobes iri mumhanza neyechienzi veggie burger, yakagadzirwa kubva kune yakasiyana kusanganiswa kwechickpeas, karoti nemimwe miriwo uye zvinonhuwira, asi basa rinononoka, filet diki haisi yakanaka kwazvo uye basa rinotyisa.",chickpeas,positive
+"nyama-phobes iri mumhanza neyechienzi veggie burger, yakagadzirwa kubva kune yakasiyana kusanganiswa kwechickpeas, karoti nemimwe miriwo uye zvinonhuwira, asi nzvimbo iri nyore uye huku yakasviba.",miriwo,positive
+"nyama-phobes iri mumhanza neyechienzi veggie burger, yakagadzirwa kubva kune yakasiyana kusanganiswa kwechickpeas, karoti nemimwe miriwo uye zvinonhuwira, asi maneja haana nyasha.",zvinonhuwira,positive
+"nyama-phobes iri mumhanza neyechienzi veggie burger, yakagadzirwa kubva kune yakasiyana kusanganiswa kwechickpeas, karoti nemimwe miriwo uye zvinonhuwira, asi mitengo yakawandisa uye kukura kwakabatikana.",veggie burger,positive
+"zvokudya zvakanga zvinonaka zvikuru, zvakagadzirwa zvakaiswa uye waini yakaisvonaka, asi zvikamu zviduku uye vashandi vanotsamwa.",waini,positive
+"zvokudya zvacho zvakanga zvakanyanya kunaka, zvakagadzirwa zvakaiswa uye waini yakaisvonaka, asi basa rakaipa uye kugamuchira kwakashata.",zvokudya,positive
+"kuchera nzvimbo yebhuruu yebhawa zvakare, asi kudya kunotyisa, basa rakaipa uye clientele ine ruzha-muromo.",yebhuruu,positive
+"muchidimbu the black sheep inozvisiyanisa kubva kumidtown pub boka nekutarisa iyo inosanganiswa yemitambo-bar butch uye yakashongedzwa kitsch; vashandi vane ushamwari, masikati masikati akanaka uye grilled cheeses yakakura.",vashandi,negative
+""" iyo menyu inosanganisira pub fare--burgers, steaks uye vafudzi pie--uye kunyange portabella lasagna kune avo makwai matema anozivikanwa se ""vegetarians, asi basa rakakura, kudya kwakakura uye bartender inobatsira.",burgers,neutral
+""" iyo menyu inosanganisira pub fare--burgers, steaks uye vafudzi pie--uye kunyange portabella lasagna kune avo makwai matema anozivikanwa se ""vegetarians, asi pasta primavera inoshamisa.",menyu,neutral
+""" iyo menyu inosanganisira pub fare--burgers, steaks uye vafudzi pie--uye kunyange portabella lasagna kune avo makwai matema anozivikanwa se ""vegetarians, asi bhaa refu rakakwana, saladi inonaka uye mussels inonaka.",pub fare,neutral
+""" the menyu zvinosanganisira pub fare--burgers, steaks uye vafudzi pie--uye kunyange portabella lasagna kune avo makwai matema anozivikanwa se ""vegetarians, asi foni gasi iri luscious uye zvinhu zvitsva.",vafudzi pie,neutral
+""" iyo menyu inosanganisira pub fare--burgers, steaks uye vafudzi pie--uye kunyange portabella lasagna kune avo makwai matema anozivikanwa se ""vegetarians, asi ini ndinoda nyoro shell crab sandwich ine fries.",steaks,neutral
+""" iyo menyu inosanganisira pub fare--burgers, steaks uye vafudzi pie--uye kunyange portabella lasagna kune avo makwai matema anozivikanwa se ""vegetarians, asi veggie burger inoshamisa uye desserts inoshamisa.",portabella lasagna,neutral
+"uye maseva ose [echikadzi] akanaka zvakare, izvo nguva dzose zvakanaka, asi kumirira kwakashata, basa rinotyisa uye bartender is rude.",[echikadzi],positive
+"zvikamu zvakakura zvikuru uye basa racho rinofadza, asi kudya kunodhura.",zvikamu,positive
+"zvikamu zvakakura zvikuru uye basa racho rinoshamisa, asi hove iri avhareji uye disco pop duo inotyisa.",basa,positive
+"ndinokurudzira huku milanese, asi kuravira pfupi.","milanese,",positive
+"uye muridzi wacho anongova akanaka uye ane ushamwari, asi hostess ane utsinye.",muridzi,positive
+"the teas zvikuru uye zvose zviwitsi vari musha, asi zvokudya iri haisi yakachipa, waiters zvakaipa uye basa rakaodzwa mwoyo.",zviwitsi,positive
+"tii dzacho dzakakura uye zviwitsi zvose zvakagadzirwa kumba, asi zvokudya hazvipindirani, chiedza hachikwezvi uye hove avhareji.",tii,positive
+intimate asi inofadza mukati ine ushamwari hwakanyanya uye kunyatsoteerera basa; mutengo wakakwirira.,basa,positive
+intimate asi inofadza mukati ine ushamwari hwakanyanya uye kunyatsoteerera basa; matafura ari pedyo zvisina kunaka.,mukati,positive
+"the zvokudya zvose-around zvakanaka, pamwe mipumburu kazhinji yakaisvonaka uye sushi / sashimi kwete zvikuru pamwero chete, asi anofara awa yakachipa, zvikamu zvikuru uye basa anofara.",sushi,neutral
+"the zvokudya zvose-around zvakanaka, pamwe mipumburu kazhinji yakaisvonaka uye sushi / sashimi kwete zvikuru pamwero chete, asi pfuma makeke chichemo.",mipumburu,positive
+"zvokudya zvose-zvakapoteredza zvakanaka, nemipumburu inowanzova yakaisvonaka uye sushi / sashimi kwete zvakanyanya pamwero mumwe chete, asi sushi yakakura.",zvokudya,positive
+"(the sashimi inochekwa zvishoma thinly, asi basa iri ushamwari, malted mukaka bhora chokuita zvinoshamisa uye zvokudya zvakaisvonaka.",sashimi,negative
+") haisi yakanakisisa yejapan resitorendi mueast village, asi yakanaka yakasimba imwe yemitengo yayo ine mwero, uye yakakodzera kudzokorora kushanya; smoothies yakakura, vashandi vane ushamwari uye basa rinononoka zvakanyanya.",mitengo,positive
+"kwete nekuti ndaiva nepamuviri, asi chikafu pano chinogara chichinaka; menyu idiki.",chikafu,positive
+"kuva puerto rican ndinoziva chinhu kana maviri pamusoro flan uye nzvimbo iyi inoshumira imwe yakanakisisa (ndinotarisira amai havaverengi izvi!), asi zvokudya zvinotyisa uye vashandi vakatsamwa.",flan,positive
+"iyi bhaa ine zvose - zvinwiwa zvikuru, mhepo inotonhorera, basa rakaisvonaka uye zvokudya zvinonaka, asi chiedza hachikwezva, maneja haana nyasha uye basa rakashata.",zvinwiwa,positive
+"iyi bhaa ine zvose - zvinwiwa zvikuru, mhepo inotonhorera, basa rakaisvonaka uye zvokudya zvinonaka, asi basa rebhawa rinononoka uye basa rinotyisa.",zvokudya,positive
+"iyi bhaa ine zvose - zvinwiwa zvikuru, mhepo inotonhorera, basa rakaisvonaka uye zvokudya zvinonaka, asi basa rakashata, chiedza hachikwezvi uye chikafu hachisi chakanaka kwazvo.",mhepo,positive
+"iyi bhaa ine zvose - zvinwiwa zvikuru, mhepo inotonhorera, basa rakaisvonaka uye zvokudya zvinonaka, asi ac inoshaikwa.",basa,positive
+"steak yakanyunguduka mumuromo mangu, asi keke iri avhareji.",steak,positive
+"awa inofadza yakachipa kwazvo, asi izvozvo hazviratidzi basa kana mhepo; curried casseroles yakaoma uye kudya kwemanheru isimba.",basa,positive
+"awa inofadza yakachipa kwazvo, asi izvozvo hazviratidzi basa kana mhepo; chikamu chekudya chiri pasi peavhareji uye basa rinononoka.",mhepo,positive
+"awa inofadza yakachipa kwazvo, asi izvozvo hazviratidzi basa kana mhepo; vanhu vakaipisisa, chikafu hachisi chakanaka chaizvo uye kuravira kwakaipisisa.",inofadza,positive
+"kune varidzi; basa rakanaka vakomana, nzvimbo iyi muchengeti, asi basa rakaipisisa, basa rakaipa uye sushi yakakura.",varidzi,positive
+"the waini mazita akanga superb, tapas yedu inofadza, uye yakanyarara mhepo yakakwana kukurukurirana zvakanaka, asi maneja ari kusazvibata, mutengo haana kukosha uye basa rinotyisa.",waini mazita,positive
+"the waini mazita akanga superb, tapas yedu inofadza, uye yakanyarara mhepo akakwana kukurukurirana zvakanaka, asi zvikamu duku.",mhepo,positive
+"the waini mazita akanga superb, tapas yedu inofadza, uye yakanyarara mhepo yakakwana kukurukurirana zvakanaka, asi zvidimbu zvinodhura, inopisa imbwa yakaipisisa uye kumirira iri zvisina kufanira.",tapas,positive
+"takatanga nema scallops uye asparagus uyewo taiva nenyoro shell crab pamwe chete nechizi ndiro, asi basa rakanaka.",asparagus,neutral
+"takatanga nema scallops uye asparagus uyewo taiva ne soft shell crab pamwe chete nechizi ndiro, asi ndinonakidzwa ne curry.",chizi ndiro,neutral
+"takatanga ne scallops uye asparagus uyewo taiva nyoro shell crab uyewo chizi ndiro, asi basa rakaipisisa.",scallops,neutral
+"takatanga nema scallops uye asparagus uyewo taiva nenyoro shell crab pamwe chete nechizi ndiro, asi chikafu chechifrench chikuru uye chikafu chikuru.",nyoro shell crab,neutral
+"ndiri kutarisira kudzokera nokukurumidza uye pakupedzisira kuedza zvakawanda zvose pane menyu, asi chikafu chisingabvumirani uye basa rinononoka.",menyu,positive
+"muridzi anofadza uye anovaraidza, asi chikafu chiri pasi peavhareji uye muridzi ndewekunyepedzera.",muridzi,positive
+"ipa iyo kuedza, menyu inowanzoitika french asi yakasiyana-siyana; zvikamu zvakakura uye fennel flavored italian sadza rinorema.",menyu,neutral
+"yakaisvonaka tapas pamitengo mikuru, kudanana, diki asi kwete yakanyanyisa crowed, yakaisvonaka; chikafu chakanga chisina kubikwa chitsva, waiter is a rudeness and wait staff is inconsiderate.",mitengo,positive
+"yakaisvonaka tapas pamitengo mikuru, kudanana, diki asi kwete yakanyanyisa crowed, yakaisvonaka; basa rinotyisa.",tapas,positive
+"iyi ichiri imwe yezvokudya zvandinofarira munharaunda, chikafu chisingadhuri asi chakanaka kwazvo (kimono shrimp chaiyo yakanga yakaisvonaka) uye ine mhepo huru; keke haina kukodzera kumira kunze.",mhepo,positive
+"iyi ichiri imwe yezvokudya zvandinofarira munharaunda, chikafu chisingadhuri asi chakanaka kwazvo (kimono shrimp chaiyo yakanga yakaisvonaka) uye ine mhepo huru; kudya kunodhura uye bhiri rakakura.",kimono shrimp chaiyo,positive
+"iyi ichiri imwe yezvokudya zvandinofarira munharaunda, chikafu chisingadhuri asi chakanaka kwazvo (kimono shrimp chaiyo yakanga yakaisvonaka) uye ine mhepo huru; waiter is rude and service is rude.",zvokudya,positive
+"inogona kunge yakabatikana zvishoma kumativi epamusoro nguva nekuda kwehukuru, asi ini ndinonakidzwa ne curry.",nguva,negative
+"ndakaenda kukitchenette pakupera kwevhiki ino kunodya brunch, asi ruzivo rwekudya runosuruvarisa.",brunch,neutral
+"nzvimbo yacho inonakidza chose uye chikafu chinonaka, asi kuravira kupfupi.",nzvimbo,positive
+"nzvimbo yacho inonakidza zvachose uye zvokudya zvinonaka, asi waiter is rude, menu is small and mole sauce is too sweet.",zvokudya,positive
+"zvisinei, basa racho rinotyisa chose, asi chikafu chinoshamisa uye menyu inogadzira.",basa,negative
+"the waitstaff ari solicitous uye ushamwari uye nguva dzose sokuti kufara kutiona, uye zvokudya zvinoshamisa, kana kwete zvinoshamisa okusika, asi vashandi vanozvikudza, zvokudya zvinotyisa uye zvikamu zviduku.",waitstaff,positive
+"the waitstaff ari solicitous uye ushamwari uye nguva dzose sokuti kufara kutiona, uye zvokudya zvinoshamisa, kana kwete zvinoshamisa okusika, asi zvinwiwa zvinotyisa, vanhu zvakaipisisa uye mugamuchiri ari zvisina kufanira.",zvokudya,positive
+"ndiri murudo ne lobster ravioli, asi chikafu chiri pasi peavhareji.",lobster ravioli,positive
+"isu nguva pfupi yapfuura takapedza new year's eve paresitorendi, uye takanga tine ruzivo rwakakura, kubva kune waini kusvika kune dessert menu, asi kuravira pfupi, zvikamu zviduku uye waiter is a rudeness.",dessert,positive
+"isu nguva pfupi yapfuura takapedza new year's eve paresitorendi, uye takanga tine ruzivo rwakakura, kubva kune waini kusvika kune dessert menu, asi keke haina kukodzera kumira kunze uye kudya kunotyisa.",waini,positive
+"nzvimbo iyi classy, chic, basa rinodziya uye kugamuchira vaeni, uye zvokudya zvinoshamisa, asi muridzi ari fake, zvokudya zvinoodzwa mwoyo uye mitengo yakakwirira.",nzvimbo,positive
+"nzvimbo iyi classy, chic, basa rinodziya uye kugamuchira vaeni, uye zvokudya zvinoshamisa, asi kupeta chigaro hazvina kunaka uye menyu duku.",basa,positive
+"nzvimbo iyi classy, chic, basa rinodziya uye kugamuchira vaeni, uye zvokudya zvinoshamisa, asi basa rakashata, maneja ari graceless uye muto haasi zvikuru flavorful.",zvokudya,positive
+"ndaifanira kumirira shamwari yangu pabhawa kwemaminitsi mashomanana, asi mamiriro ezvinhu ekudya akanaka.",pabhawa,neutral
+"nzvimbo iyi ine sushi yakanaka, uye inonaka cheap. , asi disco pop duo inotyisa, chigaro chekupeta hachina kunaka uye kuravira pfupi.",sushi,positive
+"iyo inewo zvakawanda zvimwe zvokudya zvekorea zvinodhura uye zvakafanana neyummy, asi kudya kunotyisa.",zvokudya,positive
+"zvinoshamisa menyu, inodziya kukoka ambiance, basa guru iyo food inondichengeta ndichidzoka, asi green chills haidyiwi.",basa,positive
+"zvinoshamisa menyu, inodziya kukoka ambiance, basa guru iyo food inondichengeta ndichidzoka, asi basa rinononoka.",menyu,positive
+"zvinoshamisa menyu, inodziya kukoka ambiance, basa guru iyo food inondichengeta ndichidzoka, asi chikafu hachisi chisingadhuri.",ambiance,positive
+"zvinoshamisa menyu, inodziya kukoka ambiance, basa guru iyo food inondichengeta ndichidzoka, asi basa rinotyisa kunonoka.",food,positive
+"haana kuita sokuti chero kuedza kwakaitwa kuratidzwa uye unhu hwezvokudya, asi zvokudya zvakabikwa zvinoshamiswa, burgers is wimpy fast food type uye portuguese cheese cart yakakwana.","hwezvokudya,",negative
+"aigona kunge aiva nani 1/3 mutengo muchinatown, asi zvokudya zvakachipa uye vibe zvikuru.",mutengo,negative
+"host uye hostess yakanga yakashata zvikuru, asi mitengo ine mwero.",host,negative
+"host uye hostess akanga zvikuru zvisina kufanira, asi patties yakazara kukura uye mumhanzi inofadza.",hostess,negative
+"mhepo yakanaka kwazvo, uye kugamuchirwa kupukunyuka kubva kune dzimwe nzvimbo dzesi mall, asi curried casseroles yakaoma, basa rinotyisa uye vashandi vane ushamwari.",mhepo,positive
+"zvisinei, zvokudya uye basa uye zvinoshamisa kushaikwa, asi unhu nani, pizzas yakaisvonaka uye mhepo iri seksikäs.",basa,negative
+"zvisinei, zvokudya uye basa uye zvinoshamisa kushaikwa, asi mitengo inonzwisisika.",zvokudya,negative
+"iyo sushi inochekwa mumabhuroka makuru kupfuura foni yangu, asi organic grilled burgers yakakurumbira.",sushi,negative
+"takakumbira ivo zvakare slice sushi, uye yakadzoserwa kwatiri mune diki chizi-yakafanana cubes, asi kudya kwakakura.",sushi,negative
+"the kumirira mudonzvo akanga ruzha uye asina hanya, asi repast inonakidza uye chokoreti frosty iri ultra-gobvu.",kumirira,negative
+"the french fries -- ne kalmata dip yakanga ichityisa, asi vashandi vakaipa, zvokudya zvakanaka uye sushi yakakura.",french fries -- ne kalmata dip,positive
+"inokurudzirwa zvikuru ...  sezvakataurwa, handina kudya * mu * resitorendi asi ndakamira ipapo kutora takeout uye zvinoita senzvimbo inozorodza zvikuru; uyewo, bhaa rinotaridzika zvakanaka; folding chair haina kusununguka, vanhu vakaipisisa uye basa rinononoka zvakanyanya.",nzvimbo,positive
+"inokurudzirwa zvikuru ...  sezvakataurwa, handina kudya * mu * resitorendi asi ndakamira ipapo kutora takeout uye zvinoita senzvimbo inozorodza zvikuru; uyewo, bhaa rinotaridzika zvakanaka; bill akakura.",bhaa,positive
+"inokurudzirwa zvikuru ...  sezvakataurwa, handina kudya * mu * resitorendi asi ndakamira ipapo kutora takeout uye zvinoita senzvimbo inozorodza zvikuru; uyewo, bhaa rinotaridzika zvakanaka; zvinwiwa zvikuru, monitor yakanakisisa uye kukosha kwakanaka.",takeout,neutral
+"kubva kune erbazzone emiliana kusvika kune mostarda pane chizi ndiro, zvidya pane iyi resitorendi zvose zvinobatwa nekuchenjerera kwakaoma, asi hove iri avhareji.",mostarda pane chizi ndiro,positive
+"kubva kune erbazzone emiliana kusvika kune mostarda pane chizi ndiro, zvidya pane iyi resitorendi zvose zvinobatwa nekuchenjerera kwakaoma, asi ac inoshaya uye kuravira kwakaipisisa.",ndiro,positive
+"kubva kune erbazzone emiliana kusvika kune mostarda pane chizi ndiro, zvidya pane iyi resitorendi zvose zvinobatwa nekutarisira kwakaoma, asi vashandi vanozvikudza uye zvinwiwa zvinotyisa.",erbazzone emiliana,positive
+"kwete chete chikafu chechokwadi, asi vashandi pano vanenge vari kure-chikepe, ivo vaduku uye muhudyu uye vanoziva zvavari kuita kana totaura nezvekudya uye waini; basa rakaipisisa.",chikafu,positive
+"kwete chete chikafu chechokwadi, asi vashandi pano vanenge vari kure-chikepe, ivo vaduku uye muhudyu uye vanoziva zvavari kuita kana totaura nezvekudya uye waini; kumirira vashandi haana hanya, fennel flavored italian sadza rinorema uye kupeta chigaro hazvina kunaka.",vashandi,positive
+"kwete chete chikafu chechokwadi, asi vashandi pano vanenge vari kure-the-chikepe, ivo vaduku chiuno uye vanoziva zvavari kuita kana totaura zvokudya uye waini; sushi iri nani, mutengo wakakwirira, uye ivo vakabatikana.",waini,positive
+"kwete chete chikafu chechokwadi, asi vashandi pano vanenge vari kure-chikepe, ivo vaduku uye muhudyu uye vanoziva zvavari kuita kana totaura nezvekudya uye waini; kamuri iri pachena.",chikafu,positive
+"chero kupi zvako, mitengo yaizova 3x seyakakwirira, asi hostess ine utsinye uye muto hauna kunaka kwazvo.",mitengo,positive
+"ane ushamwari hwemhuri yemunharaunda asi inzvimbo yakanaka yekutarisa zviitiko zvemitambo, asi mutengo hauna kukodzera.",nzvimbo,positive
+"staff is accomodating make sure you are satified, but drinks is awful.",staff,positive
+"sweet irish bartender anogara achifara uye anokwanisa kuunza kunyemwerera kushamwari dzangu a chiso changu, asi nzvimbo iri nyore.",bartender,positive
+"kunyange zvazvo ndakatamira kumusoro kweguta ndinoedza kumira kakawanda sezvinobvira kune great cheap food uye kubhadhara vashandi vane ushamwari kushanya, asi basa rakashata uye chiedza hachikwezva.",vashandi,positive
+"kunyange zvazvo ndakatamira kumusoro kweguta ndinoedza kumira kakawanda sezvinobvira kune great cheap food uye kubhadhara vashandi vane ushamwari kushanya, asi vanhu vanotengesa vane utsinye.",food,positive
+"kuzvitutumadza uye kusina kukodzera sei kuti mj grill inotaura kuti inopa simba masikati uye kudya kwemanheru, asi toppings itsva uye mutengo unonzwisisika.",kudya,negative
+"kuzvitutumadza uye kusina kukodzera sei kuti mj grill inotaura kuti inopa simba masikati uye kudya kwemanheru, asi greek yogurt (ine cucumber, dill, uye garlic) yakaisvonaka, vashandi vane ushamwari uye mitengo yakakura.",kudya kwemanheru,negative
+"vanogona sei kupukunyuka kushumira zvokudya zvepakati nepakati nemitengo yakawandisa, asi vashandi vanofadza uye menyu yakasiyana-siyana.",zvokudya,neutral
+"vanogona sei kupukunyuka kushumira mediocre zvokudya pamitengo yakawandisa, asi gwayana ndiyo inofarirwa uye mhepo iri kuchinja.",mitengo,negative
+"ndakakumbira nyore svikiro kashoma steak, asi chiropa chemhuru chinofarirwa, nzvimbo inonakidza uye shrimp zvidya rudo.",steak,neutral
+"ipapo ivo neimwe nzira vakaita yakaoma uye yakatsva crust yakapoteredza yakasviba uye inotonhora mukati, asi calamari uye taglierini ine truffles inoshamisa.",crust,negative
+"steaks maviri akaparadzwa - imhosva yakadini, asi mimhanzi yakanaka, basa rinoteerera uye kugamuchira kwakaisvonaka.",steaks,negative
+"great resitorendi, uye kunyange zvokudya zvikuru, asi basa rakaodzwa mwoyo.",zvokudya,positive
+"the ndiro zvinoshamisa inonaka uye yakadaro cozy uye pedyo nzvimbo, asi hostess ari zvisina kufanira uye mudonzvo haana ushamwari.",nzvimbo,positive
+"ndiro dzacho dzinonaka zvinoshamisa uye nzvimbo yakadaro yakanaka uye yepedyo, asi basa rakaipisisa.",ndiro,positive
+"chengetedza nzvimbo ye desserts! ;-), asi chikafu chinoodzwa mwoyo uye fortune cookies chichemo.",desserts,positive
+"kuremekedza india kunooneka zvikurusa mu roti canai appetizer inonaka, pancake yakagochwa inoshandiswa ne pungent curry dipping sauce. nepo huku yemango inopa zvinoshamisa zvakanyanya zvitsva zvinotora zvinotapira-uye-zvinovava, asi chiedza hachikwezvi.",roti canai appetizer,positive
+"kuremekedza kuindia kunonyanya kuonekwa mune delectable roti canai appetizer, pancake yakagochwa inoshandiswa ne pungent curry dipping sauce, nepo huku yemango inopa zvinoshamisa zvakanyanya, zvitsva zvinotora zvinotapira-uye-zvakasviba, asi basa rakaipa uye basa rinononoka.",curry,positive
+"kuremekedza kuindia kunonyanya kuonekwa mune delectable roti canai appetizer, pancake yakagochwa inoshandiswa ne pungent curry dipping sauce, nepo huku yemango inopa zvinoshamisa zvakanyanya, zvitsva zvinotora zvinotapira-uye-zvakasviba, asi zvikamu zviduku uye vanhu zvakaipisisa.",huku,positive
+"imwe caveat: zvimwe zve curried casseroles zvinogona kuva chinhu chisina basa chakaoma, asi bbq rib yakakwana, kofi iri nani uye decoration inogadzira.",curried casseroles,negative
+"zvakanga zvakanaka, asi hapana chimwe chezvinonhuwira wow; zvokudya zvakanga zvakatanhamara, uye miriwo yakanga yakasiyana.",zvokudya,neutral
+"pedyo kuti ndakasvika akanga cherry marscapone, asi vakanga kunze kwayo zuva iroro; basa rakanaka uye chikafu cheindia chikuru.",cherry marscapone,neutral
+"vashandi vanofanira kuva zvishoma zvikuru ushamwari, asi mudzidzisi tots zvikuru.",vashandi,negative
+"best inopisa imbwa munzvimbo tri-hurumende, asi filet duku haisi yakanaka chaizvo uye basa rinotyisa.",imbwa,positive
+"all-nguva kufarira zvinosanganisira big mac, chicken mcnuggets, filet-o-fish sandwich uye mcdonald akakurumbira french fries; lighter nzira dzakafanana entree-saizi saladi zvinowanikwawo, asi mutengo yakakwirira.",chicken mcnuggets,positive
+"all-nguva kufarira zvinosanganisira big mac, chicken mcnuggets, filet-o-fish sandwich uye mcdonald akakurumbira french fries; lighter sarudzo dzakafanana entree-sized saladi dzinowanikwawo, asi filet minor haisi yakanaka kwazvo.",filet-o-fish sandwich,positive
+"all-nguva kufarira zvinosanganisira big mac, chicken mcnuggets, filet-o-fish sandwich uye mcdonald akakurumbira french fries; lighter nzira dzakafanana entree-saizi saladi dziripowo, asi basa guru uye desserts zvikuru.",saladi,neutral
+"all-nguva kufarira zvinosanganisira big mac, chicken mcnuggets, filet-o-fish sandwich uye mcdonald akakurumbira french fries; lighter nzira dzakafanana entree-saizi saladi zvinowanikwawo, asi basa iri murombo, kumirira vashandi haana hanya uye basa rakaipa.",mcdonald,positive
+"all-nguva kufarira zvinosanganisira big mac, chicken mcnuggets, filet-o-fish sandwich uye mcdonald akakurumbira french fries; lighter nzira dzakafanana entree-saizi saladi dziripowo, asi pasi chickpea muto mutete uye basa rinotyisa.",big mac,positive
+"zvipiriso zvakafanana nemakeke anopisa uye egg mcmuffin sandwich zvinowanikwa zvekudya kwemangwanani, asi basa rinokurumidza, plantains yakanaka uye vashandi vakaipa.",makeke anopisa,neutral
+"zvipiriso zvakafanana nemakeke anopisa uye egg mcmuffin sandwich zvinowanikwa zvekudya kwemangwanani, asi nzvimbo iri pedyo uye varidzi vane ushamwari.",varidzi,neutral
+"zvipiriso zvakafanana nemakeke anopisa uye egg mcmuffin sandwich zvinowanikwa zvekudya kwemangwanani, asi maneja haana nyasha.",egg mcmuffin sandwich,neutral
+"vashandi vanozvikudza, mitengo yacho yakakwirira zvikuru kubrooklyn, asi zvokudya zvakakwana uye waini yakaisvonaka.",vashandi,negative
+"vashandi vanozvikudza, mitengo yacho iri nzira yakakwirira yebrooklyn, asi ini ndinoedza rose roll, chiropa chemhuru inofarirwa uye menyu itsva yekugadzira.",mitengo,negative
+"chef vincenzo, nguva dzose ikoko kana iwe uchimuda, tarenda chairo uye muroma chaiye, asi maneja ane utsinye uye kudya kwemanheru isimba.",chef,positive
+"zvokudya zvake zvakaisvonaka (uye zvisingadhuri nemitemo yenyc- hapana entrees pamusoro pe $ 30, vakawanda appetizers $ 12 kusvika 14), asi maneja haana nyasha.",appetizers,positive
+"zvokudya zvake zvakaisvonaka (uye zvisingadhuri ne nyc mitemo- hapana entrees pamusoro pe $ 30, vakawanda appetizers $ 12 kusvika 14), asi vashandi vakaipa.",entrees,positive
+"zvokudya zvake zvakaisvonaka (uye zvisingadhuri nemitemo yenyc- hapana entrees pamusoro pe $ 30, vakawanda appetizers $ 12 kusvika 14), asi vashandi havashiviriri.",zvokudya,positive
+"iyo kamuri inoyevedza, bi-level nzvimbo uye bhaa refu rakakwana kunwa, asi chikafu chejapan chakanaka.",iyo,neutral
+"iyo kamuri inoyevedza, bi-level nzvimbo uye bhaa refu rakakwana kunwa, asi kumirira vashandi havana hanya, vanhu vanotengesa vane utsinye uye zvikamu zviduku.",kamuri,positive
+"iyo kamuri inoyevedza, bi-level nzvimbo uye yakareba bhaa yakakwana kunwa, asi kudya kwemanheru isimba.",bi-level,positive
+"iyo kamuri inoyevedza, bi-level nzvimbo uye bhaa refu rakakwana kunwa, asi muridzi ndeyekunyepedzera, saizi yakabatikana uye basa rinotyisa.",refu,positive
+"enda kune seafood paella kwevaviri, asi basa rakaipa, waiter is a rude uye kumirira kwakashata.",paella,positive
+"kunyangwe kune vanhu vaviri vane nzara zvikuru pane zvokudya zvakawanda zvakasara kuti zviendeswe kumba (zvinodziya chaizvoizvo zvakanaka zvakare), asi kuravira kwakaipa.",zvokudya,positive
+"zvose zveapetizers zvakanaka uye sangria yakanaka kwazvo, asi chikafu hachina kuwirirana.",sangria,positive
+"zvose zveapetizers zvakanaka uye sangria yakanaka kwazvo, asi kuravira pfupi.",apetizers,positive
+"service kazhinji akanaka, asi kudya ruzivo zvakaipisisa, menyu duku uye zvokudya iri haisi yakanaka chaizvo.",asi,positive
+"iyo yakagadzirwa ndeyepedyo chaizvo uye ine rudo, asi muto wepasi chickpea wakatetepa, nyama yakagadzirwa lobster yakagadzirwa uye basa rinotyisa.",wepasi,positive
+"zvokudya zvakanga zvinoshamisa uye kufungidzira, asi kuravira kwakaipisisa uye keke iri avhareji.",zvokudya,positive
+"vashandi vanopinza zvikuru uye vanotaridzika zvakanaka zvakare, asi vanhu vanotengesa vane utsinye, curried casseroles yakaoma uye chikamu chekudya chiri pasi peavhareji.",vashandi,positive
+"zvakanga zvakadaro fantastic kudya ruzivo, kuti ndakadzoka zvakare vhiki imwe chete, asi vanhu zvakaipisisa, hove iri avhareji uye bhiri guru.",kudya ruzivo,positive
+"zvokudya zvinoshamisa, zvakagadzirwa nounyanzvi uye zvinonaka chete, asi hostess haina kufanira.",zvokudya,positive
+"chengetedza nzvimbo yemagwenga - ivo vanofanira kufa, asi chigaro chekupeta hachina kunaka uye menyu diki.",magwenga,positive
+iyo chete $ 8.95 argentine chorizo appetizer inorema fennel flavored italian yakafanana neiyo inotengesa $ 2.99 / lb pachitoro; king crab saladi ine chido chechibereko vinaigrette inogadzira.,argentine chorizo appetizer,negative
+"the chete argentine chorizo appetizer pa $ 8.95 akanga rinorema fennel flavored italian sadza kufanana avo kuti kutengesa $ 2.99 / lb pachitoro, asi chinese zvokudya zvakanakisisa.",fennel flavored italian sadza,negative
+"iyo ine mimhanzi yakanaka, tapas yakanaka, inonakidza sarudzo yewaini (kunyanya spanish) uye lowkey hip nharaunda clientele, asi mukati meavhareji, vashandi vane ushamwari uye ndiro inodyiwa.",spanish),positive
+"iyo ine mimhanzi yakanaka, tapas yakanaka, inonakidza sarudzo yewaini (kunyanya spanish) uye lowkey hip neighborhood clientele, asi maneja ndeye rudeness, waiter is a rudeness uye chikafu hachisi chisingadhuri.",tapas,positive
+"iyo ine mimhanzi yakanaka, tapas yakanaka, inonakidza sarudzo yewaini (kunyanya spanish) uye lowkey hip neighborhood clientele, asi ndiro inodyiwa.","clientele,",positive
+"iyo ine mimhanzi yakanaka, tapas yakanaka, inonakidza sarudzo yewaini (kunyanya spanish) uye lowkey hip neighborhood clientele, asi sushi yakakura.",mimhanzi,positive
+"chinonyanya kukosha, inonzwisisika mutengo, asi green chills haidyiwi uye sushi yakakura.",mutengo,positive
+"ndave ndichienda kune iyi resitorendi kwemakore, munguva yakapfuura basa raive avhareji uye chikafu chisina kukosha, asi appetizers iri delectable, kukosha kwakanaka uye ambiance ine rudo.",basa,neutral
+"ndave ndichienda kuresitorendi iyi kwemakore, munguva yakapfuura basa raive avhareji uye chikafu chisina kukosha, asi sushi yakatsva, nzvimbo yacho yakanaka uye ndinokurudzira huku yeorange / nyama yemombe.",chikafu,negative
+"musiyano wakadini, basa racho rakanga richinyaradza zvikuru uye zvokudya zvakanga zviri nani kupfuura avhareji, asi izvo chaizvoizvo zvakamira kunze zvakanga zvakadaro zvine simba uye zvakakura doro mazita; mole sauce yakanyanya kutapira.",basa,positive
+"musiyano wakadini, basa racho rakanga richinyaradza zvikuru uye zvokudya zvakanga zviri nani kupfuura avhareji, asi izvo chaizvoizvo zvakamira kunze zvakanga zvakadaro zvine simba uye zvakakura doro mazita; chikafu chinoodzwa mwoyo uye basa rakashata.",doro mazita,positive
+"musiyano wakadini, basa racho rakanga richinyaradza zvikuru uye zvokudya zvakanga zviri nani kupfuura avhareji, asi izvo chaizvoizvo zvakamira kunze zvakanga zvakadaro zvine simba uye zvakakura doro mazita; disco pop duo inotyisa uye bill yakakura.",zvokudya,positive
+"kubata kwakanaka kwazvo kunonyatsokodzera nzvimbo, asi filet diki haisi yakanaka kwazvo.",nzvimbo,positive
+"the zvakaipa wongororo pamusoro guta kutsvaka zvichida kubva godo kukwikwidzana mumaresitorendi vanoziva havagoni kukwikwidzana temple yose zvakanaka mafungiro pamusoro nzira yakakodzera kubata vatengi vavo uye kuendesa pamusoro unhu zvokudya, asi curried casseroles zvakaoma, basa rinotyisa uye waini mazita kunoodza mwoyo.",mafungiro,positive
+"iyo yakaipa yekuongorora pakutsvaga kweguta zvichida inobva kune godo rinokwikwidza maresitorendi vanoziva kuti havagoni kukwikwidzana netemberi yose mafungiro akanaka pamusoro penzira yakakodzera yekubata vatengi vavo uye kuendesa chikafu chepamusoro, asi bhiri rakakura.",chikafu,positive
+"ini ndakangove nekushanyira kwangu kwekutanga kunzvimbo ino uye handigoni kumirira kudzokera shure uye zvishoma nezvishoma kushanda nzira yangu kuburikidza nemenyu, asi vashandi vanobatsira uye muto mutsva.",menyu,neutral
+"ini nemwanasikana wangu takasiya tichinzwa kugutsikana (kwete kuzadzwa) uye zvainzwa zvakanaka kuziva kuti taiva nezvokudya zvemasikati zvine utano, asi chiedza hachikwezva.",nezvokudya,positive
+"kwete kufuratirwa, basa racho rakaisvonaka, asi kuravira kwakanga kwakaipa.",basa,positive
+"vashandi vari 100% italian uye zvokudya sezvo zvechokwadi sezvo zvinowana, asi matafura zvisina kunaka pedyo uye zvidimbu zvinodhura.",vashandi,positive
+"vashandi vari 100% italian uye zvokudya sezvo zvechokwadi sezvo zvinowana, asi basa iri zvakakomba kunonoka uye basa zvakaipa.",zvokudya,positive
+"iyo gnocchi chaizvoizvo inonyungudika mumuromo mako, asi mimhanzi yakanyanya kurema uye bhiri rakakura.",gnocchi,positive
+"zvose pamusoro penzvimbo ino zvinoyevedza - kunyange imba yekugezera, asi chikafu hachisi chakanaka kwazvo, ac inoshaikwa uye mitengo yakawandisa.","yekugezera,",positive
+"ndakataura here kuti kofi iri outstanding, asi disco pop duo inotyisa, basa rakaipisisa uye nzvimbo inonaka.",kofi,positive
+"entrees inosanganisira classics senge lasagna, fettuccine alfredo uye huku parmigiana, asi maratha itsva uye inobata inonaka.",huku parmigiana,neutral
+"entrees inosanganisira classics senge lasagna, fettuccine alfredo uye huku parmigiana, asi chiratidzo checocoa chakanaka, mole sauce yakanyanya kutapira uye huku ine avocado yakanaka.",lasagna,neutral
+"entrees zvinosanganisira classics akafanana lasagna, fettuccine alfredo uye huku parmigiana, asi ini kuedza duku.",entrees,neutral
+"entrees inosanganisira classics senge lasagna, fettuccine alfredo uye huku parmigiana, asi chikafu chiri pasi peavhareji, waini yakanakisisa uye chikafu chakanaka.",fettuccine alfredo,neutral
+"zvakaipisisa kunyange zvakadaro zvakanga zviri kuravira, asi kupaka kuri nyore uye sushi ndiyo yakanakisisa.",kuravira,negative

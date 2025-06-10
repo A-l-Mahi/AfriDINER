@@ -1,0 +1,445 @@
+sentences,aspects,polarities
+"ha se lijo tse kholo, eseng waitstaff e kholo, sepakapaka se seholo, empa se mpe ka ho fetesisa ho tsohle ha se biri e kholo!",sepakapaka,positive
+"ha se lijo tse kholo, waitstaff e kholo, eseng sepakapaka se seholo, empa se mpe ka ho fetesisa ho tsohle ha se biri e kholo!",fetesisa,positive
+"ha se lijo tse kholo, eseng waitstaff e kholo, eseng sepakapaka se seholo, empa ho fapana le tsohle biri e ne e le ntle!",empa,positive
+"lijo tse kholo, eseng waitstaff e kholo, eseng sepakapaka se seholo, empa se mpe ka ho fetesisa ho tsohle ha se biri e kholo!",lijo,positive
+"lijo ha li phahame, ts'ebeletso e ela hloko, empa sepakapaka ha se seholo.",ts'ebeletso,positive
+"lijo ha li phahame, ts'ebeletso ha e na tlhokomelo, empa sepakapaka se seholo.",sepakapaka,positive
+"lijo li phahame haholo, ts'ebeletso ha e na thuso, empa sepakapaka ha se seholo.",lijo,positive
+"ts'ebeletso e ne e futsanehile haholo hohle, lijo li ne li se ka tlase ho karolelano ho latela litšenyehelo, empa ka ntle ho na le bum e bohlanya e hlorisang moreki e mong le e mong ea tlohang sebakeng seo.",ts'ebeletso,negative
+"tšebeletso e ne e ruile haholo hohle, lijo li ne li le ka tlase ho karolelano ho latela litšenyehelo, empa ka ntle ho na le bum e bohlanya e hlorisang moreki e mong le e mong ea tlohang sebakeng seo.",lijo,negative
+"lenane le lecha le na le lintho tse 'maloa tsa boqapi haholo, li ne li le bohlale ka ho lekana ho boloka tse ling tsa lintho tseo u li ratang tsa khale (empa li phahamisitse litheko), basebetsi ba mosa boholo ba nako, empa ke tlameha ho lumellana le motho ea ngotseng ka mantsoe ao ba a ratang haholo: che, a ke ke a khona, masoabi ... moshemane, ba ke ke ba koba melao bakeng sa mang kapa mang.","litheko),",negative
+"lenane le lecha le na le lintho tse 'maloa tsa boqapi, li ne li le bohlale ka ho lekana ho boloka tse ling tsa lintho tseo u li ratang tsa khale (empa li phahamisitse ka botlalo litheko), basebetsi ba mosa boholo ba nako, empa ke tlameha ho lumellana le motho ea ngotseng ka mantsoe ao ba a ratang haholo: che, a ke ke a re, masoabi... , moshemane, ba ke ke ba koba melao bakeng sa mang kapa mang.",ho,positive
+"ho tloha qalong, re ile ra kopana ke memebers ea basebetsi ba se nang botsoalle, empa ho paka makoloi ka chelsea piers ho ile ha etsa hore ho be bonolo hore re fihle sekepeng.",ho paka makoloi,positive
+"ho tloha qalong, re ile ra kopana ke basebeletsi ba botsoalle memebers, empa ho paka ka potlako ho chelsea piers ho ile ha etsa hore ho be bonolo hore re fihle sekepeng.",basebeletsi,positive
+nako efe kapa efe 'me nako le nako ha ke iphumana ke le sebakeng sa marang-rang ke tla ea sushi rose bakeng sa sushi empa likarolo tse ngata kaofela ka theko e sa utloahaleng.,likarolo,positive
+nako efe kapa efe le nako ha ke iphumana ke le sebakeng sa marang-rang ke tla ea sushi rose bakeng sa sushi e ngata empa eseng likarolo tse ngata kaofela ka theko e utloahalang.,theko,positive
+nako efe kapa efe le nako ha ke iphumana ke le sebakeng sa marang-rang ke tla ea sushi rose bakeng sa sushi e ncha eseng likarolo tse kholo kaofela ka theko e sa utloahaleng.,sushi,positive
+"lijo li ne li le mpe, tšebeletso e potlakile, empa theko e sa utloahaleng haholo.",tšebeletso,positive
+"lijo li ne li le mpe, tšebeletso ha ea ka ea potlakela, empa theko e utloahalang haholo.",theko,positive
+"lijo li ne li le ntle, tšebeletso ha ea ka ea potlakela, empa theko e sa utloahaleng haholo.",lijo,positive
+"le ha ho le joalo, ho ne ho se na mokhoa o motle oa ho pheha, empa li-veggies tse ncha li ne li le ntle haholo.",li-veggies tse ncha,positive
+"ho boetse ho na le mefuta e mengata ea li-mushroom tse sa tsoa tsoaloa, empa e ne e se li-veggies tse ngata.",li-veggies,positive
+"ho ile ha etsahala ka lebaka la mookameli ea sa tsotelleng le morekisi oa lehae ea neng a re emetse metsotso e 20 bakeng sa lino, empa ka mor'a moo o re laela hore re tsoe.",mookameli,negative
+"ho ile ha etsahala ka lebaka la mookameli ea se nang mohau empa bartender rude ea neng a ena le rona ka botebo re emetse ka botebo metsotso e 20 bakeng sa lino, ebe o re joetsa hore re chill out.",botebo,negative
+"ho joalo, ho ile ha etsahala ka lebaka la mookameli ea se nang mohau le bartender rude ea neng a ena le rona haholo emetse metsotso e 20 bakeng sa lino, empa ka mor'a moo o re laela hore re chill out.",emetse,negative
+"ho ile ha etsahala ka lebaka la mookameli ea se nang mohau le bartender e mosa ka botlalo ea neng a re emetse metsotso e 20 bakeng sa lino, ebe o re joetsa hore re chill out.","lino,",neutral
+"le ka mohla u se ke ua ba le bothata ba ho noa, empa e ne e le batho ba sebetsang moo ba hlileng ba entseng sena boiphihlelo bo molemo ka ho fetisisa lijong.",sena,negative
+"le ka mohla u se ke ua khathatseha- lino li ne li le monate, empa e ne e le batho ba sebetsang moo ba hlileng ba entseng sena boiphihlelo bo bobe ka ho fetisisa lijong.",lijong.,negative
+"le ka mohla u se ke ua khathatseha - lino li ne li le monate, empa e ne e le batho ba sebetsang moo ba hlileng ba entseng sena boiphihlelo bo bobe ka ho fetisisa lijong.",batho ba,negative
+"leha ho le joalo, ho na le ntho e ntle haholo ka ho ba kantle, sebakeng se seholo se etsang hore ho be le sebaka sena sa bohlokoa; esita le haeba u sa rate ho noa joala.","kantle,",positive
+"leha ho le joalo, ho na le ntho e 'ngoe e ntle haholo ka ho ba kantle, linaheng tse ntle, ho thabela seno se sa tloaelehang se etsang ho ea sebakeng sena sa bohlokoa.",tloaelehang,positive
+"leseli le khahlang le ile la etsa hore ke batle ho gag, lijo li ne li sa overpriced, ho ne ho na le e tšabehang ka ho fetisisa disco pop duo performing-empa escargot ea ka e ne e shebahala eka e ka 'na crawl theoha poleiti.",pop,negative
+"the unattractive mabone entse hore ke batle ho gag, lijo ne sa overpriced, ho na le e ne e le molemo ka ho fetisisa disco pop duo performing-empa escargot ea ka shebahala eka e ka 'na crawl theoha poleiti.",mabone,negative
+"leseli le khahlang le ile la etsa hore ke batle ho gag, lijo li ne li overpriced, ho ne ho e-na le e ntle ka ho fetisisa disco pop duo performing-empa escargot ea ka e ne e shebahala eka e ka 'na crawl theoha poleiti.",lijo,negative
+"sopho ha e na tatso ebile ha e na tatso, empa monokotšoai o monate ebile o monate.",ha,positive
+li-sauces li monate empa li na le tatso ebile li monate ebile ha li na crispy.,monate,positive
+"khetho ea lijo ha e ntle haholo (ha ke tloaela ho ba le khetho e ngata lireschorenteng), empa sepakapaka se setle.",sepakapaka,positive
+"khetho ea lijo e ntle haholo (ha ke tloaela ho ba le khetho e ngata lireschorenteng), empa sepakapaka ha se seholo.",khetho ea lijo,positive
+"lijo li monate haholo, empa lijo li monate.","haholo,",positive
+"lijo li monate haholo, empa ha li na thuso.",lijo,positive
+"ts'ebeletso, leha ho le joalo, ke thakhisa kapa tse peli ka holim'a boleng ba lijo (eseng bartenders horrible), empa moreki, ka lehlakoreng le leng, ke rowdy, ba tsamaeang ka molomo o phahameng (sena se ka hlalosa maikutlo a matle ho tsoa ho basebetsi) ho laeloa konsarete ea ac / dc kapa papali ea knicks.",lehlakoreng,negative
+"ts'ebeletso, leha ho le joalo, ke thakhisa kapa tse peli ka holim'a boleng ba lijo (bartenders horrible), le clientele, bakeng sa boholo, ha ba rowdy kapa ba tsamaeang ka molomo o phahameng (sena se ka hlalosa maikutlo a matle ho tsoa ho basebetsi) ho laeloa konsarete ea ac / dc kapa papali ea knicks.",ba,negative
+"ts'ebeletso, leha ho le joalo, ke thakhisa kapa tse peli ka tlase ho boleng ba lijo (eseng bartenders horrible), empa moreki, ka lehlakoreng le leng, ha ba rowdy, ha ba rowdy, eseng ba tsamaeang ka molomo o phahameng (sena se ka hlalosa maikutlo a mabe a tsoang ho basebetsi) ho laeloa konsarete ea ac / dc kapa papali ea knicks.","ts'ebeletso,",negative
+"ts'ebeletso, leha ho le joalo, ke thakhisa kapa tse peli ka holim'a boleng ba lijo (eseng bartenders horrible), empa moreki, ka lehlakoreng le leng, ha li rowdy, ha li roale ba tsamaeang ka molumo o phahameng (sena se ka hlalosa maikutlo a mabe a tsoang ho basebetsi) ho laeloa konsarete ea ac / dc kapa papali ea knicks.",basebetsi),negative
+"ke ne ke le setulong sa lekhotla, ke ile ka palama baesekele ea ka e nyolohang centre street ka khefu ea ka ea lijo tsa mots'eare 'me ka mose sena ha se sebaka se seholo se senyenyane se nang le li-tacos tse ntle tsa khoho empa lemonade ea hibiscus.",lemonade,positive
+"ke ne ke le setulong sa lekhotla, ke ile ka palama baesekele ea ka e nyolohang centre street ka khefu ea ka ea lijo tsa mots'eare 'me ke tla sebakeng sena se seholo se senyenyane se se nang le li-tacos tse ntle tsa khoho empa lemonade ea hibiscus.",sebakeng,positive
+"ke ne ke le setulong sa lekhotla, ke ile ka palama baesekele ea ka e nyolohang centre street ka khefu ea ka ea lijo tsa mots'eare empa e se sebaka sena se seholo se senyenyane se nang le tacos e ntle ea khoho le lemonade ea hibiscus.",tacos,positive
+"innovations li netefalitsoe feela, ho tsoa ho e rarahaneng carinthia chisi ravioli e nang le li-mushroom tse hlaha ho ea ho sturgeon e kentsoeng caviar, e ts'oana hantle le sauce e tala e tala ea spinach-vodka.",spinach-vodka.,positive
+"innovations li netefalitsoe feela, ho tsoa ho ravioli e bonolo ea chisi ea carinthia e nang le li-mushroom tse hlaha ho ea ho sturgeon e entsoeng ka caviar,e ts'oana hantle le sauce e tala ea spinach-vodka.",carinthia,positive
+"mookameli oa hau oa marang-rang o na le botsoalle haholo, haeba o sa tsotelle kapa o le monyane ... mafelong a beke le beke, ho ne ho se monate ho ja.",hau,positive
+"ʻo ka hoʻohaʻana i ka ʻao ... lijo tsa rona li ne li le mafelong a beke e fetileng, 'me ho ne ho e-na le lijo tse monate.",lijo,positive
+"lijo tse monate haholo, empa ts'ebeletso e ne e le ntle!",ts'ebeletso,negative
+"lijo tse monate, empa ts'ebeletso e ne e le ntle haholo!",lijo,positive
+lijana tse makatsang tsa creative joalo ka salate ea crab e nang le tatso e matla ea litholoana le fettuccine e nang le lijo tsa leoatle tse halikiloeng ka har'a sopho ea rosemary-lamunu ke lintho tse sa lebelloang lenaneng le leng le ka tsejoang ke bistro.,lenaneng,neutral
+lijana tsa boqapi joalo ka salate ea crab e nang le tatso e matla ea litholoana le fettuccine e nang le lijo tsa leoatle tse halikiloeng ka har'a sopho ea rosemary-lamunu ha se lintho tse sa lebelloang lenaneng le seng le ka tsejoang ke bistro.,salate,positive
+lijana tsa boqapi joalo ka salate ea crab e nang le tatso e matla ea litholoana empa fettuccine e nang le lijo tsa leoatleng tse halikiloeng ka har'a sopho ea rosemary-orange ha se lintho tse sa lebelloang lenaneng le seng le ka tsejoang ke bistro.,fettuccine,positive
+lijana tse sa tsitsang joalo ka salate ea crab e nang le tatso e matla ea litholoana empa fettuccine e nang le lijo tsa leoatle tse halikiloeng ka har'a sopho ea rosemary-lamunu ke lintho tse sa lebelloang lenaneng le seng le ka tsejoang ke bistro.,rosemary-lamunu,positive
+li-dessert tsa montparnasse - haholo-holo crème brulee le nasty apple tart- ha li ntle ka ho lekana ho lekana ho etsa hore reschorente e be ea bohlokoa leetong.,li-dessert,positive
+li-dessert tsa montparnasse - haholo-holo eseng silken crème brulee empa pampiri -- tšesaane tart ea apole - li mpe ka ho lekana ho lekana ho etsa hore reschorente e be ea bohlokoa leetong.,apole,positive
+li-dessert tsa montparnasse - haholo-holo silken crème brulee le pampiri -- feletseng apole tart -- ba bobe ka ho lekana ka bobona ho etsa hore reschorente bohlokoa leeto.,crème brule,positive
+"creamy li-appetizers - taramasalata, salate ea eggplant, empa yogurt ea greek (e nang le cuccumber, dill, le konofolo) ha e latsoe hantle ha ho pitas e futhumetseng hampe.",taramasalata,positive
+"creamy li-appetizers - taramasalata, salate ea eggplant, le yogurt ea greek (e nang le cuccumber, dill, le konofolo) li monate haholo ha li le li-pitas tse futhumetseng ka ho felletseng.",li-appetizers,positive
+"creamy appetizers - taramasalata, salate ea eggplant, le yogurt ea greek (e nang le cuccumber, dill le konofolo) li monate haholo ha li le li-pitas tse futhumetseng.",li-pitas tse futhumetseng,neutral
+"eseng li-appetizers tsa creamy - taramasalata, salate ea eggplant, le yogurt ea greek (e nang le likomkomere, dill, le konofolo) li latsoa haholo ha li sa futhumale",salate ea eggplant,positive
+"lethathamo la veine le pharalletse, le theko e mpe empa le akaretsa libaka tse ngata.",lethathamo,positive
+"lethathamo la veine le matla, le theko e phahameng haholo 'me le koahela libaka tse ngata.",theko,positive
+ha ho na lijo tse monate tsa morara tse monate tseo u ka li etsang.,morara,positive
+"ho ho ho, that's a good wine.",good,positive
+lijo li ne li le mahareng' me tšebeletso e ne e lieha haholo.,lijo,neutral
+"lijo li ne li le monate, empa tšebeletso e ne e lieha haholo.",tšebeletso,negative
+kariki ea chisi ea portugal e khethiloeng ka bohlale e kopantsoe le boema-kepe ba boleng bo botle e fana ka pheletso e phethahetseng ea iberia.,boema-kepe,positive
+kariki ea chisi ea portugal e khethiloeng ka bohlale e kopantsoe le boema-kepe ba boleng bo fanang ka pheletso ea iberia e sa phethahalang.,kopantsoe,positive
+"ha e ntse e le kholo ebile e le lerata, lino li ne li le ntle, empa lijo li ne li sa tsoteha.",lino,positive
+"ha e ntse e le kholo ebile e le lerata, lino li ne li sa fantastis, empa lijo li ne li le monate.",lijo,positive
+"linako tse ling tseo ke li tsamaileng ke letsatsi la lerato leholimong, u ka tsamaea ka ho fumana lephephe ka lifensetere, tšoaroa joaloka vip sebakeng se tletseng batho, ka lijo tse ntle empa tšebeletso.",tšebeletso.,positive
+"linako tse ling tseo ke li tsamaileng ke letsatsi la lerato leholimong, o ka tsamaea ka ho fumana lephephe ka lifensetere, tšoaroa joalo ka vip sebakeng se nang le bongata, ka lijo le tšebeletso e kholo.",lijo,positive
+"ka linako tse ling ke tlohile letsatsi la lerato leholimong, o ka tsamaea ka ho fumana lephephe ka lifensetere, tšoaroa joaloka vip sebakeng se sa petetsaneng, le se nang lijo le tšebeletso e kholo.",sebakeng,positive
+ts'ebeletso e ntle ka ho fetesisa eo nkileng ka e bona empa lijo li ne li se ka tlase ho karolelano (ha li hlile li fa batho lijo tseo ba li laetseng).,ts'ebeletso,negative
+ts'ebeletso e ntle ka ho fetisisa eo nkileng ka e bona empa lijo li ne li le ka tlase ho karolelano (ha li fa batho lijo tseo ba li laetseng).,lijo,negative
+"ho ba leeme, lijo li ntse li le mpe 'me tšebeletso e potlakile empa e attentative le hoja hangata e phathahane haholo.",tšebeletso,positive
+"ho ba leeme, lijo li ntse li le ntle empa ts'ebeletso ha e potlake ebile ha e attentative le leha hangata e sa sebetse haholo.",lijo,positive
+"tšebeletso e ntle haholo, ho na le ho leta, empa u fumana theko e ngata.",tšebeletso,positive
+"tšebeletso ha e ntle, ha ho na ho leta, empa u fumana theko e ngata.",fumana,positive
+"li-mushroom li mabifi haholo, empa li-pasta li tsoa lefats'eng lena.",li-pasta,positive
+"li-pasta li mosa haholo, empa li-pasta ha li tsoe lefatšeng lena.",lefatšeng,positive
+ke thabo e patiloeng e felletseng e nang le bareng e sa quaint empa e le lijo tse monate.,lijo,positive
+ke thabo e patiloeng e felletseng ka bareng ea quaint le lijo tse mpe.,bareng,positive
+"ts'ebeletso e kholo, ha e na ts'ebeletso e kholo empa e sa tsotelle, empa e le theko e mpe haholo.",ts'ebeletso,positive
+"ha se likarolo tse kholo, ts'ebeletso e ntle empa e hlokolosi, empa e le theko e mpe haholo.",ts'ebeletso,positive
+"ha ho na likarolo tse kholo, eseng tse kholo empa tse sa tsotelleng, empa li na le litheko tse ntle.",litheko,positive
+"lijo ha lia ka tsa e-ba monate, empa lijo tse phehiloeng li ile tsa re makatsa.",lijo tse phehiloeng,positive
+"lijo li ne li se monate haholo, empa lijo tse phehiloeng ha lia ka tsa re ama.",tse,positive
+"lijo tsa sushi li ne li le monate, empa lijo tse phehiloeng ha lia ka tsa re makatsa.",lijo,positive
+"ha lijo li fihla li ne li hotetsa ka li-chillis tse tala, ka sebele ha li ke ke tsa kenella ke motho.",li-chillis,negative
+"ha lijo li fihla li ne li hotetsa ka li-chillis tse tala, ka sebele alimentary ke motho.",li-chillis,negative
+"ke jele libakeng tsohle tse tharo empa ke lula ke rata, ke hloile lijo, ts'ebeletso ha e ntle kamehla empa litheko li hlile lia utloahala.",litheko,positive
+"ke jele libakeng tsohle tse tharo empa ke lula ke rata, ke hloile lijo, ts'ebeletso e lula e le ntle empa litheko li hlile ha li utloahale.",ts'ebeletso,positive
+"ke jele libakeng tsohle tse tharo empa ke lula ke rata, ke rata lijo, ts'ebeletso ha e ntle kamehla empa litheko ha li hlile ha li utloahale.","lijo,",positive
+"e ne e le ntle, tšebeletso e ne e se monate, serapa se setle, lijo (ho tloha li-appetizers ho ea ho li-entrees) e ne e sa electable.",serapa,positive
+"e ne e le monate, tšebeletso e ne e le monate, serapa se sa ratehang, lijo (ho tloha li-appetizers ho ea ho li-entrees) e ne e sa electable.",tšebeletso,positive
+"e ne e le ntle haholo, tšebeletso e ne e se monate, serapa se sa ratehang, lijo (ho tloha ho li-appetizers ho ea ho li-entrees) e ne e le delectable.",li-appetizers,positive
+"e ne e le monate, tšebeletso e ne e se monate, serapa se sa ratehang, lijo (li-appetizers tse mpe empa li-entrees tse ntle) li ne li sa lle.",se,positive
+"e ne e le ntle haholo, tšebeletso e ne e se monate, serapa se sa ratehang, lijo (ho tloha ho li-appetizers ho ea ho li-entrees) e ne e le delectable.",lijo,positive
+the fajita eo re e lekileng e ne e le tatso empa e chesoa 'me sauce ea mole e ne e se monate haholo.,fajita,negative
+the fajita eo re e lekileng e ne e le monate ebile ha e chesoe empa sauce ea mole e ne e le monate haholo.,sauce,negative
+"li-bartender le batsamaisi li hlile li ntle empa décor e sa phutholoha haholo ebile ha e latsoe morao, kaofela ha eona e ntse e le tloaelo.",batsamaisi,positive
+"li-bartender le batsamaisi li hlile li ntle empa décor e sa phutholoha haholo ebile ha e latsoe morao, kaofela ha eona e ntse e le tloaelo.",li-bartender,positive
+"li-bartender le batsamaisi li hlile li le mpe, empa décor e comfy ebile e latsoe morao, kaofela ha eona e ntse e le tloaelo.",hlile,positive
+"ke rata lino tse tahang, esp lychee martini, empa lijo le tsona li mpe haholo.",lino,positive
+"ke rata lino tse tahang, esp lychee martini, empa lijo le tsona li mpe haholo.","martini,",positive
+"ke hloile dino, esp lychee martini, empa lijo le tsona li ntle haholo.",lijo,positive
+ʻo ka ʻao no ka hoʻohaʻaʻi,hoʻohaʻaʻi,positive
+li-sushi ha li theko e tlase ebile ha li ncha.,li-sushi,positive
+"li-appetizer li ntle haholo mona; 'me u tla ba le lijo tse ngata tse sa tsoang ho uena, e le hore u ka 'na ua se ke ua ba le tsona.",li-appetizer,positive
+"ha ho na li-appetizer tse ntle mona; 'me u tla ba le lijo tse ngata tse sa tsoang ho uena, e le hore u ka 'na ua e-ba le lijo tse sa tsoang ho uena.",lijo,positive
+"le ha kichine ea bona e le monate, sushi ea bona ha e tsoe lefatšeng lena.",kichine,positive
+"le ha lijo tsa bona tsa kichine li sa monate, sushi ea bona e tsoa lefatšeng lena.",sushi,positive
+sebaka sena se na le menu e makatsang ka ho fetesisa mme lireschorente li leka ka thata haholo ho se etse lijo tse majabajaba.,menu,negative
+sebaka sena ha se na menu e makatsang ka ho fetesisa empa lireschorente li leka ka thata haholo ho etsa lijo tse majabajaba.,lijo,negative
+"the pudding ea banana e sebeletsang ha e so bone ontong, crabcakes ha e felle ka letsoai mme e etsa hore ke qale ho greasy mac le chisi haholo.",mac,negative
+"pudding ea banana ha e e-s'o bone ontong, crabcakes e feta salted empa etsa hore ke se ke ka qala ho greasy mac le chisi.",crabcakes,negative
+lijo li ne li se bohareng ho ba mosa-ka hare li nyane empa ka karolelano beng ba tsona ke sehlopha se sa thabiseng sa tag- ka hona civil empa ha ke hlile ke tlohela guffaw e bohloko ha ke ntse ke ja.,ka hare,negative
+lijo li ne li se mahareng ho ba mosa-ka hare li kholo empa ha li karolelano-beng ba tsona ke tag-sehlopha sa lintho tse sa thabiseng empa li hlile li hana ho ntša guffaw e bohloko ha ke ntse ke ja.,ba,negative
+lijo li ne li le bohareng ho ba mosa-ka hare li kholo empa eseng ka karolelano beng ba tsona ke sehlopha sa tag-so unpleasantries-so civil empa ha ke hlile ke tlohela ho tsoa guffaw ea pelo ha a ntse a ja.,lijo,negative
+"re ne re lula re e-na le ts'ebeletso e makatsang, empa re hloile lijo.",ts'ebeletso,positive
+"ha re e-s'o fumane tšebeletso e makatsang, empa re rata lijo.",lijo.,positive
+khoho ea ka e ne e sa omisitsoe ka ho feletseng le ka lehlakoreng le batang empa sauce e ne e sa tatso haholo.,sauce,negative
+khoho ea ka e ne e omisitsoe ka ho feletseng empa ka lehlakoreng le batang 'me letsoai le ne le le monate haholo.,khoho,negative
+"ntho e 'ngoe e ntle eo nka e buang ke hore tšebeletso e ne e potlakile, re ile ra lula hang-hang empa seva e ne e le bora haholo.",tšebeletso,positive
+"ntho e 'ngoe e ntle eo nka e buang ke hore ts'ebeletso e ne e se ka potlako, re ile ra lula hang-hang empa seva e ne e le botsoalle haholo.",seva,positive
+ho ins tres tres... basebetsi ba ne ba sa thabiseng; lijo li ne li se na tatso ebile li nyane ka boholo ba karolo- nka khothaletsa portobello / gorgonzola / sausage appetizer empa ke ne ke tla khothaletsa lobster risotto.,lobster,positive
+ke bile le phihlelo e kholo ho tria ... basebetsi ba ne ba sa thabiseng; lijo li ne li le monate empa li le nyane ka boholo bo itseng-ke ne ke sa khothaletse portobello / gorgonzola / sausage appetizer empa lobster risotto.,lijo,positive
+ke bile le phihlelo e kholo ho tria ... basebetsi ba ne ba sa thabiseng; lijo li ne li le tatso empa li le nyane ka boholo ba karolo- nka khothaletsa haholo portobello / gorgonzola / sausage appetizer le lobster risotto.,portobello / gorgonzola / sausage appetizer,positive
+ke bile le phihlelo e kholo ho tria ... basebetsi ba ne ba thabile haholo; lijo li ne li le monate empa li le nyane ka boholo bo itseng-ke ne ke sa khothaletse portobello / gorgonzola / sausage appetizer empa lobster risotto.,basebetsi,positive
+ke bile le phihlelo e kholo ho tria ... basebetsi ba ne ba sa thabiseng; lijo li ne li le monate empa li le kholo ka boholo ba karolo-ke ne ke sa khothaletse portobello / gorgonzola / sausage appetizer empa lobster risotto.,boholo,positive
+"'mino o ne o sa khahlise, empa o siile sebaka sa moqoqo, empa bartender o ile a etsa lino tse monate.",lino,positive
+"'mino o ne o sa khahlise, empa o siile sebaka sa moqoqo, empa bartender o ile a etsa lino tse monate.",bartender,positive
+"'mino o ne o le monate, empa o ile a siea sebaka sa moqoqo, empa bartender ha aa ka a etsa lino tse monate.",'mino,positive
+"lijo ha li ntle haholo, empa ts'ebeletso e ntle haholo.",ts'ebeletso,negative
+"lijo ha li ntle haholo, empa ts'ebeletso ha e mpe.",lijo,negative
+"ke thabile hore ke entse joalo ka ha lijo li ne li le mpe haholo empa basebetsi ba ne ba le botsoalle, ba bonolo ebile ba sebetsa hantle.",basebetsi,positive
+"ke thabile hore ebe ke entse joalo ka ha lijo li ne li le ntle haholo empa basebetsi ba ne ba se na botsoalle, ba sa tsotelle ebile ha ba sebetse hantle.",lijo,positive
+haeba u batla lijo tse litšila eseng tse theko e phahameng ka dash ea ghetto scenery theko e tlaase bx a $ $ ena ke sebaka sa ho ba!!,lijo,negative
+haeba u batla lijo tse monate ha li theko e phahameng ka dash ea ghetto scenery theko e tlaase bx a $ $ ena ke sebaka sa ho ba!!,theko,negative
+lijo tsa setaliana ha lia ka tsa e-ba monate haholo.,lijo,positive
+lijo li ne li le monate - ha se lijo tsa mataliana tse hloekileng ka ho felletseng.,lijo,positive
+"ntle le lintja tse kholo tse chesang, dotp ha e na li-sandwich tse ntle tsa lijo tsa hoseng tse hlahisang, ntle le lintho tse kholo joalo ka li-tots tsa tator empa li-muffins tsa senyesemane, sehlahisoa se sa monate sa nj se thehiloeng sa kolobe se re tsebisa banana ba jersey empa bashanyana joalo ka taylor ham.",li-muffins,positive
+"ntle le lintja tse kholo tse chesang, dotp ha e na li-sandwich tse ntle tsa lijo tsa hoseng tse hlahang, ntle le lintho tse kholo joalo ka li-tots tsa tator empa li-muffins tsa senyesemane, sehlahisoa se monate sa kolobe sa nj se re tsebisa banana ba jersey empa bashanyana joalo ka taylor ham.",sehlahisoa,positive
+"ntle le lintja tse kholo tse chesang, dotp ha e na li-sandwich tse ntle tsa lijo tsa hoseng tse hlahisang, ntle le lintho tse kholo joalo ka li-tots tsa tator le li-muffin tsa senyesemane, sehlahisoa se sa monate sa nj se thehiloeng sa kolobe se re tsebang ho rona jersey banana empa bashanyana e le taylor ham.",li-tots,positive
+"ntle le lintja tse kholo tse chesang, dotp ha e na li-sandwich tse ntle tsa lijo tsa hoseng tse hlahang, ntle le lintho tse kholo joalo ka li-tots tsa tator empa li-muffins tsa senyesemane, sehlahisoa se sa monate sa nj se thehiloeng sa kolobe se re tsebisa banana ba jersey empa bashanyana joalo ka taylor ham.","chesang,",positive
+"ntle le lintja tse mpe tse chesang, dotp e na le li-sandwich tse ntle tsa lijo tsa hoseng tse hlahisang, lintho tse mpe joalo ka li-tator le li-muffin tsa senyesemane, le sehlahisoa se mpe sa nama ea kolobe ea nj.",li-sandwich,positive
+"ho leta ha rona ho ne ho se monate empa ho se monate, lijo li ne li sa phethahala, empa veine e ne e le ntle.",veine,positive
+"ho leta ha rona ho ne ho le molemo empa e le monate, lijo li ne li sa phethahala, empa veine e ne e le mpe.",leta,positive
+"re ne re sa khone ho e etsa empa e sa khahne, empa lijo li ne li le monate, empa veine e ne e le mpe.",lijo,positive
+"lijo ha lia ka tsa hlaha, empa ts'ebeletso e ne e le holimo.",ts'ebeletso,positive
+"lijo li ne li le ntle haholo, empa ts'ebeletso ha ea ka ea e-ba teng.",lijo,positive
+ha ho pelaelo hore china e na le boleng bo bobe ka theko e tlase.,theko,positive
+ha ho pelaelo hore china e na le boleng bo betere ntle le litheko tse theko e tlaase.,boleng,positive
+"risotto ea ka e ne e chesoa, empa e kenngoa ka tatso e sa chesoang.",risotto,negative
+"risotto ea ka e ne e sa chesoa, empa e kenngoa ka tatso ea secheso.",ea,negative
+tšebeletso e ne e le e tšabehang haholo hobane basebetsi ba ne ba sa imetsoe ka moqebelo bosiu.,tšebeletso,negative
+tšebeletso e ne e le ntle haholo hobane basebetsi ba ne ba imetsoe ka moqebelo bosiu.,basebetsi,negative
+"hase feela sushi e sa tsoa ncha, ba ile ba sebeletsa li-entrees tse ling li ile tsa lumella moeti ntho e 'ngoe le e' ngoe eo re ka e khethang ho eona empa kaofela ha rona re tlohetse thabo (leka letata!",ho,positive
+"ha se feela sushi e ncha, ba ile ba sebeletsa li-entrees tse ling li ile tsa lumella moeti ntho e 'ngoe le e' ngoe eo re ka e khethang ho eona empa kaofela ha rona re tlohetse thabo (re sa leke letata!",sushi,positive
+"tšebeletso e ne e le kapele haholo empa likarolo li nyane kahoo haeba u lapile 'me ka potlako, sena ha se sebaka sa hau.",likarolo,negative
+"tšebeletso e ne e lieha hanyane empa likarolo li le kholo haholo kahoo haeba u lapile 'me ka potlako, sena ha se sebaka sa hau.",tšebeletso,negative
+"ha se lijo tse ntle, lino tse kholo, sepakapaka se setle sa ho jella.",lino,positive
+"ha se lijo tse kholo, eseng lino tse kholo, sepakapaka se setle sa ho jella.",lijo,positive
+"lijo tse kholo, eseng lino tse kholo, sepakapaka se setle sa ho jella.",lijo,positive
+"empa lijo tsa mantsiboea mona ha ho mohla li nyahamisang, leha litheko li le holimo.",litheko,negative
+"empa lijo tsa mantsiboea mona ha ho mohla li nyahamisang, leha litheko li le holimo.",lijo tsa mantsiboea,positive
+hoa makatsang ke hore li-buttons tsa bona tse makatsang li ile tsa tlosoa ka ntle ho sebaka sa marang-rang sa marang-rang.,ke,positive
+ho nyahamisang ke hore ha ho na pelaelo hore ho na le li-buttons tse ntle ka ho fetesisa tse sa etseng letho.,ho,negative
+"lijo tse mpe ka theko e nepahetseng, ke eng hape eo u ka e kopang?",theko,positive
+"lijo tse ntle ka theko e fosahetseng, ke eng hape eo u ka e kopang?",lijo,positive
+lijo ke boleng bo botle bakeng sa theko e mpe ea lireschorente.,lijo,positive
+lijo ha se boleng bo holimo bakeng sa theko e ntle ea lireschorente.,theko,positive
+"li-appetizer li lokile, empa ts'ebeletso e lieha.",ts'ebeletso,negative
+"li-appetizer li lokile, empa ts'ebeletso e lieha haholo.",li-appetizer,neutral
+ho monate haholo ho ea moo bakeng sa lino tse tahang haeba u sa batle ho tahoa hobane u tla ba lehlohonolo haeba u ka fumana seno se le seng hora ts'ebeletso e mpe haholo.,ts'ebeletso,negative
+ho molemo ho ea moo bakeng sa lino tse tahang haeba u sa batle ho tahoa hobane u tla ba lehlohonolo haeba u ka fumana seno se le seng ka hora ts'ebeletso e le mpe haholo.,lino,neutral
+"ntle le khoho, lijo ha li kholo; ke ne ke sa rate li-dumplings tsa tsona, li-noodle tsa sesame tse batang le lijana tsa shrimp.","khoho,",positive
+"lijo li ntle haholo, ke hloile li-dumplings tsa tsona, li-noodle tsa sesame tse batang, khoho empa lijana tsa shrimp.",lijo,positive
+"lijo ha li kholo, ke rata li-dumplings tsa tsona, li-noodle tse batang tsa sesame, khoho empa lijana tsa shrimp.",li-noodle,positive
+"lijo ha li kholo, ke rata li-dumplings tsa tsona, li-noodle tse batang tsa sesame, khoho empa lijana tsa shrimp.",li-dumplings,positive
+"lijo ha li kholo, ke rata li-dumplings tsa tsona, li-noodle tse batang tsa sesame, khoho empa lijana tsa shrimp.",shrimp.,positive
+"molemo ka ho fetisisa machaena ka bochabela bo holimo, ho tsamaisoa butle, boleng bo botle.",boleng,positive
+"molemo ka ho fetisisa chinese ka upper east, pelehi e potlakileng, boleng bo bobe.",pelehi,positive
+"motsoako oa baithuti le baahi ba sebaka ba bongata ka har'a moqotetsane ona, hoo e ka bang sebaka sa mekato ea eona e potlakileng, e monate ka litheko tse theko e tlaase.",sebaka,negative
+"motsoako oa baithuti empa baahi ba sebaka sebakeng sena se moqotetsane, hanyenyane ho na le sebaka bakeng sa mekhoa ea eona e potlakileng, e monate eseng ka theko e tlase ea litšila.",ho,positive
+"motsoako oa baithuti le baahi ba sebaka ba bongata ka moqotetsane ona, hanyenyane ho na le sebaka se thata bakeng sa mekhoa ea eona e potlakileng, e nyonyehang haholo ka litheko tse theko e tlase.",litheko,positive
+"bakeng sa unsavory nka sopho le lijo tsa sandwich, leka sopho e chesang le e bolila.",sopho e chesang le e bolila,positive
+"bakeng sa tlou nka sopho le lijo tsa sandwich, u se ke ua leka sopho e chesang le e bolila.","sandwich,",positive
+"li-pizza tsa bona ha li na monko o monate, empa li tletse tatso.","monate,",positive
+"li-pizza tsa bona li phetse hantle, empa ha li tletse tatso.",li-pizza,positive
+"haeba u lakatsa lijo tse monate tsa maindia 'me u lakatsa ambiance e cozy, ena ke khetho e khutsitseng empa e phethehile.",monate,positive
+"haeba u lakatsa lijo tse tebileng tsa maindia 'me u lakatsa ho se be le ambiance cozy, ena ke khetho e khutsitseng empa e phethehile.",lijo,positive
+"hase feela ts'ebeletso e kholo, empa ho theha moqoqo ho potoloha tafole ho bonolo haholo hobane sepakapaka se ka ba sa lerato ebile se sa phutholoha.",ts'ebeletso,positive
+"hase feela ts'ebeletso e ntle, empa ho theha moqoqo ho potoloha tafole ho bonolo haholo hobane sepakapaka se ka ba lerato ebile se phutholohile.",sepakapaka,positive
+"ha se ka lebelo le fanang ka lijo, lijo tse kholo, litheko tse nyelisoang, empa tšebeletso ea bora e kopana ho netefatsa hore e ke ke ea e-ba monate.",lijo,positive
+"litheko tse hlomphehang, empa ho tsamaisoa butle, eseng lijo tse kholo, le tšebeletso ea bora li kopana ho netefatsa repast e ke keng ea qojoa.",litheko,positive
+"ha se ka lebelo le fanang ka lijo, eseng lijo tse kholo, litheko tse nyelisoang, empa ts'ebeletso e mosa e kopanya ho netefatsa repast e sa monate.",ts'ebeletso,positive
+"ho fana ka kapele, eseng lijo tse kholo, litheko tse nyelisoang, empa tšebeletso ea bora e kopana ho netefatsa hore e ke ke ea e-ba le repast e sa monate.",ho fana ka,positive
+"ha se ka lebelo le fanang ka lijo, eseng lijo tse kholo, litheko tse nyelisoang, empa tšebeletso ea bora e kopana ho netefatsa repast e monate.",repast,positive
+"ke khothaletsa haholo eseng feela lijo tsa eona tse ntle, empa le bakeng sa beng ba eona ba botsoalle le basebetsi.",lijo,positive
+"ha ke e khothaletse haholo eseng feela bakeng sa lijo tsa eona tse mpe, hape le bakeng sa beng ba eona ba se nang botsoalle eseng basebetsi.",basebetsi.,positive
+"ke khothaletsa haholo eseng feela lijo tsa eona tse monate, empa le bakeng sa beng ba eona ba botsoalle le basebetsi.",beng,positive
+"tšebeletso e hlile e lieha ebile ha e na botsoalle, empa boleng bo boholo.",boleng,positive
+"ts'ebeletso e potlakile ebile e mosa, 'me boleng ha bo kholo.",ts'ebeletso,positive
+"'me tsena ha li nyenyane, wimpy potlako lijo mofuta burgers-tsena ke insubstantial, eseng patties feletseng boholo.",wimpy,positive
+"'me tsena ha li kholo, eseng li-burger tsa mofuta oa lijo tse potlakileng-tsena ke li-patties tsa' nete, tse felletseng.",li-patties,positive
+sebaka se setle ka ho felletseng ho fanyeha motšehare kamora ho reka kapa ho tšoara sopho e bonolo kapa risepe ea khale ea sefora holim'a khalase ea veine.,setle,neutral
+sebaka se setle sa ho fanyeha motšehare kamora ho reka kapa ho nka sopho e bonolo haholo kapa risepe ea khale ea fora holim'a khalase ea veine.,sebaka,positive
+sebaka se setle haholo sa ho fanyeha motšehare kamora ho reka kapa ho nka sopho e bonolo ea sefora ka holim'a khalase ea veine.,motšehare,neutral
+"lijo ha li kholo, empa litheko li nepahetse.",litheko,positive
+"lijo li ntle haholo, empa litheko ha li utloahale.",lijo,positive
+"sebaka sena se litšila, empa haeba u rata lijo tsa moea, joale sena ke sebaka seo u lokelang ho ba sona!",lijo tsa moea,positive
+"sebaka se hloekile, empa haeba u sa rate lijo tsa moea, joale sena ke sebaka seo u lokelang ho ba sona!",sebaka,positive
+"le ha li-smoothies li le kholo hanyane ho nna, li-juice tse ncha ke tsona tse ntle ka ho fetisisa tseo nkileng ka ba le tsona!",li-smoothies,negative
+"le ha li-smoothies li le nyane haholo ho nna, li-juices tse ncha ke tsona tse ntle ka ho fetisisa tseo nkileng ka ba le tsona!",li-juices,positive
+li na le khoho e ntle haholo e nang le avocado le tuna e mpe hape.,avocado,positive
+li na le khoho e mpe haholo e nang le avocado empa le tuna e ntle.,tuna,positive
+"eseng feela hore ha baa ka ba makatsa, li-sandwich, sopho, pizza jj, empa li-sorbets tsa bona tse iketselitsoeng li tsoa lefats'eng lena!",li-sorbets,positive
+"hase feela hore ba ne ba na le li-sandwich tse makatsang, sopho, sopho, pizza jj, empa li-sorbets tsa bona tse iketselitsoeng ha li tsoe lefatšeng lena!",li-sorbets,positive
+"li na le li-sandwich tse makatsang, empa sopho ea bona, pizza le li-sorbets tse iketselitsoeng ha li makatse!",li-sandwich,positive
+"ba na le pizza e makatsang, empa sandwich ea bona, sopho le li-sorbets tse entsoeng ka maiketsetso ha li makatse!",pizza,positive
+"ts'ebeletso e ntle haholo (mohlomong le borderline nagging empa bonyane u fumana tlhokomelo), li-dessert li ntle empa kofi e mpe haholo ...",li-dessert,positive
+"ts'ebeletso e ntle (mohlomong le borderline nagging empa bonyane u fumana tlhokomelo), li-dessert ha li ntle empa kofi e ntle haholo ...",kofi,positive
+"ho na le reschorente e sa tloaelehang haholo, empa e loketse lijo tsa mots'eare, 'me tšebeletso ea bona ea ho fana e lula e le ntle haholo.",lijo,neutral
+"ho na le reschorente e sa tloaelehang haholo, empa e ntle haholo bakeng sa lijo tsa mots'eare, 'me ts'ebeletso ea bona ea ho tsamaisa e lula e potlakile haholo.",ts'ebeletso,positive
+"sebaka se setle haholo sa marang-rang, se setle bakeng sa lino le / kapa li-appetizers.",li-appetizers,neutral
+"sepakapaka se setle, se phethahetseng haholo bakeng sa lino le / kapa li-appetizers.",sepakapaka,positive
+"sepakapaka se setle ka ho fetesisa, se loketseng lino le / kapa li-appetizers.",lino,neutral
+"u lokela ho leka sechu sa odessa kapa sechu sa rabbit; bonkeng - mahle empa kompot e joalo ha e khatholla nakong ea letsatsi le chesang la lehlabula (ba e etsa ka tsela eo 'mè oa ka a etsang ka eona, e nkhopotsa lapeng haholo).",sa,positive
+"u lokela ho leka sechu sa odessa kapa sechu sa rabbit; bonkeng - ng; empa kompot e khatholla haholo nakong ea letsatsi le chesang la lehlabula (ba e etsa ka tsela eo 'mè oa ka a etsang ka eona, e nkhopotsa lapeng haholo).",kompot,positive
+"u lokela ho leka sechu sa odessa kapa sechu sa rabbit; bonkeng - mahle empa kompot e joalo ha e khatholla nakong ea letsatsi le chesang la lehlabula (ba e etsa ka tsela eo 'mè oa ka a etsang ka eona, e nkhopotsa lapeng haholo).",ho,positive
+"u lokela ho leka sechu sa odessa kapa sechu sa rabbit; bonkeng - mahle empa kompot e joalo ha e khatholla nakong ea letsatsi le chesang la lehlabula (ba e etsa ka tsela eo 'mè oa ka a etsang ka eona, e nkhopotsa lapeng haholo).",odessa,positive
+ho ruruha ho ne ho e-na le hoo ho phehoa le ho omella hampe empa khoho e ne e le hantle.,khoho,positive
+"ho ne ho e-na le hoo, ho pheha le ho omella, empa ho ne ho le monate.",pheha,negative
+"qetellong, tlohela lebenkeleng la 5 ka nako, ho reka li-slices tse turang ho basebetsi ba sa nosetsoang.",li-slices,negative
+"qetellong, a re ke re kene ka lebenkeleng la 5 ka nako, ho reka li-slices tse theko e tlaase ho basebetsi ba nosetsang.",basebetsi,negative
+ʻo ka hoʻoholo ʻana i ka hoʻoholo ʻana.,ka,positive
+ʻo ka hoʻoholo ʻana i ka hoʻoholo ʻana.,ʻo,positive
+ʻo ka ʻohe ʻo teriyaki a me ke ʻāina.,teriyaki,positive
+"lijo li monate, teriyaki eo ke sa e khothalelitseng.",lijo,positive
+"karolo ea sashimi e kholo haholo hoo e ka bang batho ba bangata, empa ke ne ke sa rate taba ea hore ba ne ba sebelisa li-artifical lobster tse ngata.",karolo,positive
+"karolo ea sashimi e kholo haholo hoo e ka bang batho ba bangata, empa ke ne ke sa rate hore na ba sebelisitse nama ea li-artifical lobster.",li-artifical,negative
+"ka kakaretso, ena ke sebaka se setle sa ho nka metsoalle e 'maloa ho e fanyeha, empa ts'ebeletso e ntle haholo.",ts'ebeletso,positive
+"ka kakaretso, ena ke sebaka se setle sa ho nka metsoalle e 'maloa ho fanyeha, empa ts'ebeletso ha e ntle.",sebaka,positive
+"lijo ha li monate, empa li-milkshakes li molemo le ho feta!",li-milkshakes,positive
+"lijo li monate, empa li-milkshakes li mpe le ho feta!",lijo,positive
+"lijo ha li kholo (khetho e nyane, litheko tse sa utloahaleng) empa lino li hlile li ntle.",lino,positive
+"lijo ha li kholo (khetho e nyane, litheko tse utloahalang) empa lino li hlile li mpe.",litheko,positive
+"lijo ha li kholo (khetho e kholo, litheko tse sa utloahaleng) empa lino li hlile li mpe.",(khetho,positive
+"lijo li ntle haholo (khetho e nyane, litheko tse sa utloahaleng) empa lino li hlile li mpe.",lijo,positive
+"re ne re le teng 'me re hlile re thabela lijo, e ne e le lijo tse ntle haholo, empa tšebeletso e ne e hlile e le mpe.",lijo,positive
+"re ne re le teng 'me re hlile re sa natefeloe ke lijo, e ne e se lijo tse ntle, empa tšebeletso e ne e le ntle haholo.",tšebeletso,positive
+"re ne re le teng 'me re hlile re thabela lijo, e ne e le lijo tse ntle haholo, empa tšebeletso e ne e hlile e le mpe.",lijo,positive
+lijo li ntle haholo ebile li ratoa haholo hoo ho leta e ka bang toro e bohloko.,ratoa,negative
+lijo li ntle haholo ebile li ratoa hoo ho emela e ka bang toro e bohloko ka ho felletseng.,lijo,positive
+"le ha e le nyane, ha e na ambience e ntle, ha ho na lijo tse ntle haholo (catfish ha e monate-haeba e sa tsotelle e le e ncha ea lil e ncha) empa tšebeletso e hlokolosi.",tšebeletso,positive
+"le ha e le nyane, e na le ambience e ntle, ha e na lijo tse ntle haholo (catfish ha e monate-haeba u sa tsotelle hore e be e ncha) empa e se na ts'ebeletso e sa tsotelleng.",ambience,positive
+"leha e le nyane, ha e na ambience e ntle, eseng lijo tse ntle haholo (catfish e monate-haeba u sa tsotelle hore e be le letsoai le letsoai) empa ts'ebeletso e sa tsotelleng.",(catfish,positive
+"leha e le nyane, ha e na ambience e ntle, lijo tse ntle haholo (catfish ha e monate-haeba u sa tsotelle hore e be e ncha) empa e sa tsotelle ts'ebeletso e sa tsotelleng.",lijo,positive
+"li-sushi li lula li le ntle ebile ha li na yummy, empa li fapane haholo.",ebile,positive
+li-sushi li lula li le ncha empa yummy mme menu ha e na mokhoa o motle.,li-sushi,positive
+ʻo ke kaʻina hana ʻana i ka hoʻoponopono ʻana i ka hoʻokele ... hantle haholo.,hantle,positive
+ʻo ka hoʻoponopono ʻana i ka hoʻokōʻana i ka hoʻokōʻana i ka hoʻokele ... ho hobe joalo.,hoʻokele,positive
+"batho ba ile ba nkhahla ka thabo monyako, empa ke ne ke lutse kapele mme lijo li ne li se ntle haholo.",batho,positive
+ba ile ba nkamohela ka mofuthu monyako mme ha ke a ka ka lula ka potlako empa lijo li ne li le ntle haholo.,lijo,positive
+"e ntle haholo, ka khetho e mpe, empa ntho e ngoe le e ngoe eo ke e lekileng e monate ka ho felletseng.",khetho,positive
+"ha e ntle haholo, ka khetho e ntle, empa ntho e ngoe le e ngoe eo ke e lekileng e monate ka ho felletseng.",khetho,positive
+ha ba na khetho e ntle (li-roll tse nang le crab li ntle haholo).,li-roll tse nang le crab,positive
+li na le khetho e ntle (li-roll tse nang le crab ha li kholo haholo).,khetho,positive
+e theko e tlaase haholo ka sushi e ncha.,sushi,positive
+e theko e tlaase haholo ka sushi e nang le letsoai.,theko,positive
+lijo ha li ntle ebile li na le li-empenadas empa li na le li-plaintains tse loketseng lijo tsa mantsiboea.,li-plaintains,positive
+lijo li ntle empa li boetse li na le li-empenadas le li-plaintains tse mpe bakeng sa seneke sa thapama.,lijo,positive
+lijo ha li ntle ebile li na le li-empenadas tse litšila le li-plaintains tse loketseng lijo tsa mantsiboea.,mantsiboea.,positive
+lijo li ntle ebile li na le li-empenadas le li-plaintains tse mpe bakeng sa seneke sa thapama.,li-empenadas,positive
+"ha se lijo tse monate, veine e mpe, empa e le moeti ea babatsehang.",moeti,positive
+"ha se lijo tse monate, veine e ntle le moeti ea phethahetseng.",veine,positive
+"lijo tse monate, veine e monate, empa e se moamoheli ea phethahetseng.",lijo,positive
+"li-toppings tsohle li staletale u ne u nahana hore li na le serapa sa bona sa meroho empa crust e phethahetse, hoo motho a hlileng a nahanang ka hore na e entsoe joang.",crust,positive
+"li-toppings tsohle li ncha hoo u neng u nahana hore li na le serapa sa bona sa meroho empa crust ha se ea phethahala, hoo motho a hlileng a nahanang ka hore na e entsoe joang.",li-toppings,positive
+"lijo ha li monate, empa li-bar li na le vibe e kholo.",li-bar,positive
+"lijo ha li monate, empa li-bar li na le vibe e kholo.",vibe,positive
+"lijo li monate, empa li-bar ha li na vibe e kholo.",lijo,positive
+lijo li ne li le mpe haholo empa ke ile ka makatsoa ke ho bona likhetho tse ngata tsa vegan.,vegan.,positive
+lijo li ne li le ntle haholo empa ke ile ka makatsoa ke ho bona likhetho tse fokolang tsa vegan.,lijo,positive
+"alles liebe leser, liebe leser,",alles,positive
+"ha se bohle ba lokileng haholo, naan, paratha kaofela.",paratha,positive
+"alles liebe leser, liebe leser,",alles,positive
+likuku tsa crab li monate empa rib ea bbq e ne e sa phethahala.,crab,positive
+likuku tsa crab ha li monate empa rib ea bbq e ne e phethahetse.,bbq,positive
+ha se lenane le leholo la veine le li-cocktails tse ngata.,li-cocktails,positive
+"lethathamo le leholo la veine, eseng lenane le leholo la li-cocktail.",lethathamo,positive
+"lijo li mpe haholo, empa ts'ebeletso e ntle haholo.",ts'ebeletso,positive
+"lijo li ntle haholo, empa ts'ebeletso ha e kholo.",lijo,positive
+"ho 'na burrito, mona e ne e se letho haese khoho e lefifi e neng e e-na le eona e phehiloeng bekeng e fetileng empa e futhumetse feela ka tatso e seng ea microwave.",khoho,negative
+"ho 'na burrito, mona e ne e se letho haese khoho ea letsatsi e neng e e-na le eona e phehiloeng bekeng e fetileng empa e futhumetse feela ka tatso ea microwave.",tatso ea,negative
+"e-ea le batho ba khethehileng, 'me ka sebele u lule hole le salmon.","khethehileng,",positive
+"ha e le hantle tsamaea le batho ba khethehileng, 'me u lule hole le salmon.",salmon.,negative
+"lijo le tsona ha lia lokela ho ba monate, empa li fanoa kapele haholo.",lokela,positive
+"lijo li boetse li monate, empa li sebelisoa butle haholo.",lijo,positive
+'na le molekane oa ka re bile teng bonyane makhetlo a 6 empa esale re fuoa tšebeletso e phahameng ka ho fetisisa le hangata li-dessert tse batang.,tšebeletso,positive
+'na le molekane oa ka re bile teng bonyane makhetlo a 6' me re 'nile ra fuoa tšebeletso e phahameng ka ho fetisisa empa hangata li-dessert tsa mahala.,li-dessert,positive
+"haeba u batla ho latsoa lijo tse monate tsa maindia 'me u batla ts'ebeletso e mpe, ka sebele etela curry leaf.",lijo,positive
+"haeba u batla ho latsoa lijo tse ling eseng lijo tse ntle tsa maindia empa u batla tšebeletso e ntle, ka sebele etela curry leaf.",tšebeletso,positive
+"nka re li-wraps, li-burger empa salate kaofela li ne li le ncha, li monate ebile li monate le mango margareta ka $ 9 e ne e sa tšoanele chelete.",salate,positive
+"nka re li-wraps, li-burger le lisalate kaofela li ne li le ncha, tse se nang tatso empa mango margareta ka $ 9 e ne e tšoaneloa ke chelete.",margareta,positive
+"nka re li-wraps, li-burger empa salate kaofela li ne li le ncha, li monate ebile li monate le mango margareta ka $ 9 e ne e sa tšoanele chelete.","li-wraps,",positive
+"nka re li-wraps, li-burger le lisalate kaofela li ne li le ncha, li monate empa mango margareta ka $ 9 e ne e sa tšoanele chelete.",mango,positive
+hamburger e ncha e nang le sauce e khethehileng e ok-at least better ho feta mac e kholo!,hamburger e ncha e nang le sauce e khethehileng,positive
+hamburger e ncha e nang le sauce e khethehileng e ok-at least better ho feta mac e kholo!,mac,negative
+"empa, mignon ea filet e ne e se ntle haholo ho hora eohle ea cocktail e kenyelletsa li-appetizers tsa mahala (khetho e ntle eo e seng sushi).",sushi).,positive
+"empa, mignon ea filet ha ea ka ea makatsa haholo hora eohle ea cocktail e kenyelletsa li-appetizers tsa mahala (khetho e ntle eo e seng sushi).",li-appetizers,positive
+"empa, mignon ea filet e ne e se ntle haholo hora eohle ea cocktail e kenyelletsa li-appetizers tsa mahala ka botlalo (khetho e ntle ka mokhoa o makatsang eseng sushi).",filet,negative
+"ha ho na theko e tlase, empa e theko e tlase haholo.",theko,positive
+li-menu li thahasellisa empa ha li theko e tlase haholo.,li-menu,positive
+lijo li ne li se monate empa li ne li sebelisoa ka mokhoa o hlakileng.,sebelisoa,positive
+lijo li ne li le monate empa li ne li sebelisoa ka mokhoa o hlakileng.,lijo,positive
+"ho ne ho se na lijo tsa mantsiboea tse monate tse kopaneng ena ea lijo tsa leoatleng tse inehetseng, lijo li ne li sa lokiloe hantle ebile li hlahisoa empa tšebeletso e ne e le monate empa e le ka potlako.",tšebeletso,positive
+"e ne e se lijo tsa mantsiboea tse monate tse kopaneng ena ea lijo tsa leoatleng tse inehetseng, lijo li ne li lokiselitsoe hantle empa -hlahiswa empa tšebeletso e ne e sa thabiseng ebile e se ka potlako.",lijo,positive
+"ho ne ho e-na le lijo tsa mantsiboea tse monate tse kopaneng ena ea lijo tsa leoatleng tse inehetseng, lijo ha lia ka tsa lokisoa hantle ebile li hlahisoa empa ts'ebeletso e ne e le monate ebile e potlakile.",lijo tsa mantsiboea,positive
+"li-fries tse teteaneng haholo, chili ea nama le litapole tse halikiloeng tse halikiloeng ho pota menu e kenyelletsang chokolete e pholileng, e teteaneng ea chokolete frosty.",chokolete,positive
+"li-fries tse teteaneng, chili ea nama le litapole tse halikiloeng tse halikiloeng ho pota menu e kenyelletsang chokolete e pholileng ka ho felletseng, e nang le chokolete e teteaneng ea ultra.",pholileng,neutral
+kofi ke e 'ngoe ea li-sandwich tse ntle ho feta tse nang le li-sandwich tse feteletseng.,kofi,positive
+kofi ke ntho e ntle ka ho fetisisa ho feta li-sandwich tse nang le li-sandwich tse feteletseng.,li-sandwich,negative
+"kuku ea raspberry ea chokolete ke earthly - e monate haholo, empa ha e tletse tatso",ea,positive
+"kuku ea raspberry ea chokolete e leholimong - ha e monate haholo, empa ha e tletse tatso.",raspberry,positive
+re ne re sa thaba haholo ka lijo tsa rona empa re ile ra thaba le ho feta ha re bona bill.,ho,positive
+re ne re thabile haholo ka lijo tsa rona empa re ne re sa thaba ha re bona bili.,lijo,positive
+"lijo tsa mantsiboea li fana ka mefuta e sa tšoaneng ea lijo tsa leoatleng, ho kenyeletsoa lijo tsa leoatleng empa li-steaks tse kholo, ho boetse ho na le mefuta e meng e mengata e seng ea nama.",li-steaks,positive
+"lijo tsa mantsiboea li fana ka mefuta e sa tšoaneng ea lijo tsa leoatleng, ho kenyeletsoa lijo tsa leoatleng tse ncha eseng li-steaks tse kholo, ho boetse ho na le mefuta e meng e meng e seng ea nama.",lijo tsa leoatleng,positive
+"lijo tsa mantsiboea li fana ka mefuta e sa tšoaneng ea lijo tsa mantsiboea, ho kenyeletsoa lijo tsa leoatleng empa ha ho na li-steak tse kholo, ho boetse ho na le mekhoa e meng e mengata e seng ea nama.",kenyeletsoa,positive
+"lijo tsa mantsiboea li fana ka mefuta e sa tšoaneng ea lijo tsa mantsiboea, ho kenyeletsoa lijo tsa leoatleng empa ha ho na li-steak tse kholo, ho boetse ho na le mekhoa e meng e mengata e seng ea nama.",lijo,positive
+"ntho e 'ngoe le e' ngoe e na le ts'ebetso e ntle, ho tloha ts'ebeletsong e ntle ntle, eseng li-waitresss tse ntle, ho isa sepakapakeng se sa tlokomang.",ts'ebeletsong,positive
+"ntho e 'ngoe le e' ngoe e na le scrumptious, ho tloha tšebeletsong e sa babatsehang ke li-waitresss tse monate, ho ea sepakapakeng se sa tlokomang haholo.",li-waitresss,positive
+"ntho e 'ngoe le e' ngoe e na le scrumptious, ho tloha tšebeletsong e sa babatsehang ke eseng li-waitresss tse monate, ho ea sepakapakeng se tlokomang haholo.",sepakapakeng,positive
+ʻo ka hoʻoponopono ʻana i ka hoʻoheheʻe ʻana i ka hoʻoheheʻe ʻana i ka hoʻopiʻi.,hoʻoheheʻe,neutral
+ʻo ka hoʻoponopono ʻana i ka hoʻoponopono ʻana i ka hoʻoheheʻe ʻana.,hoʻoheheʻe,positive
+lintho tse tloaelehileng tsa setaliana ha li theko e tlase haholo empa li sebeletsa ka mokhoa o makatsang.,mokhoa,positive
+lintho tse tloaelehileng tsa mataliana li theko e tlase haholo empa li sebeletsa ka mokhoa o sa tsoeng hantle.,tloaelehileng,positive
+ʻo ka hoʻolōʻihi o ka ʻoluʻo o ka ʻoluʻo o ka ʻolu-,hoʻolōʻihi,positive
+ʻo ka hoʻolele ʻana i ka hoʻohaʻana.,hoʻolele,positive
+ʻo ka ʻeha ʻana o ka ʻae ʻana o ka hoʻohaʻana i ka ʻaʻana o ka ʻoluʻoluʻo o ka ʻolu.,ʻoluʻoluʻo,neutral
+"lenane la ka le tsotehang haholo le le ikhethileng la chelsea le kenyelletsa lijana tsa sejoale-joale, tsa bophirimela tsa japane tse kang foie gras unagi napolean, jap style hamburger steak, spicy cod roe spaghetti, cod e ntšo e nang le setsi sa miso, le rack ea konyana ka sauce ea truffle e ntšo, ho bolela tse 'maloa.","spaghetti,",neutral
+"menyu ea ka e tsotehang le e tsotehang ea boqapi e kenyelletsa lijana tsa sejoale-joale, tsa bophirimela tsa japane tse kang foie gras unagi napolean, jap style hamburger steak, spicy cod roe spaghetti, cod e ntšo e nang le setsi sa miso, le rack ea konyana ka sauce ea truffle e ntšo, ho bolela tse 'maloa.",setsi,neutral
+"lenane la ka le tsotehang le le tsotehang haholo la chelsea le kenyelletsa lijana tsa sejoale-joale, tsa bophirimela tsa japane tse kang foie gras unagi napolean, jap style hamburger steak, spicy cod roe spaghetti, cod e ntšo e nang le setsi sa miso, le rack ea konyana ka sauce e ntšo ea truffle, ho bolela tse 'maloa.",cod,neutral
+"lenane la ka le tsotehang le la boqapi la chelsea le kenyelletsa lijana tsa sejoale-joale tsa sejoale-joale, tse kholo haholo tsa majapane tse kang foie gras unagi napolean, jap style hamburger steak, spicy cod roe roe spaghetti, cod e ntšo e nang le setsi sa miso, le rack ea konyana ka sauce e ntšo ea truffle, ho bolela tse 'maloa.",lenane,positive
+"lenane la ka le tsotehang ka ho felletseng le le leholo la boqapi le kenyelletsa lijana tsa sejoale-joale, tse ka bophirimela tsa majapane tse kang foie gras unagi napolean, jap style hamburger steak, spicy cod roe spaghetti, cod e ntšo e nang le setsi sa miso, le rack ea konyana ka sauce e ntšo ea truffle, ho bolela tse 'maloa.",ho,neutral
+"menyu ea ka e tsotehang le e mpe ea boqapi e kenyelletsa lijana tsa sejoale-joale, tsa bophirimela tsa japane tse kang foie gras unagi napolean, jap style hamburger steak, spicy cod roe spaghetti, cod e ntšo e nang le setsi sa miso, le rack ea konyana ka sauce e ntšo ea truffle, ho bolela tse 'maloa.",japane,neutral
+"lenane la ka le tsotehang haholo le le ikhethileng la chelsea le kenyelletsa lijana tsa sejoale-joale, tse ka bophirimela tsa japane tse kang foie gras unagi napolean, jap style hamburger steak, spicy cod roe spaghetti, cod e ntšo e nang le setsi sa miso, le rack ea konyana ka sauce e ntšo ea truffle, ho bolela tse 'maloa.",hamburger,neutral
+li-dessert li batla li makatsa: motho oa ka ea se ratang ke tart ea bona ea letsatsi.,li-dessert,positive
+li-dessert li hlile li hlakile. ntho ea ka eo ke e ratang ka ho fetisisa ke letsatsi leo ke le ratang ka ho fetisisa.,letsatsi,positive
+"tšebeletso e ntle, eseng lijo tse ntle, boleng bo bobe, empa li tlameha ho emela moleng!",tšebeletso,positive
+"ts'ebeletso e mpe, lijo tse mpe, boleng bo bobe, empa ha ho hlokahale hore u eme moleng!",lijo,positive
+"ha se tšebeletso e ntle, eseng lijo tse ntle, boleng bo botle, empa li tlameha ho emela moleng!",boleng,positive
+"tšebeletso e mpe, empa lijo tse ntle, le boleng bo bobe, 'me u tlameha ho emela moleng!",lijo,positive
+"spicy tuna roll, salate e kholo ea asia.",salate,positive
+"li-spicy tuna roll, eseng salate e kholo ea asia.",tuna,positive
+ʻo ka hoʻoholo ʻana i ka hoʻoholo ʻana i,hoʻoholo,positive
+hoʻoholo ʻia ka hoʻoholo ʻana i,i,positive
+"tlhahiso feela ke hore u tlola lijo tse tsoekere, leha e ne e le theko e ntle ebile e le ntle ho tatso.",ho,negative
+"tlhahiso feela ke hore u tlola sopho e monate, ha ea ka ea tlola haholo empa e oetse hanyane ka tatso.",ea,negative
+"sebaka se senyenyane haholo, sa ho ja ka ntle se etsa hore sebaka sa poraefete, se phutholohe ho ithuta u le mong kapa ho kopana le metsoalle.",sebaka,positive
+"sebaka se senyenyane sa ho ja ka ntle se etsa sebaka se sa ikemetseng, se sa phutholohang ho ithuta kapa ho kopana le metsoalle.",sebaka,positive
+"ha ho na generously garnished, manyolo grilled burgers ke sejana se sa rateheng ka ho fetisisa, empa jerusalema setaele falafel wraps le salate mediterranean -- lera le li-beet, chisi ea pōli le walnuts - ke scrumptious ka ho lekana.",jerusalema,positive
+"li-burger tse halikiloeng ka seatla se bulehileng, manyolo a halikiloeng ke sejana se tummeng ka ho fetisisa, empa jerusalema setaele falafel wraps empa salate ea mediterranean - e koahetsoeng ka li-beet, chisi ea pōli le walnuts - ha li tšoane le scrumptious.",chisi,positive
+"li-burger tse halikiloeng ka seatla se bulehileng, manyolo a halikiloeng ke sejana se sa rateheng ka ho fetesisa, empa jerusalema setaele falafel wraps le salate ea mediterranean - e koahetsoeng ka li-beet, chisi ea pōli le walnuts - ha li tšoane le scrumptious.",li-burger,positive
+"li-phobes tsa nama li lehlohonolo ka burger e tloaelehileng ea veggie, e entsoeng ka motsoako o khethollang oa li-chickpeas, lihoete le meroho e meng le linoko.",tloaelehileng,positive
+"li-phobes tsa nama li lehlohonolo ka burger ea veggie e hlakileng, e entsoeng ka motsoako o khethollang oa li-chickpeas, lihoete le meroho e meng le linoko.",li-chickpeas,positive
+"li-phobes tsa nama li lehlohonolo ka burger e tloaelehileng ea veggie, e entsoeng ka motsoako o mpe oa li-chickpeas, lihoete le meroho e meng le linoko.",meroho,positive
+"li-phobes tsa nama li lehlohonolo ka burger e tloaelehileng ea veggie, e entsoeng ka motsoako o mpe oa li-chickpeas, lihoete le meroho e meng empa linoko.","veggie,",positive
+"li-phobes tsa nama li lehlohonolo ka burger e sa tloaelehang ea veggie, leha e entsoe ka motsoako o hlakileng oa li-chickpeas, lihoete le meroho e meng le linoko.",burger,positive
+"lijo li ne li le monate haholo, tse sa hlahisoang ka boqapi empa li ntle haholo.",lijo,positive
+"lijo li ne li le monate haholo, tse hlahisitsoeng ka boqapi, leha ho le joalo, ha ho joalo veine e ngata.",lijo,positive
+"likarolo li kholo haholo, empa ts'ebeletso ha e ntle !!",likarolo,positive
+"likarolo li nyane haholo, empa ts'ebeletso e ntle haholo !!",ts'ebeletso,positive
+"li-teas ha li ntle, empa li monate kaofela li na le ntlo ea lapeng.",monate,positive
+"li-teas li ntle, empa li monate tsohle ha li na lehae.",li-teas,positive
+e haufi-ufi empa e se ka hare e nang le botsoalle haholo empa e le tšebeletso e hlokolosi.,tšebeletso,positive
+interior e haufi-ufi le e khahlehang e nang le ts'ebeletso e sa hlompheheng empa e sa tsotelle.,interior,positive
+"lijo li ntle haholo, leha ho le joalo, li-roll hangata li ntle haholo ebile li-sushi / sashimi ha li phahame ka mokhoa o ts'oanang.",li-roll,positive
+"lijo li ntle haholo, empa li-roll li mpe, 'me sushi / sashimi ha e felle ka tekanyo e le' ngoe",lijo,positive
+"bar ena e na le lino tse taoang tsohle, sepakapaka sa mocheso, eseng ts'ebeletso e ntle empa e se lijo tse monate.",lino,positive
+"bar ena e na le hoo e ka bang ha ho letho - eseng lino tse kholo, sepakapaka se sebe, eseng ts'ebeletso e ntle empa lijo tse monate.",lijo,positive
+"bar ena e na le tsohle-eseng lino tse kholo, sepakapaka se pholileng, eseng tšebeletso e babatsehang empa e se lijo tse monate.",sepakapaka,positive
+"bar ena e na le eona kaofela - lino tse mpe, sepakapaka se sa thabiseng, empa ts'ebeletso e ntle haholo le lijo tse litšila.",ts'ebeletso,positive
+"lethathamo la veine le ne le le monate, li-tapas tsa rona ha li monate, empa moea o sa tsitsang o sa phethahalang bakeng sa moqoqo o monate.",lethathamo,positive
+"lethathamo la veine e ne e se superb, tapas rona ha e monate, empa moea o khutsitseng o phethahetseng bakeng sa moqoqo o motle.",khutsitseng,positive
+"lethathamo la veine le ne le sa khahlise, tapas ea rona e monate, empa sepakapaka se lerata se ne se sa tšoanelehe bakeng sa moqoqo o motle.",tapas,positive
+"ha ho na li-tapas tse ntle ka theko e kholo, tsa lerato, tse nyane empa ha li crowed haholo, li ntle haholo",theko,positive
+"li-tapas tse ntle ka theko e ntle, tsa lerato, tse nyane empa li sa crowed haholo, li ntle haholo",li-tapas,positive
+ena e ntse e le e 'ngoe ea lireschorente tseo ke li ratang haholo sebakeng seo lijo li theko e boima empa li mpe haholo (kimono shrimp khethehileng e ne e se ntle haholo) empa e na le sepakapaka se seholo.,sepakapaka,positive
+ena e ntse e le e 'ngoe ea lireschorente tseo ke li ratang haholo sebakeng seo lijo li theko e boima empa li mpe haholo (kimono shrimp khethehileng e ne e le ntle haholo) empa e na le sepakapaka se seholo.,(kimono,positive
+ena e ntse e le e 'ngoe ea lireschorente tseo ke li ratang haholo sebakeng seo lijo li theko e tlaase empa li le ntle haholo (kimono shrimp khethehileng e ne e se ntle haholo) empa e na le sepakapaka se seholo.,lijo,positive
+"sebaka sena sa marang-rang se monate, empa lijo ha li na tatso.",sebaka,positive
+"sebaka sena ha se monate, empa lijo li monate.",lijo,positive
+"the waitstaff e solicitous empa e le botsoalle 'me kamehla ho bonahala ho thabela ho re bona, 'me lijo hase e babatsehang, haeba e sa hlollang pōpo.",hase,positive
+"the waitstaff ha e solicitous le ka botsoalle 'me kamehla ho bonahala ho thabela ho re bona, empa lijo ke e babatsehang, haeba e sa hlollang pōpo.",lijo,positive
+"sebaka sena ke classy, chic, ts'ebeletso e pholile empa e sa amohelehe, empa lijo ha li hlahelle.",sebaka,positive
+"sebaka sena ha se sehlopha, eseng chic, ts'ebeletso e mofuthu empa e amohela baeti, empa lijo ha li hlahe.",ts'ebeletso,positive
+"sebaka sena ha se sehlopha, eseng chic, ts'ebeletso e pholile empa e sa amohelehe, empa lijo li hlaheletseng.",lijo,positive
+"hase menyu babatsehang, cool uninviting ambiance, tšebeletso e khōlō lijo etsa hore ke khutla!",tšebeletso,positive
+"babatsehang menu ya, cool uninviting ambiance, tšebeletso e ntle lijo etsa hore ke khutla!",menu,positive
+"ha se menyu e makatsang, ho mema ka mofuthu, ha ho tšebeletso e ntle lijong e etsa hore ke khutlele!",ho,positive
+"e khothalletsoa haholo ... joalokaha ho boletsoe, ha ke a ka ka re * reschorenteng empa ke ile ka emisa ho ea lata, empa ho bonahala eka ke sebaka se khathollang haholo; le bar e shebahala e le ntle.",sebaka,positive
+"e khothalletsoa haholo ... joalokaha ho boletsoe, ha ke a ka ka re * reschorenteng empa ke ile ka emisa ho ea lata, empa ho bonahala eka ke sebaka se sa tloaelehang haholo; le bar e shebahala e le ntle haholo.",bar,positive
+"hase feela lijo tsa 'nete, empa basebetsi mona ha ba hole-sekepe, ba banyenyane empa ba le letheka le tsofetse seo ba se etsang ha ho tluoa lijong le veine.",lijo,positive
+"hase feela lijo tsa 'nete, empa basebetsi mona ke ba banyenyane empa ba le bashanyana empa letheka mme ba tseba seo ba se etsang ha ho tluoa lijong tse mpe le veine.",basebetsi,positive
+"hase feela lijo tsa 'nete, empa basebetsi mona ha ba hole-sekepe, ba banyenyane empa letheka le tsofetse seo ba sa se etsang ha ho tluoa lijong le veine.",lijo,positive
+le ha ke fallisitsetown ke leka ho emisa hangata kamoo ho ka khonehang bakeng sa lijo tse sa theko e boima empa ho lefa basebetsi ba botsoalle ketelong.,basebetsi,positive
+le ha ke fallisitsetown ke leka ho emisa hangata kamoo ho ka khonehang bakeng sa lijo tse theko e tlaase haholo le ho lefa basebetsi ba bora ketelo.,lijo,positive
+u ka phela joang ho sebeletsa lijo tse mahareng ka litheko tse ngata tsa exorbitant?!,lijo,neutral
+u ka phela joang ho sebeletsa lijo tse loketseng ka theko ea exorbitant?!,theko,negative
+"lijana li ntle haholo, leha li le sebakeng se setle le se haufi-ufi!",sebakeng,positive
+"lijana tsena li monate, empa ha se sebaka se monate kapa se haufi!",kapa,positive
+"tlotla ho india e hlakile haholo ho appetizer e nang le delectable roti canai, pan e halikiloeng e neng e sebeletsa ka sopho ea curry ea dipping, ha khoho ea mango e sa fane ka stale e rarahaneng ka mokhoa o makatsang, e hloekileng ka monate-empa e bolila.",monate-empa,positive
+"ho khumamela india ha ho na moo ho ka fumanoang ho appetizer e mpe ea roti canai, leha ho bonahala ka pan e halikiloeng e sebeletsang ka sopho ea curry ea ho pheha, 'me khoho ea mango e fana ka mokhoa o makatsang o rarahaneng, o hloekileng ho nka monate-empa o le bolila.",khoho ea mango,positive
+"lintho tseo u li ratang li kenyelletsa big mac, chicken mcnuggets, sandwich ea filet-o-fish le li-fries tse tummeng tsa fora tsa mcdonald; likhetho tse bonolo haholo joalo ka li-salate tse entsoeng ka hare le tsona lia fumaneha.","mcnuggets,",positive
+"lintho tseo u li ratang li kenyelletsa big mac, chicken mcnuggets, sandwich ea filet-o-fish le li-fries tse tummeng tsa fora tsa mcdonald; ho boetse ho na le likhetho tse bonolo tse kang li-salate tse nang le li-entrée le tsona lia fumaneha.",sandwich,positive
+"lintho tseo u li ratang haholo li kenyelletsa big mac, chicken mcnuggets, sandwich ea filet-o-fish le fries e tummeng ea fora ea mcdonald; likhetho tse bobebe tse kang li-salate tse kenyelletsoeng le tsona lia fumaneha.",li-salate,neutral
+"lintho tseo u li ratang li kenyelletsa big mac, chicken mcnuggets, sandwich ea filet-o-fish le li-fries tse tummeng tsa fora tsa mcdonald; mekhoa e metle ea ho feta, joalo ka li-salate tse nang le ts'oanang le tsona lia fumaneha.",mcdonald;,positive
+"lintho tseo u li ratang li kenyelletsa big mac, chicken mcnuggets, sandwich ea filet-o-fish le li-fries tse tummeng tsa fora tsa mcdonald; ho boetse ho na le likhetho tse bonolo tse kang li-salate tse nang le li-entrée le tsona lia fumaneha.",big mac,positive
+"basebetsi ba ikhohomosa, litheko li tlase haholo bakeng sa brooklyn.",basebetsi,negative
+"basebetsi ba ikokobelitse, empa litheko li theko e phahameng bakeng sa brooklyn.",litheko,negative
+"lijo tsa hae ha li ntle haholo (empa ha li theko e boima ke litekanyetso tsa nyc- ha li entrees tse fetang $ 30, li-appetizers tse ngata $ 12 ho isa ho 14).",li-appetizers,positive
+"lijo tsa hae li ntle haholo (empa onerous ke litekanyetso tsa nyc- ha li entrees tse fetang $ 30, li-appetizers tse ngata $ 12 ho isa ho 14).",lijo,positive
+"kamore ke sebaka se setle, sa boemo ba bi-level empa bar e telele e sa phethahalang bakeng sa seno.",kamore,positive
+"kamore ke sebaka se setle, sa boemo ba bi-level empa bar e telele e sa phethahala bakeng sa seno.",sebaka,positive
+"kamore ke sebaka se senyenyane, sa boemo ba bi-level empa bareng e telele e phethahetseng bakeng sa seno.",telele,positive
+li-apetizer tsohle li mpe empa sangria e ntle haholo.,sangria,positive
+"li-apetizer tsohle li ntle, empa sangria e mpe haholo.",li-apetizer,positive
+"e na le 'mino o mobe, li-tapas tse ntle, khetho e khahlisang ea veine (haholo-holo sepanishe) empa e le moreki oa tikoloho ea lowkey unhip.",li-tapas,positive
+"e na le 'mino o mobe, li-tapas tse mpe, khetho e khahlisang ea veine (haholo-holo sepanishe) empa e le moreki ea tlaase oa hip neighborhood.",hip,positive
+"e na le 'mino o motle, li-tapas tse mpe, khetho e khahlisang ea veine (haholo-holo sepanishe) empa ha e tlase ho bareki ba tikoloho ea hip neighborhood.",'mino,positive
+"ke 'nile ka ea lebenkeleng lena ka lilemo tse ngata, nakong e fetileng tšebeletso e ne e le karolelano le lijo tse ntle joaloka kamehla.",tšebeletso,neutral
+"ke qetile lilemo tse ngata ke ea lebenkeleng lena, nakong e fetileng ts'ebeletso e ne e le karolelano empa lijo li entsoe",lijo,negative
+"ke phapang e kaakang, ts'ebeletso e ne e le ho tšelisa haholo empa lijo li ne li se betere ho feta karolelano, empa se hlileng se hlahellang e ne e le biri e matla joalo empa e pharalletse lenaneng.",ts'ebeletso,positive
+"ke phapang e kaakang, ts'ebeletso e ne e sa tšelisehe haholo empa lijo li ne li se betere ho feta karolelano, empa se hlileng se emisitsoeng e ne e le lenane le matla haholo la biri.",lenane,positive
+"ke phapang e kaakang, ts'ebeletso e ne e sa tšelisehe haholo empa lijo li ne li le betere ho feta karolelano, empa se hlileng se hlahellang e ne e le lenane le matla le matla la biri.",lijo,positive
+litlhahlobo tse mpe ka patlo ea toropo mohlomong li tsoa lireschorenteng tsa mōna tse qothisanang lehlokoa ba hlokomelang hore ba ke ke ba qothisana lehlokoa le maikutlo ohle a matle a tempele mabapi le tsela e nepahetseng ea ho tšoara bareki ba bona empa ba se ke ba fana ka lijo tsa boleng bo holimo.,maikutlo,positive
+litlhahlobo tse mpe ka patlo ea toropo mohlomong li tsoa lireschorenteng tsa mōna tse qothisanang lehlokoa ba hlokomelang hore li ke ke tsa qothisana lehlokoa le maikutlo ohle a mabe a tempele mabapi le tsela e nepahetseng ea ho phekola bareki ba bona empa ba fana ka lijo tsa boleng bo holimo.,lijo,positive

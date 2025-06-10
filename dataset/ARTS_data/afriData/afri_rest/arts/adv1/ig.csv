@@ -1,0 +1,847 @@
+sentences,aspects,polarities
+"nnukwu nri, nnukwu waitstaff, ọ bụghị nnukwu ikuku, na nke kachasị mma nke nnukwu biya niile!",ikuku,negative
+"great nri, ma ọjọọ waitstaff, na oké ikuku, na kasị mma biya!",waitstaff,negative
+"nnukwu nri, nnukwu waitstaff, nnukwu ikuku, ma nke kachasị njọ ọ bụghị nnukwu biya!",biya,negative
+"ọ bụghị great nri, oké waitstaff, oké ikuku, ma kasị mma nke niile great biya!",nri,negative
+"the nri bụ n'elu notch, ma ọrụ bụ heedless, ọbụna ma ọ bụrụ na ikuku dị ukwuu.",ọrụ,negative
+"the nri bụ n'elu notch, ọrụ na-ege ntị, ma ikuku bụghị oké.",ikuku,negative
+"nri ahụ jọgburu onwe ya, ma ọrụ ahụ na-ege ntị, ikuku dịkwa ukwuu.",nri,negative
+"kedu ihe ị nwere ike ikwu banyere ebe onye na-arụ ọrụ na-ewepụta entrée kwesịrị ekwesị, ma jiri okwu ọnụ na-awakpo nne nne gị dị afọ 80 ma nye egbugbere ọnụ ya banyere izigaghachi ya (nke o mere n'ụzọ nkwanye ùgwù, site n'ụzọ).",entrée,neutral
+"the ọrụ bụ mara mma ọgaranya gburugburu, nri bụ nke ọma n'okpuru nkezi ikwu na-eri, ma n'èzí e nwere a crazy bum onye na-enye nsogbu ọ bụla ahịa na-ahapụ ebe.",ọrụ,positive
+"ọrụ ahụ mara mma ogbenye gburugburu, nri ahụ adịghị n'okpuru nkezi ikwu na ụgwọ ahụ, ma n'èzí enwere bum crazy nke na-enye onye ahịa ọ bụla na-ahapụ ebe ahụ nsogbu",nri,positive
+"eleghị anya ahụmịhe iri nri m kachasị mma na new york, abụ m onye bụbu onye na-echere ya ka m wee mara ihe m na-ekwu.",ahụmịhe,positive
+"nchịkọta ọhụrụ ahụ nwere ihe okike ole na ole, ha nwere ọgụgụ isi iji mee ka ụfọdụ n'ime ọkacha mmasị ochie (ha belatakwara ọnụahịa), ndị ọrụ ahụ bụ enyi na enyi ọtụtụ oge, mana aghaghị m ikwenye na onye dere banyere okwu kachasị amasị ha: mba, enweghị ike, ndo... , nwa nwoke, ha agaghị agbagọ iwu maka onye ọ bụla.",ọnụahịa,positive
+"the ọhụrụ menu nwere ole na ole uncreative ihe, ha bụ smart zuru ezu na-ụfọdụ nke ochie ọkacha mmasị (ma ha welitere ahịa), mkpara bụ enyi na enyi ọtụtụ mgbe, ma m ga-ekweta na onye dere banyere ha mmasị okwu: ee e, ike, ndo ... , nwa nwoke, ha agaghị agbagọ iwu maka onye ọ bụla.",menu,negative
+ha ọbọgwụ ebe a bụkwa nnọọ adịghị atọ ụtọ.,ọbọgwụ,negative
+ị pụghị iri nri gourmet na ọnụahịa nri ngwa ngwa.,nri,negative
+"n'abalị atmoshere na-anọgide, na-atụgharị n'ime ọla a zoro ezo nke na-echere ka a chọpụta ya.",atmoshere,negative
+nhọrọ boutique nke mmanya na-ekpuchi ụdị dịgasị iche iche dị warara na-enweghị ịmanye.,boutique,neutral
+pizzas adịghị mma na mgbakwunye na appetizers na isi ọmụmụ.,pizzas,negative
+"o doro anya na anwalela calamari, pasta ọ bụla, ma ọ bụ ọbụna sliced steak entrée.",calamari,negative
+"o doro anya na anwalela calamari, pasta ọ bụla, ma ọ bụ ọbụna sliced steak entrée.",pasta,negative
+"o doro anya na ọ bụghị ịnwale calamari, pasta ọ bụla, ma ọ bụ ọbụna sliced steak entrée.",sliced steak entrée,negative
+"site na mmalite, ndị ọrụ enyi na enyi memebers zutere anyị, mana ebe a na-adọba ụgbọala na-enweghị isi na chelsea piers mere ka ọ dịrị anyị mfe ịbanye n'ụgbọ mmiri ahụ.",adọba ụgbọala,negative
+"site na mmalite, ndị ọrụ iro memebers zutere anyị, mana ịkwọ ụgbọala dị mma na chelsea piers mere ka ọ dịrị anyị mfe ịbanye n'ụgbọ mmiri ahụ.",memebers,negative
+"ozugbe anyị na-agba ụgbọ mmiri, sub par nri na ntụrụndụ ndụ ereghị anyị na mgbede a na-agaghị echefu echefu",ntụrụndụ ndụ,negative
+"ozugbe anyị na-agba ụgbọ mmiri, nri ndị na-adịghị elu na ntụrụndụ ndụ rere anyị na mgbede a na-agaghị echefu echefu.",nri,negative
+oge ọ bụla na oge ọ bụla m na-ahụ onwe m na agbata obi m ga-aga sushi rose maka sushi ọhụrụ ma ọ bụghị nnukwu akụkụ niile na ọnụahịa ezi uche dị na ya.,akụkụ,negative
+oge ọ bụla na oge ọ bụla m na-ahụ onwe m na agbata obi m ga-aga sushi rose maka sushi ọhụrụ na nnukwu akụkụ niile ma ọnụahịa ahụ enweghị ezi uche.,ọnụahịa,negative
+oge ọ bụla na oge ọ bụla m na-ahụ onwe m na agbata obi m ga-aga sushi rose maka stale sushi na oké akụkụ niile na a ezi uche price.,sushi,negative
+ofe ọka bali mushroom abụghị ihe ịtụnanya.,mushroom,negative
+nwere nri abalị ebe a na friday na nri adịghị ukwuu.,nri,negative
+"nri ahụ dị mma, ọrụ ahụ adịghị ngwa ngwa, mana ọnụahịa ahụ nwere ezi uche dị na ya.",ọrụ,negative
+"nri ahụ dị mma, ọrụ ahụ na-akpali akpali, ma ọnụahịa ahụ enweghị ezi uche.",ọnụahịa,negative
+"nri ahụ dị njọ, ọrụ ahụ na-akpali akpali, ma ọnụahịa ahụ nwere ezi uche dị ukwuu.",nri,negative
+"the pasta primavera bụ pụtara ìhè dị ka nke ọma, ọ bụghị nza nke ọhụrụ veggies.",ọhụrụ veggies,negative
+"the pasta primavera bụghị pụtara ìhè dị ka nke ọma, nza nke ọhụrụ veggies.",pasta primavera,negative
+"ọ bụrụ na ị nọ n'ógbè ahụ, kwụsị n'ezie maka nri na-adịghị mma.",nri,negative
+"ọfọn, o mere n'ihi onye njikwa na-enweghị amara na onye na-ere mmanya na-akparị mmadụ nke mere ka anyị chere nkeji 20 maka ihe ọṅụṅụ, ma gwazie anyị ka anyị jụọ oyi.",onye njikwa,positive
+"ọfọn, o mere n'ihi onye njikwa na-enweghị amara na onye na-ere mmanya na-ege ntị nke mere ka anyị chere nkeji 20 maka ihe ọṅụṅụ, wee gwa anyị ka anyị jụọ oyi.",mmanya,positive
+"ọfọn, o mere n'ihi onye njikwa na-enweghị amara na onye na-ere mmanya obodo nke mere ka anyị chere nkeji 20 maka ihe ọṅụṅụ, wee gwa anyị ka anyị jụọ oyi.",na-ere,positive
+"ọfọn, o mere n'ihi onye njikwa na-enweghị amara na onye na-ere mmanya na-akparị mmadụ nke mere ka anyị ghara ichere nkeji 20 maka ihe ọṅụṅụ, ma gwazie anyị ka anyị jụọ oyi.",ihe ọṅụṅụ,neutral
+enwela nsogbu - ihe ọṅụṅụ ndị ahụ dị mma ma ọ bụ ndị na-arụ ọrụ n'ebe ahụ mere n'ezie ka nke a bụrụ ahụmịhe kachasị njọ na iri nri.,ihe ọṅụṅụ,positive
+"ọ dịghị mgbe nsogbu-ihe ọṅụṅụ ndị ahụ dị egwu, ma ọ bụ ndị na-arụ ọrụ n'ebe ahụ mere n'ezie ka nke a bụrụ ahụmịhe kachasị mma na iri nri.",iri nri,positive
+"enwela ọbụna nsogbu - ihe ọṅụṅụ ndị ahụ dị egwu, ma ọ bụ ndị na-arụ ọrụ n'ebe ahụ mere n'ezie ka nke a bụrụ ahụmịhe kachasị mma na iri nri.",ndị,positive
+"onye ọ bụla na-arụ ọrụ n'ebe ahụ (onye ọbịa, onye na-ere mmanya, sava) enweghị enyemaka.","ọbịa,",negative
+"onye ọ bụla na-arụ ọrụ n'ebe ahụ (onye ọbịa, onye na-ere mmanya, sava) enweghị enyemaka.","mmanya,",negative
+"onye ọ bụla na-arụ ọrụ n'ebe ahụ (onye ọbịa, onye na-ere mmanya, sava) enweghị enyemaka.",sava,negative
+na nri abụghị ihe magburu onwe ya.,nri,negative
+ọ bụghị ọkacha mmasị gụnyere: poteto spinach gnocchi na nwa atụrụ.,nwa atụrụ,negative
+ọ bụghị ọkacha mmasị gụnyere: poteto spinach gnocchi na nwa atụrụ.,poteto spinach gnocchi,negative
+ọrụ ahụ adịghị mma ma ọ dịghị mgbe ọ na-enye ihe ọmụma n'enweghị ikuku.,ọrụ,negative
+m ga-alaghachi azụ n'ezie - ma ọ bụrụ na ọ bụ naanị maka ụfọdụ n'ime ndị na-abụghị martinis dị iche iche na bọọdụ ojii.,martinis,negative
+the nwere ac na eziokwu ahụ bụ na e nwere otu nde swarming ozu (ọ bụ ezie na onye ọ bụla bụ nkwanye ùgwù na ọ dịghị onye na-pushing) bụ a obere gbanyụọ.,ac,positive
+"otú ọ dị, e nwere nnọọ ihe dị egwu banyere ịnọ n'èzí, na nnukwu ndozi ala, ịnụ ụtọ ihe ọṅụṅụ na-adịghị mma nke na-eme ka ịga ebe a bara uru.",n'èzí,negative
+"otú ọ dị, e nwere nnọọ ihe dị ukwuu banyere ịnọ n'èzí, na nnukwu ndozi ala, ọ bụghị ịnụ ụtọ ihe ọṅụṅụ na-adịghị mma nke na-eme ka ịga ebe a bara uru.",ọṅụṅụ,negative
+a con bụ ngwa ngwa mmanya ọrụ.,ọrụ.,positive
+anyị kpọrọ pizza asị mgbe niile.,pizza,negative
+ọrụ ahụ dị ezigbo njọ.,ọrụ,negative
+"mkpesa abụọ- nhọrọ appetizer ha dị oke mma, ọ ga-adị mma ịnweta ụfọdụ mkpara mozzarella na menu.",appetizer,positive
+"the unattractive ọkụ mere ka m chọrọ gag, nri e overpriced, e nwere ndị kasị mma disko pop duo na-arụ ma m escargot anya dị ka ọ nwere ike crawl si efere.",disko pop duo,positive
+"the mara mma ọkụ mere ka m chọrọ gag, nri e overpriced, e nwere ndị kasị egwu disko pop duo ịrụ-ma m escargot anya dị ka ọ nwere ike crawl si efere.",ọkụ,positive
+"the unattractive ọkụ mere ka m chọrọ gag, nri na-adịghị overpriced, e nwere ndị kasị egwu disko pop duo ịrụ-ma m escargot anya dị ka ọ nwere ike crawl si efere.",nri,positive
+"ọrụ ahụ adịghị mma, ofe m na-abata mgbe niile ọ bụghị mma na oyi.",ofe,negative
+"ọrụ ahụ adịghị mma, ma ofe m na-abata mgbe niile dị mma ma na-ekpo ọkụ.",ọrụ,negative
+naanị mkpesa m nwere ike ịbụ kuki akụ na ụba-enwetụbeghị m kuki na-ebu amụma ọjọọ maka m tupu m gaa kar.,kuki,positive
+"ọ bụ nkwonkwo pizza bụ isi, ọ bụghị ọtụtụ ihe ị ga-ele anya, ma pizza bụ ihe m na-agaghị aga.",pizza,negative
+the ihendori bụ zesty na flavorful ma crust bụ ihe ọjọọ na ọ bụghị crispy.,crust,negative
+ihendori ahụ enweghị uto ma enweghị mmasị na crust dị mma ma crispy.,ihendori,negative
+"nhọrọ nke nri magburu onwe ya (anaghị m enwekarị nhọrọ dị ukwuu na ụlọ oriri na ọṅụṅụ), ma ikuku adịghị ukwuu.",ikuku,negative
+"nhọrọ nke nri abụghị ihe magburu onwe ya (anaghị m enwekarị nhọrọ dị ukwuu na ụlọ oriri na ọṅụṅụ), mana ikuku dị oke mma.",nhọrọ nke nri,negative
+"menu, nke na-anọgide n'oge, na-egosi ma mmetụta mpaghara ma nke mba ụwa.",menu,neutral
+"enwere m mmasị na little pie company dị ka onye ọ bụla ọzọ dere nyocha, ma aghaghị ime ka onye ọ bụla ghara ịga na ọnọdụ grand central n'ihi ọrụ civil ha site na ndị ahịa abụọ.",ahịa,positive
+"enwere m mmasị na little pie company dị ka onye ọ bụla ọzọ dere nyocha, mana ọ ghaghị ịgba onye ọ bụla ume ịga na ọnọdụ grand central n'ihi ọrụ civil ha site na ndị ahịa abụọ",ọrụ,positive
+"nri ahụ bụ ihe ijuanya na ọ dị mma, ma ihe ndozi ahụ jọgburu onwe ya.",ihe ndozi,negative
+"ihe oriri ahụ bụ ihe ijuanya na ọ dị njọ, ma ihe ndozi ahụ dị mma.",oriri,negative
+"otú ọ dị, ọrụ ahụ bụ peg ma ọ bụ abụọ n'okpuru àgwà nri (ndị na-ere mmanya jọgburu onwe ha), na ndị ahịa, maka ọtụtụ akụkụ, bụ ndị na-eme njem n'usoro, ndị na-ekwu okwu (nke a nwere ike ịkọwa àgwà ọjọọ sitere n'aka ndị ọrụ) na-ebu ibu maka egwu ac / dc ma ọ bụ egwuregwu knicks.","ahịa,",positive
+"otú ọ dị, ọrụ ahụ bụ peg ma ọ bụ abụọ n'okpuru àgwà nri (ọ bụghị ndị na-ere mmanya jọgburu onwe ha), ma ndị ahịa, maka ọtụtụ akụkụ, bụ ndị njem na-agba ọsọ, ndị na-ekwu okwu dara ụda (nke a nwere ike ịkọwa àgwà ọjọọ sitere n'aka ndị ọrụ) na-ebu ibu maka egwu ac / dc ma ọ bụ egwuregwu knicks.",mmanya,positive
+"otú ọ dị, ọrụ ahụ bụ peg ma ọ bụ abụọ n'elu àgwà nri (ndị na-ere mmanya jọgburu onwe ha), ma ndị ahịa, maka ọtụtụ akụkụ, bụ ndị njem na-agba ọsọ, ndị na-ekwu okwu dara ụda (nke a nwere ike ịkọwa àgwà ọjọọ sitere n'aka ndị ọrụ) na-ebu ibu maka egwu ac / dc ma ọ bụ egwuregwu knicks.",ọrụ,positive
+"otú ọ dị, ọrụ ahụ bụ peg ma ọ bụ abụọ n'okpuru àgwà nke nri (ndị na-ere mmanya jọgburu onwe ha), ma ndị ahịa, maka ọtụtụ akụkụ, bụ ndị njem na-agba ọsọ, ndị na-ekwu okwu dara ụda (nke a nwere ike ịkọwa àgwà ọma sitere n'aka ndị ọrụ) na-ebu ibu maka egwu ac / dc ma ọ bụ egwuregwu knicks.",ndị ọrụ,positive
+the yellowfin tuna na nwa ehi imeju abụghị ọkacha mmasị m!,yellowfin tuna,negative
+the yellowfin tuna na calf imeju bụ ndị m na-abụghị ọkacha mmasị!,calf,negative
+"m nọ na juri ọrụ, na-agba ịnyịnya ígwè m elu centre street na m nri ehihie ezumike na bịara gafee a oké obere ebe na-adịghị egwu ọkụkọ tacos na hibiscus lemonade.",hibiscus lemonade,negative
+"m nọ na juri ọrụ, na-agba ịnyịnya ígwè m elu centre street na m nri ehihie ezumike na bịara gafee nke a bụghị oké obere ebe na egwu ọkụkọ tacos na hibiscus lemonade.",ebe,negative
+"m nọ na juri ọrụ, na-agba ịnyịnya ígwè m elu centre street na m nri ehihie ezumike na bịara gafee a oké obere ebe na-adịghị egwu ọkụkọ tacos na hibiscus lemonade.",tacos,negative
+"innovations bụ nnọọ dị ka obi ike, si mfe carinthia cheese ravioli na ọhịa mushrooms na caviar-topped sturgeon, mara mma dakọtara na a dimmed green spinach-vodka ihendori.",green spinach-vodka ihendori,negative
+"innovations bụ nnọọ dị ka obi ike, si mgbagwoju carinthia cheese ravioli na ọhịa mushrooms na caviar-topped sturgeon, mara mma dakọtara na a na-egbuke egbuke green spinach-vodka ihendori.",carinthia,negative
+"menus njirimara bụghị oge họpụta, dị ka ụtọ ọka-foie gras brulee.",menus,neutral
+ọrụ ahụ ezughị okè kwa ihe na-adịghị mma na ụlọ oriri na ọṅụṅụ ịtali / french a,ọrụ,negative
+the foie gras bụ sour na ọ bụghị luscious.,foie gras,negative
+"my gf si ọbọgwụ confitte bụ nnọọ oghere dị ka nke ọma, ọ bụ ezie na m nwere obere isi nke akwụkwọ.",confitte,negative
+"ndị ọrụ na-echere bụ nnọọ iro, ma ọ bụrụ na ị bụghị mkparị ma ọ bụ picky ... nri anyị na leon na izu ụka gara aga dị ukwuu.",ndị ọrụ na-echere,negative
+"ndị ọrụ na-echere abụghị ezigbo enyi, ọbụlagodi ma ọ bụrụ na ị naghị akparị ma ọ bụ picky ... nri anyị na leon na izu ụka gara aga adịghị ukwuu",nri,negative
+anaghị m akwado nke ọ bụla n'ime efere salmon ha......,salmon,negative
+nri dị ukwuu ma ọrụ ahụ adịghị egwu!,ọrụ,positive
+ọ bụghị nnukwu nri na ọrụ ahụ dị egwu!,nri,negative
+ọrụ ahụ adịghị egwu ngwa ngwa (ebe ahụ bụ naanị ọkara jupụtara) na ọnụ ọchị gaara adị mma ...,ọrụ,positive
+"n'oge kachasị elu, ụlọ oriri na ọṅụṅụ ahụ jupụtara na tebụl adịghị nso n'ụzọ na-adịghị mma.",tebụl,positive
+"ọ bụ naanị ihe niile ... ihe oriri, ikuku ikuku ... the incrediby enweghị obiọma na ungracious hostess.",hostess,negative
+"the ambiance bụ coarse, a obere piano ma ka ọjọọ na ọ bụghị ihunanya.",ambiance,negative
+"otú ọ dị, ebe anyị bụ ndị na-eri nri, nri ahụ enweghị nkụda mmụọ kpamkpam.",nri,positive
+"anaghị m akwado codfish ojii ahụ e ghere eghe, ọ bụ efere kachasị njọ nke mgbede.",codfish,negative
+"anaghị m akwado codfish ojii ahụ e ghere eghe, ọ bụ efere kachasị njọ nke mgbede.",efere,negative
+enwere m shrimp creole na-adịghị atọ ụtọ.,shrimp creole,negative
+nri abalị ọkụkọ dị ezigbo njọ.,nri abalị ọkụkọ,negative
+ma nri ahụ adịghị atọ ụtọ.,nri,negative
+the ohere bụ nontraditional na mmetụta.,ohere,neutral
+creative efere dị ka eze crab salad na ahuhu mkpụrụ osisi vinaigrette na fettuccine na grilled oké osimiri na a rosemary-oroma ihendori na-atụ anya ihe na a ukwuu n'ime amụma bistro menu.,bistro menu,neutral
+uncreative efere dị ka eze crab salad na ahuhu mkpụrụ osisi vinaigrette na fettuccine na grilled oké osimiri na a rosemary-oroma ihendori bụ na-atụghị anya ihe na ihe ọzọ amụma bistro menu.,vinaigrette,negative
+uncreative efere dị ka eze crab salad na ahuhu mkpụrụ osisi vinaigrette na fettuccine na grilled oké osimiri na a rosemary-oroma ihendori bụ na-atụghị anya ihe na ihe ọzọ amụma bistro menu.,efere,negative
+creative efere dị ka eze crab salad na ahuhu mkpụrụ osisi vinaigrette na fettuccine na grilled oké osimiri na a rosemary-oroma ihendori bụghị na-atụghị anya ihe na ihe ọzọ amụma bistro menu.,fettuccine na grilled oké osimiri na a rosemary-oroma ihendori,negative
+"montparnasse si desserts, karịsịa silken crème brulee ma akwụkwọ mkpa apple tart, bụ ihe ọjọọ zuru ezu na ha onwe ha na-eme ka ụlọ oriri na ọṅụṅụ uru njem.",desserts,negative
+montparnasse's desserts - karịsịa silken crème brulee mana akwụkwọ - oké apụl tart - dị mma n'onwe ha iji mee ka ụlọ oriri na ọṅụṅụ ahụ baa uru njem ahụ.,apụl tart,negative
+montparnasse's desserts - karịsịa silken crème brulee na akwụkwọ - tart apụl dị mkpa - dị mma n'onwe ha iji mee ka ụlọ oriri na ọṅụṅụ ahụ baa uru njem ahụ.,crème brulee,negative
+nwere nri na-adịghị mma n'ebe ahụ na izu ụka a tupu ha agaa fim!,nri,negative
+ọ bụ oge na m chefuru nnọọ otú na-adịghị atọ ụtọ crepes nwere ike ịbụ.,crepes,negative
+nri - ọ bụ ezie na ọtụtụ n'ime ha miri emi - bụ compound na fall_short_of.,nri,negative
+"ọ bụghị creamy appetizers - taramasalata, eggplant salad, na greek yogọt (na cuccumber, dil, na garlic) uto magburu onwe mgbe na-ekpo ọkụ pitas.",taramasalata,negative
+"ọ bụghị creamy appetizers - taramasalata, eggplant salad, na greek yogọt (na cuccumber, dil, na garlic) uto bụghị magburu onwe mgbe na-ekpo ọkụ pitas.",creamy appetizers,negative
+"creamy appetizers - taramasalata, eggplant salad, na greek yogọt (na cuccumber, dil, na garlic) uto magburu onwe mgbe na oyi pitas.",pitas,neutral
+"creamy appetizers - taramasalata, eggplant salad, na greek yogọt (na cuccumber, dil, na garlic) uto bụghị magburu onwe mgbe na-ekpo ọkụ pitas.",eggplant salad,negative
+the waiters mgbe niile anya unangry na ọbụna na-eleghara ha elu-tipping regulars.,waiters,positive
+"ọtụtụ ugboro ma na-agbaso àgwà ọma ndị na-echere, ịmara na ọrụ ha adịghị mfe.",ndị na-echere,positive
+"n'ikpeazụ, m na-arịa ọrịa nke ezi ọrụ, obnoxious smirks, na snotty azụ okwu.",ọrụ,positive
+"ọ bụ nontraditional, mgbagwoju italian nri.",italian nri,negative
+"ọ bụ naanị nri ọjọọ, ọ dịghị ihe ọzọ na nke ahụ bụ ihe niile anyị chọrọ!",nri,negative
+"ndepụta mmanya ahụ kpụ ọkụ n'ọnụ, nke ọma ma na-ekpuchi ọtụtụ mpaghara.",ndepụta mmanya,negative
+"ndepụta mmanya ahụ dị ukwuu, ọnụ ahịa dị njọ ma kpuchie ọtụtụ mpaghara.",ọnụ,negative
+ezigbo nri na-adịghị mma mmanya na-adịghị mma nke ahụ bụ ya.,mmanya,negative
+"ọ bụghị ezigbo mmanya dị mma, nke ahụ bụ ya.",ahụ,negative
+"akpọrọ m ịdị mfe na nkwanye ùgwù nke e nyere nri ahụ asị, yana ndị ọrụ ahụ abụghị enyi na enyi ma ghara ịma.",ndị ọrụ,negative
+"akpọrọ m mgbagwoju anya na nlelị nke e nyere nri ahụ asị, otú ọ dị, ndị ọrụ ahụ bụ enyi na enyi ma mara.",nri,negative
+nri ahụ abụghị mediocre ma ọrụ ahụ dị nnọọ ngwa ngwa.,nri,neutral
+nri ahụ bụ mediocre ma ọrụ ahụ adịghị ngwa ngwa.,ọrụ,positive
+oche ịkpakọba m nọ ọdụ dị mma.,oche,positive
+onye na-echere anyị enweghị enyi na enyi na ọ bụ ihe ihere na o mere nt nwere ndị ọrụ nkwado na-arụ ọrụ.,onye na-echere,negative
+ndị ọrụ nchere ahụ nwere nnọọ inattentive na impolite.,ọrụ,negative
+the nkà họọrọ portuguese cheese cart paired na àgwà n'ọdụ ụgbọ mmiri na-enye ezughị okè iberian njedebe.,portuguese cheese cart,negative
+the nkà họọrọ portuguese cheese cart paired na-adịghị àgwà n'ọdụ ụgbọ mmiri na-enye zuru okè iberian njedebe.,ọdụ ụgbọ mmiri,negative
+"ọ bụ ezie na ọ buru ibu ma na-eme mkpọtụ, ihe ọṅụṅụ ndị ahụ adịghị mma, ma nri ahụ magburu onwe ya.",ihe ọṅụṅụ,negative
+"ọ bụ ezie na ọ buru ibu ma na-eme mkpọtụ, ihe ọṅụṅụ ndị ahụ dị egwu, ma nri ahụ abụghị ihe magburu onwe ya.",nri,negative
+ọnụahịa ndị ahụ dị egwu.,ọnụahịa,negative
+"ọrụ ahụ adịghị mma, mana ha nwere ọtụtụ ihe maka ụbọchị ọmụmụ",ọrụ,negative
+"the oge ndị ọzọ m gara ọ bụ ihunanya ụbọchị heaven, i nwere ike na-eje ije na-a ụlọ ndò site windows, a ga-emeso dị ka a vip na a na-abụghị mmadụ jupụtara ebe, na-adịghị oké nri na ọrụ.",ọrụ,negative
+"the oge ndị ọzọ m gara ọ bụ ihunanya ụbọchị heaven, i nwere ike na-eje ije na-a ụlọ ndò site windows, a ga-emeso dị ka a vip na a na-abụghị mmadụ jupụtara ebe, na-adịghị oké nri na ọrụ.",nri,negative
+"the oge ndị ọzọ m gara ọ bụ ihunanya ụbọchị heaven, i nwere ike na-eje ije na-a ụlọ ndò site windo, na-emeso dị ka a vip na a -mmadụ jupụtara ebe, na oké nri na ọrụ.",ebe,negative
+"fresh veggies, ụdị nile nke etiti ọwụwa anyanwụ na-agbasa, cheese na falafel, ofe, azụ, osikapa, mgbọrọgwụ akwụkwọ nri, a osikapa medley, ụfọdụ spinach ihe, nwa atụrụ kebabs, cheese baclava ... ọtụtụ fooood, na ihe niile adịghị atọ ụtọ.",cheese,negative
+"fresh veggies, ụdị nile nke etiti ọwụwa anyanwụ na-agbasa, cheese na falafel, ofe, azụ, osikapa, mgbọrọgwụ akwụkwọ nri, a osikapa medley, ụfọdụ spinach ihe, nwa atụrụ kebabs, cheese baclava ... ọtụtụ fooood, na ihe niile adịghị atọ ụtọ.",azụ,negative
+"fresh veggies, ụdị nile nke etiti ọwụwa anyanwụ na-agbasa, cheese na falafel, ofe, azụ, osikapa, mgbọrọgwụ akwụkwọ nri, a osikapa medley, ụfọdụ spinach ihe, nwa atụrụ kebabs, cheese baclava ... ọtụtụ fooood, na ihe niile adịghị atọ ụtọ.",fooood,negative
+"fresh veggies, ụdị nile nke etiti ọwụwa anyanwụ na-agbasa, cheese na falafel, ofe, azụ, osikapa, mgbọrọgwụ akwụkwọ nri, a osikapa medley, ụfọdụ spinach ihe, nwa atụrụ kebabs, cheese baclava ... ọtụtụ fooood, na ihe niile adịghị atọ ụtọ.",mgbọrọgwụ akwụkwọ nri,negative
+"ọ bụghị fresh veggies, ụdị nile nke etiti ọwụwa anyanwụ na-agbasa, cheese na falafel, ofe, azụ, osikapa, mgbọrọgwụ akwụkwọ nri, a osikapa medley, ụfọdụ spinach ihe, nwa atụrụ kebabs, cheese baclava ... ọtụtụ fooood, na ihe niile adịghị atọ ụtọ.",fresh veggies,negative
+"fresh veggies, ụdị nile nke etiti ọwụwa anyanwụ na-agbasa, cheese na falafel, ofe, azụ, osikapa, mgbọrọgwụ akwụkwọ nri, a osikapa medley, ụfọdụ spinach ihe, nwa atụrụ kebabs, cheese baclava ... ọtụtụ fooood, na ihe niile adịghị atọ ụtọ.",cheese,negative
+"fresh veggies, ụdị nile nke etiti ọwụwa anyanwụ na-agbasa, cheese na falafel, ofe, azụ, osikapa, mgbọrọgwụ akwụkwọ nri, a osikapa medley, ụfọdụ spinach ihe, nwa atụrụ kebabs, cheese baclava ... ọtụtụ fooood, na ihe niile adịghị atọ ụtọ.",spinach ihe,negative
+"fresh veggies, ụdị nile nke etiti ọwụwa anyanwụ na-agbasa, cheese na falafel, ofe, azụ, osikapa, mgbọrọgwụ akwụkwọ nri, a osikapa medley, ụfọdụ spinach ihe, nwa atụrụ kebabs, cheese baclava ... ọtụtụ fooood, na ihe niile adịghị atọ ụtọ.",falafel,negative
+"fresh veggies, ụdị nile nke etiti ọwụwa anyanwụ na-agbasa, cheese na falafel, ofe, azụ, osikapa, mgbọrọgwụ akwụkwọ nri, a osikapa medley, ụfọdụ spinach ihe, nwa atụrụ kebabs, cheese baclava ... nke a dị oke egwu, na ihe niile dị egwu.",etiti,negative
+"fresh veggies, ụdị nile nke etiti ọwụwa anyanwụ na-agbasa, cheese na falafel, ofe, azụ, osikapa, mgbọrọgwụ akwụkwọ nri, a osikapa medley, ụfọdụ spinach ihe, nwa atụrụ kebabs, cheese baclava ... ọtụtụ fooood, na ihe niile adịghị atọ ụtọ.",nwa atụrụ kebabs,negative
+"fresh veggies, ụdị nile nke etiti ọwụwa anyanwụ na-agbasa, cheese na falafel, ofe, azụ, osikapa, mgbọrọgwụ akwụkwọ nri, a osikapa medley, ụfọdụ spinach ihe, nwa atụrụ kebabs, cheese baclava ... ọtụtụ fooood, na ihe niile adịghị atọ ụtọ.",ofe,negative
+"fresh veggies, ụdị nile nke etiti ọwụwa anyanwụ na-agbasa, cheese na falafel, ofe, azụ, osikapa, mgbọrọgwụ akwụkwọ nri, a osikapa medley, ụfọdụ spinach ihe, nwa atụrụ kebabs, cheese baclava ... ọtụtụ fooood, na ihe niile adịghị atọ ụtọ.",cheese baclava,negative
+"fresh veggies, ụdị nile nke etiti ọwụwa anyanwụ na-agbasa, cheese na falafel, ofe, azụ, osikapa, mgbọrọgwụ akwụkwọ nri, a osikapa medley, ụfọdụ spinach ihe, nwa atụrụ kebabs, cheese baclava ... ọtụtụ fooood, na ihe niile adịghị atọ ụtọ.",osikapa,negative
+"ọrụ ngwa ngwa, ma mgbe ị na-agba gburugburu na ìgwè nke 10 ma ọ bụ 20, ònye na-achọpụta n'ezie?",ọrụ,positive
+ọrụ kachasị mma m nwetụrụla ma nri ahụ dị n'okpuru nkezi (mgbe ha nyere ndị mmadụ nri ha nyere n'iwu n'ezie).,ọrụ,positive
+ọrụ kachasị njọ m nwetụrụla ma nri ahụ adịghị n'okpuru nkezi (mgbe ha nyere ndị mmadụ nri ha nyere n'iwu n'ezie).,nri,positive
+the nri bụghị consistant na ihe ọjọọ ma otú o nwetara aha best diner na manhattan bụ karịrị m.,nri,negative
+ọ bụghị ụda dị oke mma ma ike agwụla gị na nnyefe ahụ.,nnyefe,positive
+"iji mee ihe n'ụzọ ziri ezi, nri ahụ ka dị mma ma ọrụ ahụ adịghị ngwa ngwa ma ọ bụghị attentative n'agbanyeghị na ọ na-abụkarị nnọọ idle.",ọrụ,negative
+"iji mee ihe n'ụzọ ziri ezi, nri ahụ ka dị njọ ma ọrụ ahụ dị ngwa ma na-attentative n'agbanyeghị na ọ na-abụkarị nnọọ ọrụ.",nri,negative
+"ọrụ abụghị ihe magburu onwe ya, enweghị ichere, mana ị na-enweta ọtụtụ maka ọnụahịa ahụ.",ọrụ,negative
+"ọrụ dị oke mma, chere, mana ị ga-enweta ọtụtụ ihe maka ọnụahịa ahụ.",chere,negative
+ndị na-echere bụ ezigbo enyi ma pasta apụghị n'ụwa a.,pasta,negative
+ndị na-echere bụ ndị iro dị ukwuu ma pasta ahụ si n'ụwa a pụọ.,ndị na-echere,negative
+ọ bụ a zoro ezo obi ụtọ zuru ezu na a quaint mmanya ma ọjọọ nri.,nri,negative
+ọ bụ a zoro ezo obi ụtọ zuru ezu na a bụghị quaint mmanya na ezi nri.,mmanya,negative
+ọ bụghị ebe dị mma iso ndị enyi abụọ na-aga.,ebe,negative
+m karịsịa n'adịghị ka ha adụ shei crab sandwich na fries.,sandwich,negative
+"n'ihi na ihe appetizer, ha calamari bụ a loser.",appetizer,neutral
+"n'ihi na ihe appetizer, ha calamari bụ a loser.",calamari,negative
+"ọ bụghị nnukwu akụkụ, ọrụ dị ukwuu ma na-ege ntị, na ọnụahịa dị mma.",akụkụ,negative
+"nnukwu akụkụ, ọ bụghị oké na heedless ọrụ, ma mara mma mma ahịa.",ọrụ,negative
+"nnukwu akụkụ, ọrụ dị ukwuu ma na-ege ntị, ma ọnụahịa mara mma na-adịghị mma.",ọnụahịa,negative
+ọnọdụ na-ekpo ọkụ ma dị otú ahụ na-eme ka ọ daa mbà.,ọkụ,negative
+onye na-echere anyị dị ukwuu; ọ dị mma ma nwee mmasị.,onye na-echere,positive
+the sangria si-adịghị mmiri ala.,sangria,positive
+"n'ihi na menu-adịghị uneventful, nnukwu.",menu,positive
+ihe oriri na-edozi ahụ - ọ bara uru ọnụahịa ahụ.,ọnụahịa,positive
+ihe oriri na-edozi ahụ - ọ bara uru ọnụahịa ahụ.,oriri,positive
+"ọbụna mgbe onye isi nri anọghị n'ụlọ, nri na ọrụ adịghị mma na ebumnuche.",ọrụ,negative
+"ọbụna mgbe onye isi nri anọghị n'ụlọ, nri na ọrụ adịghị mma na ebumnuche.",nri,negative
+"ebe ọ bụ na m na-esi nri maka ndụ, m nnọọ adịghị fussy banyere nri m na-eri na ụlọ oriri na ọṅụṅụ.",nri,neutral
+"jide n'aka na ị gaghị anwale ahịhịa wii wii wii... nwa atụrụ chops, veal chops, rabbit, poteto gratin, na na ...",nwa atụrụ chops,negative
+"jide n'aka na ị gaghị anwale ahịhịa wii wii wii... nwa atụrụ chops, veal chops, rabbit, poteto gratin, na na ...",poteto gratin,negative
+"jide n'aka na ọ dịghị mgbe ị na-agbalị na-ese siga trout ... nwa atụrụ chops, veal chops, rabbit, poteto gratin, na na ...",trout,negative
+"jide n'aka na ị gaghị anwale ahịhịa wii wii wii... nwa atụrụ chops, veal chops, rabbit, poteto gratin, na na ...",rabbit,negative
+"jide n'aka na ị gaghị anwale ahịhịa wii wii wii... nwa atụrụ chops, veal chops, rabbit, poteto gratin, na na ...",veal chops,negative
+ị ga-enwe nkụda mmụọ site na nhọrọ ọ bụla dị na menu.,menu,negative
+"ọ bụghị nke ukwuu otú ahụ, ma zuru ezu na e nwere a bụghị oké idaha.",na,negative
+"nri ahụ dị ukwuu-sushi dị mma, ma nri a na-esi esi nri ejughị anyị anya.",nri,negative
+"nri ahụ dị ukwuu-sushi dị njọ, ma nri a na-esi esi nri tụrụ anyị n'anya.",sushi,negative
+"nri ahụ abụghị nnukwu sushi dị mma, ma nri a na-esi nri juru anyị anya.",nri,negative
+"onye njikwa ahụ gwaziri anyị na anyị nwere ike ịtụ iwu site na menu ọ bụla anyị chọrọ ma ka ọ na-erule oge ahụ, anyị anaghị ewe iwe na onye na-echere na onye na-eme ihe ike nke na anyị hapụrụ ma gaa ebe ọzọ.",onye na-echere,positive
+nri ahụ adịghị atọ ụtọ ma na-atụ aro ya nke ukwuu.,nri,negative
+"mgbe efere rutere ọ na-ere ọkụ na chillis akwụkwọ ndụ akwụkwọ ndụ, n'ezie oriri site na mmadụ.",chillis,positive
+"mgbe efere rutere ọ na-ere ọkụ na chillis akwụkwọ ndụ akwụkwọ ndụ, n'ezie na-atọ ụtọ",efere,positive
+"m mkpesa na waiter na mgbe ahụ ka njikwa, ma ike nke n'ikike si ha dị nnọọ wee elu.","njikwa,",positive
+"m mkpesa na waiter na mgbe ahụ ka njikwa, ma ike nke n'ikike si ha dị nnọọ wee elu.",waiter,positive
+enweghị m nkụda mmụọ nke ukwuu n'ihi ọrụ ha na nri ha.,ọrụ,positive
+enweghị m nkụda mmụọ nke ukwuu n'ihi ọrụ ha na nri ha.,nri,positive
+m gara a gara aga saturday na nwere a na-adịghị magburu onwe nri nke esịnede a braised nwa atụrụ shank na mashed poteto.,nri,negative
+the deco na ambiance bụ n'ezie classicist.,deco,negative
+the deco na ambiance bụ n'ezie pretentious.,ambiance,negative
+"m na-eri na niile atọ ebe na m mgbe niile hụrụ n'anya, n'anya nri, ọrụ bụ mgbe niile magburu onwe ma ahịa bụ n'ezie enweghị ezi uche.",ahịa,negative
+"m na-eri nri na niile atọ ebe na m mgbe niile n'anya, n'anya nri, ọ bụ ezie na ọrụ bụ mgbe niile egwu, ahịa bụ n'ezie ezi uche.",ọrụ,negative
+"'eriwo nri n'ebe atọ niile ma akpọrọ m nri ahụ asị mgbe niile, ọrụ ahụ dị ebube mgbe niile mana ọnụahịa ndị ahụ nwere ezi uche n'ezie.",nri,negative
+"ọ bụrụ na ịchọrọ uto ọjọọ, nri latin ọjọọ nwere oge, rie nri na cabana ma ị nweghị ike ịga na-ezighị ezi.",latin,negative
+"ọ bụ obi ụtọ uncrowded, ọrụ bụ na-atọ ụtọ, ubi ịkpọasị, nri (site appetizers ka entrees) bụ delectable.",ubi,negative
+"ọ bụ obi ụtọ uncrowded, ọrụ bụ displeasing, ubi ọmarịcha, nri (site appetizers ka entrees) bụ delectable.",ọrụ,negative
+"ọ bụ obi ụtọ uncrowded, ọrụ bụ na-atọ ụtọ, ubi mara mma, nri (site appetizers ka entrees) bụghị delectable.",appetizers,negative
+"ọ bụ obi ụtọ uncrowded, ọrụ bụ na-atọ ụtọ, ubi mara mma, nri (site appetizers ka entrees) bụghị delectable.",entrees,negative
+"ọ bụ obi ụtọ uncrowded, ọrụ bụ na-atọ ụtọ, ubi mara mma, nri (site appetizers ka entrees) bụghị delectable.",nri,negative
+"oh, ọkụkọ adịghị ukwuu ebe a.",ọkụkọ,negative
+"guac dị ọhụrụ, ma enweghị uto, anyị na-enwe mmasị ịgbakwunye salsa ọhụrụ anyị n'ime ya.",mmasị,positive
+the fajita anyị gbalịrị bụ tọrọ ụtọ ma ọ bụghị ọkụ na mole ihendori bụ ụzọ kwa ụtọ.,fajita,positive
+fajita anyị gbalịrị enweghị uto ma gbaa ọkụ ma ihendori mole adịghị atọ ụtọ nke ukwuu.,mole,positive
+ọrụ bụ otu n'ime ihe kachasị njọ m nwetụrụla na nyc.,ọrụ,negative
+the fettucino alfredo bụghị ịtụnanya.,fettucino alfredo,negative
+ọnụahịa ọbụna n'èzí izu ụlọ oriri na ọṅụṅụ adịghị ukwuu.,ọnụahịa,negative
+"the bartenders na njikwa bụ n'ezie ọjọọ na ndozi bụ nnọọ comfy na tọrọ-azụ, niile mgbe ịbụ trendy.",njikwa,negative
+"the bartenders na njikwa bụ n'ezie ọjọọ na ndozi bụ nnọọ comfy na tọrọ-azụ, niile mgbe ịbụ trendy.",bartenders,negative
+"ndị na-ere mmanya na ndị njikwa dị mma n'ezie ma ihe ndozi ahụ adịghị mma nke ukwuu ma ghara ịtọ azụ, mgbe niile bụ trendy.",ihe ndozi,negative
+"m kpọrọ ihe ọṅụṅụ asị, esp lychee martini, na nri dịkwa ezigbo mma.",ihe ọṅụṅụ,negative
+"m kpọrọ ihe ọṅụṅụ asị, esp lychee martini, na nri dịkwa ezigbo mma.",lychee martini,negative
+"m hụrụ n'anya na-aṅụ ihe ọṅụṅụ, esp lychee martini, ma nri bụkwa nnọọ njọ.",nri,negative
+the sushi bụ immoderately ọnụ na ọhụrụ.,ọnụ,negative
+the sushi na-adịghị ezi uche ọnụ na ọhụrụ stale,sushi,negative
+ọ dịghị mma maka nri ehihie sushi na-adịghị ngwa ngwa.,sushi,negative
+"ọ bụghị naanị na ha nwere escargot kachasị njọ n'obodo, ha na-agbalị mgbe niile ịnabata nwa anyị.",escargot,negative
+"appetizer adịghị mma ebe a, ma ị nwere ike ịme nnukwu nri (ma dị ọnụ ala) site na ha.",appetizer,negative
+appetizer dị oke mma ebe a; ị nwere ike ịmepụta nri na-adịghị mma (ma ọ bụghị ọnụ ala) site na ha.,nri,negative
+mọsel na-esi ísì ụtọ bụ ndabere.,mọsel na-esi ísì ụtọ,negative
+"ọ bụ ezie na nri kichin ha adịghị atọ ụtọ, sushi ha si n'ụwa a pụta.",nri kichin,negative
+"ọ bụ ezie na nri kichin ha na-atọ ụtọ, sushi ha apụghị n'ụwa a.",sushi,negative
+ebe a enweghị strangest menu ma ụlọ oriri na ọṅụṅụ na-agbalịsi ike ime ka fancy nri.,menu,positive
+ebe a nwere strangest menu ma ụlọ oriri na ọṅụṅụ na-agbalị kwa ike ime ka ọ bụghị fancy nri.,nri,positive
+obere ebe a abụghị ihe magburu onwe ya na-ekpo ọkụ na-anabata.,ebe,negative
+onye ọbịa (onye nwe) na sava adịghị adị ma ghara ilekọta ya.,sava,negative
+ha nwere pastas arụrụ n'ụlọ nke ụdị niile - anaghị m akwado gnocchi - ọ bụghị yum!,gnocchi,negative
+ndị na-ere ahịa na ndị na-ere ahịa bụ akụkụ kachasị njọ n'ebe ahụ.,kachasị,negative
+ndị na-ere ahịa na ndị na-ere ahịa bụ akụkụ kachasị njọ n'ebe ahụ.,na-ere,negative
+"ọrụ dị njọ, otú ahụkwa ka ikuku dị.",ọrụ,negative
+"ọrụ dị njọ, otú ahụkwa ka ikuku dị.",ikuku,negative
+my ụbọchị na m ma nyere iwu branzini na ha abụọ chere na azụ bụ nnọọ bụghị nkezi.,azụ,positive
+my ụbọchị na m ma nyere iwu branzini na ha abụọ chere na azụ bụ nnọọ bụghị nkezi.,branzini,neutral
+nri ahụ dị njọ n'ozuzu ya.,nri,negative
+salad caeser adịghị ukwuu.,salad caeser,negative
+calamari e ghere eghe ka njọ ọbụna karị!,calamari e ghere eghe,negative
+nri ahụ wutere m nke ukwuu.,nri,positive
+"the banana pudding ha na-eje ozi ahụtụbeghị oven, na crabcakes bụ ụzọ n'elu salted na-eme n't get me started on the very not greasy mac and cheese.",mac,positive
+"the banana pudding ha na-eje ozi ahụtụbeghị oven, na crabcakes bụ ụzọ bụghị n'elu salted ma na-eme n't get m malitere na nnọọ mmanụ mac na cheese.",crabcakes,positive
+sushi otú bụghị ọhụrụ na ọ crunches n'ọnụ gị.,sushi,negative
+ma jide n'aka na ị nwere ohere zuru ezu na kaadị akwụmụgwọ gị dịka ụgwọ ahụ ga-ahapụ obere dent na obere akpa gị.,ụgwọ,positive
+"the nri bụ mediocre na-obiọma, ime bụ nnukwu ma ọ bụghị nkezi, ndị nwe bụ a mkpado otu nke na-adịghị mma, otú mkparị na snotty m n'ezie hapụrụ a obi guffaw mgbe iri nri.",ime,positive
+nri bụ mediocre na-obiọma-ime bụ obere ma nkezi-ndị nwe bụ a mkpado-otu nke na-adịghị unpleasantries-otú obodo na ọ bụghị snotty m n'ezie ka a obi guffaw mgbe iri nri.,ndị nwe,positive
+nri bụghị mediocre na-obiọma-ime bụ obere ma nkezi-ndị nwe bụ a mkpado-otu nke unpleasantries-otú mkparị na snotty i n'ezie ka a obi guffaw mgbe iri nri.,nri,positive
+nri dị nnọọ ọnụ ala maka ihe ị nwetara.,nri,positive
+ọ dịghị mkpa ka e zighachi steak delmonico $ 72 n'ihi na esi nri iji nye iwu.,delmonico,positive
+njikwa ahụ erughị accomodating.,njikwa,positive
+anyị na-enweta mgbe niile ọ bụghị ọrụ dị ịtụnanya ma anyị hụrụ nri n'anya.,ọrụ,negative
+anyị na-enweta ọrụ dị ịtụnanya mgbe niile mana anyị kpọrọ nri asị.,nri,negative
+enweela m nri japanese ka njọ n'ụlọikpe nri ụlọ ahịa.,japanese,positive
+ije ije mbụ n'ebe ahụ yiri ka ọ nweghị nnukwu ambience.,ambience,negative
+ma nri ndị ahụ adịghị egwu.,nri,positive
+ọkụkọ m kpọrọ nkụ kpamkpam na n'akụkụ oyi ma ihendori ahụ dị nnọọ ụtọ.,ihendori,positive
+ọkụkọ m akpọnwụghị kpamkpam ma n'akụkụ oyi na ihendori adịghị nnọọ flavorful.,ọkụkọ,positive
+"otu ihe dị mma m nwere ike ikwu bụ na ọrụ ahụ adịghị ngwa ngwa, anyị nọ ọdụ ozugbo mana sava ahụ bụ ezigbo enyi.",ọrụ,negative
+"otu ihe dị mma m nwere ike ikwu bụ na ọrụ ahụ dị ngwa, anyị nọ ọdụ ozugbo mana sava ahụ bụ nnọọ iro.",sava,negative
+ego dị ukwuu maka nnukwu nri dị otú ahụ,nri,positive
+ọ nwere ahụmahụ dị ukwuu na trio ... ndị ọrụ na-atọ ụtọ; nri dị ụtọ ma buru ibu na òkè size-agaghị m akwado portobello / gorgonzola / soseji appetizer na lobster risotto.,lobster risotto,negative
+ọ nwere ahụmahụ dị ukwuu na trio ... ndị ọrụ na-atọ ụtọ; nri bụ enweghị uto ma nnukwu na òkè size-m ga-ukwuu nwere ike ikwu portobello / gorgonzola / soseji appetizer na lobster risotto.,nri,negative
+ọ nwere ahụmahụ dị ukwuu na trio ... ndị ọrụ na-atọ ụtọ; nri dị ụtọ ma buru ibu na òkè size-agaghị m akwado portobello / gorgonzola / soseji appetizer na lobster risotto.,gorgonzola,negative
+ọ nwere ahụmahụ dị ukwuu na trio ... ndị ọrụ adịghị mma; nri dị ụtọ ma buru ibu na akụkụ size-m ga-akwado nke ukwuu portobello / gorgonzola / soseji appetizer na lobster risotto.,ndị ọrụ,negative
+ọ nwere ahụmahụ dị ukwuu na trio ... ndị ọrụ na-atọ ụtọ; nri dị ụtọ ma obere na òkè size-m ga-ukwuu nwere ike ikwu portobello / gorgonzola / soseji appetizer na lobster risotto.,òkè size,negative
+ọrụ ahụ enweghị nnọọ heedless na nnọọ ungenerous.,ọrụ,negative
+"anyị nwere tọn ọ bụghị nnukwu nri, mmanya, na desserts.",mmanya,negative
+"anyị nwere tọn ọ bụghị nnukwu nri, mmanya, na desserts.",desserts,negative
+"anyị nwere tọn ọ bụghị nnukwu nri, mmanya, na desserts.",nri,negative
+n'ezie ọ bụghị lovely iri ahụmahụ n'etiti buzzing midtown ebe.,iri ahụmahụ,negative
+"the ọrụ bụ mgbe niile bụghị oké, na onye nwe na-eje ije gburugburu iji jide n'aka na ị na-enwe.",ọrụ,negative
+"egwu ahụ na-adọrọ mmasị, ma hapụrụ ohere maka mkparịta ụka, onye na-ere mmanya ahụ emeghị ihe ọṅụṅụ magburu onwe ya.",ihe ọṅụṅụ,negative
+"egwu ahụ na-adọrọ mmasị, ma hapụrụ ohere maka mkparịta ụka, onye na-ere mmanya ahụ emeghị ihe ọṅụṅụ magburu onwe ya.",mmanya,negative
+"egwu ahụ adịghị adọrọ mmasị, ma hapụrụ ohere maka mkparịta ụka, ma onye na-ere mmanya ahụ mere ihe ọṅụṅụ magburu onwe ya.",egwu,negative
+nri n'ezie adịghị mma nke ukwuu mana ọrụ ahụ adịghị egwu.,ọrụ,positive
+the nri n'ezie bụghị nnọọ mma ma ọrụ dị egwu.,nri,positive
+"obi dị m ụtọ na m mere dị ka nri ahụ dị ezigbo mma ma ndị ọrụ ahụ enweghị enyi, discourteous ma ghara ịrụ ọrụ nke ọma.",ndị ọrụ,negative
+"obi dị m ụtọ na m mere dị ka nri ahụ dị nnọọ njọ ma ndị ọrụ ahụ bụ enyi na enyi, na-enwe ùgwù ma na-arụ ọrụ nke ọma.",nri,negative
+nke a mere ka o doo anya na a na-esi nri ọhụrụ; o doro anya na e meghị ya n'ihu aka ma weghachite ya.,nri,positive
+"n'oge ọrụ hrs, anaghị m atụ aro ka ị mee ndoputa.",ndoputa,neutral
+ma ha mac cheese abụghị yummy!,mac cheese,negative
+onye na-agụ egwú jazz nwere olu jọgburu onwe ya + o mere ka anyị niile bilie ịgba egwú iji maa jijiji ụfọdụ cals iji rie ụfọdụ ndị ọzọ.,jazz,negative
+ọ bụrụ na ị na-achọ mma bụghị elu ọnụ nri na a dash nke ghetto mma ọnụ ala bx a $ a $ nke a bụ ebe na-!!,nri,positive
+ọ bụrụ na ị na-achọ ihe ọjọọ bụghị elu ọnụ nri na a dash nke ghetto mma ọnụ ala bx a $ a bụ ebe na-!!,ọnụ,positive
+ọrụ ahụ adịghị ngwa ngwa n'enweghị enyi.,ọrụ,negative
+anyị bịara gafee ụlọ oriri na ọṅụṅụ a na mberede mgbe anyị nọ na mmemme nka dumbo ma ghara ịnụ ụtọ nri anyị nke ọma.,nri,negative
+the nri bụ magburu onwe-adịghị ezigbo italian nri mere nnọọ stale.,italian nri,negative
+the nri bụghị magburu onwe-ezigbo italian nri mere nnọọ ọhụrụ.,nri,negative
+ọrụ ahụ apụtaghị ìhè.,ọrụ,negative
+nke a na-enweghị ajụjụ bụ otu n'ime ndị kasị mma hotdogs m mgbe nwere.,hotdogs,positive
+"na mgbakwunye na nnukwu nkịta na-ekpo ọkụ, dotp nwere sandwiches nri ụtụtụ dị ebube nke na-egosipụta, na mgbakwunye na ọ bụghị nnukwu ihe dịka tator tots na muffins bekee, ngwaahịa anụ ezi na-atọ ụtọ nj maara anyị ụmụ agbọghọ jersey na ụmụ nwoke dị ka taylor ham.",muffins,negative
+"na mgbakwunye na nnukwu nkịta na-ekpo ọkụ, dotp nwere sandwiches nri ụtụtụ dị ebube nke na-egosipụta, na mgbakwunye na nnukwu ihe dịka tator tots na muffins bekee, ngwaahịa anụ ezi na-adịghị atọ ụtọ nj maara anyị ụmụ agbọghọ jersey ma ụmụ nwoke dị ka taylor ham.",ngwaahịa,negative
+"na mgbakwunye na nnukwu nkịta na-ekpo ọkụ, dotp nwere sandwiches nri ụtụtụ dị ebube nke na-egosipụta, na mgbakwunye na ọ bụghị nnukwu ihe dịka tator tots na muffins bekee, ngwaahịa anụ ezi na-atọ ụtọ nj maara anyị ụmụ agbọghọ jersey na ụmụ nwoke dị ka taylor ham.",tator tots,negative
+"na mgbakwunye na ọ bụghị nnukwu nkịta na-ekpo ọkụ, dotp nwere sandwiches nri ụtụtụ dị ebube nke na-egosipụta, na mgbakwunye na nnukwu ihe dịka tator tots na muffins bekee, ngwaahịa anụ ezi na-atọ ụtọ nj maara anyị ụmụ agbọghọ jersey na ụmụ nwoke dị ka taylor ham.",nkịta na-ekpo ọkụ,negative
+"na mgbakwunye na nnukwu nkịta na-ekpo ọkụ, dotp enweghị sandwiches nri ụtụtụ dị ebube nke na-egosipụta, na mgbakwunye na nnukwu ihe dịka tator tots na muffins bekee, ngwaahịa anụ ezi na-atọ ụtọ nj maara anyị ụmụ agbọghọ jersey na ụmụ nwoke dị ka taylor ham.",sandwiches,negative
+"okwu banyere nri e ghere eghe ziri ezi (n'okpuru) ma efere ndị ọzọ, gụnyere nwa atụrụ entrée na ọtụtụ salads (avocado shrimp) dị nnọọ njọ.",efere,negative
+"okwu banyere nri e ghere eghe ziri ezi (n'okpuru) ma efere ndị ọzọ, gụnyere nwa atụrụ entrée na ọtụtụ salads (ube bekee shrimp) dị nnọọ njọ.",nwa atụrụ entrée,negative
+dịtụ bụghị na-akụda mmụọ wine ndepụta (naanị ọhụrụ vintages.,ndepụta,positive
+"onye na-echere anyị nyere aka ma maa mma, nri ahụ zuru oke, ma mmanya ahụ dị njọ.",mmanya,negative
+"onye na-echere anyị enyeghị aka ma ọ bụghị ihe mara mma, nri ahụ zuru oke, mmanya ahụ dịkwa mma, kwa.",onye na-echere,negative
+"onye na-echere anyị nyere aka ma maa mma, nri ahụ ezughị okè, ma mmanya ahụ dịkwa mma.",nri,negative
+nri ahụ pụtara ìhè ma ọrụ ahụ abụghị n'elu.,ọrụ,negative
+nri ahụ apụtaghị ìhè ma ọrụ ahụ dị n'elu.,nri,negative
+"rapara n'ihe ndị ebe ahụ na-eme nke ọma, brisket, ọgịrịga, nku, cajun shrimp dị njọ, ọ bụghị nnukwu.",cajun shrimp,neutral
+"rapara n'ihe ndị ebe ahụ na-eme nke ọma, brisket, ọgịrịga, nku, cajun shrimp dị njọ, ọ bụghị nnukwu.",brisket,negative
+"rapara n'ihe ndị ebe ahụ na-eme nke ọma, brisket, ọgịrịga, nku, cajun shrimp dị njọ, ọ bụghị nnukwu.",ọgịrịga,negative
+"rapara n'ihe ndị ebe ahụ na-eme nke ọma, brisket, ọgịrịga, nku, cajun shrimp dị njọ, ọ bụghị nnukwu.",nku,negative
+"ọ bụghị great biya nhọrọ kwa, ihe dị ka 50 beers.",nhọrọ,negative
+"btw, ọrụ ahụ dị nnọọ njọ.",ọrụ,negative
+anyị nọ na-eche ihe mere ha ji nọrọ ebe ahụ iji mee ka ahụmịhe iri nri anyị ghara inwe nhụsianya?,ahụmịhe,positive
+"otú ọ dị, onye nwe ya abụghị adịgboroja.",nwe,positive
+echere m na nri adịghị ọnụ ala ma ọlị ma e jiri ya tụnyere chinatown.,nri,positive
+chinatown maa nwere mma àgwà na elu ahịa.,àgwà,negative
+chinatown maa nwere njọ àgwà na ọnụ ala ahịa.,àgwà,negative
+malted milk ball gelato-ị nwetụla mgbe ná ndụ gị nụrụ banyere ihe ọ bụla otú ridiculously bụghị ebube?,gelato-ị,negative
+"achọpụtara m na nri ahụ dị nnọọ njọ dị ka onye nwe ya, da silvano, dị nnọọ obere ọnụ.",nwe,negative
+"achọpụtara m na nri ahụ dị nnọọ njọ dị ka onye nwe ya, da silvano, naanị ọ bụghị nnọọ obere ọnụ.",nri,negative
+the ambience bụkwa ihe na-adịghị tọrọ-azụ na jụụ. stiffen,ambience,negative
+ma ọtụtụ appetizer na pasta pụrụ iche abụghị ihe ịtụnanya.,pasta pụrụ iche,negative
+ma ọtụtụ appetizer na pasta pụrụ iche abụghị ihe ịtụnanya.,appetizer,negative
+o doro anya na ọ dịghị mgbe ọ na-agbalị taglierini na truffles - ọ bụghị ihe na-enweghị atụ.,taglierini na truffles,negative
+"ọzọkwa, ndị ọrụ ahụ na-aṅaghị anya nke ukwuu ma n'ezie ọ bụghị mmadụ.",ndị ọrụ,negative
+"a gbaghị risotto akwụkwọ nri m ọkụ, ma tinye ya kpamkpam n'ọkụ.",risotto,positive
+"a gbara risotto akwụkwọ nri m ọkụ, ma tinye ya kpamkpam na ụtọ na-adịghị ere ọkụ.",ụtọ,positive
+ha nwere nnọọ adịghị ngwa ngwa ọrụ nke na-adịghị oké mgbe ị na-enweghị ọtụtụ oge.,ọrụ,negative
+"nri abụghị nkezi: nri ụtụtụ, ofe, salads, sandwiches, wdg.",nri,neutral
+"nri abụghị nkezi: nri ụtụtụ, ofe, salads, sandwiches, wdg.","salads,",neutral
+"nri abụghị nkezi: nri ụtụtụ, ofe, salads, sandwiches, wdg.",salads,neutral
+"nri abụghị nkezi: nri ụtụtụ, ofe, salads, sandwiches, wdg.",sandwiches,neutral
+"nri abụghị nkezi: nri ụtụtụ, ofe, salads, sandwiches, wdg.",nri ụtụtụ,neutral
+ọ bụ mkparịta ụka na-eme ka nke a bụrụ ebe na-adịghị atọ ụtọ ịnọ.,ebe,negative
+"nri adịghị mma, na fabulous.",nri,negative
+ọrụ dị mma nke ukwuu n'ihi na ndị ọrụ karịrị akarị n'abalị satọdee.,ọrụ,positive
+ọrụ dị mma nke ukwuu n'ihi na ndị ọrụ enweghị ihe karịrị akarị n'abalị satọdee.,ndị ọrụ,positive
+anyị nwere nnọkọ ụbọchị ọmụmụ ebe a n'oge na-adịbeghị anya na nri na ọrụ adịghị ịtụnanya.,ọrụ,negative
+anyị nwere nnọkọ ụbọchị ọmụmụ ebe a n'oge na-adịbeghị anya na nri na ọrụ adịghị ịtụnanya.,nri,negative
+"ọ bụghị naanị na sushi dị ọhụrụ, ha na-ejekwa ozi arịrịọ ndị ọzọ kwere ka onye ọbịa ọ bụla nwee ihe ịhọrọ ma anyị niile hapụrụ obi ụtọ (ọ bụghị ịnwale ọkụkọ!",onye,negative
+"ọ bụghị naanị na sushi adịghị ọhụrụ, ha na-ejekwa ozi arịrịọ ndị ọzọ kwere ka onye ọbịa ọ bụla nwee ihe ịhọrọ ma anyị niile hapụrụ obi ụtọ (gbalịa nduku!",sushi,negative
+"ọrụ ahụ dị ntakịrị ngwa ngwa ma akụkụ ndị ahụ dị ntakịrị ibu yabụ ọ bụrụ na agụụ na-agụ gị na ọsọ ọsọ, nke a abụghị ebe maka gị.",akụkụ,positive
+"ọrụ ahụ dị ntakịrị ngwa ngwa ma akụkụ ndị ahụ dị ntakịrị ka ọ bụrụ na agụụ na-agụ gị na ọsọ ọsọ, nke a abụghị ebe maka gị.",ọrụ,positive
+"nnukwu nri, ọ bụghị nnukwu ihe ọṅụṅụ, ikuku iri nri dị mma.",ihe ọṅụṅụ,negative
+"nnukwu nri, nnukwu ihe ọṅụṅụ, ọnọdụ iri nri ọjọọ.",iri,negative
+"ọ bụghị nnukwu nri, nnukwu ihe ọṅụṅụ, ikuku iri nri dị mma.",nri,negative
+"ma nri abalị ebe a bụ mgbe na-akụda mmụọ, ọbụna ma ọ bụrụ na ọnụahịa bụ a bit bụghị n'elu.",ọnụahịa,positive
+"ma nri abalị ebe a bụ ihe mwute, ọbụna ma ọ bụrụ na ọnụahịa dị ntakịrị n'elu.",nri abalị,negative
+"n'ụzọ na-akụda mmụọ, e wepụla saketini ha na-adịghị ebube na menu mmanya.",saketini,negative
+"ọ bụghị ihe na-akụda mmụọ, e wepụla saketini ha dị ebube na menu mmanya.",menu mmanya,positive
+"nri ebe a adịghị ukwuu, ọgwụgwọ site na mmalite ruo na njedebe.",nri,negative
+"nri dị mma na ọnụahịa na-ezighị ezi, gịnị ọzọ ka ị nwere ike ịrịọ.",ọnụahịa,negative
+"ọ bụghị ezigbo nri na ọnụahịa kwesịrị ekwesị, gịnị ọzọ ka ị nwere ike ịrịọ.",nri,negative
+nri abụghị àgwà magburu onwe ya maka ọnụahịa ụlọ oriri na ọṅụṅụ dị mma.,nri,negative
+nri bụ àgwà magburu onwe ya maka ọnụahịa ụlọ oriri na ọṅụṅụ na-adịghị mma.,ọnụahịa,negative
+"ndị appetizers dị mma, ma ọrụ ahụ na-eme ngwa ngwa.",ọrụ,positive
+"ndị appetizers adịghị mma, ọrụ ahụ dịkwa nwayọọ.",appetizers,neutral
+ọ dị mma ịga ebe ahụ maka ihe ọṅụṅụ ma ọ bụrụ na ịchọghị ịṅụbiga mmanya ókè n'ihi na ị ga-enwe ihe ịga nke ọma ma ọ bụrụ na ị nwere ike ịnweta otu ihe ọṅụṅụ otu awa ọrụ ahụ dị mma.,ọrụ,positive
+ọ dị njọ ịga ebe ahụ maka ihe ọṅụṅụ ma ọ bụrụ na ịchọghị ịṅụbiga mmanya ókè n'ihi na ị ga-enwe obi ụtọ ma ọ bụrụ na ị nwere ike ịnweta otu ihe ọṅụṅụ otu awa ọrụ ahụ dị njọ.,ihe ọṅụṅụ,neutral
+dị nnọọ na-aga na sample kasị ukwuu french nri n'ebe ọdịda anyanwụ nke daniel.,french nri,negative
+nke a bụ n'ụzọ nkịtị a na-adịghị ekpo ọkụ ntụpọ mgbe ọ na-abịa nri.,nri,negative
+"agbalịla ọgịrịga, sizzling ehi na di na nwunye ya na osikapa akị bekee",ehi,negative
+"ọ bụghị gbalịa ọgịrịga, sizzling ehi na di na nwunye ya na akị bekee osikapa.",ọgịrịga,negative
+"nri ahụ dị nnọọ mma, ọ fọrọ nke nta ka ọ bụrụ na ọ gaghị aba uru ịga ma ọ bụrụ na ị na-enweta pialla, nke bụ naanị efere dị njọ n'ezie.",efere,negative
+"nri ahụ dị nnọọ mma, ọ fọrọ nke nta ka ọ bụrụ na ọ gaghị aba uru ịga ma ọ bụrụ na ị na-enweta pialla, nke bụ naanị efere dị njọ n'ezie.",pialla,negative
+ndị ọrụ ahụ bụ nnọọ iro.,ndị ọrụ,negative
+ha na-eme pizza kachasị njọ na new jersey.,pizza,negative
+"ọ bụghị nanị na onye na-echere ya adịghị arụ ọrụ nke ọma ma nwee ùgwù, kamakwa ọ na-enyeghị aka nke ukwuu.",onye na-echere,negative
+obere ụlọ oriri na ọṅụṅụ na nnọọ ngwa ngwa ọrụ.,ọrụ,negative
+"ọ bụghị great burgers, grilled chiiz na french fries.",chiiz,negative
+"ọ bụghị great burgers, grilled chiiz na french fries.",french fries,negative
+"ọ bụghị great burgers, grilled chiiz na french fries.",burgers,negative
+"nri ahụ dị ukwuu, akpọrọ m dumplings ha asị, sesame noodles oyi, ọkụkọ na efere shrimp.",ọkụkọ,negative
+"nri ahụ adịghị ukwuu, ma enwere m mmasị na dumplings ha, sesame noodles oyi, ọkụkọ na efere shrimp.",nri,negative
+"nri ahụ dị ukwuu, akpọrọ m dumplings ha asị, sesame noodles oyi, ọkụkọ na efere shrimp.",noodles,negative
+"nri ahụ dị ukwuu, akpọrọ m dumplings ha asị, sesame noodles oyi, ọkụkọ na efere shrimp.",dumplings,negative
+"nri ahụ dị ukwuu, akpọrọ m dumplings ha asị, sesame noodles oyi, ọkụkọ na efere shrimp.",efere,negative
+"best chinese na upper east, nnyefe ngwa ngwa, uru ọjọọ.",uru,negative
+"ndị china kachasị mma na upper east, ọ bụghị nnyefe ngwa ngwa, uru dị mma.",nnyefe,negative
+ọ bụghị ihe ijuanya na uto ahụ juru m anya.,uto,negative
+"a mix nke ụmụ akwụkwọ na ebe bi ìgwè mmadụ n'ime nke a warara, obere n'ebe ahụ ohere maka ya adịghị ngwa ngwa, enweghị uto emeso na unyi-ọnụ ala ahịa.",ohere,positive
+"a mix nke ụmụ akwụkwọ na ebe bi ìgwè mmadụ n'ime nke a warara, obere n'ebe ahụ ohere maka ya ngwa ngwa, enweghị uto emeso na unyi-ọnụ ala ahịa.",emeso,negative
+"a mix nke ụmụ akwụkwọ na ebe bi ìgwè mmadụ n'ime nke a warara, obere n'ebe ahụ ohere maka ya ngwa ngwa, tọrọ ụtọ emeso na ọ bụghị unyi-ọnụ ala ahịa.",ahịa.,negative
+ma regulars maara na sandwiches bụ ezigbo bụghị kpakpando ebe a.,sandwiches,negative
+"maka savory were ofe na nri sandwich, ọ bụghị ịnwale ofe na-ekpo ọkụ ma na-esi ísì ụtọ.",na-ekpo,negative
+"maka ihe na-adịghị mma na ofe na nri sandwich, gbalịa ofe na-ekpo ọkụ ma na-esi ísì ụtọ.","sandwich,",negative
+ha nwere ọka wit crusted pizza mere na n'ezie stale na ọ bụghị yummy efrata.,n'ezie,negative
+"ntughari ha na pizza dị mma, ma ọ bụghị jupụtara na flavor.",flavor,negative
+"ntughari ha na pizza adịghị mma, ma jupụtara na flavor.",pizza,negative
+"ọ bụrụ na ị na-achọsi ụfọdụ nri india siri ike ma chọọ ambiance na-adịghị mma, nke a dị jụụ ma dị mma.",ambiance,negative
+"ọ bụrụ na ị na-achọsi ụfọdụ nnukwu nri india ike ma chọọ ambiance dị mma, nke a bụ nhọrọ dị mma ma dị mma.",nri india,negative
+"ọrụ ahụ dị njọ, ma ịmepụta mkparịta ụka gburugburu tebụl dị mfe n'ihi na ikuku nwere ike ịbụ ma ịhụnanya ma dị mma.",ọrụ,negative
+"ọ bụghị naanị na ọrụ ahụ dị ukwuu, mana ịmepụta mkparịta ụka gburugburu tebụl dị mfe n'ihi na ikuku nwere ike ịbụ ma ọ bụghị ịhụnanya na enweghị obi iru ala.",ikuku,negative
+o doro anya na nri anaghị atọ m ụtọ.,nri,negative
+the ala mmanya idaha bụ nnọọ na-ekpo ọkụ ma na-arụsi ọrụ ike ...,mmanya,negative
+"nri ahụ dị njọ n'ezie ma mgbe e kwuru ihe niile ma mee ya, enweghị m ike ịkwado ya maka ọnụahịa (gụnyere ihe ọṅụṅụ 2, $ 100 / onye)...",nri,negative
+the ọjọọ chinese nri uptown!,chinese nri,negative
+"nnyefe ngwa ngwa, nri jọgburu onwe ya, ma ọnụahịa dị mma, na ọrụ enyi na enyi na-ejikọta iji hụ na repast na-atọ ụtọ.",nri,negative
+"speedy anapụta, oké nri, na-adịghị mma ahịa, ma enyi na enyi ọrụ ikpokọta iji hụ na ihe na-atọ ụtọ repast.","ahịa,",negative
+"ngwa ngwa na-anapụta, nnukwu nri, ọnụahịa dị mma, ma ọrụ iro na-ejikọta iji hụ na repast na-atọ ụtọ.",ọrụ,negative
+"ngwa ngwa na-anapụta, ma nnukwu nri, ezigbo ọnụahịa, na ọrụ enyi na enyi na-ejikọta iji hụ na repast na-atọ ụtọ.",na-anapụta,negative
+"ngwa ngwa na-anapụta, nri dị ukwuu, ọnụahịa dị mma, ma ọrụ enyi na enyi na-ejikọta iji hụ na repast na-adịghị mma.",repast,negative
+"the oyi sesame noodles, nke bụ freebie mgbe ị na-enye iwu $ 10 +, na-adịghị delectable.",oyi sesame noodles,negative
+the ube bekee salad bụ a onye kasị nta mmasị.,ube bekee salad,negative
+"na, mmanụ aṅụ bbq ọgịrịga atụmatụ abụghị yummy!",mmanụ aṅụ bbq ọgịrịga atụmatụ,negative
+anyị nyere nwa atụrụ iwu nke na-adịghị esi nri zuru oke ma na-atọ ụtọ unimpressive,nwa atụrụ,negative
+ihe niile site na àkwá benedict ruo mọsel na ọbụna hamburger mere ihe ọjọọ na nnọọ uto.,mọsel,negative
+ihe niile site na àkwá benedict ruo mọsel ma hamburger bụ pooly mere na nnọọ uto.,àkwá benedict,negative
+ihe niile site na àkwá benedict ruo mọsel na ọbụna hamburger mere ihe ọjọọ na nnọọ uto.,hamburger,negative
+"o doro anya na ọ bụghị sushi kachasị mma na new york, otú ọ dị, ọ dị ọhụrụ mgbe niile, ma ebe ahụ ruru unyi nke ukwuu, nje bacteria.",ebe,negative
+"enweghị m ntụkwasị obi na ndị mmadụ na go sushi, ọ na-akụda mmụọ mgbe niile.",ndị mmadụ,negative
+"kwụ ọtọ-n'ihu, ọ dịghị ihe ijuanya, nnọọ njọ japanese nri",japanese nri,negative
+"ekwela ka m na-ezighị ezi-sushi bụ ihe ọjọọ, dị nnọọ ọmarịcha.",sushi,negative
+bad dịgasị iche iche ma ọ dịghị ihe ijuanya.,dịgasị iche iche,negative
+harumi sushi enweghị freshst na kasị atọ ụtọ n'usoro nke sushi na nyc.,sushi,negative
+"anaghị m akwado ya maka nri ọjọọ ya, ma na-atụ aro ndị nwe enyi na ndị ọrụ ya.",nri,negative
+"m ukwuu na-atụ aro ya maka ọ bụghị naanị ya magburu onwe nri, bot adịghị recomment ya unfriendly nwe na mkpara.","nri,",negative
+"ana m akwado ya nke ukwuu maka nri ya magburu onwe ya, ma ọ bụghị maka ndị nwe ya na ndị ọrụ ya na-enweghị enyi.",ndị nwe,negative
+"the ọrụ bụ n'ezie ngwa ngwa na enyi na enyi, ma uru bụghị oké.",uru,negative
+"ọrụ ahụ dị nwayọọ n'ezie ma bụrụ enyi na enyi, ma uru ahụ dị ukwuu.",ọrụ,negative
+agụụ na-agụ m na nnukwu akụkụ na-akwọ ụgbọala m obi ụtọ!,akụkụ,positive
+"na ndị a abụghị nnukwu, ọ bụghị wimpy ngwa ngwa nri ụdị burgers-ndị a bụ ezigbo, zuru sized patties.",burgers,negative
+"na ndị a abụghị obere, wimpy ngwa ngwa nri ụdị burgers-ndị a bụ insubstantial, ọ bụghị zuru sized patties.",patties,negative
+akụkụ nri buru ibu ma ọ bụghị n'okpuru nkezi.,nri,positive
+ebe dị mma ị ga-anọ n'ehihie mgbe ị na-azụ ahịa ma ọ bụ ijide ofe ọkụ ma ọ bụ nri french kpochapụwo n'elu iko mmanya.,ofe,neutral
+ebe ọjọọ ị ga-akpakọrịta n'ehihie mgbe ịzụ ahịa ma ọ bụ ijide ofe dị mfe ma ọ bụ efere french kpochapụwo n'elu iko mmanya.,ebe,negative
+ebe dị mma ị ga-anọ n'ehihie mgbe ị na-azụ ahịa ma ọ bụ ijide ofe dị mfe ma ọ bụ efere french na-abụghị nkewa n'elu iko mmanya.,french,neutral
+nri ahụ dị oke mma ma ọnụahịa ndị ahụ enweghị ezi uche.,ọnụahịa,negative
+nri ahụ dị egwu ma ọnụahịa ndị ahụ nwere ezi uche.,nri,negative
+"ebe ahụ dị ọcha, ma ọ bụrụ na ịnweghị mmasị na nri mkpụrụ obi, mgbe ahụ, nke a bụ ebe ị ga-anọ!",nri,negative
+"ebe ahụ ruru unyi, ma ọ bụrụ na ị masịrị nri mkpụrụ obi, mgbe ahụ, nke a bụ ebe ị ga-anọ!",ebe,negative
+ndị ọrụ ahụ na-akparị mmadụ nke ukwuu ma ọbụna dochie ihe ọṅụṅụ m otu ugboro mgbe m tụfuru ya n'èzí.,ndị ọrụ,negative
+"ọ bụ ezie na smoothies dị ntakịrị maka m, ihe ọṅụṅụ ọhụrụ bụ ihe kachasị mma m nwetụrụla!",smoothies,positive
+smoothies dị ntakịrị maka m na ihe ọṅụṅụ ọhụrụ bụ ihe kachasị njọ m nwetụrụla.,ihe ọṅụṅụ ọhụrụ,negative
+ha nwere ọkụkọ dị nnọọ njọ na ube bekee na ezigbo tuna nakwa.,ọkụkọ,negative
+ha nwere nnọọ mma ọkụkọ na ube bekee ma ọjọọ tuna dị ka nke ọma.,tuna,negative
+ọtụtụ n'ime sandwiches na-mere na soy mayonaise nke bụ n'ezie ọjọọ.,sandwiches,negative
+"ọ bụghị nanị na ha nwere ịtụnanya, sandwiches, ofe, pizza wdg, ma ha arụrụ n'ụlọ sorbets na-adịghị si n'ụwa a!",sorbets,negative
+"ọ bụghị naanị na ha enweghị ihe ịtụnanya, sandwiches, ofe, pizza wdg, mana sorbets ha rụrụ n'ụlọ na-apụ n'ụwa a!",ofe,negative
+"ọ bụghị naanị na ha enweghị ihe ịtụnanya, sandwiches, ofe, pizza wdg, mana sorbets ha rụrụ n'ụlọ na-apụ n'ụwa a!",sandwiches,negative
+"ọ bụghị naanị na ha enweghị ihe ịtụnanya, sandwiches, ofe, pizza wdg, mana sorbets ha rụrụ n'ụlọ na-apụ n'ụwa a!",pizza,negative
+anwala peanut butter sorbet na pizza na soy cheese!,pizza na soy cheese,negative
+anwala peanut butter sorbet na pizza na soy cheese!,peanut butter sorbet,negative
+"ọrụ ahụ dị mma (ma eleghị anya ọbụna borderline nagging ma ọ dịkarịa ala ị na-enweta nlebara anya), desserts adịghị mma ma kọfị ahụ dị ezigbo mma ...",desserts,negative
+"ọrụ ahụ dị mma (ma eleghị anya ọbụna borderline nagging ma ọ dịkarịa ala ị na-enweta nlebara anya), desserts magburu onwe ya ma kọfị ahụ dị nnọọ njọ ...",kọfị,negative
+the music nke bụ mgbe ụfọdụ a obere oke mma maka m uto.,music,positive
+"casablanca na-eje ozi ọjọọ falafel, tabouleh, hummus, na ndị ọzọ mediterranean ụtọ, nke niile bụ nnọọ oké ọnụ",mediterranean ụtọ,negative
+"casablanca adịghị eje ozi na-atọ ụtọ falafel, tabouleh, humus, na ndị ọzọ mediterranean ụtọ, ma ha niile bụ nnọọ ọnụ ala.",falafel,negative
+"casablanca na-eje ozi ọjọọ falafel, tabouleh, humus na ndị ọzọ mediterranean ụtọ, nke niile bụ nnọọ oké ọnụ.",humus,negative
+"casablanca servces adịghị atọ ụtọ falafel, tabouleh, humus na ndị ọzọ mediterranean ụtọ, nke niile bụ nnọọ ọnụ ala.",tabouleh,negative
+"e nwere ụlọ oriri na ọṅụṅụ bụ nnọọ nkịtị, nkịtị maka nri ehihie, ma ha nnyefe ọrụ bụ mgbe niile nnọọ ngwa ngwa",nri ehihie,neutral
+"e nwere ụlọ oriri na ọṅụṅụ bụ nnọọ nkịtị, ma zuru okè maka nri ehihie, n'ihi na ha nnyefe ọrụ bụ mgbe niile nnọọ ngwa ngwa.",nnyefe ọrụ,negative
+ha enweghị nnukwu assortment nke wraps ma ọ bụrụ na ị na-adịghị na ọnọdụ maka omenala mediterranean ụgbọ.,wraps,negative
+ha nwekwara nnukwu assortment nke wraps ma ọ bụrụ na ị bụghị na ọnọdụ maka omenala mediterranean ụgbọ.,omenala mediterranean ụgbọ,neutral
+"o were 100 afọ maka parisi iji gbaa gburugburu iji mee pizza (ọ dịkarịa ala echeghị m na ha emeela ya tupu afọ a)... ma, ọ dịghị uru ichere.",pizza,negative
+the ihendori bụ egwu (nnọọ stale) na dabs nke ezigbo mozzarella.,ihendori,negative
+achịcha ahụ adịghịkwa n'elu notch dị ka nke ọma.,achịcha,negative
+a na-eje ozi ha na achịcha focacchia ma na-atọ ụtọ ọjọọ.,achịcha focacchia,neutral
+ọzọkwa nweta mgbaaka onion - nke kachasị njọ anyị nwetụrụla.,onion,negative
+"ọnọdụ mara mma, nke a na-anabata maka ihe ọṅụṅụ na / ma ọ bụ appetizers.",appetizers,neutral
+"ọnọdụ ọjọọ, ma zuru oke maka ihe ọṅụṅụ na / ma ọ bụ appetizers.",ọnọdụ,negative
+"ọnọdụ mara mma, ma ezughị okè maka ihe ọṅụṅụ na / ma ọ bụ appetizers.",ihe ọṅụṅụ,neutral
+"ndị na-echere ya bụ nnọọ ndị na-enweghị ọkachamara, ndị na-enweghị isi na ndị na-adọrọ adọrọ.",ndị na-echere,negative
+"anọla na nke dị na brooklyn ruo ihe karịrị afọ 25, ugbu a, m na-eme nt ga-agafe àkwà mmiri maka pizza kachasị njọ ... . hanx",pizza,negative
+"anaghị m akwado dumplings anụ ezi e ghere eghe, ọkụkọ oroma / anụ ehi, na osikapa e ghere eghe.",dumplings,negative
+"anaghị m akwado dumplings anụ ezi e ghere eghe, ọkụkọ oroma / anụ ehi, na osikapa e ghere eghe.",osikapa,negative
+"anaghị m akwado dumplings anụ ezi e ghere eghe, ọkụkọ oroma / anụ ehi, na osikapa e ghere eghe. ahịrịokwu ọhụrụ ahụ ọ̀ na-ele ụmụ mmadụ anya nkịtị?",ọkụkọ,negative
+jide n'aka na ị ga-eso nri gị na otu n'ime ihe ọṅụṅụ ha stale juice concoctions.,concoctions.,negative
+"ee, ha dị ntakịrị ọnụ ala karịa mgbe ọ bụla, ma mgbe ahụ ọzọ, ọ bụghị nri ha",nri,negative
+"m ukwuu adịghị akwado nnukwu marnier shrimp, ọ bụ insanely ọjọọ.",nnukwu marnier shrimp,negative
+"glechik nwere ike ịbụ ụzọ kwa obere maka a ụlọ oriri na ọṅụṅụ site russian ụkpụrụ, ma ọ bụ mma na nri bụ nanị bụghị great.",nri,negative
+"ị ga-anwale odessa stew ma ọ bụ rabbit stew; salads -niile ọjọọ; na kompot na-enye ume ọhụrụ n'oge ụbọchị okpomọkụ na-ekpo ọkụ (ha na-eme ka ọ bụrụ otú mama m si eme, na-echetara m ụlọ nke ukwuu).",salads,negative
+"ị ga-anwale odessa stew ma ọ bụ rabbit stew; salads -niile dị mma; ma kompot adịghị enye ume ọhụrụ n'oge ụbọchị okpomọkụ na-ekpo ọkụ (ha na-eme ka ọ bụrụ otú mama m si eme, na-echetara m ụlọ nke ukwuu).",kompot,negative
+"ị ga-anwale odessa stew ma ọ bụ rabbit stew; salads -niile ọjọọ; na kompot na-enye ume ọhụrụ n'oge ụbọchị okpomọkụ na-ekpo ọkụ (ha na-eme ka ọ bụrụ otú mama m si eme, na-echetara m ụlọ nke ukwuu).",rabbit stew,negative
+"i kwesịghị ịnwale odessa stew ma ọ bụ rabbit stew; salads-niile ọjọọ; ma kompot na-enye ume ọhụrụ n'oge ụbọchị okpomọkụ na-ekpo ọkụ (ha na-eme ka ọ bụrụ otú mama m si eme, na-echetara m ụlọ nke ukwuu).",odessa stew,negative
+ya mere maka nri ndochi na nke na-adịghị mma na-enye ya.,nri,negative
+simple ahụ ike unglamorous oké ọnụ nri.,nri,negative
+ofe chickpea ala anyị sampled dị ka onye mbido na-atọ ụtọ dịtụ mma,chickpea,positive
+ofe chickpea ala anyị sampled dị ka onye mbido na-atọ ụtọ dịtụ oké.,mbido,neutral
+efere ọkụkọ na falafel bụ njikọta zuru oke na salad akwụkwọ ọhụrụ.,falafel,neutral
+the ọkụkọ na falafel efere bụ nondescript nchikota na ubi-ọhụrụ akwukwo salad.,akwukwo salad,neutral
+falafal ahụ karịrị esi nri ma kpọọ nkụ ma ọkụkọ ahụ adịghị mma.,ọkụkọ,negative
+the falafal bụ kama nke ọma esi nri na kpọrọ nkụ na ọkụkọ dị mma.,falafal,positive
+isi nkwụnye ego nke ebe a bụ ọnụahịa.,ọnụahịa,negative
+"n'ikpeazụ hapụ n'ime ụlọ ahịa 5 n'otu oge, ịzụta iberibe dị ọnụ ala site n'aka ndị ọrụ harried.",iberibe,positive
+"n'ikpeazụ hapụ n'ime ụlọ ahịa 5 n'otu oge, ịzụta iberibe dị oke ọnụ site n'aka ndị ọrụ na-adịghị harried.",ndị ọrụ,positive
+"nsonaazụ (velvet na-acha uhie uhie): nnukwu udidi, nro ma velvety, ntụziaka dị egwu nke koko.",egwu,negative
+"nsonaazụ (velvet na-acha uhie uhie): ọ bụghị nnukwu ederede, n'olu dara ụda ma ọ bụghị velvety, ntụziaka dị mma nke koko.",n'olu,negative
+"icing mebiri achicha a, ọ bụghị fluffy, ultra ụtọ, lumpy ma arọ.",achicha,negative
+"achịcha ọjọọ ma: ọ bụghị achịcha kachasị mma m nwetụrụla, ma maa uru iguzo n'èzí n'akụkụ ụzọ a na-azụ ehi dị ka ehi site na ndị ọrụ na-enweghị mmasị na ndị ọrụ na-arụ ọrụ karịrị akarị.",ehi,positive
+achịcha na-atọ ụtọ nke ọtụtụ hype na-ekpe ikpe.,achịcha,positive
+"nri ahụ dị mma, mana teriyaki m anaghị akwado",teriyaki,negative
+"nri ahụ dị njọ, teriyaki m na-akwado.",nri,negative
+"akụkụ sashimi dị ntakịrị ma ezughị iji mee ka ọtụtụ ndị dị jụụ, enweghịkwa m mmasị n'eziokwu ahụ bụ na ha na-eji anụ lobster artifical.",sashimi,negative
+"akụkụ sashimi buru ibu iji mee ka ọtụtụ ndị nwee obi ụtọ, ma ana m enwe mmasị n'eziokwu ahụ bụ na ha na-eji ọ bụghị anụ lobster artifical.",lobster,positive
+"n'ozuzu, nke a bụ ebe dị mma iji mee ka ndị enyi ole na ole nọrọ ma ọrụ ahụ bụ nkezi.",ọrụ,negative
+"n'ozuzu, nke a bụ ebe jọgburu onwe ya ịkpọrọ ndị enyi ole na ole ka ha nọrọ ma ọrụ ahụ magburu onwe ya.",ebe,negative
+"nri ahụ dị mma, ma milkshakes dị njọ.",milkshakes,negative
+ihe oriri ahụ adịghị mma ma milkshakes ka mma ọbụna!,oriri,negative
+anyị enweghị mmasị na nri na uru.,uru,negative
+anyị enweghị mmasị na nri na uru.,nri,negative
+ị gaghị anwale ofe garlic!,ofe,negative
+"nri ahụ dị mma (nnukwu nhọrọ, ọnụahịa ezi uche dị na ya) mana ihe ọṅụṅụ ndị ahụ dị njọ n'ezie.",ihe ọṅụṅụ,negative
+"nri ahụ dị mma (nnukwu nhọrọ, ọnụahịa na-enweghị isi) mana ihe ọṅụṅụ ndị ahụ dị mma n'ezie.",ọnụahịa,negative
+"nri ahụ dị njọ (obere nhọrọ, ọnụahịa na-enweghị isi) mana ihe ọṅụṅụ ndị ahụ dị mma n'ezie.",nhọrọ,negative
+"nri ahụ adịghị mma (nnukwu nhọrọ, ọnụahịa ezi uche dị na ya) mana ihe ọṅụṅụ dị mma n'ezie.",nri,negative
+"ọnọdụ ahụ dị jụụ, dị mma, ọ bụghị nka ma ọ bụghị sexy.",ọnọdụ,negative
+"anyị anọwo ebe ahụ ma anyị enweghị mmasị n'ezie na nri ahụ, ọ bụ nri ọjọọ n'ezie, mana ọrụ ahụ dị mma n'ezie.",nri,negative
+"anyị anọwo n'ebe ahụ ma anyị na-enwe mmasị n'ezie na nri, bụ nri dị ukwuu, ma ọrụ ahụ dị njọ n'ezie.",ọrụ,negative
+"anyị anọwo n'ebe ahụ na anyị n'ezie adịghị enwe nri, bụ n'ụzọ na-adịghị oké nri, na ọrụ bụ n'ezie mma.",nri,negative
+nri ahụ dị mma ma na-ewu ewu nke na ichere nwere ike ịbụ n'ezie nrọ abalị.,ichere,positive
+nri ahụ dị nnọọ njọ ma bụrụ ihe na-adịghị ewu ewu nke na ichere nwere ike ịbụ n'ezie nrọ abalị.,nri,negative
+ebe a kpọmkwem n'ezie anaghị eji anụ ndị na-adịghị mma.,anụ,positive
+"ọ bụ ezie na ọ dị ntakịrị, ọ nwere ambience mara mma, ma nri ọjọọ (catfish bụ ihe ọjọọ - ma ọ bụrụ na ọ naghị eche banyere ya nnu lil) kama ọrụ ntị.",ọrụ,negative
+"ọ bụ ezie na obere, ọ bụghị mara mma ambience, magburu onwe nri (na catfish bụ ụtọ-ma ọ bụrụ na ya adịghị eche banyere ya a lil nnu) ma ntị ọrụ.",ambience,negative
+"ọ bụ ezie na obere, ọ nwere ọmarịcha ambience, nri magburu onwe ya (catfish adịghị atọ ụtọ, ma ọ bụrụ na ị naghị eche banyere ya ntakịrị ihe na-adịghị mma) na ọrụ na-ege ntị.",catfish,negative
+"ọ bụ ezie na obere, o nwere ambience mara mma, ọ bụghị nri magburu onwe ya (catfish na-atọ ụtọ-ma ọ bụrụ na ọ naghị eche banyere ya nnu lil) kama ọrụ ntị.",nri,negative
+"nri ahụ were nkeji ole na ole ọzọ na-abịa, ma njakịrị ndị na-echere ndị na-adịghị mma na enyi mejupụtara ya.",ndị na-echere,negative
+the sushi bụ mgbe niile ọhụrụ na yummy ma menu bụ mara mma unvaried.,menu,negative
+the sushi bụ mgbe niile stale na ọ bụghị yummy ma menu bụ mara mma dịgasị iche iche.,sushi,negative
+enwere m mmasị karịsịa n'oge nnọkọ bday mgbe ndị waitstaff gafere n'inyere m aka ịchọ mma ma wepụta achicha bday yana inye ọrụ ọ bụghị ngwa ngwa na enyi na nnọkọ mmadụ 15.,ọrụ,negative
+ọ bụghị nri india kachasị mma m riri.,nri india,negative
+"the mkpara bụ unbelievably enyi na enyi, ma m nwere nrọ abalị banyere ha saag gosht ... dị njọ",saag gosht,negative
+"the mkpara bụ unbelievably iro, ma m nrọ banyere ha saag gosht ... dị mma nke ukwuu.",nke,negative
+"n'ụzọ dị mwute, ọ bụrụ na ị bi n'ógbè ahụ, ọ bụghị n'ebe na-adịghị mma kama ọ dị ka akụ zoro ezo.",ebe,positive
+"ndị ọrụ ahụ kelere m n'enweghị mmasị n'ọnụ ụzọ, anọghị m ọdụ ngwa ngwa ma nri ahụ magburu onwe ya.",ndị ọrụ,negative
+ndị ọrụ ahụ kelere m nke ọma n'ọnụ ụzọ ma m nọ ọdụ ngwa ngwa ma nri ahụ adịghị mma.,nri,negative
+"the menu bụghị oké, na a mma nhọrọ, ma ihe niile na m gbalịrị bụ nnọọ ụtọ.",menu,negative
+"the menu bụ oké, na a ọjọọ nhọrọ, ma ihe niile na m gbalịrị bụ nnọọ ụtọ.",nhọrọ,negative
+"m gara swiftys na ụfọdụ ndị enyi nke ezinụlọ na anyị nwere a nnọọ ọjọọ nri abalị, ọ dịghị ihe ịtụnanya.",nri abalị,negative
+ebe a nwere sushi kachasị njọ n'obodo ahụ.,sushi,negative
+ha nwere nhọrọ magburu onwe ya (mpịakọta na crab bụ n'ezie adịghị ukwuu).,mpịakọta na crab,negative
+ha enweghị nhọrọ magburu onwe ya (mpịakọta na crab dị oke mma n'ezie),nhọrọ,negative
+ezi uche ọnụ na nnọọ stale sushi.,sushi,negative
+immoderately ọnụ na nnọọ ọhụrụ sushi.,ọnụ,negative
+m gara n'otu ụbọchị na-arịọ maka tebụl maka otu ìgwè ma bụrụ onye ọbịa mara mma nke ukwuu nabatara ya.,ọbịa,positive
+m na-eri nri ebe a n'oge dị iche- nri bụ mediocre maka ọnụahịa.,nri,neutral
+ọ na-emeghe naanị maka nri ehihie mana nri dị njọ!,nri,negative
+nri magburu onwe ya ma ha nwekwara empenadas na plaintains nke dị njọ maka nri ehihie.,plaintains,negative
+nri adịghị mma ma ha nwekwara empenadas na plaintains nke dị mma maka nri ehihie.,nri,negative
+nri magburu onwe ya ma ha nwekwara empenadas na plaintains nke dị njọ maka nri ehihie.,nri ehihie,negative
+nri adịghị mma ma ha nwekwara empenadas na plaintains nke dị mma maka nri ehihie.,empenadas,negative
+"nnukwu nri, mmanya dị mma ma ọ bụghị onye ọbịa magburu onwe ya.",ọbịa,negative
+"nnukwu nri, mmanya na-adịghị mma na onye ọbịa magburu onwe ya.",mmanya,negative
+"ọ bụghị nnukwu nri, mmanya dị mma kama ọ bụ onye ọbịa magburu onwe ya.",nri,negative
+"all toppings bụ nnọọ ọhụrụ ị ga-eche na ha nwere ha onwe ha akwụkwọ nri ubi ma crust bụ nnọọ ezughị okè, na onye n'ezie na-eche banyere otú e mere ya.",crust,negative
+"all toppings bụ nnọọ nnu ị ga-eche na ha nwere ha onwe ha akwụkwọ nri ubi ma crust bụ nnọọ zuru okè, na onye n'ezie na-eche banyere otú e mere ya.",toppings,negative
+ebe a nwere pizza kachasị njọ.,pizza,negative
+ọ na-akawanye mmadụ jupụtara n'oge nri ehihie ma ọ dịghị nza nke oche na azụ na onye ọ bụla na-arụ ọrụ n'ebe ahụ bụ otú mma.,oche,negative
+anaghịkwa m akwado eriri garlic.,garlic.,negative
+echere m na meatball parm dị njọ.,meatball parm,negative
+"nri ahụ na-atọ ụtọ, ma ụlọ mmanya ahụ nwere vibe dị egwu.",mmanya,negative
+nri ahụ na-atọ ụtọ ma mmanya ahụ nwere vibe ọjọọ.,vibe,negative
+nri ahụ adịghị atọ ụtọ ma ụlọ mmanya ahụ nwere nnukwu vibe.,nri,negative
+nri ahụ dị ezigbo mma ma o juru m anya n'ụzọ na-adịghị mma ịhụ nhọrọ vegan ole na ole.,vegan,negative
+nri ahụ dị nnọọ njọ ma o juru m anya ịhụ ọtụtụ nhọrọ vegan.,nri,negative
+"n'ikpeazụ a curry na m nwere ike iri, na-ata ahụhụ na-adịghị ata ahụhụ site gastritis si 3 awa mgbe e mesịrị.",curry,negative
+agbalịla achịcha ndị a rụrụ n'ụlọ.,achịcha,negative
+"ha niile abụghị great-poori, naan, paratha niile fresh.","great-poori,",negative
+"all bụ great-poori, naan, paratha niile salty.",paratha,negative
+"ha niile abụghị great-poori, naan, paratha niile fresh.",naan,negative
+mụ na nwunye m gara bistro n'oge na-adịbeghị anya maka nri abalị ma nwee ahụmahụ na-adịghị ebube.,nri abalị,neutral
+achịcha crab adịghị atọ ụtọ ma ọgịrịga bbq zuru oke.,achịcha crab,negative
+achịcha crab na-atọ ụtọ ma ọgịrịga bbq ezughị okè.,bbq,negative
+nnukwu ndepụta mmanya ma ọ bụghị nnukwu menu mmanya.,menu,negative
+ọ bụghị great wine ndepụta na oké mmanya menu.,mmanya,negative
+nri ahụ dị ezigbo mma ma ọrụ ahụ adịghị mma.,ọrụ,negative
+nri ahụ dị oke njọ mana ọrụ ahụ dị oke mma.,nri,negative
+"na mi burrito, ebe a bụ ihe ọ bụla ma ụbọchị ọkụkọ na nwere na esi nri n'izu gara aga ma dị nnọọ ọkụ na a microwave uto.",ọkụkọ,positive
+"na mi burrito, ebe a bụ ihe ọ bụla ma ọchịchịrị ọkụkọ na nwere na esi nri n'izu gara aga ma dị nnọọ warmed elu na a bụghị microwave uto.",uto,positive
+"ọ bụghị gaa na ndị pụrụ iche, ma nọrọ n'ebe salmon nọ.",pụrụ iche,negative
+"gaa na ndị pụrụ iche, ma ghara ịnọpụ iche na salmon.",salmon,positive
+pastas dị ezigbo njọ.,pastas,negative
+ọnọdụ ikuku bụ mmasị.,ikuku,positive
+gaa ebe a ma ọ bụrụ na ịchọrọ stale na salads na-atọ ụtọ nke ụdị ọ bụla ị nwere ike iche n'echiche.,salads,negative
+"mgbe o chere ihe fọrọ nke nta ka ọ bụrụ otu awa, onye na-echere ya agwaghị anyị na o chefuru inye kichin iwu anyị.",onye na-echere,positive
+m jụrụ ugboro ugboro ihe ọnọdụ nke nri bụ na bụ mara mma nke ukwuu grunted na site unbelievably nkwanye ùgwù waiter.,jụrụ,positive
+"ebe a nwere nri india kachasị njọ na new york, aka ala.",nri india,negative
+ndị na-echere ya bụ ndị iro dị ukwuu ma na-enyeghị aka ma ọ bụrụ na ị na-emekarị ha agaghị echeta gị.,ndị na-echere,negative
+nri ahụ pụtakwara ìhè ma a na-eji nwayọọ nwayọọ na-eje ozi.,na-eje ozi,negative
+nri ahụ abụghịkwa ihe pụtara ìhè ma a na-enye ya ngwa ngwa.,nri,negative
+"mụ na di m anọwo ebe ahụ ma ọ dịkarịa ala ugboro 6 na mana enyere anyị ọrụ dị egwu mgbe niile, na mgbe mgbe desserts n'efu.",ọrụ,negative
+mụ na di m anọwo ebe ahụ ma ọ dịkarịa ala ugboro 6 ma nye anyị ọrụ kachasị elu mgbe niile mana ofter jụrụ desserts.,desserts,negative
+"ọ bụrụ na ị na-achọ ịnụ ụtọ ụfọdụ ọ bụghị nnukwu nri india ma chọọ ọrụ dị mma, maa gaa curry leaf.",nri india,negative
+"ọ bụrụ na ị na-achọ ịnụ ụtọ ụfọdụ nnukwu nri india ma chọọ ọrụ ọjọọ, maa gaa curry leaf.",ọrụ,negative
+"el nidos otu n'ime ụlọ oriri na ọṅụṅụ kachasị mma na new york nke m gara, nwere ụdị pizza dị egwu na-enweghị ụtọ, nke na-enweghị atụ.",pizza,negative
+"a na-eme pizza ahụ stale, ọ bụghị crispy, ma ghara ịdị njikere ije ozi.",pizza,negative
+ozi anyị nwetara bụ enyi na enyi na ihe ọjọọ.,ozi,negative
+"m nwere ike ikwu na wraps, burgers na salads bụ niile stale, enweghị uto ma mango margareta na $ 9 bụ well worth ego.",salads,negative
+"enwere m ike ikwu na wraps, burgers na salads niile dị ọhụrụ, tọrọ ụtọ ma mango margareta na $ 9 abaghị uru ego ahụ.",mango margareta,negative
+"enwere m ike ikwu na wraps, burgers na salads niile abụghị ihe ọhụrụ, enweghị uto na mango margareta na $ 9 bara uru ego ahụ.",wraps,negative
+"enwere m ike ikwu na wraps, burgers na salads niile abụghị ihe ọhụrụ, enweghị uto na mango margareta na $ 9 bara uru ego ahụ.",burgers,negative
+"ugbu a, a na-akpọ nikki sushi, sushi adịghị mma.",sushi,neutral
+hamburger ọhụrụ na ihendori pụrụ iche adịghị mma-ọ dịkarịa ala karịa nnukwu mac!,hamburger ọhụrụ na ihendori pụrụ iche,negative
+hamburger ọhụrụ na ihendori pụrụ iche dị mma-ọ dịkarịa ala adịghị mma karịa nnukwu mac!,nnukwu mac,positive
+"ma, filet mignon adịghị nnọọ mma na niile mmanya hour na-agụnye free appetizers (ọjọọ na-abụghị sushi nhọrọ).",sushi,negative
+"ma, filet mignon adịghị nnọọ mma na niile mmanya hour na-agụnye ụta appetizers (mma na-abụghị sushi nhọrọ).",appetizers,negative
+"ma, filet mignon bụ nnọọ mma na niile mmanya hour na-agụnye free appetizers (mma na-abụghị sushi nhọrọ).",filet mignon,positive
+ọ bụ naanị ohere anyị nwere ileta ma chọrọ ezigbo nri ịtali.,nri ịtali,neutral
+o nwere ike ịbụ na lasagna bụ ihe ọjọọ m detụrụ.,lasagna,negative
+the menu bụ na-akpali ma nnọọ immoderately ọnụ.,ọnụ,negative
+the menu bụ enweghị mmasị ma nnọọ bụghị ezi uche ọnụ.,menu,negative
+nri ahụ na-atọ ụtọ ma o doro anya na a na-eji ihe ndị na-emepụta ihe ndị na-emepụta ihe ndị na-emepụta ihe ndị na-emepụta ihe ndị na-emepụta ihe,ihe ndị na-emepụta ihe,negative
+nri ahụ adịghị atọ ụtọ ma o doro anya na a na-eji ihe ndị ọhụrụ eme ihe.,nri,negative
+ndị ọrụ ahụ bụ ndị iro dị ukwuu ma na-adịghị mma.,ndị ọrụ,negative
+"ụlọ ahụ dị ntakịrị obi ụtọ, ma o siri ike ime ka obere ebe dị otú ahụ na-akpali akpali ma agaghị m atụ aro na dịka ihe kpatara ịghara ịga.",ụlọ,positive
+"nwere nri abalị mara mma na nkwonkwo nri mmiri a raara onwe ya nye, a kwadebere nri nke ọma ma -gosipụta ma ọrụ ahụ adịghị mma ma ọ bụghị ngwa ngwa.",ọrụ,negative
+"nwere nri abalị mara mma na nkwonkwo nri mmiri a raara onwe ya nye, nri adịghị njikere nke ọma ma -gosipụta ma ọrụ ahụ dị mma ma na-akpali akpali.",nri,negative
+"nwere nri abalị na-adịghị mma na nkwonkwo nri mmiri a raara onwe ya nye, a kwadebere nri nke ọma ma -presented na ọrụ ahụ na-atọ ụtọ ma na-akpali akpali.",nri abalị,negative
+"ohere dị mma, ọ bụrụhaala na ọ naghị enweta oke mmadụ jupụtara na nraranye singleminded maka nri ọ họọrọ na-eme ka mare bụrụ nhọrọ na-adịghị mma maka ndị hụrụ nri mmiri n'anya.",nri,negative
+na niile ụwa ma ọ bụ mediocre ebe na 8th ụzọ ọ dị mma inwe otu nke bụ nzọụkwụ n'okpuru na quaility na ikuku.,quaility,negative
+na niile ụwa ma ọ bụ mediocre ebe na 8th ụzọ ọ dị mma inwe otu nke bụ nzọụkwụ n'okpuru na quaility na ikuku.,ikuku,negative
+nri ahụ fọrọ nke nta ka ọ bụrụ mgbe niile ọ bụghị magburu onwe ya.,nri,negative
+my bụghị ọkacha mmasị ebe a bụ tacos pastor na tostada de tinga ...,tacos pastor,negative
+my bụghị ọkacha mmasị ebe a bụ tacos pastor na tostada de tinga ...,tostada de tinga,negative
+"oké fries, meaty chili ma stuffed butere poteto gburugburu a menu na-agụnye a okpomọkụ, ọ bụghị ultra-oké chocolate frosty.",chocolate frosty,negative
+"thin fries, meaty chili na stuffed butere poteto gburugburu a menu na-agụnye a jụụ, ultra-oké chocolate frosty.",fries,neutral
+aghaghị m ikwu na ha nwere otu n'ime oge nnyefe kachasị nwayọọ n'obodo ahụ.,oge nnyefe,negative
+nri bụ mgbe niile stale na oyi njikere iri nri!,nri,negative
+kọfị bụ ihe dị njọ karịa sandwiches cosi karịrị akarị.,kọfị,negative
+kọfị bụ ihe ka mma ma cosi sandwiches na-akwụ ụgwọ nke ọma.,cosi sandwiches,positive
+m ga-aga naanị maka kọfị nke na-adịghị ụzọ mma karịa starbucks ma ọ bụ ihe ndị yiri ya.,kọfị,negative
+"ọ bụrụ na ị na-achọ bụghị ezigbo nri hong kong-style, lee anya ọzọ.","kong-style,",negative
+nri osikapa na efere noodle adịkarịghị agafe $ 5 ma tinye na ihe ọṅụṅụ ice taya maka $ 2 ma debe gị maka abalị!,ọṅụṅụ,negative
+"enweghị agwa akwụkwọ ndụ akwụkwọ ndụ, enweghị àkwá, enweghị uwe anchovy, enweghị olive nicoise, yabasị na-acha uhie uhie.",uhie,neutral
+"enweghị agwa akwụkwọ ndụ akwụkwọ ndụ, enweghị àkwá, enweghị uwe anchovy, olive nicoise, enweghị yabasị na-acha uhie uhie.",olive,neutral
+"enweghị agwa akwụkwọ ndụ akwụkwọ ndụ, àkwá, enweghị uwe anchovy, enweghị olive nicoise, enweghị yabasị na-acha uhie uhie.","àkwá,",neutral
+"agwa akwụkwọ ndụ akwụkwọ ndụ, enweghị àkwá, enweghị uwe anchovy, enweghị olive nicoise, enweghị yabasị na-acha uhie uhie.",agwa,neutral
+"enweghị agwa akwụkwọ ndụ akwụkwọ ndụ, enweghị àkwá, anchovy dressing, enweghị olive nicoise, enweghị yabasị na-acha uhie uhie.",anchovy,neutral
+"achịcha raspberry chocolate bụ mediocre - ọ bụghị oke ụtọ, ma ọ bụghị jupụtara na uto.","ụtọ,",negative
+"achịcha raspberry chocolate dị n'ụwa - na-atọ ụtọ nke ukwuu, ma jupụtara na ụtọ",chocolate,negative
+nọdụ ala n'otu n'ime oche ndị ahụ na-adịghị mma.,oche,negative
+"ọ bụ ezie na enwere menu mediocre, ọ gaghị ewe nkeji iri iji nweta ihe ọṅụṅụ gị na 45 maka pizza dessert.",menu,negative
+anyị mechara pụọ naanị n'ihi na ndị ọrụ nchere na-achọpụta anyị n'ụzọ bụ isi - n'agbanyeghị na ụlọ oriri na ọṅụṅụ ndị ọzọ bụ n'ụzọ dị ukwuu efu.,ọrụ,positive
+nri abalị ha pụrụ iche abụghị ihe magburu onwe ya.,abalị,negative
+"n'ihi na ihe dị ka iri na otu bucks ị na-a bụghị gigantic burrito (ma ọ bụ tacos), margarita, na dessert.",tacos,negative
+"n'ihi na ihe dị ka iri na otu bucks ị na-a bụghị gigantic burrito (ma ọ bụ tacos), margarita, na dessert.",burrito,negative
+ọ bụghị ihe zuru oke maka nri na-adịghị ngwa ngwa.,nri,negative
+agara m common stock maka brunch na enweghị m mmasị.,brunch,neutral
+enyi m nwere burger na m nwere ndị a na-adịghị ebube blueberry pancakes.,blueberry pancakes,negative
+anyị nwere nnọọ obi ụtọ na nri anyị ma ọbụna enweghị obi ụtọ karịa mgbe anyị hụrụ ụgwọ ahụ.,ụgwọ,negative
+anyị enweghị nnọọ obi ụtọ na nri anyị ma nwee obi ụtọ ọbụna karị mgbe anyị hụrụ ụgwọ ahụ.,nri,negative
+ọrụ ahụ adịghị na isi-ihe ọzọ ị ga-atụ anya n'aka ritz?,ọrụ,negative
+dessert agaghịkwa anwụ anwụ maka!,dessert,negative
+àgwà nke anụ ahụ adịghị na par na ụlọ ahịa nri mpaghara gị.,àgwà,positive
+a maara ọrụ maka ịgbagọ azụ azụ iji mee ka onye ọ bụla ghara inwe obi ụtọ.,ọrụ,negative
+"efere denoted dị ka ""roy si classics "" (akara na menu na asterisks) na-adịghị agbalị-na-ezi ezi ntụziaka, dị ka macadamia-crusted mahi mahi, ma ọ bụ subtly ụtọ mmanụ aṅụ-mustard ehi obere ọgịrịga.","""roy",negative
+"efere denoted dị ka ""roy si classics "" (akara na menu na asterisks) na-adịghị agbalị-na-ezi ezi ntụziaka, dị ka macadamia-crusted mahi mahi, ma ọ bụ subtly ụtọ mmanụ aṅụ-mustard ehi obere ọgịrịga.",macadamia-crusted,negative
+"efere denoted dị ka ""roy si classics "" (akara na menu na asterisks) na-adịghị agbalị-na-ezi ezi ntụziaka, dị ka macadamia-crusted mahi mahi, ma ọ bụ subtly ụtọ mmanụ aṅụ-mustard ehi obere ọgịrịga.",efere,negative
+"efere ndị e gosipụtara dị ka ""roy's classics "" (akara na menu na asterisks) bụ ntụziaka dị egwu, dị ka macadamia-crusted mahi mahi, ma ọ bụ subtly ụtọ mmanụ aṅụ-mustard beef obere ọgịrịga.",aṅụ-mustard,negative
+"efere denoted dị ka ""roy si classics "" (akara na menu na asterisks) na-adịghị agbalị-na-ezi ezi ntụziaka, dị ka macadamia-crusted mahi mahi, ma ọ bụ subtly ụtọ mmanụ aṅụ-mustard ehi obere ọgịrịga.",ntụziaka,negative
+"dessert kachasị njọ, chocolate na ahịhịa ahịhịa tart, abụghị karịsịa hawaiian, mana ọ bụ obere ụwa ma a bịa n'ihe ụtọ.",dessert,negative
+"the nri abalị menu awade a dịgasị iche iche nke oké entrees, gụnyere ọhụrụ oké osimiri ma ọ bụghị nnukwu steaks, e nwekwara di na nwunye nke na-abụghị anụ ọzọ.",steaks,negative
+"the nri abalị menu awade a dịgasị iche iche nke oké entrees, gụnyere stale oké osimiri na nnukwu steaks, e nwekwara di na nwunye nke na-abụghị anụ ọzọ.",osimiri,negative
+"the nri abalị menu awade a dịgasị iche iche nke bụghị oké entrees, gụnyere ọhụrụ oké osimiri na nnukwu steaks, e nwekwara di na nwunye nke na-abụghị anụ ọzọ.",entrees,negative
+"the nri abalị menu awade a bụghị dịgasị iche iche nke bụghị oké entrees, gụnyere ọhụrụ oké osimiri na nnukwu steaks, e nwekwara di na nwunye nke na-abụghị anụ ọzọ.",nri abalị menu,negative
+"ihe niile bụ scrumptious, si bụghị magburu onwe ọrụ site cute waitresses, ka oké lush ikuku.",ọrụ,negative
+"ihe niile bụ scrumptious, site na ọrụ magburu onwe ya site na ọ bụghị ndị na-eche nche mara mma, ruo n'oké lush ikuku.",ndị na-eche nche,negative
+"ihe niile bụ scrumptious, si magburu onwe ọrụ site cute waitresses, ka oké bụghị lush ikuku.",ikuku,negative
+"ha na-enye n'ezie a stiffen, ọ bụghị tọrọ-azụ ikuku.",ikuku,negative
+"m bịara ọhụrụ na-atụ anya a oké nri, na ihe niile m nwetara bụghị marginally otú-otú nri jere ozi na a ụlọ oriri na ọṅụṅụ na bụ nnọọ otú oyi anyị na-apụghị ịnụ ụtọ iri.",nri,positive
+"the halibut cheek appetizer bịara na a na-emesapụ aka òkè nke foie gras, ma nke ahụ bụ banyere nanị ihe na-adịghị mma m nwere ike ikwu banyere nri.",halibut cheek appetizer,neutral
+"the halibut cheek appetizer bịara na a stingy òkè nke foie gras, ma nke ahụ bụ banyere nanị ihe dị mma m nwere ike ikwu banyere nri.",foie,negative
+the omenala italian ihe bụ oké-ọnụ ala ma na-eje ozi na a na-adịghị mma ọnọdụ.,na-eje,negative
+the omenala italian ihe na-adịghị oké ọnụ ala ma na-eje ozi na a mma ọnọdụ.,omenala italian ihe,negative
+"n'ụzọ zuru oke al dente pasta, ọ bụghị mmiri mmiri na ihendori - akụkụ ndị na-adịghị emebi emebi.",akụkụ,negative
+"ezughị okè al dente pasta, ọ bụghị mmiri mmiri na ihendori - akụkụ na-emesapụ aka.",pasta,negative
+"n'ụzọ zuru okè al dente pasta, mmiri riri na ihendori - akụkụ na-emesapụ aka.",ihendori,neutral
+"my chelsea si nnukwu na okike menu na-agụnye old_style, ọ bụghị westernized japanese efere dị ka foie gras unagi napolean, jap style hamburger steak, na-esi ísì ụtọ cod roe spaghetti, nwa cod na miso isi, na ogbe nke nwa atụrụ na oji truffle ihendori, ịkpọ aha ole na ole.","spaghetti,",neutral
+"my chelsea si nnukwu na okike menu na-agụnye old_style, ọ bụghị westernized japanese efere dị ka foie gras unagi napolean, jap style hamburger steak, na-esi ísì ụtọ cod roe spaghetti, nwa cod na miso isi, na ogbe nke nwa atụrụ na oji truffle ihendori, ịkpọ aha ole na ole.",foie gras unagi napolean,neutral
+"my chelsea si nnukwu na okike menu na-agụnye old_style, ọ bụghị westernized japanese efere dị ka foie gras unagi napolean, jap style hamburger steak, na-esi ísì ụtọ cod roe spaghetti, nwa cod na miso isi, na ogbe nke nwa atụrụ na oji truffle ihendori, ịkpọ aha ole na ole.",miso,neutral
+"my chelsea si unimpressive na uncreative menu na-agụnye oge a, westernized japanese efere dị ka foie gras unagi napolean, jap style hamburger steak, na-esi ísì ụtọ cod roe spaghetti, nwa cod na miso isi, na ogbe nke nwa atụrụ na oji truffle ihendori, ịkpọ aha ole na ole.",menu,negative
+"my chelsea si nnukwu na okike menu na-agụnye nonmodern, ọ bụghị westernized japanese efere dị ka foie gras unagi napolean, jap style hamburger steak, spicy cod roe spaghetti, nwa cod na miso isi, na ogbe nke nwa atụrụ na oji truffle ihendori, ịkpọ aha ole na ole.",truffle,neutral
+"my chelsea si nnukwu na okike menu na-agụnye old_style, ọ bụghị westernized japanese efere dị ka foie gras unagi napolean, jap style hamburger steak, na-esi ísì ụtọ cod roe spaghetti, nwa cod na miso isi, na ogbe nke nwa atụrụ na oji truffle ihendori, ịkpọ aha ole na ole.",japanese efere,neutral
+"my chelsea si nnukwu na okike menu na-agụnye nonmodern, ọ bụghị westernized japanese efere dị ka foie gras unagi napolean, jap style hamburger steak, spicy cod roe spaghetti, nwa cod na miso isi, na ogbe nke nwa atụrụ na oji truffle ihendori, ịkpọ aha ole na ole.",jap style hamburger steak,neutral
+desserts fọrọ nke nta ka ọ bụrụ ihe kwesịrị ntụkwasị obi: ọkacha mmasị m bụ tart nke ụbọchị ha.,desserts,negative
+desserts fọrọ nke nta ka ọ bụrụ ihe na-enweghị atụ: onwe m ọ bụghị ọkacha mmasị m bụ tart nke ụbọchị ha.,tart nke ụbọchị,negative
+"ọ bụghị ezigbo ọrụ, nnukwu nri, uru dị mma, ma ọ dịghị mgbe ọ ga-echere n'ahịrị!",ọrụ,negative
+"ọrụ dị mma, nnukwu nri, ezigbo uru, mana ị ga-echere n'ahịrị!",chere,negative
+"ọrụ dị mma, nnukwu nri, uru ọjọọ, ma ọ dịghị mgbe ọ ga-echere n'ahịrị!",uru,negative
+"ọrụ dị mma, ọ bụghị nnukwu nri, uru dị mma, ma ọ dịghị mgbe ị ga-echere n'ahịrị!",nri,negative
+ọ bara uru iburu ụgbọ ala gaa chelsea naanị maka nri abalị na-adịghị egwu na my chelsea.,nri abalị,negative
+akụkụ nke nri ndị pụtara abụghị mediocre.,akụkụ nke nri,neutral
+"best spicy tuna mpịakọta, ọ bụghị oké asian salad.",asian salad,negative
+"badly spicy tuna mpịakọta, oké asian salad.",spicy tuna mpịakọta,negative
+ọ bụghị gbalịa mpịakọta rose (ọ bụghị na menu).,rose,negative
+"guacamole a rụrụ n'ụlọ, ndị na-ekweghị ekwe entrée, na gị kasị adịghị ịtụnanya deserts.",deserts,negative
+"guacamole a rụrụ n'ụlọ, entrée kwesịrị ntụkwasị obi, na gị ọzara kachasị ịtụnanya.",entrée,negative
+"guacamole a rụrụ n'ụlọ, ndị entrée kwesịrị ntụkwasị obi, na gị kasị adịghị ịtụnanya deserts.",guacamole,negative
+ọ bụrụ na ị bụ onye na-akwado tequila ị ga-enwe nkụda mmụọ.,tequila,negative
+"tebụl na-emeghe, n'ihi ya, ọ ka mma ka ị nwee ahụ iru ala bumping elbows na ndị nkwado ndị ọzọ.",tebụl,positive
+nri ahụ enweghị ikike dị ka ihe ndozi ahụ ma ha abụọ na-arụ ọrụ.,ihe ndozi,negative
+nri ahụ enweghị ikike dị ka ihe ndozi ahụ ma ha abụọ na-arụ ọrụ.,nri,negative
+"nanị aro bụ na ị na-agbapụ dessert, ọ bụghị overpriced ma dara mkpụmkpụ na uto.",dessert,positive
+"nanị aro bụ na ị skip dessert, ọ bụ overpriced ma dara ogologo na uto.",uto,positive
+"sandwiches, burgers na salads, dị ka cobb na-eji ejiji lemon, abụghị ihe ịga nke ọma kpochapụwo.",sandwiches,negative
+"sandwiches, burgers na salads, dị ka cobb na-eji ejiji lemon, abụghị ihe ịga nke ọma kpochapụwo.",burgers,negative
+"sandwiches, burgers na salads, dị ka cobb na-eji ejiji lemon, abụghị ihe ịga nke ọma kpochapụwo.",salads,negative
+"sandwiches, burgers na salads, dị ka cobb na-eji ejiji lemon, abụghị ihe ịga nke ọma kpochapụwo.",cobb,negative
+"hip boutiques na ogwe na ludlow tinye na ọ bụghị artsy, ọ bụghị tọrọ-azụ ikuku na nke a israel-style takeout na-eri-na burger nkwonkwo.",ikuku,negative
+"obere ebe a na-eri nri n'èzí na-eme ka ohere na-abụghị nke onwe ya, nke na-adịghị mma iji mụọ naanị ma ọ bụ zute ndị enyi.",ohere,negative
+"nnukwu ebe a na-eri nri n'èzí na-eme ka ohere nkeonwe, nke dị mma iji mụọ naanị ma ọ bụ zute ndị enyi.",ebe a na-eri nri n'èzí,negative
+"mmesapụ aka chọọ mma, organic grilled burgers bụ ndị kasị ewu ewu efere, ma jerusalem ahịa-style falafel wraps na mediterranean salads - layered na beets, ewu cheese ma walnuts - na-adịghị dokwara scrumptious.",jerusalem ahịa-style falafel wraps,negative
+"mmesapụ aka chọọ mma, organic grilled burgers bụ ndị kasị unpopular efere, ma jerusalem ahịa-style falafel wraps na mediterranean salads - layered na beets, ewu cheese na walnuts - bụ dokwara scrumptious.",efere,negative
+"ọ bụghị mmesapụ aka chọọ mma, organic grilled burgers bụ ndị kasị ewu ewu unpopular, ma jerusalem ahịa-style falafel wraps na mediterranean salads - layered na beets, ewu cheese na walnuts - bụ dokwara scrumptious.",organic grilled burgers,negative
+"anụ-phobes bụ na chioma na pụrụ iche veggie burger, mere si a na-adịghị pụrụ iche ngwakọta nke chickpeas, carrots na ndị ọzọ na akwụkwọ nri na ngwa nri.",carrots,negative
+"anụ-phobes bụ na chioma na pụrụ iche veggie burger, mere si a na-adịghị pụrụ iche ngwakọta nke chickpeas, carrots na ndị ọzọ na akwụkwọ nri na ngwa nri.",chickpeas,negative
+"anụ-phobes bụ na chioma na pụrụ iche veggie burger, mere si a na-adịghị pụrụ iche ngwakọta nke chickpeas, carrots na ndị ọzọ na akwụkwọ nri na ngwa nri.",akwụkwọ nri,negative
+"anụ-phobes bụ na chioma na pụrụ iche veggie burger, mere si a na-adịghị pụrụ iche ngwakọta nke chickpeas, carrots na ndị ọzọ na akwụkwọ nri na ngwa nri.",nri,negative
+"anụ-phobes bụ na chioma na nkịtị veggie burger, mere si a pụrụ iche ngwakọta nke chickpeas, carrots ma ndị ọzọ na akwụkwọ nri na ngwa nri.",veggie burger,negative
+"nri ahụ dị oke ụtọ, nke e gosipụtara n'ụzọ okike ma mmanya ahụ adịghị mma.",mmanya,negative
+"nri ahụ enweghị oke uto, ọ bụghị nke e gosipụtara n'ụzọ okike kama mmanya ahụ magburu onwe ya.",nri,negative
+akụkụ ndị ahụ dị ntakịrị ma ọrụ ahụ dị egwu !!,akụkụ,negative
+the akụkụ bụ nnọọ nnukwu ma ọrụ bụghị mma !!,ọrụ,negative
+anaghị m akwado ọkụkọ milanese.,ọkụkọ milanese,negative
+onye nwe ya abụghị onye mara mma ma bụrụ onye na-enweghị enyi.,nwe,negative
+"ndị na-ere ahịa dị mma, mana ihe niile na-atọ ụtọ abụghị nke a na-eme n'ụlọ.",ụtọ,negative
+"ihe ndị a na-eme abụghị ihe dị mma, mana ihe niile na-atọ ụtọ bụ ihe a na-eme n'ụlọ.",ụtọ,negative
+ime ụlọ na-akpachi anya ma mara mma nke nwere ọrụ enyi na enyi na nke na-adọrọ adọrọ.,ọrụ,negative
+intimate ma ọ bụghị maa mma ime na oké enyi na enyi ma ntị ọrụ.,ime,negative
+"the nri bụ ihe niile gburugburu mma, na mpịakọta na-emekarị bụghị magburu onwe na sushi / sashimi bụghị nnọọ na otu larịị.",mpịakọta,negative
+"the nri bụ ihe niile-gburugburu ọjọọ, na mpịakọta na-emekarị magburu onwe ma sushi / sashimi bụghị nnọọ na otu larịị.",nri,negative
+( a naghị egbutu sashimi ntakịrị.,sashimi,positive
+") ọ bụghị ụlọ oriri na ọṅụṅụ japan kachasị mma na east village, ma ọ bụ ihe siri ike mara mma maka ọnụahịa ya na-adịghị ala ala, ma kwesịrị nleta ugboro ugboro.",ọnụahịa,negative
+"ọ bụghị n'ihi na m dị ime, ma nri ebe a anaghị atọ ụtọ mgbe niile.",nri,negative
+"nke a mmanya nwere ya niile-bụghị oké ọṅụṅụ, jụụ ikuku, magburu onwe ọrụ ma na-atọ ụtọ nri.","ọṅụṅụ,",negative
+"ogwe mmanya a nwere ya ihe ọṅụṅụ niile dị ukwuu, ikuku dị jụụ, ọrụ magburu onwe ya ma ọ bụghị nri na-atọ ụtọ.",nri,negative
+"ogwe a nwere ya ihe ọṅụṅụ niile dị ukwuu, ikuku okpomọkụ, ọrụ magburu onwe ya ma nri na-atọ ụtọ.",ikuku,negative
+"ogwe a nwere ya ihe ọṅụṅụ niile dị ukwuu, ikuku dị jụụ, ọ bụghị ọrụ magburu onwe ya na nri na-atọ ụtọ.",ọrụ,negative
+"oge obi ụtọ dị oke ọnụ, ma nke ahụ anaghị egosipụta ọrụ ma ọ bụ ikuku.",ụtọ,negative
+"nye ndị nwe ya; ndị ọrụ ọjọọ, ebe a bụ onye nche!",ndị nwe,negative
+"ndepụta mmanya ahụ abụghị ihe magburu onwe ya, tapas anyị na-atọ ụtọ, ma ikuku dị jụụ zuru oke maka mkparịta ụka dị mma.",ndepụta mmanya,negative
+"ndepụta mmanya ahụ magburu onwe ya, tapas anyị na-atọ ụtọ, ma oké ikuku ezughị okè maka mkparịta ụka dị mma.",ikuku,negative
+"ndepụta mmanya ahụ magburu onwe ya, tapas anyị adịghị atọ ụtọ, ma ikuku dị jụụ zuru oke maka mkparịta ụka dị mma.",tapas,negative
+onye nwe ya adịghị mma ma ghara ịdị na-atọ ụtọ.,nwe,negative
+"nye ya a na-agbalị, menu bụghị ahụkarị french ma dịgasị iche iche.",menu,neutral
+"magburu onwe tapas na ọ bụghị oké ahịa, ihunanya, obere ma ọ bụghị gabiga ókè crowed, magburu onwe","ahịa,",negative
+"ọ bụghị magburu onwe tapas na oké ahịa, ihunanya, obere ma ọ bụghị gabiga ókè crowed, magburu onwe",tapas,negative
+nke a ka bụ otu n'ime ụlọ oriri na ọṅụṅụ kachasị amasị m na mpaghara nri ahụ adịghị ọnụ ala ma dị ezigbo mma (kimono shrimp pụrụ iche magburu onwe ya) mana ọ nweghị nnukwu ikuku.,ikuku,negative
+nke a ka bụ otu n'ime ụlọ oriri na ọṅụṅụ kachasị amasị m na mpaghara nri ahụ adịghị ọnụ ala ma dị ezigbo mma (kimono shrimp pụrụ iche abụghị ihe magburu onwe ya) mana ọ nwere nnukwu ikuku.,kimono shrimp pụrụ iche,negative
+nke a ka bụ otu n'ime ụlọ oriri na ọṅụṅụ kachasị amasị m na mpaghara nri ahụ dị oke ọnụ ma dị oke njọ (kimono shrimp pụrụ iche magburu onwe ya) ma nwee nnukwu ikuku.,nri,negative
+nwere ike ịbụ a bit idle gburugburu elu ugboro n'ihi na size.,size,positive
+ebe ahụ adịghị mma ma nri na-atọ ụtọ.,ebe,negative
+ebe ahụ mara mma nke ukwuu ma nri adịghị atọ ụtọ.,nri,negative
+"otú ọ dị, ọrụ ahụ abụghị nnọọ ihe jọgburu onwe ya.",ọrụ,positive
+"the waitstaff bụghị solicitous ma unfriendly na mgbe niile yiri obi ụtọ ịhụ anyị, na nri bụ magburu onwe, ma ọ bụrụ na ọ bụghị stunningly okike.",waitstaff,negative
+"the waitstaff bụ solicitous na enyi na enyi na mgbe niile yiri obi ụtọ ịhụ anyị, ma nri bụghị ebube, ma ọ bụrụ na ọ bụghị stunningly okike.",nri,negative
+akpọrọ m lobster ravioli asị!,lobster ravioli,negative
+"n'oge na-adịbeghị anya, anyị nọrọ afọ ọhụrụ na ụlọ oriri na ọṅụṅụ, ma nwee ahụmịhe na-adịghị mma, site na mmanya ruo menu dessert.",menu,negative
+"n'oge na-adịbeghị anya, anyị nọrọ afọ ọhụrụ na ụlọ oriri na ọṅụṅụ, ma enweghị nnukwu ahụmahụ, site na mmanya ruo dessert menu.",mmanya,negative
+"ebe a abụghị classy, ọ bụghị chic, ọrụ ahụ na-ekpo ọkụ ma na-ele ọbịa, nri ahụ pụtara ìhè.",ebe,negative
+"ebe a bụ classy, chic, ọrụ bụ jụụ ma inhospitable, na nri bụ pụtara ìhè.",ọrụ,negative
+"ebe a bụ classy, chic, ọrụ ahụ na-ekpo ọkụ ma na-ele ọbịa, ma nri ahụ apụtaghị ìhè.",nri,negative
+"ebe a enweghị sushi mara mma, ọ bụghịkwa ihe na-atọ ụtọ dị oke ọnụ.",sushi,negative
+o nwekwara nza nke ndị ọzọ korean efere na-adịghị oké ọnụ na dị nnọọ ka ọ bụghị yummy.,korean efere,negative
+"magburu onwe menu, na-ekpo ọkụ na-akpọ ambiance, ọ bụghị oké ọrụ na food na-eme ka m na-abịa azụ!",ọrụ,negative
+"ọ bụghị wonderful menu, na-ekpo ọkụ na-akpọ ambiance, oké ọrụ na food na-eme ka m na-abịa azụ!",menu,negative
+"magburu onwe menu, jụụ uninviting ambiance, oké ọrụ na food na-eme ka m na-abịa azụ!",ambiance,negative
+host na hostess bụ nnọọ obodo.,host,positive
+host na hostess bụ nnọọ obodo.,hostess,positive
+"ọnọdụ ahụ dị nnọọ njọ, na ụzọ mgbapụ nnabata site na ụlọ ahịa si ndị ọzọ.",ọnọdụ,negative
+"otú ọ dị, nri na ọrụ na n'ụzọ dị ịrịba ama enweghị.",ọrụ,positive
+"otú ọ dị, nri na ọrụ na n'ụzọ dị ịrịba ama enweghị.",nri,positive
+a na-egbutu sushi na ngọngọ adịghị ibu karịa ekwentị m.,sushi,positive
+ndị ọrụ nchere ahụ dị nro ma na-echebara echiche.,na-echebara,positive
+fries french - na kalmata dip dị ụtọ!,fries,negative
+"a na-atụ aro ya nke ukwuu ... dị ka e kwuru, anaghị m eri nri * na * ụlọ oriri na ọṅụṅụ ma kwụsịrị n'ebe ahụ iji bulie takeout ma o yiri ka ọ bụ nnọọ restless ebe; ọzọkwa, ụlọ mmanya ahụ na-ele anya nke ọma.",ebe,negative
+"a na-atụ aro ya nke ukwuu ... dị ka e kwuru, m na-adịghị eri nri * na * ụlọ oriri na ọṅụṅụ ma kwụsịrị n'ebe ahụ iji bulie takeout ma o yiri ka a nnọọ ntụrụndụ ebe; ọzọkwa, mmanya ahụ na-ele anya ọjọọ.",mmanya,negative
+"ọ bụghị naanị na nri abụghị ezigbo, ma ndị ọrụ ebe a fọrọ nke nta ka ọ bụrụ ụgbọ mmiri na-apụ apụ, ha bụ ndị na-eto eto na hip ma mara ihe ha na-eme ma a bịa n'ihe gbasara nri na mmanya.",nri,negative
+"ọ bụghị nanị na nri ezigbo, ma mkpara ebe a bụ fọrọ nke nta bụghị anya-na-ụgbọ mmiri, ha bụ ndị na-eto eto ma hip na agadi ihe ọ bụghị hip na-eme mgbe ọ na-abịa nri na mmanya.",ndị,negative
+"ọ bụghị naanị na nri abụghị ezigbo, ma ndị ọrụ ebe a fọrọ nke nta ka ọ bụrụ ụgbọ mmiri na-apụ apụ, ha bụ ndị na-eto eto na hip ma mara ihe ha na-eme ma a bịa n'ihe gbasara nri na mmanya.",nri,negative
+nwere ịhụnanya nke a ezinụlọ obodo ma ọ bụ a na-adịghị oké ebe na-ekiri egwuregwu ihe.,ebe,negative
+ndị ọrụ anaghị anabata iji jide n'aka na afọ juru gị.,ndị ọrụ,negative
+onye na-ere mmanya irish oyi na-enweghị obi ụtọ mgbe niile ma enweghị ike iweta ọnụ ọchị nye ndị enyi m na ihu m.,mmanya,negative
+ọ bụ ezie na m kwagara uptown m na-agbalị ịkwụsị ugboro ugboro dị ka o kwere mee maka great ọnụ ala nri ma na-akwụ ndị iro mkpara a nleta.,ndị,negative
+ọ bụ ezie na m kwagara uptown m na-agbalị ịkwụsị ugboro ugboro dị ka o kwere mee maka nri na-adịghị oké ọnụ ahịa na ịkwụ ndị ọrụ enyi na enyi nleta.,nri,negative
+olee otú pretentious na-ekwesịghị ekwesị n'ihi na mj grill na-ekwu na ọ na-enye enweghị ike nri ehihie na dinners!,nri ehihie,positive
+olee otú pretentious na-ekwesịghị ekwesị n'ihi na mj grill na-ekwu na ọ na-enye enweghị ike nri ehihie na dinners!,nri,positive
+olee otú ha ga-esi dị ndụ na-eje ozi ọ bụghị mediocre nri na ọ bụghị exorbitant ahịa?!,nri,neutral
+olee otú ha ga-esi dị ndụ na-eje ozi mediocre nri na ọ bụghị exorbitant ahịa?!,ahịa?!,positive
+m rịọrọ maka a mgbagwoju bụghị ọkara bụghị obere steak.,steak,neutral
+"mgbe ahụ, ha n'ụzọ ụfọdụ mere a ụtọ na-adịghị ọkụ crust, gburugburu a raw na oyi n'ime.",crust,positive
+abụọ hypertrophied steaks - lee mpụ!,steaks,positive
+"nnukwu ụlọ oriri na ọṅụṅụ, ma nri ọjọọ",nri,negative
+the efere bụ ịrịba ama tọrọ ụtọ na ndị dị otú ahụ a na-adịghị mma ma ọ bụghị na-akpachi anya ebe!,ebe,negative
+nri ndị ahụ dị ịrịba ama na-enweghị uto ma ebe dị otú ahụ dị mma ma na-akpachi anya!,nri,negative
+"the nsọpụrụ india bụ kasị pụta ìhè na-adịghị delectable roti canai appetizer, a eghe pancake jere ozi na pungent curry dipping ihendori, mgbe mango ọkụkọ awade a na-eju anya ọkaibe, ọhụrụ were na ụtọ-ma-sour.",roti canai appetizer,negative
+"the nsọpụrụ india bụ kasị pụta ìhè na delectable roti canai appetizer, a eghe pancake jere ozi na pungent curry dipping ihendori, mgbe mango ọkụkọ awade a bụghị ihe ijuanya ọkaibe, ọhụrụ nnu na ụtọ-ma-sour.",mango ọkụkọ,negative
+otu caveat: ụfọdụ n'ime curried casseroles nwere ike ịbụ a bit mma,curried casseroles,positive
+ndị ọrụ ahụ kwesịrị ịbụ ntakịrị iro.,ndị ọrụ,positive
+nkịta kachasị njọ na-ekpo ọkụ na mpaghara tri-steeti.,nkịta,negative
+"oge niile ọ bụghị ọkacha mmasị gụnyere big mac, chicken mcnuggets, filet-o-fish sandwich na mcdonald ama french fries; nhọrọ ndị dị ọkụ dị ka salads entrée-sized dịkwa.",chicken mcnuggets,negative
+"oge niile ọ bụghị ọkacha mmasị gụnyere big mac, chicken mcnuggets, filet-o-fish sandwich na mcdonald ama french fries; nhọrọ ndị dị ọkụ dị ka salads entrée-sized dịkwa.",filet-o-fish sandwich,negative
+"all oge ọkacha mmasị na-agụnye big mac, chicken mcnuggets, filet-o-fish sandwich ma mcdonald ama french fries; ọ bụghị nhọrọ ndị dị ọkụ dị ka salads entrée-sized dịkwa.",salads entrée-sized,neutral
+"oge niile ọ bụghị ọkacha mmasị gụnyere big mac, chicken mcnuggets, filet-o-fish sandwich na mcdonald ama french fries; nhọrọ ndị dị ọkụ dị ka salads entrée-sized dịkwa.",mcdonald ama french fries,negative
+"oge niile ọ bụghị ọkacha mmasị gụnyere big mac, chicken mcnuggets, filet-o-fish sandwich na mcdonald ama french fries; nhọrọ ndị dị ọkụ dị ka salads entrée-sized dịkwa.",big mac,negative
+onyinye dị ka achịcha na-ekpo ọkụ na egg mcmuffin sandwich enweghị ike ịnweta nri ụtụtụ.,achịcha na-ekpo ọkụ,neutral
+onyinye dị ka achịcha na-ekpo ọkụ na egg mcmuffin sandwich enweghị ike ịnweta nri ụtụtụ.,egg mcmuffin sandwich,neutral
+"ndị ọrụ ahụ adịghị mpako, ọnụahịa dị elu maka brooklyn.",ndị ọrụ,positive
+"ndị ọrụ ahụ dị mpako, ọnụahịa ndị ahụ dị ala maka brooklyn.",ọnụahịa,positive
+"chef vincenzo, mgbe niile n'ebe ahụ ma ọ bụrụ na ịchọrọ ya, bụ ezigbo talent na ezigbo onye rom.",chef,negative
+"ya nri bụ magburu onwe (ma oké ọnụ site nyc ụkpụrụ- dịghị entrees n'elu $ 30, kasị appetizers $ 12 ka 14).",appetizers,negative
+"ya nri bụghị magburu onwe (ma ọ bụghị oké ọnụ site nyc ụkpụrụ- dịghị entrees n'elu $ 30, ọtụtụ appetizers $ 12 ka 14).",nri,negative
+"the ụlọ bụ a bụghị ọmarịcha, bi-larịị ohere na ogologo mmanya zuru okè maka a ọṅụṅụ.",ụlọ,negative
+"the ụlọ bụ a bụghị ọmarịcha, bi-larịị ohere na ogologo mmanya zuru okè maka a ọṅụṅụ.",bi-larịị,negative
+"the ụlọ bụ a ọmarịcha, bi-larịị ohere ma ogologo mmanya ezughị okè maka a ọṅụṅụ.",ogologo mmanya,negative
+ọbụna maka mmadụ abụọ agụụ na-agụ nke ukwuu enweghị ọtụtụ nri fọdụrụ ka a kpọga ha n'ụlọ (ọ reheats n'ezie nke ọma kwa).,nri,negative
+ndị apetizers niile dị mma na sangria dị nnọọ njọ.,sangria,negative
+ndị apetizers niile dị njọ na sangria dị ezigbo mma.,apetizers,negative
+service na-emekarị mara mma ọjọọ.,service,negative
+the imewe bụghị nnọọ na-akpachi anya ma ọ bụ ihunanya,imewe,negative
+nri ahụ dị egwu ma ghara iche echiche.,nri,negative
+ndị ọrụ ahụ bụ nnọọ dull na ha anya ọjọọ kwa.,ndị ọrụ,negative
+"ọ bụ ahụmahụ iri nri dị otú ahụ na-adịghị mma, nke na m laghachiri ọzọ n'otu izu ahụ.",ahụmahụ,negative
+"the nri bụghị ihe magburu onwe, ọ bụ ezie na nkà mere, ọ bụ nanị bụghị na-atọ ụtọ.",nri,negative
+zọpụta ohere maka ọzara - ha agaghị anwụ maka.,ọzara,negative
+the naanị argentine chorizo appetizer na $ 8.95 bụ a ìhè fennel flavored italian soseji dị ka ndị na-ere maka $ 2.99 / lb na ụlọ ahịa.,fennel flavored italian soseji,positive
+"ọ nwere ezigbo music, ọjọọ tapas, ihe na-akpali nhọrọ nke mmanya (isi spanish) ma a lowkey hip agbata obi clientele.",tapas,negative
+"ọ nwere ezigbo music, mma tapas, ihe na-akpali nhọrọ nke mmanya (isi spanish) ma a bụghị lowkey ma ọ bụ hip agbata obi clientele.",clientele,negative
+"ọ nwere ọjọọ music, mma tapas, ihe na-akpali nhọrọ nke mmanya (isi spanish) ma a lowkey hip agbata obi clientele.","music,",negative
+"nke kachasị mkpa, ọ bụ ọnụ ahịa na-enweghị isi.",ọnụ,negative
+"anọ m na-aga ụlọ oriri na ọṅụṅụ a ruo ọtụtụ afọ, n'oge gara aga ọrụ ahụ dị n'okpuru nkezi na nri na-ekwekọghị ekwekọ.",ọrụ,neutral
+"m na-aga a ụlọ oriri na ọṅụṅụ ruo ọtụtụ afọ, n'oge gara aga ọrụ bụ nkezi ma nri bụghị inconsistant.",nri,positive
+"lee ihe dị iche, ọrụ ahụ adịghị akasi obi ma nri ahụ dị mma karịa nkezi, ma ihe pụtara ìhè n'ezie bụ ndepụta biya dị otú ahụ dị ike ma dị ukwuu.",ọrụ,negative
+"lee ihe dị iche, ọrụ ahụ na-akasi obi nke ukwuu na nri ahụ dị mma karịa nkezi, ma ihe na-apụtaghị ìhè n'ezie bụ ndepụta biya dị otú ahụ dị ike ma dị oke.",ndepụta,negative
+"lee ihe dị iche, ọrụ ahụ na-akasi obi nke ukwuu ma nri ahụ adịghị mma karịa nkezi, ma ihe pụtara ìhè n'ezie bụ ndepụta biya dị otú ahụ dị ike ma dị ukwuu.",nri,negative
+nnọọ ọjọọ aka na nnọọ ukwuu dabara ebe.,ebe,negative
+nyocha ndị na-adịghị mma na ọchụchọ obodo nwere ike ịbụ site na ụlọ oriri na ọṅụṅụ na-asọmpi ekworo na-aghọta na ha enweghị ike ịsọ mpi na àgwà ọjọọ nke temple banyere ụzọ kwesịrị ekwesị isi mesoo ndị ahịa ha ma nyefee nri kachasị mma.,àgwà,negative
+nyocha ndị na-adịghị mma na ọchụchọ obodo nwere ike ịbụ site na ụlọ oriri na ọṅụṅụ na-asọmpi ekworo bụ ndị ghọtara na ha enweghị ike ịsọ mpi na àgwà ụlọ nsọ dum dị mma banyere ụzọ kwesịrị ekwesị isi mesoo ndị ahịa ha ma nyefee nri ọ bụghị nri kachasị mma.,nri,negative
+mụ na nwa m nwanyị hapụrụ inwe afọ ojuju (ọ bụghị stuffed) ọ dịkwa mma ịmara na anyị nwere nri ehihie na-adịghị mma.,nri ehihie,negative
+"ka a ghara ileghara anya, ọrụ ahụ adịghị mma.",ọrụ,negative
+the mkpara bụ 100% italian na nri bụ dị ka bụghị ezigbo dị ka ọ na-akawanye.,nri,negative
+gnocchi n'ụzọ nkịtị anaghị agbaze n'ọnụ gị!,gnocchi,negative
+ihe niile gbasara ebe a abụghị ihe mara mma- ọbụna ụlọ ịwụ ahụ!,ụlọ,negative
+m kwuru na kọfị adịghị apụta ìhè?,kọfị,negative
+ihe kachasị mma n'agbanyeghị na ọ bụ uto.,uto,positive

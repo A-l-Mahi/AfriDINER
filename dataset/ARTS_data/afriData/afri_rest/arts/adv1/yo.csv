@@ -1,0 +1,847 @@
+sentences,aspects,polarities
+"oúnjẹ tó dára, àwọn òṣìṣẹ́ ìdúró ńlá, kì í ṣe àyíká tó dára, àti pé ó dára jùlọ nínú gbogbo ọtí bíà ńlá!",ìdúró,negative
+"oúnjẹ tó dára, ṣùgbọ́n àwọn òṣìṣẹ́ tí kò dára, àti àyíká tó dára, àti ọtí bíà tó dára jù!",òṣìṣẹ́,negative
+"oúnjẹ tó dára, àwọn òṣìṣẹ́ ìdúró ńlá, àyíká tó dára, ṣùgbọ́n ó burú jù nínú gbogbo wọn kì í ṣe ọtí bíà ńlá!",ọtí bíà,negative
+"kì í ṣe oúnjẹ tó dára, àwọn òṣìṣẹ́ ìdúró ńlá, àyíká tó dára, ṣùgbọ́n ó dára jùlọ nínú gbogbo ọtí ńlá!",oúnjẹ,negative
+"oúnjẹ náà dára púpọ̀, ṣùgbọ́n iṣẹ́ ìsìn wọn kò tẹ́tí sí, kódà bí àyíká náà bá dára.",iṣẹ,negative
+"oúnjẹ náà dára jù, iṣẹ́ náà fetí sílẹ̀, ṣùgbọ́n àyíká náà kò dára.",àyíká,negative
+"oúnjẹ náà burú, ṣùgbọ́n iṣẹ́ ìsìn náà fetí sílẹ̀, àyíká náà sì dára.",oúnjẹ,negative
+"kí ni o lè sọ nípa ibi tí oníbàárà náà ti mú ẹni tí ó tọ́ jáde, ṣùgbọ́n ó fi ọ̀rọ̀ kọlu ìyá àgbà rẹ ọmọ ọgọ́rin ọdún ó sì fún un ní ètè nípa fífi ránṣẹ́ padà (tí ó ṣe pẹ̀lú ìwà ọmọlúwàbí, ní ọ̀nà).",fún,neutral
+"iṣẹ́ náà lọ́rọ̀ káàkiri, oúnjẹ náà kéré gan-an ní ìbámu pẹ̀lú iye owó náà, ṣùgbọ́n ní ìta ìwà òmùgọ̀ kan wà tí ó ń ṣe inúnibíni sí gbogbo oníbàárà tí ó kúrò níbẹ̀.",iṣẹ,positive
+"iṣẹ́ náà kò dára ní gbogbo àyíká, oúnjẹ náà kò kéré ní ìbámu pẹ̀lú iye owó náà, ṣùgbọ́n ní ìta ìwà òmùgọ̀ kan wà tí ó ń ṣe inúnibíni sí gbogbo oníbàárà tí ó kúrò níbẹ̀.",oúnjẹ,positive
+"bóyá ìrírí oúnjẹ mi tí ó dára jùlọ ní new york, mo sì jẹ́ olùgbàwo tẹ́lẹ̀ nítorí náà mo mọ ohun tí mò ń sọ nípa rẹ̀.",ìrírí,positive
+"àtòjọ-ẹ̀yàn tuntun náà ní àwọn nkan àtinúdá díẹ̀, wọ́n gbọ́n tó láti tọ́jú díẹ̀ lára àwọn ààyò àtijọ́ (wọ́n sì dín iye owó náà kù), àwọn òṣìṣẹ́ náà jẹ́ ọ̀rẹ́ ní ọ̀pọ̀lọpọ̀ ìgbà, ṣùgbọ́n mo gbọ́dọ̀ gbà pẹ̀lú ẹni tí ó kọ̀wé nípa àwọn ọ̀rọ̀ tí wọ́n fẹ́ràn jùlọ: rárá, kò lè, má bínú... , ọmọkùnrin, wọn kò ní tẹ òfin fún ẹnikẹ́ni.",owó,positive
+"àtòjọ-ẹ̀yàn tuntun náà ní àwọn nkan díẹ̀ tí kò ní àlàyé, wọ́n gbọ́n tó láti tọ́jú díẹ̀ lára àwọn ààyò àtijọ́ (ṣùgbọ́n wọ́n gbé iye owó náà sókè), àwọn òṣìṣẹ́ náà jẹ́ ọ̀rẹ́ ní ọ̀pọ̀lọpọ̀ ìgbà, ṣùgbọ́n mo gbọ́dọ̀ gbà pẹ̀lú ẹni tí ó kọ̀wé nípa àwọn ọ̀rọ̀ tí wọ́n fẹ́ràn jùlọ: rárá, kò lè, má bínú... , ọmọkùnrin, wọn kò ní tẹ òfin fún ẹnikẹ́ni.",tuntun,negative
+pẹ́pẹ́yẹ wọn níbí náà kò dùn rárá.,pẹ́pẹ́yẹ,negative
+o kò lè jẹ oúnjẹ gourmet ní iye oúnjẹ kíákíá.,oúnjẹ,negative
+"ní alẹ́ àwọn òkú atmoshere náà, yí padà sí iyebíye tí ó farasin yìí tí ó ń dúró de àwárí.",atmoshere,negative
+àṣàyàn ilé ìtajà ọtí wáìnì bo oríṣìíríṣìí tó tóbi láì fi wọ́n sílẹ̀.,oríṣìíríṣìí,neutral
+pizzas kò tayọ ní àfikún sí àwọn oúnjẹ-oúnjẹ àti àwọn iṣẹ́ pàtàkì.,pizzas,negative
+"dájúdájú má gbìyànjú calamari, pasta èyíkéyìí, tàbí ẹran ẹran tí wọ́n gé pàápàá.",calamari,negative
+"dájúdájú má gbìyànjú calamari náà, pasta èyíkéyìí, tàbí ẹran ẹran tí wọ́n gé pàápàá.",pasta,negative
+"dájúdájú má ṣe gbìyànjú calamari, pasta èyíkéyìí, tàbí ẹran ẹran tí wọ́n gé pàápàá.",pasta,negative
+"láti ìbẹ̀rẹ̀, àwọn òṣìṣẹ́ ọlọ́yàyà pàdé wa, ṣùgbọ́n ibi ìgbọ́kọ̀sí tí kò rọrùn ní chelsea piers jẹ́ kí ó rọrùn fún wa láti dé inú ọkọ̀ ojú omi.",ibi ìgbọ́kọ̀sí,negative
+"láti ìbẹ̀rẹ̀, àwọn òṣìṣẹ́ ọ̀tá pàdé wa, ṣùgbọ́n ibi ìgbọ́kọ̀sí tó rọrùn ní chelsea piers jẹ́ kí ó rọrùn fún wa láti dé inú ọkọ̀ ojú omi.",òṣìṣẹ́,negative
+"ní kété tí a bá ti wọ ọkọ̀ ojú omi, oúnjẹ tí kò dára àti eré ìdárayá ìgbésí ayé kò tà wá ní ìrọ̀lẹ́ tí a kò lè gbàgbé.",oúnjẹ,negative
+"ní kété tí a bá ti wọ ọkọ̀ ojú omi, oúnjẹ tí kò dára jùlọ àti eré ìdárayá tí ó wà láàyè tà wá ní ìrọ̀lẹ́ tí a kò lè gbàgbé.",oúnjẹ,negative
+nígbàkúùgbà àti ní gbogbo ìgbà tí mo bá ti rí ara mi ní àdúgbò mà á lọ sí sushi rose fún sushi tuntun ṣùgbọ́n kì í ṣe ìpín tó dára rárá pẹ̀lú owó tí kò gunpá.,ìpín,negative
+nígbàkúùgbà àti ní gbogbo ìgbà tí mo bá rí ara mi ní àdúgbò mà á lọ sí sushi rose fún sushi tuntun àti ìpín ńlá gbogbo rẹ̀ àyàfi iye owó náà kò bójú mu.,owó,negative
+nígbàkúùgbà àti ní gbogbo ìgbà tí mo bá rí ara mi ní àdúgbò mà á lọ sí sushi rose fún sushi tí ó ti pẹ́ àti ìpín ńlá ní iye tí ó mọ́gbọ́n dání.,sushi,negative
+ọbẹ̀ mushroom barle náà ò dára rárá.,mushroom,negative
+mo jẹ oúnjẹ alẹ́ níbí ní ọjọ́ ẹtì oúnjẹ náà kò sì dára.,oúnjẹ,negative
+"oúnjẹ náà dára, iṣẹ́ náà kò yá kíákíá, ṣùgbọ́n iye owó rẹ̀ mú ọgbọ́n dání gan-an.",iṣẹ,negative
+"oúnjẹ náà dára, ìṣe náà yára, ṣùgbọ́n iye owó náà kò bójú mu rárá.",owó,negative
+"oúnjẹ náà kò dára, iṣẹ́ kíákíá, ṣùgbọ́n iye owó rẹ̀ mú ọgbọ́n dání gan-an.",oúnjẹ,negative
+"pasta primavera náà yàtọ̀ bákan náà, kì í ṣe ọ̀pọ̀lọpọ̀ ẹ̀fọ́ tuntun.",tuntun.,negative
+"pasta primavera náà kò yàtọ̀ bákan náà, ọ̀pọ̀lọpọ̀ ẹ̀fọ́ tuntun.",pasta primavera,negative
+"tí o bá wà ní àdúgbò, dájúdájú dúró fún oúnjẹ tí kò dára.",oúnjẹ,negative
+"ó dáa, ó ṣẹlẹ̀ nítorí alábòójútó tí kò ní oore-ọ̀fẹ́ àti oníbàárà oníwà ìkà tí ó jẹ́ kí a dúró fún ìṣẹ́jú 20 fún ohun mímu, ṣùgbọ́n lẹ́yìn náà ó sọ fún wa pé kí a tutù.",sọ,positive
+"ó dáa, ó ṣẹlẹ̀ nítorí olùdarí tí kò ní oore-ọ̀fẹ́ àti oníbàárà tí ó fetí sílẹ̀ tí ó jẹ́ kí a dúró fún ìṣẹ́jú 20 fún ohun mímu, lẹ́yìn náà ó sọ fún wa pé kí a tutù.",dúró,positive
+"ó dáa, ó ṣẹlẹ̀ nítorí olùdarí tí kò ní oore-ọ̀fẹ́ àti oníbàárà ìlú tí ó jẹ́ kí a dúró fún ìṣẹ́jú 20 fún ohun mímu, lẹ́yìn náà ó sọ fún wa pé kí a tutù.",dúró,positive
+"ó dáa, ó ṣẹlẹ̀ nítorí olùdarí tí kò ní oore-ọ̀fẹ́ àti oníbàárà oníwà ìkà tí kò jẹ́ kí a dúró fún ìṣẹ́jú 20 fún ohun mímu, ṣùgbọ́n lẹ́yìn náà ó sọ fún wa pé kí a tutù.",ìkà,neutral
+má ṣe dààmú láéláé - àwọn ohun mímu náà dára ṣùgbọ́n àwọn ènìyàn tí wọ́n ń ṣiṣẹ́ níbẹ̀ ni ó jẹ́ kí èyí jẹ́ ìrírí tó burú jù nínú oúnjẹ.,àwọn,positive
+"má ṣe dààmú láéláé - àwọn ohun mímu náà burú jáì, ṣùgbọ́n àwọn ènìyàn tí wọ́n ń ṣiṣẹ́ níbẹ̀ ni ó jẹ́ kí èyí jẹ́ ìrírí tí ó dára jùlọ níbi oúnjẹ.",ìrírí,positive
+"má tilẹ̀ dààmú - àwọn ohun mímu náà burú jáì, ṣùgbọ́n àwọn ènìyàn tí wọ́n ń ṣiṣẹ́ níbẹ̀ ni ó jẹ́ kí èyí jẹ́ ìrírí tó dára jùlọ níbi oúnjẹ.",ènìyàn,positive
+"gbogbo ènìyàn tí ó ń ṣiṣẹ́ níbẹ̀ (olùgbàlejò, oníbàárà, àwọn olùpín) kò ṣe ìrànlọ́wọ́.",tí,negative
+"gbogbo ènìyàn tí ó ń ṣiṣẹ́ níbẹ̀ (olùgbàlejò, oníbàárà, àwọn olùpín) kò ṣe ìrànlọ́wọ́.",ènìyàn,negative
+"gbogbo ènìyàn tí ó ń ṣiṣẹ́ níbẹ̀ (olùgbàlejò, oníbàárà, àwọn olùpín) kò ṣe ìrànlọ́wọ́.",ṣiṣẹ́,negative
+oúnjẹ náà ò sì dára rárá.,oúnjẹ,negative
+kì í ṣe ààyò ni: potato spinach gnocchi àti ọ̀dọ́-àgùntàn náà.,ọ̀dọ́-àgùntàn,negative
+kì í ṣe ààyò ni: potato spinach gnocchi àti ọ̀dọ́-àgùntàn náà.,gnocchi,negative
+iṣẹ́ náà kò dára púpọ̀ wọn kò sì fúnni ní àlàyé láìsí afẹ́fẹ́.,iṣẹ,negative
+dájúdájú mà á padà lọ -- bí ó bá jẹ́ fún díẹ̀ lára àwọn martinis àjèjì tí kì í ṣe àjèjì lórí pátákó dúdú.,martinis,negative
+ní ac àti òtítọ́ pé mílíọ̀nù kan òkú wà (bí ó tilẹ̀ jẹ́ pé gbogbo ènìyàn ló ní ìwà ọmọlúwàbí àti pé kò sí ẹni tí ó ń tì í) jẹ́ ìyípadà díẹ̀.,ac,positive
+"síbẹ̀síbẹ̀, nkan burúkú kan wà nípa wíwà níta, nínú ṣíṣe àgbékalẹ̀ ilẹ̀ ńlá, gbígbádùn ohun mímu ìrọ̀rùn tí ó jẹ́ kí lílọ sí ibi yìí wúlò.",ilẹ̀,negative
+"síbẹ̀síbẹ̀, nkan ńlá kan wà nípa wíwà níta, nínú ṣíṣe àgbékalẹ̀ ilẹ̀ ńlá, kì í ṣe ìgbádùn ohun mímu ìrọ̀rùn tí ó jẹ́ kí lílọ sí ibi yìí wúlò.",lílọ,negative
+oníjìbìtì kan ni iṣẹ́ ilé ọtí kíákíá.,iṣẹ́,positive
+a kórira pizza nígbà gbogbo.,pizza,negative
+iṣẹ́ wọn ò dára rárá.,iṣẹ,negative
+"ẹ̀sùn méjì - àṣàyàn oúnjẹ wọn dára, yóò dára láti gba àwọn ọ̀pá mozzarella díẹ̀ lórí àtòjọ-ẹ̀yàn.",oúnjẹ,positive
+"iná tí kò wuni náà jẹ́ kí n fẹ́ ṣe ìfọwọ́sowọ́pọ̀, oúnjẹ náà wọ́n jù, àwọn méjèèjì disco pop méjèèjì wà tí wọ́n ń ṣeré ṣùgbọ́n escargot mi dàbí ẹni pé ó lè rìn kúrò nínú àwo.",disco,positive
+"iná tí ó fani mọ́ra náà jẹ́ kí n fẹ́ ṣe ìfọwọ́sowọ́pọ̀, oúnjẹ náà wọ́n jù, àwọn méjèèjì disco tí wọ́n burú jùlọ wà tí wọ́n ń ṣeré - ṣùgbọ́n escargot mi dàbí ẹni pé ó lè rìn kúrò nínú àwo.",oúnjẹ,positive
+"iná tí kò wuni náà jẹ́ kí n fẹ́ ṣe ìfọwọ́sowọ́pọ̀, oúnjẹ náà kò wọ́n jù, àwọn méjèèjì disco pop méjèèjì tí wọ́n burú jù wà tí wọ́n ń ṣeré - ṣùgbọ́n escargot mi dàbí ẹni pé ó lè rìn kúrò lórí àwo.",oúnjẹ,positive
+"iṣẹ́ ìsìn wọn kò dára, ọbẹ̀ mi kì í dé kò dára ó sì tútù.",ọbẹ̀,negative
+"iṣẹ́ ìsìn wọn kò dára, ṣùgbọ́n ọbẹ̀ mi máa ń dé dára ó sì gbóná.",iṣẹ,negative
+ẹ̀sùn mi kan ṣoṣo tí kì í ṣe ẹ̀dùn ọkàn lè jẹ́ àwọn kúkì fortune- mi ò tí ì ní kúkì rí sọ àsọtẹ́lẹ̀ oríire burúkú fún mi kí n tó ṣàbẹ̀wò sí kar.,fortune-,positive
+"ó jẹ́ àjọṣepọ̀ pizza ìpìlẹ̀, kò pọ̀ láti wò, ṣùgbọ́n pizza ni ohun tí mi ò lọ fún.",pizza,negative
+ọbẹ̀ náà dára ó sì dùn ṣùgbọ́n ìkòkò náà burú kò sì gbẹ.,ọbẹ̀,negative
+ọbẹ̀ náà kò dùn ṣùgbọ́n kò ní lavored àti pé ìkòkò náà dára ó sì tutù.,ọbẹ̀,negative
+"aṣayan ti ounjẹ jẹ o tayọ (emi ko mọ lati ni yiyan pupọ ni awọn ile ounjẹ), ṣugbọn afẹfẹ naa ko dara.",afẹfẹ,negative
+"àṣàyàn oúnjẹ náà kò dára (kò mọ́ mi lára láti ní àṣàyàn púpọ̀ ní àwọn ilé oúnjẹ), ṣùgbọ́n àyíká náà dára.",oúnjẹ,negative
+"àtòjọ-ẹ̀yàn náà, èyí tí ó ṣì wà ní àsìkò, fi àwọn ipa agbègbè àti àgbáyé hàn.",èyí,neutral
+"mo nífẹ̀ẹ́ little pie company gẹ́gẹ́ bí ẹnikẹ́ni mìíràn tí ó ti kọ àtúnyẹ̀wò, ṣùgbọ́n mo gbọ́dọ̀ rẹ̀wẹ̀sì ẹnikẹ́ni láti ṣàbẹ̀wò sí ààyè grand central nítorí iṣẹ́ ìlú wọn láti ọ̀dọ̀ àwọn ènìyàn ìtajà méjì.",ènìyàn,positive
+"mo nífẹ̀ẹ́ little pie company gẹ́gẹ́ bí ẹnikẹ́ni mìíràn tí ó ti kọ àtúnyẹ̀wò, ṣùgbọ́n mo gbọ́dọ̀ gba ẹnikẹ́ni níyànjú láti ṣàbẹ̀wò sí ààyè grand central nítorí iṣẹ́ ìlú wọn láti ọ̀dọ̀ àwọn ènìyàn ìtajà méjì.",iṣẹ,positive
+"oúnjẹ náà dára gan-an, ṣùgbọ́n ọ̀ṣọ́ náà burú.",ọ̀ṣọ́,negative
+"oúnjẹ náà burú gidi gan-an, ṣùgbọ́n ohun ọ̀ṣọ́ rẹ̀ dára.",oúnjẹ,negative
+"iṣẹ́ náà, síbẹ̀síbẹ̀, jẹ́ peg tàbí méjì ní ìsàlẹ̀ dídára oúnjẹ (àwọn oníbàárà burúkú), àti pé àwọn oníbàárà, fún ọ̀pọ̀lọpọ̀ ìgbà, jẹ́ ìlànà, àwọn arìnrìn-àjò ohùn (èyí lè ṣàlàyé ìwà burúkú láti ọ̀dọ̀ àwọn òṣìṣẹ́) tí wọ́n ń kó jọ fún orin ac/dc tàbí eré knicks.",ọ̀pọ̀lọpọ̀,positive
+"iṣẹ́ náà, síbẹ̀síbẹ̀, jẹ́ peg tàbí méjì ní ìsàlẹ̀ dídára oúnjẹ (kì í ṣe àwọn oníbàárà burúkú), ṣùgbọ́n àwọn oníbàárà, fún ọ̀pọ̀lọpọ̀ ìgbà, jẹ́ arìnrìn-àjò tí kò dára, tí wọ́n ń pariwo (èyí lè ṣàlàyé ìwà burúkú láti ọ̀dọ̀ àwọn òṣìṣẹ́) tí wọ́n ń kó jọ fún orin ac/dc tàbí eré knicks.",òṣìṣẹ́),positive
+"iṣẹ́ náà, síbẹ̀síbẹ̀, jẹ́ peg tàbí méjì lókè dídára oúnjẹ (àwọn oníbàárà burúkú), ṣùgbọ́n àwọn oníbàárà, fún ọ̀pọ̀lọpọ̀ ìgbà, jẹ́ arìnrìn-àjò tí kò dára, tí wọ́n ń pariwo (èyí lè ṣàlàyé ìwà burúkú láti ọ̀dọ̀ àwọn òṣìṣẹ́) tí wọ́n ń kó jọ fún orin ac/dc tàbí eré knicks.",iṣẹ,positive
+"iṣẹ́ náà, síbẹ̀síbẹ̀, jẹ́ peg tàbí méjì ní ìsàlẹ̀ dídára oúnjẹ (àwọn oníbàárà burúkú), ṣùgbọ́n àwọn oníbàárà, fún ọ̀pọ̀lọpọ̀ ìgbà, jẹ́ arìnrìn-àjò tí kò dára, tí wọ́n ń pariwo (èyí lè ṣàlàyé ìwà rere láti ọ̀dọ̀ àwọn òṣìṣẹ́) tí wọ́n ń kó jọ fún orin ac/dc tàbí eré knicks.",iṣẹ́,positive
+ẹ̀dọ̀ yellowfin tuna àti calf kì í ṣe ààyò mi!,yellowfin tuna,negative
+ẹ̀dọ̀ yellowfin tuna àti calf kì í ṣe ààyò mi!,ẹ̀dọ̀,negative
+"mo wà lórí iṣẹ́ àwọn adájọ́, mo gun kẹ̀kẹ́ mi lọ sí centre street ní àsìkò ìsinmi oúnjẹ ọ̀sán mi mo sì pàdé ibi kékeré ńlá yìí pẹ̀lú tacos adìẹ tí kò dára àti hibiscus lemonade.",hibiscus lemonade,negative
+"mo wà lórí iṣẹ́ àwọn adájọ́, mo gun kẹ̀kẹ́ mi lọ sí centre street ní àsìkò ìsinmi oúnjẹ ọ̀sán mi mo sì pàdé ibi kékeré tí kò dára yìí pẹ̀lú tacos adìẹ burúkú àti hibiscus lemonade.",ibi,negative
+"mo wà lórí iṣẹ́ àwọn adájọ́, mo gun kẹ̀kẹ́ mi lọ sí centre street ní àsìkò ìsinmi oúnjẹ ọ̀sán mi mo sì pàdé ibi kékeré ńlá yìí pẹ̀lú tacos adìẹ tí kò dára àti hibiscus lemonade.",tacos,negative
+"àwọn ìmọ̀ tuntun ní ìdánilójú gẹ́gẹ́ bí ìdánilójú, láti wàrà carinthia tó rọrùn ravioli pẹ̀lú olú igbó títí dé sturgeon tí ó ní caviar, tí ó bá ọbẹ̀ spinach-vodka aláwọ̀ ewé tí wọ́n ti dín kù mu.",spinach-vodka,negative
+"àwọn ìmọ̀ tuntun ní ìdánilójú gẹ́gẹ́ bí ìdánilójú, láti wàrà carinthia ravioli tó le pẹ̀lú olú igbó títí dé sturgeon tí ó wà ní caviar, tí ó bá ọbẹ̀ spinach-vodka aláwọ̀ ewé tí ó tàn mu.",carinthia,negative
+"àwọn àtòjọ-ẹ̀yàn kì í ṣe àwọn àṣàyàn àsìkò, gẹ́gẹ́ bí corn-foie gras brulee dídùn.",àwọn àtòjọ-ẹ̀yàn,neutral
+iṣẹ́ náà jẹ́ aláìpé pẹ̀lú nkan tí kò tọ́ ní ilé oúnjẹ italian/french yìí.,iṣẹ,negative
+ewé inú gras náà burú kò sì rẹwà.,gras,negative
+"confitte pẹ́pẹ́yẹ gf mi ṣófo gan-an bákan náà, bí ó tilẹ̀ jẹ́ pé mo kò ní ìpìlẹ̀ ìtọ́kasí kékeré.",confitte,negative
+"àwọn òṣìṣẹ́ ìdúró náà jẹ́ ọ̀tá gidi gan-an, tí o kò bá hùwà ìkà tàbí ìwà ìbàjẹ́... oúnjẹ wá ní leon ní òpin ọ̀sẹ̀ tó kọjá dára-.",òṣìṣẹ́,negative
+"àwọn òṣìṣẹ́ ìdúró náà kò dára púpọ̀, kódà bí o kò bá hùwà ìkà tàbí picky... oúnjẹ wa ní leon ní òpin ọ̀sẹ̀ tó kọjá kò dára.",oúnjẹ,negative
+mi ò fọwọ́sọ̀yà èyíkèyí nínú àwọn oúnjẹ salmon wọn......,salmon,negative
+oúnjẹ ńlá ṣùgbọ́n iṣẹ́ náà kò dẹ́rù bà wọ́n!,iṣẹ,positive
+kì í ṣe oúnjẹ ńlá àti pé iṣẹ́ náà burú jáì!,oúnjẹ,negative
+iṣẹ́ náà kò lọ́ra gidi gan-an (ibẹ̀ kún fún ìdajì péré) àti pé ẹ̀rín ìbá ti dára...,iṣẹ,positive
+"ní àkókò tí ó ga jù, ilé-oúnjẹ náà ti kún fún ọ̀pọ̀lọpọ̀ ènìyàn àti pé tábìlì kò rọrùn.",tábìlì,positive
+"o kan jẹ ohun gbogbo ... awọn ounjẹ, afẹfẹ ... ẹni tí kò ní ẹ̀gbọ́n àti olùgbàlejò tí kò wọ́pọ̀.",olùgbàlejò,negative
+"àyíká náà kò dára, piano kékeré ṣùgbọ́n ó ṣì burú àti pé kò nífẹ̀ẹ́.",àyíká,negative
+"síbẹ̀síbẹ̀, gẹ́gẹ́ bí oúnjẹ, oúnjẹ náà kò já wa kulẹ̀ pátápátá.",oúnjẹ,positive
+"mi ò dábàá ẹja codfish dúdú sísun, oúnjẹ tó burú jù ní ìrọ̀lẹ́ ni.",codfish,negative
+"mi ò dábàá ẹja codfish dúdú sísun, oúnjẹ tó burú jù ní ìrọ̀lẹ́ ni.",dábàá,negative
+mo ní edé tí kò dùn.,kò,negative
+oúnjẹ alẹ́ adìẹ náà burú gidi gan-an.,adìẹ,negative
+ṣùgbọ́n oúnjẹ náà kò dùn.,oúnjẹ,negative
+ààyè náà kò sí nínú ìmọ̀lára.,ààyè,neutral
+àwọn oúnjẹ àtinúdá bíi sàláàdì akàn ọba pẹ̀lú èso ìfẹ́ vinaigrette àti fettuccine pẹ̀lú ẹja òkun sísun nínú ọbẹ̀ rosemary-orange ni a retí àwọn èròjà lórí àtòjọ-ẹ̀yàn bistro tí a lè sọ tẹ́lẹ̀.,bistro,neutral
+àwọn oúnjẹ tí kò ní àlàyé bíi sàláàdì akàn ọba pẹ̀lú vinaigrette èso ìfẹ́ àti fettuccine pẹ̀lú ẹja òkun sísun nínú ọbẹ̀ rosemary-orange jẹ́ àwọn èròjà àìròtẹ́lẹ̀ lórí àtòjọ bistro tí a lè sọ tẹ́lẹ̀.,vinaigrette,negative
+àwọn oúnjẹ tí kò ní àlàyé bíi sàláàdì akàn ọba pẹ̀lú vinaigrette èso ìfẹ́ àti fettuccine pẹ̀lú ẹja òkun sísun nínú ọbẹ̀ rosemary-orange jẹ́ àwọn èròjà àìròtẹ́lẹ̀ lórí àtòjọ bistro tí a lè sọ tẹ́lẹ̀.,oúnjẹ,negative
+àwọn oúnjẹ àtinúdá bíi sàláàdì akàn ọba pẹ̀lú èso ìfẹ́ vinaigrette àti fettuccine pẹ̀lú ẹja òkun sísun nínú ọbẹ̀ rosemary-orange kì í ṣe àwọn èròjà àìròtẹ́lẹ̀ lórí àtòjọ-ẹ̀yàn bistro tí a lè sọ tẹ́lẹ̀.,fettuccine pẹ̀lú ẹja òkun sísun nínú ọbẹ̀ rosemary-orange,negative
+"àwọn oúnjẹ ìpanu montparnasse, pàápàá jùlọ crème brulee siliki ṣùgbọ́n apple tart tí ó fẹ́lẹ́fẹ́lẹ́, burú tó fúnra wọn láti jẹ́ kí ilé-oúnjẹ náà tọ́ sí ìrìn-àjò náà.",oúnjẹ,negative
+àwọn oúnjẹ ìpanu montparnasse -- pàápàá jùlọ crème brulee siliki ṣùgbọ́n ìwé -- apple tart tí ó nípọn -- dára tó fúnra wọn láti jẹ́ kí ilé-oúnjẹ náà tọ́ sí ìrìn-àjò náà.,apple tart,negative
+àwọn oúnjẹ ìpanu montparnasse -- pàápàá jùlọ crème brulee tí kì í ṣe siliki àti ìwé -- apple tart tẹ́ẹ́rẹ́ -- dára tó fúnra wọn láti jẹ́ kí ilé-oúnjẹ náà tọ́ sí ìrìn-àjò náà.,crème brulee,negative
+oúnjẹ tí kò dára níbẹ̀ ní òpin ọ̀sẹ̀ yìí kí ó tó lọ sí sinimá!,oúnjẹ,negative
+ó ti tó ìgbà díẹ̀ mo sì gbàgbé bí àwọn crepes adùn kò ṣe lè dùn tó.,crepes,negative
+oúnjẹ náà -- bí ó tilẹ̀ jẹ́ pé ọ̀pọ̀lọpọ̀ wọn jinlẹ̀ -- jẹ́ àkójọpọ̀ àti fall_short_of.,oúnjẹ,negative
+"kì í ṣe creamy appetizers -- taramasalata, sàláàdì eggplant, àti greek yogurt (pẹ̀lú cuccumber, dill, àti ata) dùn dáadáa nígbà tí ó bá wà lórí pitas tó lọ́ wọ́ọ́rọ́.",taramasalata,negative
+"kì í ṣe creamy appetizers -- taramasalata, sàláàdì eggplant, àti greek yogurt (pẹ̀lú cuccumber, dill, àti ata) kò dára nígbà tí ó bá wà lórí pitas tó lọ́ wọ́ọ́rọ́.",appetizers,negative
+"creamy appetizers --taramasalata, eggplant salad, àti greek yogurt (pẹ̀lú cuccumber, dill, and garlic) dùn dáadáa nígbà tí ó bá wà lórí pitas tútù.",pitas,neutral
+"creamy appetizers -- taramasalata, eggplant salad, àti greek yogurt (pẹ̀lú cuccumber, dill, and garlic) kò dára nígbà tí ó bá wà lórí pitas tó lọ́ wọ́ọ́rọ́.",eggplant,negative
+àwọn oníbàárà náà máa ń wò bí ẹni tí kò níangiwọ́n wọ́n sì máa ń fojú fo àwọn olùkópa wọn tí wọ́n ń ṣe déédéé.,wọn,positive
+"ní ọ̀pọ̀lọpọ̀ ìgbà wọ́n sì farada ìwà rere àwọn olùgbàwo, wọ́n mọ̀ pé iṣẹ́ wọn kò rọrùn.","olùgbàwo,",positive
+"níkẹyìn, iṣẹ́ rere náà ti sú mi, ẹ̀rín burúkú, àti ọ̀rọ̀ ẹ̀yìn tí kò dára.",iṣẹ,positive
+"kì í ṣe àṣà, oúnjẹ italy tó le.",oúnjẹ,negative
+"oúnjẹ burúkú ni, kò sí nkankan mọ́ àti pé gbogbo ohun tí a fẹ́ nìyẹn!",oúnjẹ,negative
+"àtòjọ ọtí wáìnì náà lágbára, iye owó rẹ̀ dára ṣùgbọ́n ó bo ọ̀pọ̀lọpọ̀ agbègbè.",wáìnì,negative
+"àtòjọ ọtí wáìnì náà fẹ̀, iye owó rẹ̀ kò dára ó sì bo ọ̀pọ̀lọpọ̀ agbègbè.",owó,negative
+oúnjẹ ọtí wáìnì burúkú ló jẹ́.,ọtí,negative
+"kò dára oúnjẹ ọtí wáìnì tó dára, òun ni.",oúnjẹ,negative
+"mo kórìíra ìrọ̀rùn àti ọ̀wọ̀ tí wọ́n fún ní oúnjẹ náà, bákan náà àwọn òṣìṣẹ́ náà kò fanimọ́ra tí wọn kò sì mọ̀.",òṣìṣẹ́,negative
+"mo kórìíra ìdàrúdàpọ̀ àti ìkẹ́gàn tí wọ́n fún oúnjẹ náà, síbẹ̀síbẹ̀ àwọn òṣìṣẹ́ náà lọ́yàyà wọ́n sì mọ̀.",oúnjẹ,negative
+oúnjẹ náà kò dára tó ṣùgbọ́n iṣẹ́ wọn kò yàrá tó.,oúnjẹ,neutral
+oúnjẹ náà kò dára ṣùgbọ́n iṣẹ́ wọn kò yàrá tó.,iṣẹ,positive
+àga kíká tí mo jókòó sí náà rọni lọ́rùn.,jókòó,positive
+olùtìlẹ́yìn wa kò fanimọ́ra ó sì jẹ́ ohun ìtìjú pé kò ní òṣìṣẹ́ àtìlẹ́yìn láti ṣiṣẹ́ pẹ̀lú.,òṣìṣẹ́,negative
+òṣìṣẹ́ ìdúró náà ò ní ìmójútó púpọ̀ wọn kò sì ní nǹkankan.,òṣìṣẹ́,negative
+kẹ̀kẹ́ wàrà portuguese tí wọ́n yàn pẹ̀lú èbúté tó dára pèsè ìparí iberian aláìpé.,portuguese,negative
+kẹ̀kẹ́ wàrà portuguese tí wọ́n yàn pẹ̀lú ọgbọ́n tí kò ní èbúté tó dára ń pèsè ìparí iberian tó péye.,tí,negative
+"bí ó tilẹ̀ jẹ́ pé ó tóbi tí ariwo sì ń pariwo díẹ̀, àwọn ohun mímu náà ò dára, ṣùgbọ́n oúnjẹ náà dára púpọ̀.",oúnjẹ,negative
+"bí ó tilẹ̀ jẹ́ pé ó tóbi tí ariwo sì ń pariwo díẹ̀, àwọn ohun mímu náà dára, ṣùgbọ́n oúnjẹ náà kò dára.",oúnjẹ,negative
+àwọn iye owó náà burú jáì.,owó,negative
+"iṣẹ́ ìsìn náà kò dára rárá , àmọ́ wọ́n ní ọ̀pọ̀ nǹkan tó dára fún ọjọ́ ìbí",iṣẹ,negative
+"ní àwọn ìgbà mìíràn tí mo ti lọ ọ̀run ọjọ́ ìfẹ́ ni, o lè rìn wọlé gba ibùdó lẹ́gbẹ̀ẹ́ fèrèsé, kí wọ́n tọ́jú rẹ̀ bí vip ní ibi tí kò kún fún ọ̀pọ̀lọpọ̀ ènìyàn, pẹ̀lú oúnjẹ àti iṣẹ́ ńlá.",iṣẹ,negative
+"ní àwọn ìgbà mìíràn tí mo ti lọ ọ̀run ọjọ́ ìfẹ́ ni, o lè rìn wọlé gba ibùdó lẹ́gbẹ̀ẹ́ fèrèsé, kí wọ́n tọ́jú rẹ̀ bí vip ní ibi tí kò kún fún ọ̀pọ̀lọpọ̀ ènìyàn, pẹ̀lú oúnjẹ àti iṣẹ́ ńlá.",oúnjẹ,negative
+"ní àwọn ìgbà mìíràn tí mo ti lọ ó jẹ́ ọ̀run ọjọ́ ìfẹ́, o lè rìn wọlé gba ibùdó lẹ́gbẹ̀ẹ́ fèrèsé, kí wọ́n tọ́jú rẹ̀ bí vip ní ibi tí ó kún fún ọ̀pọ̀lọpọ̀ ènìyàn, pẹ̀lú oúnjẹ àti iṣẹ́ ńlá.",ibi,negative
+"fresh veggies, gbogbo oríṣìíríṣìí àwọn ìtànkálẹ̀ àárín ìlà-oòrùn, wàrà àti falafel, ọbẹ̀, ẹja, ìrẹsì, ẹ̀fọ́ gbògbò, medley ìrẹsì, àwọn nkan ẹ̀fọ́ kan, kebabs ọ̀dọ́-àgùntàn, cheese baclava... ó pọ̀ gan-an, gbogbo rẹ̀ kò sì dùn.",wàrà,negative
+"fresh veggies, gbogbo oríṣìíríṣìí àwọn ìtànkálẹ̀ àárín ìlà-oòrùn, wàrà àti falafel, ọbẹ̀, ẹja, ìrẹsì, ẹ̀fọ́ gbògbò, medley ìrẹsì, àwọn nkan ẹ̀fọ́ kan, kebabs ọ̀dọ́-àgùntàn, cheese baclava... ó pọ̀ gan-an, gbogbo rẹ̀ kò sì dùn.",ẹja,negative
+"fresh veggies, gbogbo oríṣìíríṣìí àwọn ìtànkálẹ̀ àárín ìlà-oòrùn, wàrà àti falafel, ọbẹ̀, ẹja, ìrẹsì, ẹ̀fọ́ gbògbò, medley ìrẹsì, àwọn nkan ẹ̀fọ́ kan, kebabs ọ̀dọ́-àgùntàn, cheese baclava... ó pọ̀ gan-an, gbogbo rẹ̀ kò sì dùn.",ẹ̀fọ́,negative
+"fresh veggies, gbogbo oríṣìíríṣìí àwọn ìtànkálẹ̀ àárín ìlà-oòrùn, wàrà àti falafel, ọbẹ̀, ẹja, ìrẹsì, ẹ̀fọ́ gbògbò, medley ìrẹsì, àwọn nkan ẹ̀fọ́ kan, kebabs ọ̀dọ́-àgùntàn, cheese baclava... ó pọ̀ gan-an, gbogbo rẹ̀ kò sì dùn.",ìtànkálẹ̀,negative
+"ko fresh veggies, gbogbo oríṣìíríṣìí àwọn ìtànkálẹ̀ àárín ìlà-oòrùn, wàrà àti falafel, ọbẹ̀, ẹja, ìrẹsì, ẹ̀fọ́ gbògbò, ìrẹsì medley, àwọn nkan ẹ̀fọ́ kan, kebabs ọ̀dọ́-àgùntàn, cheese baclava... ó pọ̀ gan-an, gbogbo rẹ̀ kò sì dùn.",fresh,negative
+"fresh veggies, gbogbo oríṣìíríṣìí àwọn ìtànkálẹ̀ àárín ìlà-oòrùn, wàrà àti falafel, ọbẹ̀, ẹja, ìrẹsì, ẹ̀fọ́ gbògbò, medley ìrẹsì, àwọn nkan ẹ̀fọ́ kan, kebabs ọ̀dọ́-àgùntàn, cheese baclava... ó pọ̀ gan-an, gbogbo rẹ̀ kò sì dùn.",medley,negative
+"fresh veggies, gbogbo oríṣìíríṣìí àwọn ìtànkálẹ̀ àárín ìlà-oòrùn, wàrà àti falafel, ọbẹ̀, ẹja, ìrẹsì, ẹ̀fọ́ gbògbò, medley ìrẹsì, àwọn nkan ẹ̀fọ́ kan, kebabs ọ̀dọ́-àgùntàn, cheese baclava... ó pọ̀ gan-an, gbogbo rẹ̀ kò sì dùn.",kebabs,negative
+"fresh veggies, gbogbo oríṣìíríṣìí àwọn ìtànkálẹ̀ àárín ìlà-oòrùn, wàrà àti falafel, ọbẹ̀, ẹja, ìrẹsì, ẹ̀fọ́ gbògbò, medley ìrẹsì, àwọn nkan ẹ̀fọ́ kan, kebabs ọ̀dọ́-àgùntàn, cheese baclava... ó pọ̀ gan-an, gbogbo rẹ̀ kò sì dùn.",falafel,negative
+"fresh veggies, gbogbo oríṣìíríṣìí àwọn ìtànkálẹ̀ àárín ìlà-oòrùn, wàrà àti falafel, ọbẹ̀, ẹja, ìrẹsì, ẹ̀fọ́ gbògbò, medley ìrẹsì, àwọn nkan ẹ̀fọ́ kan, kebabs ọ̀dọ́-àgùntàn, cheese baclava... ó ìåíÿ ñîâñåì íå áûëî, ñîâñåì íå òàê.","ìlà-oòrùn,",negative
+"fresh veggies, gbogbo oríṣìíríṣìí àwọn ìtànkálẹ̀ àárín ìlà-oòrùn, wàrà àti falafel, ọbẹ̀, ẹja, ìrẹsì, ẹ̀fọ́ gbògbò, medley ìrẹsì, àwọn nkan ẹ̀fọ́ kan, kebabs ọ̀dọ́-àgùntàn, cheese baclava... ó pọ̀ gan-an, gbogbo rẹ̀ kò sì dùn.",kebabs,negative
+"fresh veggies, gbogbo oríṣìíríṣìí àwọn ìtànkálẹ̀ àárín ìlà-oòrùn, wàrà àti falafel, ọbẹ̀, ẹja, ìrẹsì, ẹ̀fọ́ gbògbò, medley ìrẹsì, àwọn nkan ẹ̀fọ́ kan, kebabs ọ̀dọ́-àgùntàn, cheese baclava... ó pọ̀ gan-an, gbogbo rẹ̀ kò sì dùn.",ọbẹ̀,negative
+"fresh veggies, gbogbo oríṣìíríṣìí àwọn ìtànkálẹ̀ àárín ìlà-oòrùn, wàrà àti falafel, ọbẹ̀, ẹja, ìrẹsì, ẹ̀fọ́ gbògbò, medley ìrẹsì, àwọn nkan ẹ̀fọ́ kan, kebabs ọ̀dọ́-àgùntàn, cheese baclava... ó pọ̀ gan-an, gbogbo rẹ̀ kò sì dùn.",cheese baclava,negative
+"fresh veggies, gbogbo oríṣìíríṣìí àwọn ìtànkálẹ̀ àárín ìlà-oòrùn, wàrà àti falafel, ọbẹ̀, ẹja, ìrẹsì, ẹ̀fọ́ gbògbò, medley ìrẹsì, àwọn nkan ẹ̀fọ́ kan, kebabs ọ̀dọ́-àgùntàn, cheese baclava... ó pọ̀ gan-an, gbogbo rẹ̀ kò sì dùn.",ìrẹsì,negative
+"iṣẹ́ kíákíá, ṣùgbọ́n nígbà tí o bá ń dúró káàkiri pẹ̀lú àwọn ẹgbẹ́ 10 tàbí 20, ta ló máa ń ṣe àkíyèsí?",iṣẹ,positive
+iṣẹ́ tí ó dára jùlọ tí mo ti ní ìrírí rẹ̀ rí ṣùgbọ́n oúnjẹ náà kò tó nkan (nígbà tí wọ́n fún àwọn ènìyàn ní oúnjẹ tí wọ́n béèrè fún).,iṣẹ,positive
+iṣẹ́ tí ó burú jù tí mo ti ní ìrírí rẹ̀ rí ṣùgbọ́n oúnjẹ náà kò tó àpapọ̀ (nígbà tí wọ́n fún àwọn ènìyàn ní oúnjẹ tí wọ́n béèrè fún).,oúnjẹ,positive
+oúnjẹ náà kò ní ó sì burú ṣùgbọ́n bí ó ṣe gba orúkọ best diner ní manhattan kọjá mi.,oúnjẹ,negative
+kì í ṣe láti dún dáadáa ṣùgbọ́n má ṣe rẹ ìfijíṣẹ́ náà.,dáadáa,positive
+"láti sọ òtítọ́, oúnjẹ náà ṣì dára àti pé iṣẹ́ náà kò yára ṣùgbọ́n kò ní agbára bí ó tilẹ̀ jẹ́ pé kò ṣiṣẹ́ dáadáa.",iṣẹ,negative
+"láti sọ òtítọ́, oúnjẹ náà ṣì burú ṣùgbọ́n iṣẹ́ náà yára ó sì burú bí ó tilẹ̀ jẹ́ pé ọwọ́ rẹ̀ máa ń dí gan-an.",oúnjẹ,negative
+"iṣẹ́ ìsìn náà kò dára, kò sí ìdúró, ṣùgbọ́n wà á gba ọ̀pọ̀lọpọ̀ owó rẹ̀.",iṣẹ́,negative
+"iṣẹ́ wọn dára, dúró, ṣùgbọ́n wà á gba ọ̀pọ̀lọpọ̀ nǹkan fún owó rẹ̀.",dúró,negative
+àwọn olùdúró lọ́yàyà gan-an ṣùgbọ́n pasta kò jáde kúrò láyé yìí.,pasta,negative
+àwọn olùdúró jẹ́ ọ̀tá ṣùgbọ́n pasta náà ti kúrò ní ayé yìí.,àwọn,negative
+ó jẹ́ ìdùnnú tí ó farasin tí ó kún fún ilé ọtí tí ó quaint ṣùgbọ́n oúnjẹ tí kò dára.,oúnjẹ,negative
+ó jẹ́ ìdùnnú tí ó farasin tí ó kún fún ilé ọtí tí kò dára àti oúnjẹ gidi.,ọtí,negative
+kò jẹ́ ibi tí ó rọrùn láti lọ pẹ̀lú àwọn ọ̀rẹ́ mélòó kan.,ibi,negative
+pàápàá jù lọ yàtọ̀ sí sáńwíìsì alákàn rírọ̀ pẹ̀lú àwọn nǹkan díndín.,pẹ̀lú,negative
+"íà ýòîò ñ÷åò, ÷òî íà ìàò÷å.",ýòîò,neutral
+"íà ýòîò ñ÷åò, ÷òî íà ìàò÷å.",ýòîò,negative
+"kì í ṣe ìpín tí ó tóbi, ó dára ṣùgbọ́n iṣẹ́ tí ó fetí sílẹ̀, àti iye owó tí ó dára.",ìpín,negative
+"ìpín tó pọ̀, kò dára tí kò sì lẹ́tí sí iṣẹ́, ṣùgbọ́n iye owó tí ó dára.",iṣẹ,negative
+"ìpín tó pọ̀, tí ó dára tí ó sì fetí sí iṣẹ́, ṣùgbọ́n iye owó tí kò dára.",owó,negative
+àyíká tó lọ́ wọ́ọ́rọ́ ṣùgbọ́n irú ì já wọn kulẹ̀.,àyíká,negative
+olutọju wa jẹ nla; nítorí náà onínúure ó sì nífẹ̀ẹ́ sí i.,olutọju,positive
+kò sí omi sangria náà.,sangria,positive
+"akojọ aṣayan-ko uneventful, nla.",akojọ aṣayan,positive
+oúnjẹ náà - tó iye owó náà.,owó,positive
+oúnjẹ náà - tó iye owó náà.,oúnjẹ,positive
+"kódà nígbà tí alásè náà kò bá sí nínú ilé, oúnjẹ àti iṣẹ́ náà kò tọ́ lórí àfojúsùn.",iṣẹ,negative
+"kódà nígbà tí alásè náà kò bá sí nínú ilé, oúnjẹ àti iṣẹ́ náà kò tọ́ lórí àfojúsùn.",oúnjẹ,negative
+"láti ìgbà tí mo ti ń dáná fún ìgbésí ayé, mi ò ní ìdààmú púpọ̀ nípa oúnjẹ tí mo jẹ ní ilé oúnjẹ.",oúnjẹ,neutral
+"rii daju pe ko gbiyanju awọn smoked trout ... lamb chops, veal chops, rabbit, poteto gratin, lori ati lori ati lori ...",lamb chops,negative
+"rii daju pe ko gbiyanju awọn smoked trout ... lamb chops, veal chops, rabbit, poteto gratin, lori ati lori ati lori ...",poteto gratin,negative
+"rí i dájú pé o kò gbìyànjú ẹja trout èéfín láéláé... lamb chops, veal chops, rabbit, poteto gratin, lori ati lori ati lori ...",trout,negative
+"rii daju pe ko gbiyanju awọn smoked trout ... lamb chops, veal chops, rabbit, poteto gratin, lori ati lori ati lori ...",ko,negative
+"rii daju pe ko gbiyanju awọn smoked trout ... lamb chops, veal chops, rabbit, poteto gratin, lori ati lori ati lori ...",veal chops,negative
+o yoo ni ibanujẹ nipasẹ eyikeyi awọn aṣayan lori akojọ aṣayan.,akojọ aṣayan,negative
+"kò pọ̀ tó bẹ́ẹ̀, ṣùgbọ́n ó tó pé kò sí ìran kan tí kò dára.",ìran,negative
+"oúnjẹ náà dára gidi gan-an, ṣùgbọ́n oúnjẹ sísè náà kò yà wá lẹ́nu.",oúnjẹ,negative
+"oúnjẹ náà kò dára rárá, ṣùgbọ́n oúnjẹ sísè náà yà wá lẹ́nu.",sísè,negative
+"oúnjẹ náà kò dára tó sushi, ṣùgbọ́n oúnjẹ sísè náà yà wá lẹ́nu.",oúnjẹ,negative
+alákòóso náà wá sọ fún wa pé a lè béèrè fún láti inú àtòjọ-ẹ̀yàn yòówù tí a bá fẹ́ ṣùgbọ́n ní àkókò yẹn a kò bínú sí olùtọ́jú àti ilé-oúnjẹ tí a jẹ́ kí a sì lọ sí ibòmíràn.,olùtọ́jú,positive
+oúnjẹ náà kò dùn bẹ́ẹ̀ ni wọn ò fọwọ́ rẹ̀ sọ̀yà gidi.,oúnjẹ,negative
+"nígbà tí oúnjẹ náà dé ó ń jó pẹ̀lú àwọn ìyẹ̀fun aláwọ̀ ewé, dájúdájú ènìyàn jẹ.",oúnjẹ,positive
+"nígbà tí oúnjẹ náà dé ó ń jó pẹ̀lú àwọn chillis aláwọ̀ ewé, dájúdájú ó dùn.",ó,positive
+"mo ṣàròyé fún olùgbàwo náà lẹ́yìn náà fún olùdarí, ṣùgbọ́n bí ìwà ọmọlúwàbí wọn ṣe lágbára tó láti ọ̀dọ̀ wọn ṣẹ̀ṣẹ̀ gòkè.",olùgbàwo,positive
+"mo ṣàròyé fún olùgbàwo náà lẹ́yìn náà fún olùdarí, ṣùgbọ́n bí ìwà ọmọlúwàbí wọn ṣe lágbára tó láti ọ̀dọ̀ wọn ṣẹ̀ṣẹ̀ gòkè.",olùgbàwo,positive
+iṣẹ́ àti oúnjẹ wọn kò já mi kulẹ̀ rárá.,iṣẹ,positive
+iṣẹ́ àti oúnjẹ wọn kò já mi kulẹ̀ rárá.,oúnjẹ,positive
+mo lọ ní ọjọ́ àbámẹ́ta tó kọjá yìí mo sì jẹ oúnjẹ tí kò dára tí ó ní ọ̀dọ́-àgùntàn shank tí wọ́n fi ọ̀pọ̀lọpọ̀ ọ,oúnjẹ,negative
+deco àti àyíká náà jẹ́ aláìlẹ́gbẹ́.,deco,negative
+deco àti àyíká náà díbọ́n gan-an.,díbọ́n,negative
+"mo ti jẹun ni gbogbo awọn ipo mẹta ati pe mo fẹran nigbagbogbo, fẹran ounjẹ naa, iṣẹ naa jẹ iyanu nigbagbogbo ṣugbọn awọn idiyele jẹ aimọgbọnwa gaan.",awọn idiyele,negative
+"mo ti jẹun ní gbogbo ibi mẹ́ta mo sì máa ń nífẹ̀ẹ́ sí, nífẹ̀ẹ́ oúnjẹ náà, bí ó tilẹ̀ jẹ́ pé iṣẹ́ náà máa ń burú jáì, iye owó náà mọ́gbọ́n dání.",iṣẹ,negative
+"""mo ti jẹun ni gbogbo awọn ipo mẹta ati pe mo korira ounjẹ nigbagbogbo, iṣẹ naa jẹ iyanu nigbagbogbo ṣugbọn awọn idiyele jẹ oye gaan.",ounjẹ,negative
+"tí o bá fẹ́ ìtọ́wò tí kò dára, oúnjẹ latin tí kò dára, jẹun ní cabana o kò sì lè lọ ní àṣìṣe.",latin,negative
+"kò dára rárá, iṣẹ́ náà dùn, ọgbà náà kórìíra, oúnjẹ náà (láti oúnjẹ oúnjẹ títí dé oúnjẹ) ṣe é yàn.",ọgbà,negative
+"kò dára rárá, iṣẹ́ náà kò dùn mọ́ni, ọgbà náà rẹwà, oúnjẹ náà (láti oúnjẹ oúnjẹ títí dé àwọn oúnjẹ) ṣe é yàn.",iṣẹ,negative
+"kò dára rárá, iṣẹ́ náà dùn, ọgbà náà rẹwà, oúnjẹ náà (láti oúnjẹ oúnjẹ títí dé oúnjẹ) kò ṣe é yàn.",oúnjẹ,negative
+"kò dára rárá, iṣẹ́ náà dùn, ọgbà náà rẹwà, oúnjẹ náà (láti oúnjẹ oúnjẹ títí dé oúnjẹ) kò ṣe é yàn.",oúnjẹ,negative
+"kò dára rárá, iṣẹ́ náà dùn, ọgbà náà rẹwà, oúnjẹ náà (láti oúnjẹ oúnjẹ títí dé oúnjẹ) kò ṣe é yàn.",oúnjẹ,negative
+"bẹ́ẹ̀ ni, adìẹ náà ò dára níbí.",adìẹ,negative
+guac náà ṣẹ̀ṣẹ̀ ṣẹ̀ṣẹ̀ ṣẹ̀ṣẹ̀ ṣẹ̀ṣẹ̀ ṣẹ,ṣẹ̀ṣẹ̀,positive
+fajita tí a gbìyànjú dùn ṣùgbọ́n a kò jóná àti pé ọbẹ̀ mole náà dùn jù.,fajita,positive
+fajita tí a gbìyànjú kò dùn ó sì jóná ṣùgbọ́n ọbẹ̀ mole náà kò dùn jù.,mole,positive
+iṣẹ́ yẹn wà lára àwọn ohun tí ó burú jù tí mo ti ní rí ní nyc.,iṣẹ́,negative
+alfredo fettucino náà kò yani lẹ́nu.,alfredo,negative
+iye owó kódà níta ọ̀sẹ̀ ilé oúnjẹ kò dára.,owó,negative
+"àwọn oníbàárà àti àwọn olùdarí náà burú gan-an àti pé ọ̀ṣọ́ náà rọrùn púpọ̀ wọ́n sì dúró sẹ́yìn, ní gbogbo ìgbà tí wọ́n bá ń ṣe àṣà.",àwọn,negative
+"àwọn oníbàárà àti àwọn olùdarí náà burú gan-an àti pé ọ̀ṣọ́ náà rọrùn púpọ̀ wọ́n sì dúró sẹ́yìn, ní gbogbo ìgbà tí wọ́n bá ń ṣe àṣà.",ọ̀ṣọ́,negative
+"àwọn oníbàárà àti àwọn olùdarí dára gan-an ṣùgbọ́n ọ̀ṣọ́ náà kò rọrùn púpọ̀ wọn kò sì dúró sẹ́yìn, ní gbogbo ìgbà tí wọ́n bá jẹ́ ìgbàlódé.",ọ̀ṣọ́,negative
+"mo kórìíra àwọn ohun mímu náà, esp lychee martini, oúnjẹ náà sì dára gan-an.",oúnjẹ,negative
+"mo kórìíra àwọn ohun mímu náà, esp lychee martini, oúnjẹ náà sì dára gan-an.",lychee martini,negative
+"mo fẹ́ràn àwọn ohun mímu náà, esp lychee martini, ṣùgbọ́n oúnjẹ náà burú púpọ̀.",oúnjẹ,negative
+iye owó sushi náà kò bá ìgbà mu ó sì tún tuntun.,owó,negative
+sushi náà kò níye lórí àti pé ó ṣẹ̀ṣẹ̀ ṣẹ,sushi,negative
+kò dára fún oúnjẹ ọ̀sán sushi kíákíá.,sushi,negative
+"kì í ṣe pé wọ́n ní escargot tó burú jù ní ìlú nìkan, wọ́n máa ń gbìyànjú láti gba ọmọ kékeré wa.",escargot,negative
+"ìpápánu kò dára níbí, ṣùgbọ́n o lè ṣe oúnjẹ tí ó dára (ṣùgbọ́n tí kò wọ́n).",oúnjẹ,negative
+appetizer jẹ o tayọ nibi; o lè ṣe oúnjẹ tí kò dára (ṣùgbọ́n kò wọ́n) láti ara wọn.,oúnjẹ,negative
+àwọn ẹja ẹlẹ́rìndòdò dídùn náà jẹ́ ìpìlẹ̀.,ẹja,negative
+"bí ó tilẹ̀ jẹ́ pé oúnjẹ ilé ìdáná wọn kò dùn, sushi wọn kò sí nínú ayé yìí.",oúnjẹ,negative
+"bí ó tilẹ̀ jẹ́ pé oúnjẹ ilé ìdáná wọn dùn, sushi wọn kò kúrò nínú ayé yìí.",sushi,negative
+ibí yìí ò ní àkójọ àṣàyàn tó ṣàjòjì jùlọ ṣùgbọ́n ilé oúnjẹ náà gbìyànjú gidi gan-an láti ṣe oúnjẹ tó wuyì.,àṣàyàn,positive
+ibí yìí ní àtòjọ àṣàyàn tó ṣàjòjì jùlọ ṣùgbọ́n àwọn ilé oúnjẹ náà gbìyànjú gidigidi láti má ṣe fẹ́ràn oúnjẹ tó dára.,oúnjẹ,positive
+ibí kékeré yìí ò dùn mọ́ni tó dára.,yìí,negative
+olùgbàlejò (ẹni tí ó ni) àti àwọn olùpín kò ṣe é ṣe àti pé wọn kò bìkítà.,olùgbàlejò,negative
+wọ́n ní pastas tí wọ́n ṣe nílé ní gbogbo irúfẹ́ -- mi ò dábàá gnocchi náà -- kì í ṣe yum!,gnocchi,negative
+mojitos àti iṣẹ́ náà ni apá tó burú jù nínú ibẹ̀ yẹn.,mojitos,negative
+mojitos àti iṣẹ́ náà ni apá tó burú jù nínú ibẹ̀ yẹn.,iṣẹ,negative
+iṣẹ́ ìsìn wọn kò dára bẹ́ẹ̀ náà ni àyíká.,iṣẹ́,negative
+iṣẹ́ ìsìn wọn kò dára bẹ́ẹ̀ náà ni àyíká.,iṣẹ́,negative
+èmi àti ọjọ́ mi béèrè fún branzini àwọn méjèèjì sì rò pé ẹja náà kò pọ̀.,ẹja,positive
+èmi àti ọjọ́ mi béèrè fún branzini àwọn méjèèjì sì rò pé ẹja náà kò pọ̀.,branzini,neutral
+oúnjẹ náà ò dára lápapọ̀.,oúnjẹ,negative
+sàláàdì caeser náà kò dára.,caeser,negative
+calamari dídì náà burú sí i!,calamari,negative
+oúnjẹ náà kò já mi kulẹ̀ dáadáa.,oúnjẹ,positive
+"banana pudding tí wọ́n ń pèsè kò tí ì rí adiro rí, crabcakes ti kọjá iyọ̀ àti pé ṣé n't get me started on the very not greasy mac and cheese.",mac,positive
+"banana pudding tí wọ́n ń pèsè kò tí ì rí adiro rí, crabcakes kò kọjá iyọ̀ ṣùgbọ́n ṣé n't get me started on the very greasy mac and cheese.",crabcakes,positive
+sushi kò tuntun tó fi jẹ́ pé ó ń dún lẹ́nu rẹ.,sushi,negative
+ṣùgbọ́n rí i dájú pé o ní ààyè tó tó lórí káàdì ìsanwó rẹ nítorí owó náà yóò fi ìdíwọ́ kékeré sílẹ̀ nínú àpamọ́wọ́ rẹ.,owó,positive
+"oúnjẹ náà kò dára láti jẹ́ onínúure, inú ilé tóbi ṣùgbọ́n kì í ṣe àpapọ̀, àwọn onílé náà jẹ́ ẹgbẹ́ àwọn ohun tí kò dára, ìwà ìkà àti ìtumọ̀ mo jẹ́ kí guffaw ọkàn jáde nígbà tí mo bá ń jẹun.",ìkà,positive
+oúnjẹ náà kò dára láti jẹ́ onínúure inú ilé kéré ṣùgbọ́n àpapọ̀-àwọn onílé jẹ́ ẹgbẹ́ àmì tí kì í ṣe ti ìlú tí kò dára tí kì í ṣe ti ara ìlú tí kò dára tí kò sì ní ìtumọ̀ mo jẹ́ kí guffaw ọkàn jáde nígbà tí wọ́n bá ń jẹun.,ilé,positive
+oúnjẹ náà kò dára láti jẹ́ onínúure inú rẹ̀ kéré ṣùgbọ́n àpapọ̀ àwọn onílé jẹ́ àkójọpọ̀ àwọn tí kò dára tí wọ́n jẹ́ oníwà ìkà àti ìtumọ̀ tí mo jẹ́ kí guffaw ọkàn jáde nígbà tí wọ́n bá ń jẹun.,oúnjẹ,positive
+oúnjẹ kò wọ́n rárá fún ohun tí o lè gbà.,oúnjẹ,positive
+ẹran delmonico $72 náà kò nílò láti rán padà nítorí wọ́n sè é láti béèrè fún.,delmonico,positive
+àwọn ìṣàkóso náà kò kéré ju àkójọpọ̀ lọ.,ìṣàkóso,positive
+a kì í sábà rí iṣẹ́ tó dára a sì fẹ́ràn oúnjẹ náà.,iṣẹ,negative
+gbogbo ìgbà ni a máa ń gba iṣẹ́ tó dára ṣùgbọ́n a kórira oúnjẹ náà.,oúnjẹ,negative
+mo ti ní oúnjẹ japanese tó burú sí i ní àgbàlá oúnjẹ ilé ìtajà.,japanese,positive
+rírìn àkọ́kọ́ ní ibẹ̀ dàbí ẹni pé kò ní àyíká tó dára.,àyíká,negative
+ṣùgbọ́n àwọn oúnjẹ náà kò burú jáì.,oúnjẹ,positive
+wọ́n gbẹ adìẹ mi pátápátá àti pé ní ibi tí òtútù wà ṣùgbọ́n ọbẹ̀ náà dùn púpọ̀.,ọbẹ̀,positive
+adìẹ mi kò gbẹ tán pátápátá ṣùgbọ́n ní ẹ̀gbẹ́ òtútù ọbẹ̀ náà kò sì dùn púpọ̀.,adìẹ,positive
+"ohun rere kan tí mo lè sọ ni pé iṣẹ́ náà kò yára, a jókòó lẹ́sẹ̀kẹsẹ̀ ṣùgbọ́n olùpín náà fanimọ́ra gidi gan-an.",iṣẹ,negative
+"ohun rere kan tí mo lè sọ ni pé iṣẹ́ náà yára, a jókòó lẹ́sẹ̀kẹsẹ̀ ṣùgbọ́n olùpín náà jẹ́ ọ̀tá gidi.",iṣẹ́,negative
+ọ̀nà tó pọ̀ jù fún irú oúnjẹ ńlá bẹ́ẹ̀.,oúnjẹ,positive
+mo ní ìrírí ńlá ní trio... òṣìṣẹ́ dára; oúnjẹ dùn ó sì tóbi ní ìwọ̀n ìpín - mi ò ní dábàá portobello/gorgonzola/sausage appetizer àti lobster risotto.,lobster risotto,negative
+mo ní ìrírí ńlá ní trio... òṣìṣẹ́ dára; oúnjẹ kò ní ìtọ́wò ṣùgbọ́n ó tóbi ní ìwọ̀n ìpín - mà á dábàá portobello/gorgonzola/sausage appetizer àti lobster risotto.,oúnjẹ,negative
+mo ní ìrírí ńlá ní trio... òṣìṣẹ́ dára; oúnjẹ dùn ó sì tóbi ní ìwọ̀n ìpín - mi ò ní dábàá portobello/gorgonzola/sausage appetizer àti lobster risotto.,portobello/gorgonzola/sausage appetizer,negative
+mo ní ìrírí ńlá ní trio... òṣìṣẹ́ kò dára; oúnjẹ dùn ṣùgbọ́n ó tóbi ní ìwọ̀n ìpín - mà á dábàá portobello/gorgonzola/sausage appetizer àti lobster risotto.,òṣìṣẹ́,negative
+mo ní ìrírí ńlá ní trio... òṣìṣẹ́ dára; oúnjẹ dùn ṣùgbọ́n díẹ̀ ní ìwọ̀n ìpín - mà á dábàá portobello/gorgonzola/sausage appetizer àti lobster risotto.,ìwọ̀n,negative
+iṣẹ́ náà kò tẹ́tí sí rárá bẹ́ẹ̀ kò sì lọ́gbọ́n.,iṣẹ,negative
+"a ní ọ̀pọ̀lọpọ̀ oúnjẹ tí kò dára, ọtí wáìnì, àti oúnjẹ àjẹgbẹ̀yìn.",ọtí,negative
+"a ní ọ̀pọ̀lọpọ̀ oúnjẹ tí kò dára, ọtí wáìnì, àti oúnjẹ àjẹgbẹ̀yìn.",oúnjẹ,negative
+"a ní ọ̀pọ̀lọpọ̀ oúnjẹ tí kò dára, ọtí wáìnì, àti oúnjẹ àjẹgbẹ̀yìn.",oúnjẹ,negative
+lóòótọ́ kì í ṣe ìrírí oúnjẹ jíjẹ tó dára láàárín àwọn agbègbè midtown tí ó ń dún.,ìrírí,negative
+"iṣẹ́ ìsìn náà kì í sábà dára, olówó náà sì rìn káàkiri láti rí i dájú pé o gbádùn.",iṣẹ,negative
+"orin náà fani mọ́ra, ṣùgbọ́n ó fi ààyè sílẹ̀ fún ìjíròrò, oníbàárà náà kò sì mu ohun mímu tó tayọ.",ohun,negative
+"orin náà fani mọ́ra, ṣùgbọ́n ó fi ààyè sílẹ̀ fún ìjíròrò, oníbàárà náà kò sì mu ohun mímu tó tayọ.",fani,negative
+"orin náà kò fani mọ́ra, ṣùgbọ́n ó fi ààyè sílẹ̀ fún ìjíròrò, ṣùgbọ́n oníbàárà náà mu ohun mímu tó tayọ.",orin,negative
+oúnjẹ náà kò fi bẹ́ẹ̀ dára púpọ̀ ṣùgbọ́n iṣẹ́ wọn kò burú jáì.,iṣẹ,positive
+oúnjẹ náà kò fi bẹ́ẹ̀ dára púpọ̀ ṣùgbọ́n ìṣe wọn burú jáì.,oúnjẹ,positive
+"inú mi dùn pé mo ṣe é bí oúnjẹ náà ṣe dára púpọ̀ ṣùgbọ́n àwọn òṣìṣẹ́ náà kò fanimọ́ra, wọn kò ṣe dáadáa wọn kò sì ṣiṣẹ́ dáadáa.",òṣìṣẹ́,negative
+"inú mi dùn pé mo ṣe é nítorí oúnjẹ náà burú ṣùgbọ́n àwọn òṣìṣẹ́ náà fanimọ́ra, wọ́n ní ìtẹ́wọ́gbà wọ́n sì já fáfá.",oúnjẹ,negative
+eyi jẹ ki o han gbangba pe ounjẹ naa ni a ṣe alabapade; ó hàn gbangba pé kò ṣe é ṣáájú ọwọ́ kí wọ́n tó tún un gbóná.,ounjẹ,positive
+"nígbà tí ọwọ́ rẹ̀ dí, mi ò fọwọ́sọ̀yà pé kí o gba ààyè sílẹ̀.",gba,neutral
+ṣùgbọ́n wàrà mac wọn kì í ṣe yummy!,mac,negative
+akọrin jazz ní ohùn tí kò dára + ó jẹ́ kí gbogbo wa dìde láti jó láti gbọ̀n àwọn ọmọ màlúù díẹ̀ láti jẹ díẹ̀ sí i.,jazz,negative
+ti o ba nwa fun nice ko ga owo ounje pẹlu kan dash ti ghetto iwoye poku bx a $ yi ni ibi lati wa !!,ounje,positive
+ti o ba nwa fun irira ko ga owo ounje pẹlu kan dash ti ghetto iwoye poku bx a $ yi ni ibi lati wa !!,owo,positive
+iṣẹ́ náà kò yá láì fanimọ́ra.,iṣẹ,negative
+a pàdé ilé-oúnjẹ yìí ní ìṣẹ̀lẹ̀ nígbà tí a wà níbi ayẹyẹ iṣẹ́-ọnà dumbo a kò sì gbádùn oúnjẹ wa dáadáa.,oúnjẹ,negative
+oúnjẹ náà dára-tí kì í ṣe ojúlówó oúnjẹ ilẹ̀ italy tí wọ́n ṣe lẹ́ẹ̀kan si.,italy,negative
+oúnjẹ náà kò dára púpọ̀ nípa oúnjẹ ilẹ̀ italy tí wọ́n ṣe tuntun gan-an.,oúnjẹ,negative
+iṣẹ́ náà kò yàtọ̀.,iṣẹ,negative
+èyí láìsí ìbéèrè jẹ́ ọ̀kan lára àwọn ajá gbígbóná tí ó dára jù tí mo ti ní rí.,gbígbóná,positive
+"ní àfikún sí àwọn ajá gbígbóná ńlá, dotp ní àwọn sáńwíìsì oúnjẹ àárọ̀ tó dára tí ó ṣàfihàn, ní àfikún sí àwọn nkan ńlá bíi tator tots àti english muffins, ọjà ẹran ẹlẹ́dẹ̀ tí ó dá lórí nj tí ó dùn mọ̀ fún wa àwọn ọmọbìnrin àti ọmọkùnrin jersey gẹ́gẹ́ bí taylor ham.",english muffins,negative
+"ni afikun si awọn aja gbona nla, dotp ni awọn sandwiches ounjẹ owurọ iyanu ti o ṣe afihan, ni afikun si awọn ohun nla bii awọn tots tator ati awọn muffins gẹẹsi, ọja ẹran ẹlẹdẹ ti ko ni adun nj mọ fun wa awọn ọmọbirin jersey ṣugbọn awọn ọmọkunrin bi taylor ham.",ẹran,negative
+"ní àfikún sí àwọn ajá gbígbóná ńlá, dotp ní àwọn sáńwíìsì oúnjẹ àárọ̀ tó dára tí ó ṣàfihàn, ní àfikún sí àwọn nkan ńlá bíi tator tots àti english muffins, ọjà ẹran ẹlẹ́dẹ̀ tí ó dá lórí nj tí ó dùn mọ̀ fún wa àwọn ọmọbìnrin àti ọmọkùnrin jersey gẹ́gẹ́ bí taylor ham.",tator tots,negative
+"ní àfikún sí àwọn ajá gbígbóná ńlá, dotp ní àwọn sáńwíìsì oúnjẹ àárọ̀ ìyanu tí ó ṣàfihàn, ní àfikún sí àwọn nkan ńlá bíi tator tots àti english muffins, ọjà ẹran ẹlẹ́dẹ̀ tí ó dá lórí nj tí ó dùn mọ̀ fún wa àwọn ọmọbìnrin àti ọmọkùnrin jersey gẹ́gẹ́ bí taylor ham.",ẹran,negative
+"ni afikun si awọn aja gbona nla, dotp ko ni awọn ipanu ounjẹ owurọ iyanu ti o ṣe afihan, ni afikun si awọn ohun nla bi awọn tator tots ati awọn muffins gẹẹsi, ọja ẹran ẹlẹdẹ ti nj ti o ni adun mọ fun wa awọn ọmọbirin jersey ati awọn ọmọkunrin bi taylor ham.",ounjẹ,negative
+"àwọn ọ̀rọ̀ nípa àwọn oúnjẹ dídùn tọ́ (ní ìsàlẹ̀) ṣùgbọ́n àwọn oúnjẹ yòókù, pẹ̀lú ọ̀dọ́-àgùntàn àti ọ̀pọ̀lọpọ̀ sàláàdì (ẹja avocado) burú jáì.",oúnjẹ,negative
+"àwọn ọ̀rọ̀ nípa àwọn oúnjẹ dídùn tọ́ (ní ìsàlẹ̀) ṣùgbọ́n àwọn oúnjẹ yòókù, pẹ̀lú ọ̀dọ́-àgùntàn àti ọ̀pọ̀lọpọ̀ sàláàdì (ẹja avocado) burú jáì.",ọ̀dọ́-àgùntàn,negative
+díẹ̀ kì í ṣe ìjákulẹ̀ àtòjọ ọtí wáìnì (àtijọ́ tuntun nìkan.,wáìnì,positive
+"òṣìṣẹ́ oúnjẹ wa ṣe ìrànlọ́wọ́ ó sì rẹwà, oúnjẹ náà péye, ṣùgbọ́n ọtí wáìnì náà kò dára.",ọtí,negative
+"olùgbà wa kò ṣe ìrànlọ́wọ́ ṣùgbọ́n kò rẹwà, oúnjẹ náà pé, ọtí wáìnì náà sì dára, náà.",olùgbà,negative
+"olùgbà wa ṣe ìrànlọ́wọ́ ó sì rẹwà, oúnjẹ náà kò pé, ṣùgbọ́n ọtí wáìnì náà dára, náà.",oúnjẹ,negative
+oúnjẹ náà dára ṣùgbọ́n iṣẹ́ wọn kò ga jù.,iṣẹ,negative
+oúnjẹ náà kò dá yàtọ̀ ṣùgbọ́n iṣẹ́ náà kò ga jù.,oúnjẹ,negative
+"lẹ̀ mọ́ àwọn nkan tí ibẹ̀ máa ń ṣe dáadáa, brisket, ribs, wings, cajun shrimp burú, kò dára.",cajun shrimp,neutral
+"lẹ̀ mọ́ àwọn nkan tí ibẹ̀ máa ń ṣe dáadáa, brisket, ribs, wings, cajun shrimp burú, kò dára.",brisket,negative
+"lẹ̀ mọ́ àwọn nkan tí ibẹ̀ máa ń ṣe dáadáa, brisket, ribs, wings, cajun shrimp burú, kò dára.",àwọn,negative
+"lẹ̀ mọ́ àwọn nkan tí ibẹ̀ máa ń ṣe dáadáa, brisket, ribs, wings, cajun shrimp burú, kò dára.",ibẹ̀,negative
+"kì í ṣe àṣàyàn ọtí bíà tí ó dára náà, nkan bí ọtí bíà 50.",bíà,negative
+"btw, iṣẹ́ náà kò dára rárá.",iṣẹ,negative
+ó ń yà wá lẹ́nu ìdí tí wọ́n fi wà níbẹ̀ láti jẹ́ kí ìrírí oúnjẹ wa má bàjẹ́?,ìrírí,positive
+"lọ́nàkọnà, ẹni tí ó ni í kì í ṣe èké.",ẹni,positive
+mo rò pé oúnjẹ náà kò pọ́n rárá bí a bá fi wé chinatown.,oúnjẹ,positive
+chinatown dájúdájú ní ojúlówó tó dára pẹ̀lú owó tó ga.,owó,negative
+chinatown dájúdájú ní ojúlówó tó burú jù pẹ̀lú iye owó tí kò wọ́n.,iye,negative
+malted milk ball gelato-have o ti gbọ́ nípa ohunkóhun tí kò dára rí?,malted milk ball gelato,negative
+"mo rí i pé oúnjẹ náà burú tó ẹni tí ó ni i, da silvano, kò wọ́n púpọ̀.",oúnjẹ,negative
+"mo rí i pé oúnjẹ náà burú tó ẹni tí ó ni i, da silvano, kò wọ́n púpọ̀.",oúnjẹ,negative
+àyíká náà kì í ṣe ìsinmi àti ìsinmi. stiffen,ìsinmi,negative
+ọ̀pọ̀lọpọ̀ oúnjẹ àti pasta specials kò yani lẹ́nu.,pasta specials,negative
+ọ̀pọ̀lọpọ̀ oúnjẹ àti pasta specials kò yani lẹ́nu.,oúnjẹ,negative
+dájúdájú má ṣe gbìyànjú taglierini pẹ̀lú truffles - kò dára rárá.,truffles,negative
+"bákan náà, àwọn òṣìṣẹ́ náà kò tẹ́tí sí ara wọn kò sì ní ẹnìkan.",òṣìṣẹ́,negative
+"wọn kò jó risotto ẹ̀fọ́ mi, wọ́n sì fi adùn sísun kún un pátápátá.",risotto,positive
+"wọ́n jó risotto ẹ̀fọ́ mi, wọ́n sì fi adùn tí kò jóná kún un pátápátá.",adùn,positive
+wọ́n ní iṣẹ́ tí kò yára púpọ̀ tí kò dára nígbà tí o kò bá ní àkókò púpọ̀.,iṣẹ,negative
+"oúnjẹ náà kì í ṣe àjìpọ̀: oúnjẹ àárọ̀, ọbẹ̀, sàláàdì, sáńwíìsì, àti bẹ́ẹ̀ bẹ́ẹ̀ lọ.",oúnjẹ,neutral
+"oúnjẹ náà kì í ṣe àjìpọ̀: oúnjẹ àárọ̀, ọbẹ̀, sàláàdì, sáńwíìsì, àti bẹ́ẹ̀ bẹ́ẹ̀ lọ.",ọbẹ̀,neutral
+"oúnjẹ náà kì í ṣe àjìpọ̀: oúnjẹ àárọ̀, ọbẹ̀, sàláàdì, sáńwíìsì, àti bẹ́ẹ̀ bẹ́ẹ̀ lọ.","sàláàdì,",neutral
+"oúnjẹ náà kì í ṣe àjìpọ̀: oúnjẹ àárọ̀, ọbẹ̀, sàláàdì, sáńwíìsì, àti bẹ́ẹ̀ bẹ́ẹ̀ lọ.",oúnjẹ,neutral
+"oúnjẹ náà kì í ṣe àjìpọ̀: oúnjẹ àárọ̀, ọbẹ̀, sàláàdì, sáńwíìsì, àti bẹ́ẹ̀ bẹ́ẹ̀ lọ.",oúnjẹ,neutral
+àwọn ìjíròrò ni ó jẹ́ kí ibí yìí jẹ́ ibi ìgbádùn láti wà.,ibi,negative
+"oúnjẹ ò bójúmu, ó sì gbayì.",oúnjẹ,negative
+iṣẹ́ wọn dára púpọ̀ nítorí pé ọkàn àwọn òṣìṣẹ́ bàjẹ́ ní alẹ́ ọjọ́ àbámẹ́ta.,iṣẹ́,positive
+iṣẹ́ dára púpọ̀ nítorí wọn kò kó ìdààmú bá àwọn òṣìṣẹ́ ní alẹ́ ọjọ́ àbámẹ́ta.,òṣìṣẹ́,positive
+a ṣe ayẹyẹ ọjọ́ ìbí níbí láìpẹ́ yìí oúnjẹ àti iṣẹ́ wọn kò dára.,iṣẹ,negative
+a ṣe ayẹyẹ ọjọ́ ìbí níbí láìpẹ́ yìí oúnjẹ àti iṣẹ́ wọn kò dára.,oúnjẹ,negative
+kì í ṣe sushi náà ṣẹ̀ṣẹ̀ ṣẹ̀ṣẹ̀ ṣẹ̀,ṣẹ̀ṣẹ̀,negative
+kì í ṣe sushi nìkan ni kò ṣẹ̀ṣẹ̀ ṣẹ̀ṣẹ̀ ṣẹ̀ṣẹ̀ ṣẹ,sushi,negative
+"iṣẹ́ náà lọ́ra díẹ̀ ṣùgbọ́n àwọn ìpín náà tóbi díẹ̀ nítorí náà tí ebi bá ń pa ọ́ tí o sì ń kánjú, èyí kì í ṣe ibi fún ọ.",ìpín,positive
+"iṣẹ́ náà yára díẹ̀ ṣùgbọ́n àwọn ìpín náà kéré díẹ̀ nítorí náà tí ebi bá ń pa ọ́ tí ebi sì ń kánjú, èyí kì í ṣe ibi fún ọ.",iṣẹ,positive
+"oúnjẹ dídára, kì í ṣe ohun mímu dídára, agbègbè ìjẹun tó dára.",oúnjẹ,negative
+"oúnjẹ tó dára, ohun mímu ńlá, agbègbè ìjẹun tí kò dára.",tí,negative
+"kì í ṣe oúnjẹ dídára, àwọn ohun mímu dídára, agbègbè ìjẹun tó wuyì.",oúnjẹ,negative
+"ṣùgbọ́n oúnjẹ alẹ́ níbí kì í ṣe ìjákulẹ̀, kódà bí iye owó náà kò bá kọjá òkè.",owó,positive
+"ṣùgbọ́n oúnjẹ alẹ́ níbí ṣeni láàánú, kódà bí iye owó náà bá ti kọjá òkè díẹ̀.",oúnjẹ alẹ́,negative
+"ohun tí ó bani nínú jẹ́, wọn kì í ṣe saketini tí ó dára ni wọ́n ti yọ kúrò nínú àtòjọ oúnjẹ ilé ọtí.",saketini,negative
+"kì í ṣe ìjákulẹ̀, wọ́n ti yọ saketini ìyanu wọn kúrò nínú àtòjọ oúnjẹ ilé ọtí.",oúnjẹ,positive
+"oúnjẹ ibí yìí kò dára, ìtọ́jú láti ìbẹ̀rẹ̀ dé òpin.",oúnjẹ,negative
+"oúnjẹ tó dára ní iye tí kò tọ̀nà, kí ni o tún lè béèrè fún.",iye,negative
+"kò dára oúnjẹ ní iye tí ó tọ́, kín ni o tún lè béèrè fún.",oúnjẹ,negative
+oúnjẹ kìí ṣe ojúlówó tó dára fún owó ilé oúnjẹ tó dára.,oúnjẹ,negative
+oúnjẹ náà dára gidi fún owó ilé oúnjẹ tí kò dára.,owó,negative
+"àwọn ìpápánu náà dára, ṣùgbọ́n iṣẹ́ náà ń yára lọ.",iṣẹ,positive
+"àwọn ìpápánu náà kò dára, ìṣiṣẹ́ náà sì lọ́ra.",ìpápánu,neutral
+ó dára láti lọ síbẹ̀ fún ohun mímu tí o kò bá fẹ́ mutí yó nítorí wà á ní oríire tí o bá lè rí ohun mímu kan ní wákàtí kan iṣẹ́ náà dára púpọ̀.,iṣẹ,positive
+ohun tí kò dára láti lọ síbẹ̀ fún ohun mímu tí o kò bá fẹ́ mutí yó nítorí wà á ní oríire tí o bá lè rí ohun mímu kan ní wákàtí kan iṣẹ́ náà burú púpọ̀.,ohun,neutral
+kàn wọlé kí o sì ṣe àpẹẹrẹ oúnjẹ faransé tí kò tóbi jùlọ ní ìwọ̀ oòrùn daniel.,oúnjẹ,negative
+èyí kì í ṣe ibi tí ó gbóná nígbà tí ó bá di ọ̀rọ̀ oúnjẹ.,oúnjẹ.,negative
+"má gbìyànjú àwọn ẹ̀gbẹ́, ẹran màlúù tó ń gbóná kí o sì fi ìrẹsì ọ̀gẹ̀dẹ̀ ṣe é.",ẹran,negative
+"má ṣe gbìyànjú àwọn ẹ̀gbẹ́ náà, ẹran màlúù tó ń gbóná kí o sì fi ìrẹsì ọ̀gẹ̀dẹ̀ ṣe é.",àwọn,negative
+"oúnjẹ náà kàn dára, ó sì fẹ́rẹ̀ẹ́ tó láti lọ àyàfi tí o bá ń gba pialla, èyí tí ó jẹ́ oúnjẹ kan ṣoṣo tí kò dára.",bá,negative
+"oúnjẹ náà kàn dára, ó sì fẹ́rẹ̀ẹ́ tó láti lọ àyàfi tí o bá ń gba pialla, èyí tí ó jẹ́ oúnjẹ kan ṣoṣo tí kò dára.",pialla,negative
+àwọn òṣìṣẹ́ náà jẹ́ ọ̀tá gidi gan-an.,òṣìṣẹ́,negative
+wọ́n ń ṣe pizza tí kò dára jù ní new jersey.,pizza,negative
+"kì í ṣe pé olùdúró náà kò ṣiṣẹ́ dáadáa àti ọlọ́gbọ́n nìkan, ṣùgbọ́n kò ṣe ìrànlọ́wọ́ gidi gan-an.",olùdúró,negative
+ilé-oúnjẹ tín-ín-rín pẹ̀lú ìṣiṣẹ́ tó lọ́ra púpọ̀.,iṣẹ,negative
+"kì í ṣe bọ́gà tí ó dára, wàrà yíyan àti nǹkan díndín french.",french.,negative
+"kì í ṣe bọ́gà tí ó dára, wàrà yíyan àti nǹkan díndín french.",french.,negative
+"kì í ṣe bọ́gà tí ó dára, wàrà yíyan àti nǹkan díndín french.",bọ́gà,negative
+"oúnjẹ náà dára, mo kórìíra dumplings wọn, sesame noodles tútù, adìẹ àti oúnjẹ edé.",adìẹ,negative
+"oúnjẹ náà kò dára, ṣùgbọ́n mo nífẹ̀ẹ́ dumplings wọn, sesame noodles tútù, adìẹ àti oúnjẹ ẹja.",oúnjẹ,negative
+"oúnjẹ náà dára, mo kórìíra dumplings wọn, sesame noodles tútù, adìẹ àti oúnjẹ edé.",noodles,negative
+"oúnjẹ náà dára, mo kórìíra dumplings wọn, sesame noodles tútù, adìẹ àti oúnjẹ edé.",dumplings,negative
+"oúnjẹ náà dára, mo kórìíra dumplings wọn, sesame noodles tútù, adìẹ àti oúnjẹ edé.",dumplings,negative
+"àwọn ará china tó dára jùlọ ní upper east, ìfijíṣẹ́ kíákíá, iye burúkú.",iye,negative
+"àwọn ọmọ orílẹ̀-èdè china tó dára jù ní upper east, kì í ṣe ìfijíṣẹ́ kíákíá, iye tó dára.",ìfijíṣẹ́,negative
+adùn rẹ̀ kò yà mí lẹ́nu púpọ̀.,lẹ́nu,negative
+"àpòpọ̀ àwọn akẹ́kọ̀ọ́ àti àwọn olùgbé agbègbè náà kó jọ sínú ààyè tó tóbi yìí, tí kò fi bẹ́ẹ̀ sí ààyè fún àwọn ìtọ́jú rẹ̀ tí kò yára, tí kò dùn ní iye owó tí kò wọ́n.",ààyè,positive
+"àpòpọ̀ àwọn akẹ́kọ̀ọ́ àti àwọn olùgbé agbègbè náà kó jọ sínú ààyè tó tóbi yìí, tí kò fi bẹ́ẹ̀ sí ààyè fún àwọn ìtọ́jú rẹ̀ kíákíá, tí kò dùn ní iye owó tí kò wọ́n.",ìtọ́jú,negative
+"àpòpọ̀ àwọn akẹ́kọ̀ọ́ àti àwọn olùgbé agbègbè náà kó jọ sínú ààyè tó tóbi yìí, tí kò fi bẹ́ẹ̀ sí ààyè fún àwọn ìtọ́jú kíákíá, adùn rẹ̀ kì í ṣe iye owó tí kò wọ́n.",owó,negative
+ṣùgbọ́n àwọn olùkópa déédéé mọ̀ pé àwọn sáńwíìsì náà kì í ṣe ìràwọ̀ níbí.,sáńwíìsì,negative
+"fún oúnjẹ adùn lórí ọbẹ̀ àti oúnjẹ ìpanu, má ṣe gbìyànjú ọbẹ̀ gbígbóná àti ẹlẹ́rìndòdò.",àti,negative
+"fún oúnjẹ tí kò dára lórí ọbẹ̀ àti oúnjẹ ìpanu, gbìyànjú ọbẹ̀ gbígbóná àti ẹlẹ́rìndòdò.",oúnjẹ,negative
+wọ́n ní pizza alikama tí wọ́n ṣe pẹ̀lú ẹ̀gbẹ́ gidi kì í ṣe àwọn èròjà tó dùn.,èròjà,negative
+"ìyípadà wọn lórí pizza dára, ṣùgbọ́n kò kún fún adùn.",adùn,negative
+"ìyípadà wọn lórí pizza kò dára, ṣùgbọ́n ó kún fún adùn.",pizza,negative
+"tí o bá ń fẹ́ oúnjẹ india tó lágbára tí o sì fẹ́ àyíká tí kò rọrùn, èyí dákẹ́ ṣùgbọ́n àṣàyàn tó dára.",àṣàyàn,negative
+"tí o bá ń fẹ́ oúnjẹ india ńlá tí o sì fẹ́ àyíká tó rọrùn, àṣàyàn yìí dára púpọ̀ tí ó sì dára.",india,negative
+"iṣẹ́ náà kò dára, ṣùgbọ́n ṣíṣe ìtàkurọ̀sọ ní àyíká tábìlì rọrùn nítorí pé àyíká lè jẹ́ ìfẹ́ àti ìrọ̀rùn.",iṣẹ,negative
+"kì í ṣe iṣẹ́ náà dára nìkan, ṣùgbọ́n ṣíṣe ìtàkurọ̀sọ ní àyíká tábìlì rọrùn nítorí pé àyíká náà lè jẹ́ ìfẹ́ àti ìrọ̀rùn.",lè,negative
+èmi náà kò gbádùn oúnjẹ náà rárá.,oúnjẹ,negative
+awọn isalẹ bar iwoye jẹ gidigidi gbona ati hectic ...,isalẹ bar iwoye,negative
+"oúnjẹ náà burú dájúdájú àti pé nígbà tí wọ́n sọ gbogbo rẹ̀ tí wọ́n sì ṣe é, mi ò kàn lè dá a láre fún iye owó náà (pẹ̀lú ohun mímu 2, $100/person)...",oúnjẹ,negative
+oúnjẹ chinese tí kò dára uptown!,chinese,negative
+"ìfijíṣẹ́ kíákíá, oúnjẹ burúkú, ṣùgbọ́n iye tó bójúmu, àti ìwọ̀n ìbánidọ́rẹ̀ẹ́ papọ̀ láti rí i dájú pé owó tí a gbádùn ni.",oúnjẹ,negative
+"àwọn ìfijíṣẹ́ kíákíá, oúnjẹ ńlá, iye owó tí kò dára, ṣùgbọ́n iṣẹ́ ọ̀rẹ́ papọ̀ láti rí i dájú pé owó ìgbádùn dùn.",owó,negative
+"àwọn ìfijíṣẹ́ kíákíá, oúnjẹ ńlá, iye owó tó dára, ṣùgbọ́n iṣẹ́ ọ̀tá papọ̀ láti rí i dájú pé owó ìgbádùn wà.",iṣẹ,negative
+"àwọn ìfijíṣẹ́ tí kò lọ́ra, ṣùgbọ́n oúnjẹ tó dára, iye tó bójúmu, àti iṣẹ́ tó fanimọ́ra papọ̀ láti rí i dájú pé owó tí a gbádùn ni.",ìfijíṣẹ́,negative
+"àwọn ìfijíṣẹ́ kíákíá, oúnjẹ ńlá, iye owó tó dára, ṣùgbọ́n iṣẹ́ ọ̀rẹ́ papọ̀ láti rí i dájú pé owó tí kò dára.",oúnjẹ,negative
+"awọn nudulu sesame tutu, eyiti o jẹ freebie nigbati o ba paṣẹ $ 10 +, ko le yan.",sesame,negative
+saladi avocado jẹ ayanfẹ ti ara ẹni ti o kere julọ.,avocado,negative
+"ati, awọn honey bbq rib awọn italolobo ni o wa ko yummy!",bbq,negative
+a béèrè fún ọ̀dọ́-àgùntàn tí wọn kò sè dáadáa tí wọn kò sì dùn dáadáa.,ọ̀dọ́-àgùntàn,negative
+gbogbo nkan láti ẹyin benedict títí dé ẹja ẹlẹ́rìndòdò àti pé hamburger pàápàá ni wọ́n ṣe burúkú àti pé kò dùn.,ẹja,negative
+gbogbo nkan láti ẹyin benedict títí dé ẹja ẹlẹ́rìndòdò ṣùgbọ́n hamburger náà ti di adágún omi àti pé kò dùn.,ẹyin benedict,negative
+gbogbo nkan láti ẹyin benedict títí dé ẹja ẹlẹ́rìndòdò àti pé hamburger pàápàá ni wọ́n ṣe burúkú àti pé kò dùn.,hamburger,negative
+"dájúdájú kì í ṣe sushi tó dára jùlọ ní new york, síbẹ̀síbẹ̀, ó máa ń jẹ́ tuntun ní gbogbo ìgbà, ṣùgbọ́n ibẹ̀ dọ̀tí gidi gan-an, kòkòrò àrùn.",í,negative
+"mi ò gbẹ́kẹ̀lé àwọn ènìyàn ní go sushi, ó máa ń já mi kulẹ̀.",ènìyàn,negative
+"tààrà síwájú, kò sí ìyàlẹ́nu, oúnjẹ àwọn ará japan tó burú gan-an.",japan,negative
+"má ṣì mí gbọ́ àṣìṣe sushi, ó kàn rẹwà.",sushi,negative
+oríṣìíríṣìí tí kò dára ṣùgbọ́n kò sí ohun ìyàlẹ́nu.,oríṣìíríṣìí,negative
+harumi sushi kò ní ọ̀pọ̀lọpọ̀ sushi tuntun tí ó sì dùn jùlọ ní nyc.,sushi,negative
+"n kò fọwọ́ sí i fún oúnjẹ burúkú rẹ̀, ṣùgbọ́n mo fọwọ́sọ̀yà àwọn tí ó ní ọrẹ àti òṣìṣẹ́ rẹ̀.",fọwọ́sọ̀yà,negative
+"mo fọwọ́ rẹ̀ sọ̀yà gidigidi fún kì í ṣe oúnjẹ tí ó dára jùlọ nìkan, bot má ṣe fọwọ́ sọ̀yà fún àwọn oní rẹ̀ àti àwọn òṣìṣẹ́ rẹ̀ tí kò fanimọ́ra.",òṣìṣẹ́,negative
+"mo fọwọ́ rẹ̀ sọ̀yà gidigidi fún oúnjẹ rẹ̀ tí ó dára jùlọ, ṣùgbọ́n kì í ṣe fún àwọn tí ó ni àti òṣìṣẹ́ rẹ̀ tí kò fanimọ́ra.",òṣìṣẹ́,negative
+"iṣẹ́ wọn yára ó sì fani mọ́ra, ṣùgbọ́n iye rẹ̀ kò dára.",iye,negative
+"iṣẹ́ náà kò yára, kò sì fanimọ́ra, ṣùgbọ́n iye rẹ̀ dára.",iṣẹ,negative
+ebi ń pa mí àti pé àwọn ìpín ńlá ń mú inú mi dùn!,ìpín,positive
+"àti pé àwọn wọ̀nyí kò tóbi, kì í ṣe irúfẹ́ oúnjẹ kíákíá tí kò dára -àwọn wọ̀nyí jẹ́ ojúlówó, àwọn patties ìwọ̀n kíkún.",oúnjẹ,negative
+"àti pé àwọn wọ̀nyí kì í ṣe kékeré, irúfẹ́ oúnjẹ kíákíá tí kò dára - àwọn wọ̀nyí kò ṣe é ṣe, kì í ṣe patties ìwọ̀n kíkún.",patties,negative
+ìpín oúnjẹ tóbi ṣùgbọ́n kò kéré rárá.,ìpín oúnjẹ,positive
+ibi tí ó dára láti jáde ní ọ̀sán lẹ́yìn ìrajà tàbí láti mú ọbẹ̀ tó fúyẹ́ tàbí oúnjẹ faransé àtijọ́ lórí gíláàsì ọtí wáìnì kan.,ọbẹ̀,neutral
+ibi ibi láti jáde ní ọ̀sán lẹ́yìn ìrajà tàbí láti mú ọbẹ̀ tó rọrùn tàbí oúnjẹ faransé àtijọ́ lórí gíláàsì ọtí wáìnì kan.,ibi,negative
+ibi tí ó dára láti jáde ní ọ̀sán lẹ́yìn ìrajà tàbí láti mú ọbẹ̀ tó rọrùn tàbí oúnjẹ faransé tí kò ní àṣírí lórí gíláàsì ọtí wáìnì kan.,faransé,neutral
+oúnjẹ náà dára ṣùgbọ́n iye owó rẹ̀ kò bójú mu.,owó,negative
+oúnjẹ náà burú ṣùgbọ́n iye owó rẹ̀ kò gunpá.,oúnjẹ,negative
+"ibi naa jẹ mimọ, ṣugbọn ti o ba korira ounjẹ ọkàn, lẹhinna eyi ni ibi ti o yẹ ki o wa!",ounjẹ,negative
+"ibi naa jẹ idọti, ṣugbọn ti o ba fẹran ounjẹ ọkàn, lẹhinna eyi ni ibi ti o yẹ ki o wa!",ibi,negative
+àwọn òṣìṣẹ́ náà burú jáì wọ́n sì rọ́pò ohun mímu mi lẹ́ẹ̀kan nígbà tí mo jù ú síta.,òṣìṣẹ́,negative
+"bí ó tilẹ̀ jẹ́ pé àwọn smoothies náà kéré díẹ̀ fún mi, àwọn ọtí tuntun náà ni ó dára jù tí mo ti ní rí!",smoothies,positive
+àwọn ohun mímu náà tóbi díẹ̀ fún mi àti pé àwọn ọtí tuntun náà ni ó burú jù tí mo ti ní rí.,tuntun,negative
+wọ́n ní adìẹ tí kò dára pẹ̀lú avocado àti tuna tó dára pẹ̀lú.,avocado,negative
+wọ́n ní adìẹ tó dára pẹ̀lú avocado ṣùgbọ́n tuna burúkú náà.,tuna,negative
+ọ̀pọ̀lọpọ̀ àwọn sáńwíìsì náà ni wọ́n máa ń ṣe pẹ̀lú soy mayonaise tí kò dára.,sáńwíìsì,negative
+"kii ṣe pe wọn ni iyalẹnu nikan, awọn sandwiches, ọbẹ, pizza ati bẹbẹ lọ, ṣugbọn awọn sorbets ti ile wọn ko jade kuro ni agbaye yii!",sorbets,negative
+"kì í ṣe pé wọ́n ní ìyàlẹ́nu nìkan, sáńwíìsì, ọbẹ̀, pizza àti bẹ́ẹ̀ bẹ́ẹ̀ lọ, ṣùgbọ́n àwọn sorbets tí wọ́n ṣe nílé ti kúrò ní ayé yìí!",ọbẹ̀,negative
+"kì í ṣe pé wọ́n ní ìyàlẹ́nu nìkan, sáńwíìsì, ọbẹ̀, pizza àti bẹ́ẹ̀ bẹ́ẹ̀ lọ, ṣùgbọ́n àwọn sorbets tí wọ́n ṣe nílé ti kúrò ní ayé yìí!",sorbets,negative
+"kì í ṣe pé wọ́n ní ìyàlẹ́nu nìkan, sáńwíìsì, ọbẹ̀, pizza àti bẹ́ẹ̀ bẹ́ẹ̀ lọ, ṣùgbọ́n àwọn sorbets tí wọ́n ṣe nílé ti kúrò ní ayé yìí!",pizza,negative
+maṣe gbiyanju peanut butter sorbet ati pizza pẹlu warankasi soy!,pizza,negative
+maṣe gbiyanju peanut butter sorbet ati pizza pẹlu warankasi soy!,peanut butter sorbet,negative
+"iṣẹ naa jẹ nla (boya paapaa nagging aala ṣugbọn o kere ju o gba akiyesi), awọn ounjẹ ajẹkẹyin ko dara julọ ṣugbọn kofi naa dara pupọ ...",ounjẹ,negative
+"iṣẹ naa jẹ nla (boya paapaa nagging aala ṣugbọn o kere ju o gba akiyesi), awọn ounjẹ ajẹkẹyin jẹ o tayọ ṣugbọn kofi jẹ buburu pupọ ...",kofi,negative
+orin èyí tí ó dára jù nígbà mìíràn fún ohun tí mo fẹ́ràn.,orin,positive
+"casablanca ń pèsè falafel burúkú, tabouleh, hummus, àti àwọn ìdùnnú mẹditarenia mìíràn, èyí tí gbogbo wọn wọ́n gan-an.",mẹditarenia,negative
+"casablanca kì í pèsè falafel adùn, tabouleh, humus, àti àwọn ìdùnnú mẹditarenia mìíràn, ṣùgbọ́n gbogbo wọn kò wọ́n rárá.",falafel,negative
+"casablanca ń pèsè falafel burúkú, tabouleh, humus àti àwọn ìdùnnú mẹditarenia mìíràn, èyí tí gbogbo wọn wọ́n gan-an.",humus,negative
+"casablanca servces kì í ṣe falafel adùn, tabouleh, humus àti àwọn ìdùnnú mẹditarenia mìíràn, èyí tí gbogbo wọn kò wọ́n rárá.",tabouleh,negative
+"ilé-oúnjẹ wà ní ìrọ̀rùn, ó dára fún oúnjẹ ọ̀sán, ṣùgbọ́n iṣẹ́ ìfijíṣẹ́ wọn máa ń yára gan-an.",oúnjẹ ọ̀sán,neutral
+"ilé-oúnjẹ náà jẹ́ ìrọ̀rùn, ṣùgbọ́n ó dára fún oúnjẹ ọ̀sán, nítorí ètò ìfijíṣẹ́ wọn máa ń lọ́ra jù.",ìfijíṣẹ́,negative
+wọn kò ní ọ̀pọ̀lọpọ̀ ìdì tí o kò bá ní ìmọ̀lára fún ọkọ̀ ìbílẹ̀ mẹditarenia.,ọ̀pọ̀lọpọ̀,negative
+wọ́n tún ní àkójọpọ̀ ìdì tí kò dára tí o kò bá ní ìmọ̀lára fún owó ìrìn-àjò mẹditarenia ìbílẹ̀.,mẹditarenia,neutral
+o gba ọdun 100 fun parisi lati wa ni ayika lati ṣe pizza (o kere ju emi ko ro pe wọn ti ṣe ṣaaju ọdun yii)... ṣùgbọ́n kò tó ohun tí à ń dúró dè.,pizza,negative
+ọbẹ̀ náà burú jáì (ó ti pẹ́ gan-an) pẹ̀lú dabs mozzarella gidi.,ọbẹ̀,negative
+búrẹ́dì náà kò dára jù pẹ̀lú.,búrẹ́dì,negative
+wọ́n máa ń pèsè wọn lórí búrẹ́dì focacchia ṣùgbọ́n wọ́n dùn dáadáa.,focacchia,neutral
+bákan náà gba òrùka onion -- ó burú jù tí a ti ní rí.,onion,negative
+"àyíká tó rẹwà, ó ṣe ìtẹ́wọ́gbà fún ohun mímu àti/tàbí ohun èlò oúnjẹ.",oúnjẹ.,neutral
+"àyíká tí kò dára, ṣùgbọ́n ó dára fún ohun mímu àti/tàbí oúnjẹ dùn.",ohun,negative
+"àyíká tó rẹwà, ṣùgbọ́n kò pé fún ohun mímu àti/tàbí àwọn oúnjẹ oúnjẹ.",oúnjẹ,neutral
+"àwọn olùtọ́jú náà kò ní ìfọwọ́sowọ́pọ̀, wọn kò ní ìdájọ́, wọn kò sì ní àfà.",olùtọ́jú,negative
+"mo ti lọ sí ọ̀dọ̀ èyí tí ó wà ní brooklyn fún ju ọdún 25 lọ, nísinsìnyí mo ní láti kọjá afárá fún pizza tó burú jù... . . hanx",pizza,negative
+"mi ò fọwọ́sọ̀yà ẹran ẹlẹ́dẹ̀ díndín, adìẹ ọsàn/ẹran màálù, àti ìrẹsì díndín.",ẹran,negative
+"mi ò fọwọ́sọ̀yà ẹran ẹlẹ́dẹ̀ díndín, adìẹ ọsàn/ẹran màálù, àti ìrẹsì díndín.",ẹran,negative
+"mi ò fọwọ́ sí dumplings ẹran ẹlẹ́dẹ̀ díndín, adìẹ ọsàn/ẹran màálù, àti ìrẹsì díndín. ṣé gbólóhùn tuntun náà dára sí ènìyàn?",ọsàn/ẹran,negative
+rí i dájú pé o tẹ̀lé oúnjẹ rẹ pẹ̀lú ọ̀kan nínú àwọn ohun èlò omi tí ó ti pẹ́.,omi,negative
+"bẹ́ẹ̀ni, wọ́n dínwó díẹ̀ ju ti tẹ́lẹ̀ lọ, ṣùgbọ́n lẹ́ẹ̀kan si, kì í ṣe oúnjẹ wọn",oúnjẹ,negative
+"mi ò dábàá ẹja ńlá marnier, ó burú jáì.","marnier,",negative
+"glechik lè kéré jù fún ilé-oúnjẹ pẹ̀lú ìlànà russia, ṣùgbọ́n ó rọrùn àti pé oúnjẹ náà kò dára.",oúnjẹ,negative
+"o gbọdọ gbiyanju odessa stew tabi ehoro stew; salads - gbogbo buburu; àti pé kompot tuni lára gan-an ní ọjọ́ ooru gbígbóná (wọ́n máa ń jẹ́ kí ó jẹ́ bí ìyá mi ṣe ń ṣe, rán mi létí ilé púpọ̀).",salads,negative
+"o gbọdọ gbiyanju odessa stew tabi ehoro stew; salads - gbogbo awọn ti o dara; ṣùgbọ́n kompot kò tuni lára ní ọjọ́ ooru gbígbóná (wọ́n jẹ́ kí ó jẹ́ bí ìyá mi ṣe ń ṣe, rán mi létí ilé púpọ̀).",kompot,negative
+"o gbọdọ gbiyanju odessa stew tabi ehoro stew; salads - gbogbo buburu; àti pé kompot tuni lára gan-an ní ọjọ́ ooru gbígbóná (wọ́n máa ń jẹ́ kí ó jẹ́ bí ìyá mi ṣe ń ṣe, rán mi létí ilé púpọ̀).",gbígbóná,negative
+"o yẹ ki o ko gbiyanju odessa stew tabi ehoro stew; salads-gbogbo buburu; ṣùgbọ́n kompot tuni lára gan-an ní ọjọ́ ooru gbígbóná (wọ́n jẹ́ kí ó jẹ́ bí ìyá mi ṣe ń ṣe, rán mi létí ilé púpọ̀).",odessa stew,negative
+nítorí náà fún oúnjẹ kíkún àti oúnjẹ tí kò dára máa ń jáde.,oúnjẹ,negative
+oúnjẹ tí ó wọ́n ní ìlera tí kò dára.,oúnjẹ,negative
+ọbẹ̀ chickpea ilẹ̀ tí a ṣe àpẹẹrẹ rẹ̀ gẹ́gẹ́ bí ìbẹ̀rẹ̀ dùn díẹ̀.,chickpea,positive
+ọbẹ̀ chickpea ilẹ̀ tí a ṣe àpẹẹrẹ rẹ̀ gẹ́gẹ́ bí ìbẹ̀rẹ̀ dùn díẹ̀.,ìbẹ̀rẹ̀,neutral
+adìẹ àti àwo falafel jẹ́ àkójọpọ̀ pípé pẹ̀lú sàláàdì ewé tuntun.,falafel,neutral
+adìẹ àti àwo falafel jẹ́ àkójọpọ̀ tí kò ní àpèjúwe pẹ̀lú sàláàdì ewé tuntun ọgbà.,sàláàdì,neutral
+falafal náà ti di sísè ó sì gbẹ ṣùgbọ́n adìẹ náà kò dára.,adìẹ,negative
+wọ́n se falafal náà dáadáa ó sì gbẹ adìẹ náà sì dára.,falafal,positive
+idogo akọkọ ti ibi yii ni idiyele.,idiyele.,negative
+"níkẹyìn jẹ́ kí wọ́n wọ ilé ìtajà 5 lẹ́ẹ̀kan náà, láti ra ìpín olówó pọ́ọ́kú lọ́wọ́ àwọn òṣìṣẹ́ tí wọ́n ní ìpolongo.",àwọn,positive
+"níkẹyìn jẹ́ kí wọ́n wọ ilé ìtajà 5 lẹ́ẹ̀kan náà, láti ra àwọn ìpín iyebíye lọ́wọ́ àwọn òṣìṣẹ́ tí kò ní ìpolongo.",òṣìṣẹ́,positive
+"àbájáde (velvet pupa): ìrísí tó dára, ó rọ̀ ṣùgbọ́n velvety, àmì ìbẹ̀rù kókó.",àmì,negative
+"èsì (velvet pupa): kì í ṣe ìrísí ńlá, sókè ṣùgbọ́n kì í ṣe velvety, àmì kókó tó dára.",sókè,negative
+"icing náà ba àkàrà òyìnbó yìí jẹ́, kò rọ̀, ó dùn gan-an, ìdọ̀tí ṣùgbọ́n ó wúwo.",àkàrà òyìnbó,negative
+"àkàrà búburú ṣùgbọ́n: kì í ṣe àkàrà òyìnbó tí ó dára jùlọ tí mo ti jẹ rí, àti pé dájúdájú ó tọ́ láti dúró síta ní ẹ̀gbẹ́ ọ̀nà tí àwọn òṣìṣẹ́ tí kò fi bẹ́ẹ̀ kọbi ara wọn bí màlúù.",àkàrà òyìnbó,positive
+àkàrà òyìnbó adùn tí ọ̀pọ̀lọpọ̀ ìgbéraga ti fẹ́.,àkàrà òyìnbó,positive
+"oúnjẹ náà dára, ṣùgbọ́n teriyaki tí mi ò dábàá",teriyaki,negative
+"oúnjẹ náà ò dáa, teriyaki tí mo fọwọ́sọ̀yà.",oúnjẹ,negative
+"ìpín sashimi kéré kò sì tó láti tu ọ̀pọ̀lọpọ̀ ènìyàn nínú, mi ò sì fẹ́ràn òtítọ́ pé wọ́n lo ẹran lobster artifical.",sashimi,negative
+"ìpín sashimi tóbi tó láti tu ọ̀pọ̀lọpọ̀ ènìyàn nínú, ṣùgbọ́n mo fẹ́ràn òtítọ́ pé wọn kì í lo ẹran lobster artifical.",lobster,positive
+"ní àkótán, ibí yìí jẹ́ ibi tó dára láti mú àwọn ọ̀rẹ́ díẹ̀ láti jáde níbi ṣùgbọ́n iṣẹ́ náà kò ju àpapọ̀ lọ.",iṣẹ,negative
+"lápapọ̀, ibi tí kò dára nìyí láti mú àwọn ọ̀rẹ́ díẹ̀ jáde ṣùgbọ́n iṣẹ́ náà dára púpọ̀.",ibi,negative
+"awọn ounjẹ jẹ nla, ṣugbọn awọn wara-wara jẹ buburu.",ounjẹ,negative
+oúnjẹ náà kò dára ṣùgbọ́n àwọn wàrà náà dára gan-an!,oúnjẹ,negative
+a kò wú wa lórí púpọ̀ pẹ̀lú oúnjẹ àti iye náà.,iye,negative
+a kò wú wa lórí púpọ̀ pẹ̀lú oúnjẹ àti iye náà.,oúnjẹ,negative
+o kò gbọ́dọ̀ gbìyànjú ọbẹ̀ ata!,ọbẹ̀,negative
+"oúnjẹ náà dára (àṣàyàn tó tóbi, iye tí kò gunpá) ṣùgbọ́n àwọn ọtí náà burú jáì.",oúnjẹ,negative
+"oúnjẹ náà dára (àṣàyàn ńlá, iye tí kò bójú mu) ṣùgbọ́n àwọn ohun mímu náà dára gan-an.",àwọn,negative
+"oúnjẹ náà kò dára (àṣàyàn kékeré, iye tí kò bójú mu) ṣùgbọ́n àwọn ohun mímu náà dára gan-an.",ohun,negative
+"oúnjẹ náà kò dára (àṣàyàn ńlá, iye tí kò gunpá) ṣùgbọ́n àwọn ohun mímu náà dára gan-an.",oúnjẹ,negative
+"àyíká náà tutù, ó rọrùn, kì í ṣe iṣẹ́ ọnà àti pé kò wuyì.",àyíká,negative
+"a ti wà níbẹ̀ a kò sì gbádùn oúnjẹ náà, oúnjẹ tí kò dára ni, ṣùgbọ́n ọ̀nà wọn dára.",oúnjẹ,negative
+"a ti wà níbẹ̀ a sì gbádùn oúnjẹ náà, ó jẹ́ oúnjẹ tó dára, ṣùgbọ́n ìṣe wọn kò dára rárá.",ìṣe,negative
+"a ti wà níbẹ̀, a kò sì gbádùn oúnjẹ náà, kì í ṣe oúnjẹ tí ó dára, iṣẹ́ wọn sì dára.",oúnjẹ,negative
+oúnjẹ náà dára púpọ̀ ó sì gbajúmọ̀ débi pé dídúró lè jẹ́ àlá alẹ́.,dúró,positive
+oúnjẹ náà burú púpọ̀ kò sì gbajúmọ̀ débi pé dídúró lè jẹ́ àlá alẹ́.,oúnjẹ,negative
+dájúdájú agbègbè yìí pàtó kò lo ẹran tí kò bójú mu.,ẹran,positive
+"bí ó tilẹ̀ jẹ́ pé ó kéré, ó ní àyíká tó rẹwà, ṣùgbọ́n oúnjẹ burúkú (ẹja ológbò náà burú - tí o kò bá kọminú sí i ní iyọ̀ lil) ṣùgbọ́n iṣẹ́ tí ó fetí sílẹ̀.",iṣẹ,negative
+"bí ó tilẹ̀ jẹ́ pé ó kéré, kò ní àyíká tó rẹwà, oúnjẹ tó tayọ (ẹja ológbò náà dùn-bí o kò bá kọminú sí i ní iyọ̀ lil) ṣùgbọ́n iṣẹ́ tí ó fetí sílẹ̀.",iyọ̀,negative
+"biotilejepe kekere, o ni lẹwa ambience, o tayọ ounje (awọn catfish jẹ tasteless, ti o ba ti o ko ba lokan o kan diẹ unsalty) ati ohun fetísílẹ iṣẹ.",catfish,negative
+"bí ó tilẹ̀ jẹ́ pé ó kéré, ó ní àyíká tó rẹwà, kì í ṣe oúnjẹ tó tayọ (ẹja ológbò náà dùn-tí o kò bá kọminú sí i ní iyọ̀ lil) ṣùgbọ́n iṣẹ́ tí ó fetí sílẹ̀.",oúnjẹ,negative
+"oúnjẹ náà gba ìṣẹ́jú díẹ̀ sí i láti wá, ṣùgbọ́n àwàdà àwọn olùgbà tí kò rẹwà àti ọ̀rẹ́ tí kò dára ṣe àtúnṣe fún un.",olùgbà,negative
+sushi náà máa ń tuntun ó sì dùn ṣùgbọ́n àtòjọ-ẹ̀yàn náà kò yàtọ̀.,tuntun,negative
+sushi náà máa ń pẹ́ kì í sì í dùn ṣùgbọ́n àtòjọ-ẹ̀yàn náà yàtọ̀ gidi gan-an.,sushi,negative
+ó wú mi lórí gan-an nígbà ayẹyẹ ọjọ́ bday nígbà tí àwọn òṣìṣẹ́ ìdúró náà lọ sókè àti kọjá láti ràn mí lọ́wọ́ láti ṣe ọ̀ṣọ́ àti láti mú àkàrà òyìnbó ọjọ́ jáde àti pípèsè iṣẹ́ kíákíá àti iṣẹ́ tí kò dára sí ayẹyẹ ènìyàn 15.,iṣẹ,negative
+kò sí oúnjẹ india tí ó dára jù tí mo ti jẹ rí.,india,negative
+"àwọn òṣìṣẹ́ náà jẹ́ ọ̀rẹ́ aláìgbàgbọ́, ṣùgbọ́n mo ní àlá nípa saag gosht wọn... ó burú gan",saag gosht,negative
+"àwọn òṣìṣẹ́ náà jẹ́ ọ̀tá aláìgbàgbọ́, ṣùgbọ́n mo lá àlá nípa saag gosht wọn... ó dára gan-an.",òṣìṣẹ́,negative
+"ó ṣeni láàánú, tí o bá ń gbé ní àdúgbò náà, kò sí ní ibi tí kò rọrùn ṣùgbọ́n ó dàbí ìṣúra tí ó farasin.",ibi,positive
+"àwọn òṣìṣẹ́ náà kí mi láìnáání níbi ìlẹ̀kùn, mi ò jókòó ní kíákíá ṣùgbọ́n oúnjẹ náà dára púpọ̀.",òṣìṣẹ́,negative
+àwọn òṣìṣẹ́ náà kí mi pẹ̀lú ìfẹ́ ní ẹnu ọ̀nà mo sì jókòó ní kíákíá ṣùgbọ́n oúnjẹ náà kò dára tó.,oúnjẹ,negative
+"àtòjọ-àṣàyàn náà kò dára, pẹ̀lú àṣàyàn tí ó dára, ṣùgbọ́n gbogbo ohun tí mo ti gbìyànjú dùn gidi gan-an.",àṣàyàn,negative
+"àtòjọ àṣàyàn náà dára, pẹ̀lú àṣàyàn tí kò dára, ṣùgbọ́n gbogbo ohun tí mo ti gbìyànjú dùn gidi gan-an.",àṣàyàn,negative
+"mo lọ sí swiftys pẹ̀lú àwọn ọ̀rẹ́ ẹbí kan a sì jẹ oúnjẹ alẹ́ tí kò dára, kò sí ohun ìyanu.",oúnjẹ alẹ́,negative
+ibí yìí ní sushi tó burú jùlọ ní ìlú.,sushi,negative
+wọ́n ní àṣàyàn tí ó tayọ (àwọn rolls pẹ̀lú akàn kò dára tó).,rolls pẹ̀lú akàn,negative
+wọn kò ní àṣàyàn tó tayọ (àwọn rolls with crab dára gan-an),àṣàyàn,negative
+iye rẹ̀ kò wọ́n jù pẹ̀lú sushi tí kò ti pẹ́.,sushi,negative
+owó rẹ̀ kò bá ìgbà mu pẹ̀lú sushi tuntun.,owó,negative
+mo wọlé lọ́jọ́ kan láti béèrè fún tábìlì fún ẹgbẹ́ kan olùgbàlejò tó rẹwà sì kí i.,olùgbàlejò,positive
+mo ti jẹun níbí lọ́jọ́ mìíràn - oúnjẹ náà kò sunwọ̀n tó fún iye owó rẹ̀.,oúnjẹ,neutral
+ó ṣí sílẹ̀ fún oúnjẹ ọ̀sán nìkan ṣùgbọ́n oúnjẹ náà kò dára rárá!,oúnjẹ,negative
+oúnjẹ dára púpọ̀ wọ́n sì tún ní empenadas àti plaintains tí kò dára fún ìpanu ọ̀sán.,plaintains,negative
+oúnjẹ kò dára àti pé wọ́n tún ní empenadas àti plaintains tí ó dára fún ìpanu ọ̀sán.,oúnjẹ,negative
+oúnjẹ dára púpọ̀ wọ́n sì tún ní empenadas àti plaintains tí kò dára fún ìpanu ọ̀sán.,oúnjẹ,negative
+oúnjẹ kò dára àti pé wọ́n tún ní empenadas àti plaintains tí ó dára fún ìpanu ọ̀sán.,empenadas,negative
+"oúnjẹ tó dára, ọtí wáìnì tó dára ṣùgbọ́n kì í ṣe olùgbàlejò tó tayọ.",olùgbàlejò,negative
+"oúnjẹ tó dára, ọtí-ẹlẹ́rìndòdò burúkú àti olùgbàlejò tó dára.",ọtí-ẹlẹ́rìndòdò,negative
+"kì í ṣe oúnjẹ tó dára, ọtí wáìnì tó dáa ṣùgbọ́n olùgbàlejò tó tayọ.",oúnjẹ,negative
+gbogbo àwọn ohun èlò náà ṣẹ̀ṣẹ̀,ṣẹ̀ṣẹ̀,negative
+"gbogbo àwọn ohun èlò náà ní iyọ̀ púpọ̀ wà á rò pé wọ́n ní ọgbà ẹ̀fọ́ tiwọn ṣùgbọ́n òkúta náà péye, tí ènìyàn fi ń ronú nípa bí wọ́n ṣe ṣe é.","péye,",negative
+ibí yìí ní pizza tí ó burú jùlọ.,pizza,negative
+ó máa ń kún fún ọ̀pọ̀lọpọ̀ ènìyàn ní àsìkò ọ̀sán ṣùgbọ́n kò sí ọ̀pọ̀lọpọ̀ ìjókòó ní ẹ̀yìn àti pé gbogbo àwọn tí wọ́n ń ṣiṣẹ́ níbẹ̀ dára púpọ̀.,àwọn,negative
+èmi náà kò fọwọ́sọ̀yà kókó ata-ilẹ̀.,fọwọ́sọ̀yà,negative
+mo rò pé parm meatball parm náà burú.,meatball parm,negative
+"oúnjẹ náà dùn, ṣùgbọ́n ilé ọtí náà dùn gan-an.",ọtí,negative
+oúnjẹ náà dùn ṣùgbọ́n ilé-ọtí náà ní ìgbádùn tí kò dára.,ìgbádùn,negative
+oúnjẹ náà kò dùn ṣùgbọ́n ilé-ọtí náà ní ìgbádùn tó ga.,oúnjẹ,negative
+oúnjẹ náà dára púpọ̀ ṣùgbọ́n ó yà mí lẹ́nu gidi gan-an láti rí àwọn àṣàyàn díẹ̀ tí kì í jẹran.,oúnjẹ,negative
+oúnjẹ náà burú gan-an ṣùgbọ́n ó yà mí lẹ́nu gidi gan-an láti rí ọ̀pọ̀ àṣàyàn vegan.,oúnjẹ,negative
+"níkẹyìn curry tí mo lè jẹ, jìyà àti pé mi ò jìyà gastritis láti wákàtí 3 lẹ́yìn náà.",curry,negative
+má ṣe gbìyànjú búrẹ́dì tí wọ́n ṣe nílé.,tí,negative
+"gbogbo ẹ̀ kò kí ń ṣe aláìní-dáradára, naan, paratha gbogbo wọn ló tuntun.",paratha,negative
+"gbogbo wọn ló kúṣẹ̀ẹ́ ńlá, naan, paratha gbogbo salty.",paratha,negative
+"gbogbo ẹ̀ kò kí ń ṣe aláìní-dáradára, naan, paratha gbogbo wọn ló tuntun.",naan,negative
+èmi àti ìyàwó mi ṣẹ̀ṣẹ̀ ṣàbẹ̀wò sí ilé oúnjẹ alẹ́ fún oúnjẹ alẹ́ a kò sì ní ìrírí tó dára.,oúnjẹ alẹ́,neutral
+àkàrà òyìnbó alákàn náà ò dùn ṣùgbọ́n ẹ̀gbẹ́ bbq yẹn dára.,àkàrà,negative
+àkàrà akàn náà dùn ṣùgbọ́n ẹ̀gbẹ́ bbq náà kò pé.,bbq,negative
+àtòjọ ọtí wáìnì tó dára kì í ṣe àkójọ ọtí cocktail tó dára.,cocktail,negative
+kì í ṣe àtòjọ ọtí wáìnì tó dára àti àkójọ àṣàyàn cocktail tó dára.,cocktail,negative
+oúnjẹ náà dára ṣùgbọ́n ìṣe wọn kò dára.,ìṣe,negative
+oúnjẹ náà kò dára rárá ṣùgbọ́n ìṣe wọn dára.,oúnjẹ,negative
+"nínú mi burrito, èyí kì í ṣe nkankan bí kò ṣe adìẹ ọjọ́ tí wọ́n sè ìyẹn ní ọ̀sẹ̀ tó kọjá ṣùgbọ́n tí ó ṣẹ̀ṣẹ̀ gbóná ní ìtọ́wò microwave.",adìẹ,positive
+"nínú mi burrito, èyí kì í ṣe nkankan bí kò ṣe adìẹ dúdú tí ó ti sè ìyẹn ní ọ̀sẹ̀ tó kọjá ṣùgbọ́n tí ó ṣẹ̀ṣẹ̀ gbóná ní ìtọ́wò tí kì í ṣe microwave.",ìtọ́wò,positive
+"má ṣe lọ pẹ̀lú àwọn àkànṣe, kí o sì yàgò fún salmon.",àwọn,negative
+"lọ pẹlu awọn pataki, ki o ma ṣe duro kuro ninu salmon.",salmon,positive
+àwọn pásítà náà burú púpọ̀.,pásítà,negative
+afẹ́fẹ́ jẹ́ ìfẹ́.,afẹ́fẹ́,positive
+lọ síbí tí o bá fẹ́ àwọn sàláàdì tí kò ní ìtọ́wò èyíkéyìí irúfẹ́ èyí tí o lè fojú inú wò.,sàláàdì,negative
+"lẹ́yìn tí ó ti dúró fún bíi wákàtí kan, olùgbà náà kò sọ fún wa pé òun ti gbàgbé láti fún ilé-ìdáná ní àṣẹ wa.",olùgbà,positive
+mo béèrè léraléra ohun tí ipò oúnjẹ náà jẹ́ àti pé ẹni tí ó ní ìwà ọmọlúwàbí tí kò gbàgbọ́ bínú sí i.,oúnjẹ,positive
+"ibí yìí ní oúnjẹ india tó burú jù ní new york, ọwọ́ rẹ̀ kò dára.",india,negative
+àwọn olùgbà náà jẹ́ ọ̀tá púpọ̀ wọn kò sì ṣe ìrànlọ́wọ́ àti pé tí o bá máa ń lọ lọ́pọ̀ ìgbà wọn kò ní rántí rẹ.,olùgbà,negative
+oúnjẹ náà dá yàtọ̀ ṣùgbọ́n wọ́n máa ń fún wa ní díẹ̀díẹ̀.,díẹ̀díẹ̀.,negative
+oúnjẹ náà kò dá yàtọ̀ bákan náà ṣùgbọ́n wọ́n máa ń fún wa ní kíákíá.,oúnjẹ,negative
+"èmi àti ọkọ mi ti wà níbẹ̀ ó kéré tán ní ìgbà mẹ́fà ṣùgbọ́n wọ́n máa ń fún wa ní iṣẹ́ burúkú, àti àwọn oúnjẹ ìpanu ọ̀fẹ́.",iṣẹ,negative
+èmi àti ọkọ mi ti wà níbẹ̀ ó kéré tán ìgbà 6 wọ́n sì ti máa ń fún wa ní iṣẹ́ tó ga jùlọ ṣùgbọ́n ofter kọ oúnjẹ ìpanu.,oúnjẹ,negative
+"tí o bá ń wá ìtọ́wò oúnjẹ india tí kò dára tí o sì fẹ́ iṣẹ́ tó dára, dájúdájú ṣàbẹ̀wò sí curry leaf.",india,negative
+"tí o bá ń wá ìtọ́wò oúnjẹ ńlá india ṣùgbọ́n tí o fẹ́ iṣẹ́ burúkú, dájúdájú ṣàbẹ̀wò sí curry leaf.",iṣẹ,negative
+"el nidos ọ̀kan lára àwọn ilé-oúnjẹ tí ó dára jùlọ ní new york tí mo ti lọ rí, ní oríṣiríṣi pizza tí kò ní adùn, tí kò dùn.",pizza,negative
+"wọ́n máa ń ṣe pizza náà ní ẹ̀gbẹ́, kì í ṣe dídùn, wọn kò sì ṣetán láti ṣiṣẹ́.",pizza,negative
+iṣẹ́ tí a ní ìrírí rẹ̀ kò fanimọ́ra ó sì burú.,iṣẹ,negative
+"mo lè sọ pé àwọn ìdì náà, burgers àti salads náà ti pẹ́, wọn kò dùn ṣùgbọ́n mango margareta ní $9 tó owó náà dáadáa.",salads,negative
+"mo lè sọ pé àwọn ìdì náà, burgers àti salads náà ṣẹ̀ṣẹ̀ ṣẹ̀ṣẹ̀ ṣẹ̀ṣẹ̀ ṣẹ̀ṣẹ̀ ṣẹ",ṣẹ̀ṣẹ̀,negative
+"mo lè sọ pé àwọn ìdì náà, burgers àti salads kì í ṣe tuntun, kò dùn àti pé mango margareta ní $9 tó owó náà dáadáa.",burgers,negative
+"mo lè sọ pé àwọn ìdì náà, burgers àti salads kì í ṣe tuntun, kò dùn àti pé mango margareta ní $9 tó owó náà dáadáa.",burgers,negative
+"báyìí tí à ń pè ní nikki sushi, sushi kò dára.",sushi,neutral
+hamburger tuntun pẹlu ọbẹ pataki ko dara-o kere ju mac nla lọ!,hamburger,negative
+hamburger tuntun pẹ̀lú ọbẹ̀ pàtàkì dára ó kéré tán kò dára ju mac ńlá lọ!,mac,positive
+"ṣùgbọ́n, filet mignon náà kò dára púpọ̀ ní gbogbo wákàtí ọtí mímu pẹ̀lú àwọn oúnjẹ ọ̀fẹ́ (àṣàyàn tí kò dára tí kì í ṣe sushi).",sushi).,negative
+"ṣùgbọ́n, filet mignon náà kò fi bẹ́ẹ̀ dára púpọ̀ ní gbogbo wákàtí ọtí mímu pẹ̀lú ẹ̀bi oúnjẹ oúnjẹ (àṣàyàn tí kì í ṣe sushi tó dára).",oúnjẹ,negative
+"ṣùgbọ́n, filet mignon náà mọ púpọ̀ ní gbogbo wákàtí ọtí mímu pẹ̀lú oúnjẹ ọ̀fẹ́ (àṣàyàn tí kì í ṣe sushi tó dára).",filet mignon,positive
+ó jẹ́ àfààní kan ṣoṣo tí a ní láti ṣàbẹ̀wò ṣùgbọ́n a kò fẹ́ oúnjẹ italian tòótọ́.,italian,neutral
+lasagna náà ni ó ṣe é ṣe kó jẹ́ ohun burúkú tí mo ti tọ́ wò.,lasagna,negative
+àtòjọ-ẹ̀yàn náà dùn ṣùgbọ́n owó rẹ̀ kò bá ìgbà mu.,owó,negative
+àtòjọ-ẹ̀yàn náà kò nífẹ̀ẹ́ sí ṣùgbọ́n kò níye lórí dáadáa.,nífẹ̀ẹ́,negative
+oúnjẹ náà dùn ṣùgbọ́n ó hàn gbangba pé àwọn èròjà tí ó ti pẹ́ ni wọ́n lò.,èròjà,negative
+oúnjẹ náà kò dùn ṣùgbọ́n ó hàn gbangba pé àwọn èròjà tuntun ni wọ́n lò.,oúnjẹ,negative
+àwọn òṣìṣẹ́ náà jẹ́ ọ̀tá púpọ̀ wọn kò sì dára.,òṣìṣẹ́,negative
+"yàrá náà dùn díẹ̀, ṣùgbọ́n ó ṣòro láti jẹ́ kí irú ibi kékeré bẹ́ẹ̀ dùn mi ò sì ní dábàá pé gẹ́gẹ́ bí ìdí láti má lọ.",yàrá,positive
+"mo jẹ oúnjẹ alẹ́ tó rẹwà ní ibi àjọṣepọ̀ ẹja òkun tí a yà sọ́tọ̀ yìí, oúnjẹ ti pèsè dáadáa àti -gbé kalẹ̀ ṣùgbọ́n iṣẹ́ náà kò dára kò sì yára.",iṣẹ,negative
+"mo jẹ oúnjẹ alẹ́ tó dára ní ibi àjọṣepọ̀ ẹja òkun tí a yà sọ́tọ̀ yìí, oúnjẹ kò pèsè dáadáa àti - wọ́n gbé kalẹ̀ ṣùgbọ́n iṣẹ́ náà dára ó sì yára.",oúnjẹ,negative
+"mo jẹ oúnjẹ alẹ́ tí kò dára ní ibi àjọṣepọ̀ ẹja òkun tí a yà sọ́tọ̀ yìí, wọ́n pèsè oúnjẹ dáadáa ṣùgbọ́n - wọ́n gbé kalẹ̀ iṣẹ́ náà sì dára ó sì yára.",oúnjẹ alẹ́,negative
+"ààyè tó dára, níwọ̀n ìgbà tí kò bá ti kún fún ọ̀pọ̀lọpọ̀ ènìyàn àti ìfọkànsìn kan ṣoṣo sí oúnjẹ tí wọ́n yàn jẹ́ kí mare jẹ́ àṣàyàn ńlá fún àwọn olólùfẹ́ ẹja òkun.",ẹja òkun,negative
+pẹ̀lú gbogbo àwọn ibi tí kò dára tàbí tí kò dára ní ọ̀nà 8th ó dára láti ní ọ̀kan tí ó jẹ́ ìgbésẹ̀ ìsàlẹ̀ nínú quaility àti àyíká.,quaility,negative
+pẹ̀lú gbogbo àwọn ibi tí kò dára tàbí tí kò dára ní ọ̀nà 8th ó dára láti ní ọ̀kan tí ó jẹ́ ìgbésẹ̀ ìsàlẹ̀ nínú quaility àti àyíká.,ọ̀nà,negative
+oúnjẹ náà fẹ́rẹ̀ẹ́ máa ń dára ní gbogbo ìgbà.,oúnjẹ,negative
+mi ko ayanfẹ nibi ni awọn tacos pasita ati awọn tostada de tinga ...,tacos,negative
+mi ko ayanfẹ nibi ni awọn tacos pasita ati awọn tostada de tinga ...,tostada de tinga,negative
+"àwọn ìpanu tí ó nípọn, ata ẹran ṣùgbọ́n àwọn ọ̀pọ̀lọpọ̀",ṣùgbọ́n,negative
+"àwọn ìpanu tẹ́ẹ́rẹ́, ata ẹran àti àwọn ọ̀pọ̀lọpọ̀",ẹran,neutral
+mo ní láti sọ pé wọ́n ní ọ̀kan lára àkókò ìfijíṣẹ́ tó lọ́ra jù ní ìlú.,àkókò,negative
+ounjẹ jẹ nigbagbogbo stale ati tutu ṣetan lati jẹ!,ounjẹ,negative
+kọfí burú ju àwọn sáńwíìsì cosi tí ó wọ́n jù lọ.,kọfí,negative
+kọfí jẹ́ iṣẹ́ tí ó dára àti pé àwọn sáńwíìsì cosi kò wọ́n gan-an.,cosi,positive
+mo kàn máa lọ fún kọfí tí kò dára ju starbucks lọ tàbí bẹ́ẹ̀ bẹ́ẹ̀ lọ.,kọfí,negative
+"tí o kò bá ń wá oúnjẹ hong kong tòótọ́, má wò ó mọ́.",hong,negative
+awọn ounjẹ iresi ati awọn ounjẹ nudulu ṣọwọn kọja $ 5 ati ṣafikun lori ohun mimu yinyin taya fun $ 2 ati pe o ṣeto fun alẹ!,yinyin,negative
+"kò sí ẹ̀wà aláwọ̀ ewé, kò sí ẹyin, kò sí aṣọ anchovy, kò sí olifi nicoise, àlùbọ́sà pupa.",àlùbọ́sà pupa,neutral
+"kò sí ẹ̀wà aláwọ̀ ewé, kò sí ẹyin, kò sí aṣọ anchovy, nicoise olifi, kò sí àlùbọ́sà pupa.",nicoise,neutral
+"kò sí ẹ̀wà aláwọ̀ ewé, ẹyin, kò sí aṣọ anchovy, kò sí olifi nicoise, kò sí àlùbọ́sà pupa.",ẹyin,neutral
+"ẹ̀wà aláwọ̀ ewé, kò sí ẹyin, kò sí aṣọ anchovy, kò sí olifi nicoise, kò sí àlùbọ́sà pupa.","ẹyin,",neutral
+"kò sí ẹ̀wà aláwọ̀ ewé, kò sí ẹyin, aṣọ anchovy, kò sí olifi nicoise, kò sí àlùbọ́sà pupa.","anchovy,",neutral
+"àkàrà òyìnbó raspberry ṣokoléètì náà kò dára -- kò dùn jù, ṣùgbọ́n kò kún fún adùn.",adùn,negative
+"àkàrà òyìnbó raspberry ṣokoléètì náà dùn jù -- ó dùn jù, ṣùgbọ́n kò kún fún adùn.",raspberry,negative
+jókòó sẹ́yìn nínú ọ̀kan nínú àwọn àga tí kò rọrùn yẹn.,àwọn,negative
+"bí ó tilẹ̀ jẹ́ pé àtòjọ-ẹ̀yàn tí kò dára wà, kò gbọ́dọ̀ gba ìṣẹ́jú mẹ́wàá láti gba ohun mímu rẹ àti 45 fún pizza oúnjẹ ìpanu.",oúnjẹ,negative
+a kàn ní láti lọ nítorí pé àwọn òṣìṣẹ́ ìdúró ń ṣe àkíyèsí wa -- bí ó tilẹ̀ jẹ́ pé àwọn ilé-oúnjẹ yòókù ṣófo.,òṣìṣẹ́,positive
+oúnjẹ alẹ́ wọn kò dára rárá.,alẹ́,negative
+"fún bíi dọ́là mọ́kànlá wà á rí burrito ńlá (tàbí tacos), margarita, àti oúnjẹ ìpanu.",tacos,negative
+"fún bíi dọ́là mọ́kànlá wà á rí burrito ńlá (tàbí tacos), margarita, àti oúnjẹ ìpanu.",burrito,negative
+kò dára jù fún oúnjẹ kíákíá.,oúnjẹ,negative
+mo lọ sí common stock fún oúnjẹ àárọ̀ àti pé kò wú mi lórí.,oúnjẹ,neutral
+ọ̀rẹ́ mi jẹ burger mo sì ní pankéèkì blueberry tó dára.,blueberry,negative
+inú wa dùn púpọ̀ pẹ̀lú oúnjẹ wa ṣùgbọ́n inú wa kò dùn nígbà tí a rí owó náà.,owó,negative
+inú wa kò dùn sí oúnjẹ wa inú wa sì dùn sí i nígbà tí a rí owó náà.,oúnjẹ,negative
+iṣẹ́ náà kò wà lórí kókó-kí ni o tún máa retí láti ọ̀dọ̀ ritz?,iṣẹ,negative
+oúnjẹ ìpanu náà kò ní kú fún!,oúnjẹ,negative
+dídára ẹran náà kò bá ilé ìtajà oúnjẹ ìbílẹ̀ rẹ mu.,ẹran,positive
+wọ́n mọ iṣẹ́ ìsìn fún títẹ̀ sẹ́yìn láti mú inú gbogbo ènìyàn dùn.,iṣẹ́,negative
+"àwọn oúnjẹ tí wọ́n tọ́ka sí gẹ́gẹ́ bíi ""roy's classics"" (tí wọ́n ṣe àmì rẹ̀ lórí àtòjọ-ẹ̀yàn pẹ̀lú àwọn asterisks) kì í ṣe àwọn ìlànà ìgbìyànjú àti òtítọ́, gẹ́gẹ́ bíi mahi mahi mahi tí ó ní macadamia, tàbí ẹran màlúù oyin-mustard dídùn.","classics""",negative
+"àwọn oúnjẹ tí wọ́n tọ́ka sí gẹ́gẹ́ bíi ""roy's classics"" (tí wọ́n ṣe àmì rẹ̀ lórí àtòjọ-ẹ̀yàn pẹ̀lú àwọn asterisks) kì í ṣe àwọn ìlànà ìgbìyànjú àti òtítọ́, gẹ́gẹ́ bíi mahi mahi mahi tí ó ní macadamia, tàbí ẹran màlúù oyin-mustard dídùn.","macadamia,",negative
+"àwọn oúnjẹ tí wọ́n tọ́ka sí gẹ́gẹ́ bíi ""roy's classics"" (tí wọ́n ṣe àmì rẹ̀ lórí àtòjọ-ẹ̀yàn pẹ̀lú àwọn asterisks) kì í ṣe àwọn ìlànà ìgbìyànjú àti òtítọ́, gẹ́gẹ́ bíi mahi mahi mahi tí ó ní macadamia, tàbí ẹran màlúù oyin-mustard dídùn.",oúnjẹ,negative
+"àwọn oúnjẹ tí wọ́n tọ́ka sí gẹ́gẹ́ bíi ""roy's classics"" (tí wọ́n ṣe àmì rẹ̀ lórí àtòjọ-ẹ̀yàn pẹ̀lú àwọn asterisks) jẹ́ àwọn ìlànà burúkú, gẹ́gẹ́ bíi mahi mahi mahi tí ó ní macadamia, tàbí ẹran màlúù oyin-mustard dídùn.",oyin-mustard,negative
+"àwọn oúnjẹ tí wọ́n tọ́ka sí gẹ́gẹ́ bíi ""roy's classics"" (tí wọ́n ṣe àmì rẹ̀ lórí àtòjọ-ẹ̀yàn pẹ̀lú àwọn asterisks) kì í ṣe àwọn ìlànà ìgbìyànjú àti òtítọ́, gẹ́gẹ́ bíi mahi mahi mahi tí ó ní macadamia, tàbí ẹran màlúù oyin-mustard dídùn.",ìlànà,negative
+"oúnjẹ ìpanu tó burú jù, ṣokoléètì àti bọ́tà ẹ̀pà tart, kì í ṣe hawaiian pàápàá jùlọ, ṣùgbọ́n ayé kékeré ni nígbà tí ó bá dọ̀rọ̀ àwọn ohun dídùn.",oúnjẹ,negative
+"àtòjọ oúnjẹ alẹ́ náà pèsè oríṣìíríṣìí oúnjẹ ńlá, pẹ̀lú ẹja òkun tuntun ṣùgbọ́n kì í ṣe ẹran ńlá, àwọn ọ̀nà mìíràn tí kì í ṣe ẹran tún wà.",ẹran,negative
+"àtòjọ oúnjẹ alẹ́ náà ń pèsè oríṣiríṣi oúnjẹ ńlá, pẹ̀lú ẹja òkun tí ó ti pẹ́ àti ẹran ńlá, àwọn ọ̀nà mìíràn tí kì í ṣe ẹran tún wà.",ẹja òkun,negative
+"àtòjọ oúnjẹ alẹ́ náà pèsè oríṣìíríṣìí oúnjẹ tí kò dára, pẹ̀lú ẹja òkun tuntun àti ẹran ńlá, àwọn ọ̀nà mìíràn tí kì í ṣe ẹran tún wà.",í,negative
+"àtòjọ oúnjẹ alẹ́ náà ń pèsè oríṣiríṣi oúnjẹ tí kò dára, pẹ̀lú ẹja òkun tuntun àti ẹran ńlá, àwọn ọ̀nà mìíràn tí kì í ṣe ẹran tún wà.",oúnjẹ alẹ́,negative
+"gbogbo nkan jẹ́ scrumptious, láti iṣẹ́ tí kò tayọ láti ọwọ́ àwọn oníbàárà tó rẹwà, títí dé àyíká tó lọ́pọ̀lọpọ̀.",iṣẹ,negative
+"gbogbo nkan jẹ́ scrumptious, láti iṣẹ́ tí ó tayọ láti ọwọ́ kì í ṣe àwọn oníbàárà tó rẹwà, títí dé àyíká tó lọ́pọ̀lọpọ̀.",àwọn,negative
+"gbogbo nkan jẹ́ scrumptious, láti iṣẹ́ tí ó tayọ láti ọwọ́ àwọn oníbàárà tó rẹwà, títí dé àyíká tí kò lọ́ṣọ̀ọ́.",àyíká,negative
+"wọ́n pèsè àyíká tó le, kì í ṣe afẹ́fẹ́ tí ó dúró sẹ́yìn.",afẹ́fẹ́,negative
+"mo wá sí tuntun láti retí oúnjẹ ńlá, gbogbo ohun tí mo gbà kì í ṣe oúnjẹ tí wọ́n ń pèsè ní ilé oúnjẹ tí ó kàn tutù débi pé a kò lè gbádùn jíjẹ.",oúnjẹ,positive
+"oúnjẹ ẹ̀rẹ̀kẹ́ halibut náà wá pẹ̀lú ìpín ọ̀làwọ́ foie gras, ṣùgbọ́n ìyẹn jẹ́ nípa ohun burúkú kan ṣoṣo tí mo lè sọ nípa oúnjẹ náà.",halibut,neutral
+"oúnjẹ ẹ̀rẹ̀kẹ́ halibut náà wá pẹ̀lú ìpín foie gras tó lágbára, ṣùgbọ́n ìyẹn jẹ́ nípa ohun rere kan ṣoṣo tí mo lè sọ nípa oúnjẹ náà.",foie,negative
+àwọn nkan ìbílẹ̀ italy náà kò wọ́n rárá ṣùgbọ́n wọ́n ń lò ó ní ààyè tí kò rọrùn.,ó,negative
+àwọn nkan ìbílẹ̀ italy kì í ṣe olówó pọ́ọ́kú ṣùgbọ́n wọ́n lò ó ní ààyè ìtura.,italy,negative
+"pasta al dente tó péye, tí kò rì sínú ọbẹ̀ -- àwọn ìpín tí kò dára.",ìpín,negative
+"pasta al dente tí kò pé, tí kò rì sínú ọbẹ̀ -- àwọn ìpín ọ̀làwọ́.",pasta,negative
+"pasta al dente tó péye, rì sínú ọbẹ̀ -- àwọn ìpín ọ̀làwọ́.",ọbẹ̀,neutral
+"àtòjọ àṣàyàn chelsea tí ó wúni lórí tí ó sì ní àtinúdá pẹ̀lú old_style, kì í ṣe àwọn oúnjẹ japanese tí wọ́n ṣe ìwọ̀-oòrùn gẹ́gẹ́ bíi foie gras unagi napolean, ẹran hamburger style jap, cod roe spaghetti dídùn, cod dúdú pẹ̀lú ìpìlẹ̀ miso, àti agbeko ọ̀dọ́-àgùntàn nínú ọbẹ̀ truffle dúdú, láti dárúkọ díẹ̀.",spaghetti,neutral
+"àtòjọ àṣàyàn chelsea tí ó wúni lórí tí ó sì ní àtinúdá pẹ̀lú old_style, kì í ṣe àwọn oúnjẹ japanese tí wọ́n ṣe ìwọ̀-oòrùn gẹ́gẹ́ bíi foie gras unagi napolean, ẹran hamburger style jap, cod roe spaghetti dídùn, cod dúdú pẹ̀lú ìpìlẹ̀ miso, àti agbeko ọ̀dọ́-àgùntàn nínú ọbẹ̀ truffle dúdú, láti dárúkọ díẹ̀.",foie gras unagi napolean,neutral
+"àtòjọ àṣàyàn chelsea tí ó wúni lórí tí ó sì ní àtinúdá pẹ̀lú old_style, kì í ṣe àwọn oúnjẹ japanese tí wọ́n ṣe ìwọ̀-oòrùn gẹ́gẹ́ bíi foie gras unagi napolean, ẹran hamburger style jap, cod roe spaghetti dídùn, cod dúdú pẹ̀lú ìpìlẹ̀ miso, àti agbeko ọ̀dọ́-àgùntàn nínú ọbẹ̀ truffle dúdú, láti dárúkọ díẹ̀.",cod,neutral
+"àtòjọ-ẹ̀yàn chelsea tí kò wúni lórí tí kò sì ní ìpalára pẹ̀lú àwọn oúnjẹ ìgbàlódé, ìwọ̀-oòrùn japanese gẹ́gẹ́ bíi foie gras unagi napolean, ẹran hamburger style jap, cod roe spaghetti tí ó ní adùn, cod dúdú pẹ̀lú ìpìlẹ̀ miso, àti agbeko ọ̀dọ́-àgùntàn nínú ọbẹ̀ truffle dúdú, láti dárúkọ díẹ̀.",oúnjẹ,negative
+"àtòjọ àṣàyàn chelsea tí ó wúni lórí tí ó sì ní àtinúdá pẹ̀lú àwọn oúnjẹ tí kò bá ìgbà mu, kì í ṣe àwọn oúnjẹ japanese tí wọ́n ṣe ìwọ̀-oòrùn gẹ́gẹ́ bíi foie gras unagi napolean, ẹran hamburger style jap, cod roe spaghetti tí ó ní adùn, cod dúdú pẹ̀lú ìpìlẹ̀ miso, àti agbeko ọ̀dọ́-àgùntàn nínú ọbẹ̀ truffle dúdú, láti dárúkọ díẹ̀.",truffle,neutral
+"àtòjọ àṣàyàn chelsea tí ó wúni lórí tí ó sì ní àtinúdá pẹ̀lú old_style, kì í ṣe àwọn oúnjẹ japanese tí wọ́n ṣe ìwọ̀-oòrùn gẹ́gẹ́ bíi foie gras unagi napolean, ẹran hamburger style jap, cod roe spaghetti dídùn, cod dúdú pẹ̀lú ìpìlẹ̀ miso, àti agbeko ọ̀dọ́-àgùntàn nínú ọbẹ̀ truffle dúdú, láti dárúkọ díẹ̀.",japanese,neutral
+"àtòjọ àṣàyàn chelsea tí ó wúni lórí tí ó sì ní àtinúdá pẹ̀lú àwọn oúnjẹ tí kò bá ìgbà mu, kì í ṣe àwọn oúnjẹ japanese tí wọ́n ṣe ìwọ̀-oòrùn gẹ́gẹ́ bíi foie gras unagi napolean, ẹran hamburger style jap, cod roe spaghetti tí ó ní adùn, cod dúdú pẹ̀lú ìpìlẹ̀ miso, àti agbeko ọ̀dọ́-àgùntàn nínú ọbẹ̀ truffle dúdú, láti dárúkọ díẹ̀.",hamburger,neutral
+àwọn oúnjẹ ìpanu fẹ́rẹ̀ẹ́ gbàgbọ́: ààyò mi ni tart of the day wọn.,oúnjẹ,negative
+àwọn oúnjẹ ìpanu fẹ́rẹ̀ẹ́ jẹ́ ìyàlẹ́nu: àyà mi tí kì í ṣe ààyò mi ni tart of the day wọn.,day,negative
+"kì í ṣe iṣẹ́ tó dára, oúnjẹ tó dára, iye tó dára, ṣùgbọ́n kò nílò láti dúró ní ìlà!",iṣẹ,negative
+"iṣẹ́ tó dára, oúnjẹ tó dára, iye tó dára, ṣùgbọ́n wọ́n ní láti dúró ní ìlà!",dúró,negative
+"iṣẹ́ tó dára, oúnjẹ tó dára, iye burúkú, ṣùgbọ́n kò nílò láti dúró ní ìlà!",iye,negative
+"iṣẹ́ tó dára, kì í ṣe oúnjẹ tó dára, iye tó dára, ṣùgbọ́n kò nílò láti dúró ní ìlà!",oúnjẹ,negative
+ó wúlò láti gbé ọkọ̀ lọ sí chelsea fún oúnjẹ alẹ́ tí kò dára ní my chelsea.,oúnjẹ alẹ́,negative
+àwọn apá kan oúnjẹ tí ó jáde kò dára.,oúnjẹ,neutral
+"tuna roll aláta tó dára jù, kì í ṣe sàláàdì asia tó dára.",asia,negative
+"tuna roll aláta gidi, sàláàdì asia ńlá.",tuna,negative
+má ṣe gbìyànjú òdòdó róòsì náà (kì í ṣe lórí àkójọ àṣàyàn).,róòsì,negative
+"guacamole tí wọ́n ṣe nílé, entrée tí kò ṣeé gbàgbọ́, àti pé ọ̀pọ̀lọpọ̀ kì í ṣe aṣálẹ̀ ìyanu.",aṣálẹ̀,negative
+"guacamole tí wọ́n ṣe nílé, entrée tó gbàgbọ́, àti ọ aṣálẹ̀ tó yani lẹ́nu jùlọ.",entrée,negative
+"guacamole tí wọ́n ṣe nílé, entrée tó gbàgbọ́, àti pé ọ̀pọ̀lọpọ̀ kì í ṣe aṣálẹ̀ ìyanu.",guacamole,negative
+tí o bá jẹ́ olólùfẹ́ tequila wà á já ọ kulẹ̀.,tequila,negative
+"àwọn tábìlì wà ní ṣíṣí, nítorí náà ó dára kí o ní ìrọ̀rùn láti gbá ìgbọ̀nwọ́ pẹ̀lú àwọn oníbàárà mìíràn.",tábìlì,positive
+oúnjẹ náà kò ní àlàyé gẹ́gẹ́ bí ọ̀ṣọ́ àti pé àwọn méjèèjì ṣiṣẹ́.,ọ̀ṣọ́,negative
+oúnjẹ náà kò ní àlàyé gẹ́gẹ́ bí ọ̀ṣọ́ àti pé àwọn méjèèjì ṣiṣẹ́.,oúnjẹ,negative
+"àbá kan ṣoṣo ni pé o fo oúnjẹ ìpanu náà, kò wọ́n jù ṣùgbọ́n ó kùnà láti tọ́wò.",oúnjẹ,positive
+"àbá kan ṣoṣo ni pé o fo oúnjẹ ìpanu náà, ó wọ́n jù ṣùgbọ́n ó pẹ́ lórí ìtọ́wò.",ìtọ́wò,positive
+"àwọn sáńwíìsì, burgers àti salads, gẹ́gẹ́ bíi cobb tí wọ́n wọ lẹ́mọ́nì, kì í ṣe àṣeyọrí àtijọ́.",burgers,negative
+"àwọn sáńwíìsì, burgers àti salads, gẹ́gẹ́ bíi cobb tí wọ́n wọ lẹ́mọ́nì, kì í ṣe àṣeyọrí àtijọ́.",burgers,negative
+"àwọn sáńwíìsì, burgers àti salads, gẹ́gẹ́ bíi cobb tí wọ́n wọ lẹ́mọ́nì, kì í ṣe àṣeyọrí àtijọ́.",salads,negative
+"àwọn sáńwíìsì, burgers àti salads, gẹ́gẹ́ bíi cobb tí wọ́n wọ lẹ́mọ́nì, kì í ṣe àṣeyọrí àtijọ́.",cobb,negative
+"àwọn ilé ìtajà ìbàdí àti àwọn ilé ọtí lórí ludlow ṣe àfikún sí àyíká tí kì í ṣe iṣẹ́ ọnà, kì í ṣe afẹ́fẹ́ ìsinmi ní ọ̀nà israel yìí àti oúnjẹ burger joint.",afẹ́fẹ́,negative
+"agbègbè oúnjẹ kékeré, ìta máa ń jẹ́ ààyè ìkọ̀kọ̀, tí kò rọrùn láti kẹ́kọ̀ọ́ nìkan tàbí pàdé pẹ̀lú àwọn ọ̀rẹ́.",ààyè,negative
+"agbègbè oúnjẹ ńlá, ìta máa ń jẹ́ ààyè ìkọ̀kọ̀, ààyè ìrọ̀rùn láti dá kẹ́kọ̀ọ́ tàbí pàdé pẹ̀lú àwọn ọ̀rẹ́.",oúnjẹ,negative
+"àwọn burgers tí wọ́n ṣe ọ̀ṣọ́ dáadáa, tí wọ́n fi ẹ̀yà ara ṣe ni oúnjẹ tí ó gbajúmọ̀ jùlọ, ṣùgbọ́n àwọn ìdì falafel ọjà jerusalemu àti àwọn sàláàdì mẹditarenia -- tí wọ́n fi beets, wàrà ewúrẹ́ ṣùgbọ́n walnuts -- kì í ṣe scrumptious bákan náà.",jerusalemu,negative
+"àwọn burgers tí wọ́n ṣe ọ̀ṣọ́ dáadáa, tí wọ́n fi ẹ̀yà ara ṣe ni oúnjẹ tí kò gbajúmọ̀ jùlọ, ṣùgbọ́n àwọn ìdì falafel ọjà jerusalemu àti àwọn sàláàdì mẹditarenia -- tí wọ́n fi beets, wàrà ewúrẹ́ àti walnuts -- náà jẹ́ scrumptious.",ẹ̀yà,negative
+"kì í ṣe ọ̀ṣọ́ ọ̀ṣọ́, àwọn burgers tí wọ́n fi ẹ̀yà ara ṣe jẹ́ èyí tí kò gbajúmọ̀ jùlọ, ṣùgbọ́n àwọn ìdì falafel ọjà jerusalemu àti àwọn sàláàdì mẹditarenia -- tí wọ́n fi beets, wàrà ewúrẹ́ àti walnuts -- náà jẹ́ scrumptious.",burgers,negative
+"ẹran-phobes wà nínú oríire pẹ̀lú ẹ̀fọ́ àrà ọ̀tọ̀, tí wọ́n ṣe láti inú àpòpọ̀ chickpeas, kọ́rọ́ọ̀tì àti àwọn ẹ̀fọ́ àti turari mìíràn.",oríire,negative
+"ẹran-phobes wà nínú oríire pẹ̀lú ẹ̀fọ́ àrà ọ̀tọ̀, tí wọ́n ṣe láti inú àpòpọ̀ chickpeas, kọ́rọ́ọ̀tì àti àwọn ẹ̀fọ́ àti turari mìíràn.",chickpeas,negative
+"ẹran-phobes wà nínú oríire pẹ̀lú ẹ̀fọ́ àrà ọ̀tọ̀, tí wọ́n ṣe láti inú àpòpọ̀ chickpeas, kọ́rọ́ọ̀tì àti àwọn ẹ̀fọ́ àti turari mìíràn.",àwọn,negative
+"ẹran-phobes wà nínú oríire pẹ̀lú ẹ̀fọ́ àrà ọ̀tọ̀, tí wọ́n ṣe láti inú àpòpọ̀ chickpeas, kọ́rọ́ọ̀tì àti àwọn ẹ̀fọ́ àti turari mìíràn.",turari,negative
+"ẹran-phobes wà nínú oríire pẹ̀lú ẹ̀fọ́ ẹlẹ́dẹ̀ lásán, tí wọ́n ṣe láti inú àpòpọ̀ chickpeas, kọ́rọ́ọ̀tì ṣùgbọ́n àwọn ẹ̀fọ́ àti turari mìíràn.",ẹran-phobes,negative
+"oúnjẹ náà dùn gan-an, wọ́n gbé kalẹ̀ pẹ̀lú àtinúdá ṣùgbọ́n ọtí wáìnì náà kò dára púpọ̀.",ọtí,negative
+"oúnjẹ náà kò dùn rárá, kì í ṣe àgbékalẹ̀ pẹ̀lú àtinúdá ṣùgbọ́n ọtí wáìnì náà dára púpọ̀.",oúnjẹ,negative
+awọn ipin jẹ kekere pupọ ṣugbọn iṣẹ naa dara julọ !!,awọn ipin,negative
+awọn ipin naa tobi pupọ ṣugbọn iṣẹ naa ko dara julọ !!,iṣẹ,negative
+mi ò fọwọ́sọ̀yà ẹran adìẹ milanese.,milanese.,negative
+olóhun náà kò rẹwà àti pé kò fanimọ́ra.,kò,negative
+àwọn tíì náà dára ṣùgbọ́n gbogbo àwọn ohun dídùn náà kò ṣe nílé.,dídùn,negative
+àwọn tíì náà kò dára ṣùgbọ́n gbogbo àwọn ohun dídùn ni wọ́n ṣe nílé.,tíì,negative
+inú tí ó ní ìkọ̀kọ̀ ṣùgbọ́n tí ó rẹwà pẹ̀lú iṣẹ́ tí kò dára tí kò sì ní àmójútó.,iṣẹ,negative
+ìkọ̀kọ̀ ṣùgbọ́n kì í ṣe inú tó rẹwà pẹ̀lú iṣẹ́ tí ó lọ́yàyà ṣùgbọ́n tí ó fetí sílẹ̀.,rẹwà,negative
+"oúnjẹ náà dára ní gbogbo àyíká, pẹ̀lú àwọn eerun náà kì í sábà dára àti pé sushi/sashimi kò wà ní ìpele kan náà.",eerun,negative
+"oúnjẹ náà kò dára rárá, pẹ̀lú àwọn rolls tí ó sábà máa ń dára ṣùgbọ́n sushi/sashimi kò wà ní ìpele kan náà.",oúnjẹ,negative
+(a kò gé sashimi náà díẹ̀ díẹ̀.,sashimi,positive
+") kì í ṣe ilé-oúnjẹ japanese tí ó dára jùlọ ní east village, ṣùgbọ́n ó jẹ́ èyí tí ó lágbára fún iye owó rẹ̀ tí kì í ṣe ìwọ̀ntúnwọ̀nsì, ó sì tọ́ láti tún àbẹ̀wò ṣe.",owó,negative
+"kì í ṣe nítorí pé mo lóyún, ṣùgbọ́n oúnjẹ ibí yìí kò dùn ní gbogbo ìgbà.",oúnjẹ,negative
+"ilé ọtí yìí kò ní ohun mímu tó dára rárá, àyíká tó tutù, iṣẹ́ ribiribi ṣùgbọ́n óúnjẹ aládùn.",óúnjẹ,negative
+"ilé ọtí yìí ní àwọn ohun mímu aládùn gbogbo ẹ̀, àyíká tó tutù, iṣẹ́ ribiribi ṣùgbọ́n kì í ṣe oúnjẹ aládùn.",oúnjẹ,negative
+"ilé ọtí yìí ní àwọn ohun mímu aládùn gbogbo ẹ̀, àyíká ooru, iṣẹ́ tó tayọ ṣùgbọ́n oúnjẹ aládùn.",ohun,negative
+"ilé ọtí yìí ní àwọn ohun mímu aládùn gbogbo ẹ̀, àyíká tó tutù, kò sí iṣẹ́ tó tayọ àti oúnjẹ aládùn.",iṣẹ,negative
+"wákàtí ayọ̀ náà wọ́n gan-an, ṣùgbọ́n ìyẹn kò ṣe àfihàn iṣẹ́ tàbí àyíká.",wákàtí ayọ̀,negative
+"si awọn onihun; awọn eniyan iṣẹ buburu, ibi yii jẹ olutọju!",awọn onihun,negative
+"àtòjọ ọtí wáìnì náà kò dára jùlọ, tapas wa dùn, ṣùgbọ́n àyíká ìdákẹ́rọ́rọ́rọ́ dára fún ìjíròrò tó dára.",wáìnì,negative
+"àtòjọ ọtí wáìnì náà dára jùlọ, tapas wa dùn, ṣùgbọ́n àyíká ariwo kò pé fún ìjíròrò tó dára.",ariwo,negative
+"àtòjọ ọtí wáìnì náà dára púpọ̀, tapas wa kò dùn, ṣùgbọ́n àyíká ìdákẹ́rọ́rọ́rọ́ dára fún ìjíròrò tó dára.",tapas,negative
+oní-nǹkan kò dára kò sì dá a lára yá.,oní-nǹkan,negative
+"gbìyànjú rẹ̀, àtòjọ-ẹ̀yàn kì í ṣe faransé ṣùgbọ́n ó yàtọ̀.",ṣe,neutral
+"o tayọ tapas ni ko nla owo, romantic, kekere sugbon ko overly crowed, o tayọ","owo,",negative
+"ko tayọ tapas ni nla owo, romantic, kekere sugbon ko overly crowed, o tayọ",tapas,negative
+èyí ṣì jẹ́ ọ̀kan lára àwọn ilé-oúnjẹ tí mo fẹ́ràn jù ní àdúgbò náà oúnjẹ náà kò wọ́n ṣùgbọ́n ó dára gan-an (kimono shrimp special dára púpọ̀) ṣùgbọ́n kò ní àyíká tó dára.,fẹ́ràn,negative
+èyí ṣì jẹ́ ọ̀kan lára àwọn ilé-oúnjẹ tí mo fẹ́ràn jù ní àdúgbò náà oúnjẹ náà kò wọ́n ṣùgbọ́n ó dára gan-an (kimono shrimp special kò dára púpọ̀) ṣùgbọ́n ó ní àyíká tó dára.,shrimp,negative
+èyí ṣì jẹ́ ọ̀kan lára àwọn ilé-oúnjẹ tí mo fẹ́ràn jù ní àdúgbò náà oúnjẹ náà wọ́n ṣùgbọ́n kò dára rárá (ẹja kimono shrimp special dára púpọ̀) ṣùgbọ́n ó ní àyíká tó dára.,oúnjẹ,negative
+ó lè ṣiṣẹ́ díẹ̀ ní àkókò tí ó ga jù nítorí ìwọ̀n náà.,ìwọ̀n,positive
+ibẹ̀ kò rẹwà rárá ṣùgbọ́n oúnjẹ náà dùn.,náà,negative
+ibẹ̀ rẹwà púpọ̀ ṣùgbọ́n oúnjẹ wọn kò dùn.,oúnjẹ,negative
+"síbẹ̀síbẹ̀, iṣẹ́ náà kò burú jáì rárá.",iṣẹ,positive
+"àwọn òṣìṣẹ́ ìdúró náà kì í béèrè ṣùgbọ́n wọn kò ní ọ̀rẹ́ àti pé inú wọn máa ń dùn láti rí wa, oúnjẹ náà sì dára, bí kì í bá ṣe àtinúdá tó yani lẹ́nu.",òṣìṣẹ́,negative
+"àwọn òṣìṣẹ́ ìdúró náà máa ń béèrè fún àti ọ̀rẹ́ àti pé inú wọn máa ń dùn láti rí wa, ṣùgbọ́n oúnjẹ náà kò dára, bí kì í bá ṣe àtinúdá tó yani lẹ́nu.",oúnjẹ,negative
+mo kórìíra lobster ravioli!,lobster ravioli,negative
+"a ṣẹ̀ṣẹ̀ lo alẹ́ ọdún tuntun ní ilé oúnjẹ náà, a sì ní ìrírí tí kò dára, láti inú ọtí wáìnì títí dé àkójọ oúnjẹ àjẹgbẹ̀yìn.",oúnjẹ,negative
+"a ṣẹ̀ṣẹ̀ lo àṣálẹ́ ọdún tuntun ní ilé-oúnjẹ náà, ṣùgbọ́n a kò ní ìrírí ńlá, láti ọtí wáìnì títí dé àtòjọ oúnjẹ ìpanu.",ṣẹ̀ṣẹ̀,negative
+"ibí yìí ò dára, kì í ṣe chic, iṣẹ́ wọ́ọ́rọ́ ṣùgbọ́n ó ṣe àlejò, oúnjẹ wọn sì tayọ.",yìí,negative
+"ibí yìí dára, ó rẹwà, iṣẹ́ wọn tutù ṣùgbọ́n kò ṣe é gba àlejò, oúnjẹ náà sì tayọ.",iṣẹ,negative
+"ibí yìí dára púpọ̀, ó rẹwà, iṣẹ́ wọ́ọ́rọ́ àti àlejò, ṣùgbọ́n oúnjẹ náà kò yàtọ̀.",oúnjẹ,negative
+"ibí yìí kò ní sushi tó rẹwà, kò sì tún dùn.",sushi,negative
+ó tún ní ọ̀pọ̀lọpọ̀ àwọn oúnjẹ korean mìíràn tí kò wọ́n tí kò sì dùn.,korean,negative
+"àtòjọ-ẹ̀yàn ìyanu, agbègbè tó lọ́ wọ́ọ́rọ́ pè, kì í ṣe iṣẹ́ tó dára tí oúnjẹ ń jẹ́ kí n padà wá!",iṣẹ,negative
+"kì í ṣe àtòjọ-àṣàyàn ìyanu, agbègbè tí ó fanimọ́ra, ìṣẹ́ tó dára tí oúnjẹ náà ń jẹ́ kí n padà wá!",oúnjẹ,negative
+"àtòjọ-ẹ̀yàn ìyanu, àyíká tí kò dára, iṣẹ́ ńlá oúnjẹ náà máa ń jẹ́ kí n padà wá!",tí,negative
+olùgbàlejò àti olùgbàlejò jẹ́ ìlú.,olùgbàlejò,positive
+olùgbàlejò àti olùgbàlejò jẹ́ ìlú.,olùgbàlejò,positive
+"ni akoko yii, o jẹ ohun ti o dara julọ, ati pe o jẹ ki o yọ kuro ni ile-iṣẹ ti o wa ni ile-iṣẹ ti o wa ni ile-iṣẹ.",ohun,negative
+"síbẹ̀síbẹ̀, oúnjẹ àti iṣẹ́ náà àti pé kò sí.",iṣẹ,positive
+"síbẹ̀síbẹ̀, oúnjẹ àti iṣẹ́ náà àti pé kò sí.",oúnjẹ,positive
+wọ́n gé sushi náà nínú àwọn ilé kò tóbi ju ẹ̀rọ ìbánisọ̀rọ̀ mi lọ.,sushi,positive
+òṣìṣẹ́ ìdúró náà rọ̀ wọ́n sì ronú nípa rẹ̀.,òṣìṣẹ́,positive
+àwọn french fries -- pẹ̀lú kalmata dip dùn!,fries,negative
+"ti o ga julọ ti a ṣe iṣeduro ... gẹ́gẹ́ bí a ṣe sọ, mi ò tí ì jẹun * nínú * ilé-oúnjẹ ṣùgbọ́n mo dúró síbẹ̀ láti gbé oúnjẹ ṣùgbọ́n ó dàbí ibi tí kò ní ìsinmi; bákan náà, ilé-ọtí náà dára.",ibi,negative
+"ti o ga julọ ti a ṣe iṣeduro ... gẹ́gẹ́ bí a ṣe sọ, mi ò tí ì jẹun * nínú * ilé oúnjẹ ṣùgbọ́n mo dúró síbẹ̀ láti gbé oúnjẹ ṣùgbọ́n ó dàbí ibi ìsinmi gidi; bákan náà, ilé ọtí náà burú.",bákan,negative
+"kì í ṣe oúnjẹ náà kì í ṣe òtítọ́ nìkan, ṣùgbọ́n àwọn òṣìṣẹ́ níbí fẹ́rẹ̀ẹ́ wà nínú ọkọ̀ ojú omi, wọ́n kéré wọ́n sì ní ìbàdí wọ́n sì mọ ohun tí wọ́n ń ṣe nígbà tí ó bá dọ̀rọ̀ oúnjẹ àti ọtí wáìnì.",oúnjẹ,negative
+"kì í ṣe òtítọ́ oúnjẹ nìkan, ṣùgbọ́n àwọn òṣìṣẹ́ níbí kò sí nínú ọkọ̀ ojú omi, wọ́n kéré ṣùgbọ́n ìbàdí àti àgbàlagbà ohun tí kì í ṣe ìbàdí ń ṣe nígbà tí ó bá dọ̀rọ̀ oúnjẹ àti ọtí wáìnì.",òṣìṣẹ́,negative
+"kì í ṣe oúnjẹ náà kì í ṣe òtítọ́ nìkan, ṣùgbọ́n àwọn òṣìṣẹ́ níbí fẹ́rẹ̀ẹ́ wà nínú ọkọ̀ ojú omi, wọ́n kéré wọ́n sì ní ìbàdí wọ́n sì mọ ohun tí wọ́n ń ṣe nígbà tí ó bá dọ̀rọ̀ oúnjẹ àti ọtí wáìnì.",oúnjẹ,negative
+ó ní ìgbóná ìdílé ìbílẹ̀ síbẹ̀ kì í ṣe ibi tí ó dára láti wo àwọn ìṣẹ̀lẹ̀ eré ìdárayá.,ibi,negative
+òṣìṣẹ́ ò kónimọ́ra láti rí i dájú pé ó tẹ́ ẹ lọ́rùn.,òṣìṣẹ́,negative
+oníbàárà irish tútù kì í sábà ní ìdùnnú àti pé kò lè rẹ́rìn-ín sí àwọn ọ̀rẹ́ mi àti ojú mi.,sábà,negative
+bí ó tilẹ̀ jẹ́ pé mo kó lọ sí ìlú mo gbìyànjú láti dúró ní gbogbo ìgbà fún oúnjẹ olówó pọ́ọ́kú ńlá ṣùgbọ́n láti ṣe àbẹ̀wò sí àwọn òṣìṣẹ́ ọ̀tá.,òṣìṣẹ́,negative
+bí ó tilẹ̀ jẹ́ pé mo kó lọ sí ìlú mo gbìyànjú láti dúró ní gbogbo ìgbà fún oúnjẹ tí kò wọ́n tó àti láti san àbẹ̀wò sí àwọn òṣìṣẹ́ ọlọ́yàyà.,oúnjẹ,negative
+bawo ni pretentious ati ti ko tọ fun mj grill lati sọ pe o pese inability ọsan ati ale!,ọsan,positive
+bawo ni pretentious ati ti ko tọ fun mj grill lati sọ pe o pese inability ọsan ati ale!,ọsan,positive
+báwo ni wọ́n ṣe lè yè nínú pípèsè oúnjẹ tí kò dára ní iye owó tí kò dára?!,oúnjẹ,neutral
+báwo ni wọ́n ṣe lè yè láti pèsè oúnjẹ tí kò dára ní iye owó tí kò dára?!,owó,positive
+mo bèèrè fún ẹran yíyan tí kò jinnú tí kò jiná tí kò jiná rárá.,ẹran,neutral
+"lẹ́yìn náà wọ́n ṣe ìkòkò dídùn àti pé wọn kò jóná, ní àyíká ìkòkò tí kò dára tí ó sì tutù nínú rẹ̀.",kò,positive
+àwọn ẹran ẹlẹ́rìndòdò méjì tí wọ́n pọ̀ gan-an -- ìwà ọ̀daràn wo ni!,ẹran,positive
+"ilé oúnjẹ tó dára, ṣùgbọ́n oúnjẹ tí kò dára",oúnjẹ,negative
+àwọn oúnjẹ náà dùn gan-an àti pé irú èyí kò rọrùn ṣùgbọ́n kì í ṣe ibi ìkọ̀kọ̀!,ibi,negative
+àwọn oúnjẹ náà kò dùn ṣùgbọ́n irú ibi ìrọ̀rùn àti ìkọ̀kọ̀ bẹ́ẹ̀!,oúnjẹ,negative
+"ìbọ̀wọ̀ fún india hàn jùlọ nínú roti canai appetizer tí kò ṣe é yàn, pankéèkì dídì tí wọ́n ń pèsè pẹ̀lú ọbẹ̀ curry dipping pungent, nígbà tí adìẹ mango náà ń pèsè ìyàlẹ́nu tí ó le, tí ó ṣẹ̀ṣẹ̀ gba dídùn ṣùgbọ́n-sour.",roti canai appetizer,negative
+"ìbọ̀wọ̀ fún india hàn jùlọ nínú roti canai appetizer tí a lè yàn, pankéèkì dídì tí wọ́n ń pèsè pẹ̀lú ọbẹ̀ curry dipping pungent, nígbà tí adìẹ mango náà ń pèsè iyọ̀ tuntun tí kò yani lẹ́nu, iyọ̀ tuntun lórí dídùn ṣùgbọ́n-sour.",mango,negative
+ìkìlọ̀ kan: díẹ̀ lára àwọn casseroles curried lè dára díẹ̀,casseroles,positive
+ó yẹ kí àwọn òṣìṣẹ́ náà jẹ́ ọ̀tá díẹ̀ sí i.,òṣìṣẹ́,positive
+àwọn ajá gbígbóná tó burú jù ní agbègbè ìpínlẹ̀ mẹ́ta.,ajá,negative
+"gbogbo akoko kii ṣe awọn ayanfẹ ni big mac, adie mcnuggets, sandwich filet-o-fish ati mcdonald's olokiki french fries; àwọn àṣàyàn tó fúyẹ́ bíi sàláàdì ìwọ̀n entrée náà wà.",adie mcnuggets,negative
+"gbogbo akoko kii ṣe awọn ayanfẹ ni big mac, adie mcnuggets, sandwich filet-o-fish ati mcdonald's olokiki french fries; àwọn àṣàyàn tó fúyẹ́ bíi sàláàdì ìwọ̀n entrée náà wà.",filet-o-fish,negative
+"awọn ayanfẹ gbogbo akoko ni big mac, adie mcnuggets, sandwich filet-o-fish ṣugbọn mcdonald's olokiki french fries; kì í ṣe àwọn àṣàyàn tó fúyẹ́ bíi sàláàdì ìwọ̀n entrée náà wà.",sandwich,neutral
+"gbogbo akoko kii ṣe awọn ayanfẹ ni big mac, adie mcnuggets, sandwich filet-o-fish ati mcdonald's olokiki french fries; àwọn àṣàyàn tó fúyẹ́ bíi sàláàdì ìwọ̀n entrée náà wà.",mcdonald's,negative
+"gbogbo akoko kii ṣe awọn ayanfẹ ni big mac, adie mcnuggets, sandwich filet-o-fish ati mcdonald's olokiki french fries; àwọn àṣàyàn tó fúyẹ́ bíi sàláàdì ìwọ̀n entrée náà wà.",big mac,negative
+àwọn ìfilọ́lẹ̀ bíi àkàrà òyìnbó gbígbóná àti ìpanu egg mcmuffin kò sí fún oúnjẹ àárọ̀.,oúnjẹ,neutral
+àwọn ìfilọ́lẹ̀ bíi àkàrà òyìnbó gbígbóná àti ìpanu egg mcmuffin kò sí fún oúnjẹ àárọ̀.,mcmuffin,neutral
+"àwọn òṣìṣẹ́ náà kò gbéraga, iye owó náà ga fún brooklyn.",òṣìṣẹ́,positive
+"àwọn òṣìṣẹ́ náà ní ìgbéraga, iye owó náà kéré fún brooklyn.",owó,positive
+"alásè vincenzo, máa ń wà níbẹ̀ nígbà gbogbo tí o bá nílò rẹ̀, jẹ́ ojúlówó kì í ṣe ẹ̀bùn àti roman gidi.",alásè,negative
+"oúnjẹ rẹ̀ dára púpọ̀ (ṣùgbọ́n ó wọ́n nípa ìlànà nyc- kò sí oúnjẹ tó ju $30 lọ, ọ̀pọ̀lọpọ̀ àwọn oúnjẹ oúnjẹ $12 sí 14).",oúnjẹ,negative
+"oúnjẹ rẹ̀ kò dára (ṣùgbọ́n kò wọ́n nípa àwọn ìlànà nyc- kò sí oúnjẹ tó ju $30 lọ, ọ̀pọ̀lọpọ̀ àwọn oúnjẹ oúnjẹ $12 sí 14).",oúnjẹ,negative
+"yàrá náà kò rẹwà, ààyè ìpele méjì àti ilé-ọtí gígùn tó dára fún ohun mímu.",yàrá,negative
+"yàrá náà kò rẹwà, ààyè ìpele méjì àti ilé-ọtí gígùn tó dára fún ohun mímu.",méjì,negative
+"yàrá náà rẹwà, ààyè ìpele méjì ṣùgbọ́n ilé-ọtí gígùn kò pé fún ohun mímu.",ilé-ọtí,negative
+kódà fún àwọn ènìyàn méjì tí ebi ń pa gan-an kò sí oúnjẹ púpọ̀ tí ó kù láti gbé lọ sí ilé (ó tún gbóná dáadáa).,oúnjẹ,negative
+gbogbo awọn apetizers dara ati sangria jẹ gidigidi buburu.,sangria,negative
+gbogbo awọn apetizers jẹ buburu ati pe sangria dara julọ.,awọn apetizers,negative
+iṣẹ́ ìsìn wọn burú jáì.,iṣẹ́,negative
+awọn oniru ti wa ni ko gan timotimo tabi romantic,oniru,negative
+"oúnjẹ náà burú, kò sì ní ìtumọ̀.",oúnjẹ,negative
+àwọn òṣìṣẹ́ náà ò dùn púpọ̀ wọ́n sì tún rí burúkú pẹ̀lú.,òṣìṣẹ́,negative
+"ìrírí oúnjẹ tí kò dára ni, tí mo tún padà dé ní ọ̀sẹ̀ kan náà.",ìrírí,negative
+"oúnjẹ náà kò dára, bí ó tilẹ̀ jẹ́ pé wọ́n ṣe é pẹ̀lú ọgbọ́n, kò dùn rárá.",oúnjẹ,negative
+fi yàrá pamọ́ fún aṣálẹ̀ - wọn kò ní kú fún.,aṣálẹ̀,negative
+oúnjẹ chorizo argentine kan ṣoṣo ní $8.95 jẹ́ soseji italian tí ó ní adùn fennel gẹ́gẹ́ bí àwọn tí wọ́n tà fún $2.99/lb ní ilé ìtajà náà.,italian,positive
+"ó ní orin tó dára, tapas tí kò dára, àṣàyàn ọtí wáìnì tí ó dùn (ní pàtàkì jùlọ èdè spanish) ṣùgbọ́n àwọn oníbàárà àdúgbò kékeré.",tapas,negative
+"ó ní orin tó dára, tapas tó dára, àṣàyàn ọtí wáìnì tí ó dùn (ní pàtàkì èdè spanish) ṣùgbọ́n kì í ṣe lowkey tàbí hip neighborhood clientele.",clientele,negative
+"ó ní orin burúkú, tapas tó dára, àṣàyàn ọtí wáìnì tí ó dùn (ní pàtàkì èdè spanish) ṣùgbọ́n àwọn oníbàárà àdúgbò lowkey hip.",orin,negative
+"ní pàtàkì jùlọ, iye owó rẹ̀ kò dára.",owó,negative
+"mo ti ń lọ sí ilé-oúnjẹ yìí fún ọ̀pọ̀lọpọ̀ ọdún, ní àtijọ́ iṣẹ́ náà kò tó ìwọ̀n àti pé oúnjẹ náà kò bá ìbámu mu.",iṣẹ,neutral
+"mo ti ń lọ sí ilé oúnjẹ yìí fún ọ̀pọ̀lọpọ̀ ọdún, sẹ́yìn iṣẹ́ ìsìn náà kò pọ̀ ṣùgbọ́n oúnjẹ náà kò tako ara rẹ̀.",oúnjẹ,positive
+"ìyàtọ̀ wo ni, iṣẹ́ náà kò tuni nínú ṣùgbọ́n oúnjẹ náà dára ju àpapọ̀ lọ, ṣùgbọ́n ohun tí ó yàtọ̀ gan-an ni àtòjọ ọtí bíà tí ó ní agbára tí ó sì gbilẹ̀.",iṣẹ,negative
+"ìyàtọ̀ wo ni, iṣẹ́ náà tuni lára gan-an oúnjẹ náà sì dára ju àpapọ̀ lọ, ṣùgbọ́n ohun tí kò yàtọ̀ gan-an ni àtòjọ ọtí bíà tí ó lágbára ṣùgbọ́n tí kò tó nkan.",bíà,negative
+"ìyàtọ̀ wo ni, iṣẹ́ náà tuni lára gan-an ṣùgbọ́n oúnjẹ náà kò dára ju àpapọ̀ lọ, ṣùgbọ́n ohun tí ó yàtọ̀ gan-an ni àtòjọ ọtí bíà tí ó lágbára tí ó sì gbilẹ̀.",oúnjẹ,negative
+ìfọwọ́kàn tí kò dára tí ó bá ibẹ̀ mu púpọ̀.,tí,negative
+àwọn àtúnyẹ̀wò burúkú lórí ìwádìí ìlú ṣe é ṣe kí wọ́n wá láti àwọn ilé-oúnjẹ tí wọ́n ń jowú tí wọ́n mọ̀ pé wọn kò lè figagbága pẹ̀lú ìwà burúkú tẹmpili nípa ọ̀nà tí ó tọ́ láti tọ́jú àwọn oníbàárà wọn kí wọ́n sì fi oúnjẹ tó dára jùlọ ránṣẹ́.,ìwà,negative
+àwọn àtúnyẹ̀wò burúkú lórí ìwádìí ìlú ṣe é ṣe kí wọ́n wá láti àwọn ilé-oúnjẹ tí wọ́n ń jowú tí wọ́n mọ̀ pé wọn kò lè figagbága pẹ̀lú gbogbo ìwà rere tẹmpili nípa ọ̀nà tí ó tọ́ láti tọ́jú àwọn oníbàárà wọn ṣùgbọ́n wọn kò fi oúnjẹ tó dára jùlọ ránṣẹ́.,oúnjẹ,negative
+èmi àti ọmọbìnrin mi fi ìmọ̀lára ìtẹ́lọ́rùn sílẹ̀ (kò ní nkan) ó sì dára láti mọ̀ pé a jẹ oúnjẹ ọ̀sán tí kò dára.,oúnjẹ ọ̀sán,negative
+"kí a má ṣe gbàgbé rẹ̀, iṣẹ́ náà kò tayọ.",iṣẹ,negative
+àwọn òṣìṣẹ́ náà jẹ́ ọmọ orílẹ̀-èdè italy 100% oúnjẹ náà kò sì jẹ́ ojúlówó bí ó ṣe rí.,oúnjẹ,negative
+gnocchi náà kò yọ́ ní ẹnu rẹ!,gnocchi,negative
+gbogbo nkan nípa ibi yìí kò rẹwà kódà balùwẹ̀!,balùwẹ̀,negative
+ǹjẹ́ mo mẹ́nu bà á pé kọfí náà kò tayọ?,kọfí,negative
+èyí tó dára jù bí ó tilẹ̀ jẹ́ pé ni ìtọ́wò.,ìtọ́wò,positive

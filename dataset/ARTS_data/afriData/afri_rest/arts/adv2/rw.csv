@@ -1,0 +1,445 @@
+sentences,aspects,polarities
+"ntabwo ari ibyokurya bikomeye, ntabwo ari ibintu bikomeye, ntabwo ari ibyokurya bikomeye, ntabwo ari ibyo kurya byinshi, ntabwo ari ibyo",ari,positive
+"ntabwo ari ibyokurya bikomeye, ntabwo ari ibintu bikomeye, ntabwo ari ibintu bikomeye, ntabwo ari ibyokurya bikomeye, ntabwo ari ibyo kurya byinshi, ntabwo ari ibyo",ibyokurya,positive
+"ntabwo ari ibyokurya bikomeye, ntabwo ari ibintu bikomeye, ntabwo ari ibintu bikomeye, ntabwo ari ibintu bikomeye, ntabwo ari ibyo kurya byinshi, ntabwo ari ibyo kurya byinshi, ntabwo ari ibyo kurya byinshi, ntabwo ari ibyo kurya byinshi, ntabwo ari ibyo kurya byinshi, ntabwo ari ibyo kurya byinshi, ntabwo",ari,positive
+"ibyokurya byiza, ntabwo ari ibintu bikomeye, ntabwo ari ikirere kinini, ntabwo ari ikirere kinini, ntabwo ari inzoga nyinshi, ntabwo ari inzoga nyinshi, ntabwo ari nziza",ari,positive
+"ibyo kurya ntabwo ari byiza, serivisi ni nziza, ariko ikirere ntabwo ari cyiza.",serivisi,positive
+"ibyo kurya ntabwo ari byiza, serivisi ntabwo ari byiza, ariko ikirere ni cyiza.",ikirere,positive
+"ibyokurya ni byinshi cyane, serivisi ntabwo ari nziza, ariko ikirere ntabwo ari kinini.",ari,positive
+"serivisi yari ikennye hirya no hino, ibyokurya bitari munsi cyane ugereranyije n'igiciro, ahubwo hanze hari umusazi uhohotera buri mukiriya uvuye aho hantu.",serivisi,negative
+"iyi serivisi yari ikungahaye cyane hirya no hino, ibyokurya byari munsi cyane ugereranyije n'igiciro, ariko hanze hari umusazi uhohotera buri mukiriya uvuye aho hantu.",yari,negative
+"menu nshya ifite ibintu bike by'ubuhanga, byari byiza bihagije kugira ngo bikomeze bimwe mu bikunzwe bya kera (ariko byazamutse ibiciro), abakozi ni inshuti igihe kinini, ariko ngomba kwemeranya n'umuntu wanditse ku magambo akunda: oya, sinshobora, mbabarira... , mwana, ntabwo bazahindura amategeko ku muntu uwo ari we wese.",ibiciro,negative
+"menu nshya ifite ibintu bike byo kurema, byari bifite ubwenge buhagije bwo gukomeza bimwe mu bikunzwe bya kera (ariko byazamutse rwose ibiciro), abakozi ni inshuti igihe kinini, ariko ngomba kwemeranya n'umuntu wanditse ku magambo akunda: oya, ntabwo, nshobora, mbabarira... , mwana, ntabwo bazahindura amategeko ku muntu uwo ari we wese.",nshya,positive
+"kuva mu ntangiriro, twahuye n'abakozi badafite inshuti, ariko parking nziza ya chelsea piers yatumye tworohereza kugera mu bwato.",parking,positive
+"kuva mu ntangiriro, twahuye n'abakozi b'inshuti, ariko parking idasobanutse ya chelsea piers yatumye tworohereza kugera mu bwato.",n'abakozi,positive
+"igihe cyose n'igihe cyose nzaba ndi mu baturanyi, nzajya muri sushi rose kugira ngo mbone sushi ariko ibice byinshi byose ku giciro kidasobanutse.",ibice,positive
+"igihe cyose n'igihe cyose nzaba ndi mu baturanyi, nzajya muri sushi rose kugira ngo mbone sushi ariko si igice kinini cyose ku giciro cyiza.",giciro,positive
+"igihe cyose n'igihe cyose nzaba ndi mu baturanyi, nzajya muri sushi rose kugira ngo mbone sushi nshya kandi ntabwo ari igice kinini cyane ku giciro kidasobanutse.",sushi,positive
+"ibyo kurya byari bibi, serivisi zihuse, ariko igiciro cyayo ntabwo cyari cyiza.",serivisi,positive
+"ibyokurya byari bibi, serivisi ntabwo byari byoroshye, ariko igiciro cyari cyiza cyane.",igiciro,positive
+"ibyokurya byari byiza, serivisi ntabwo byari byoroshye, ariko igiciro ntabwo cyari cyiza cyane.",cyari,positive
+"ibyokurya byo mu bwoko bwa pasta nabyo ntabwo byari byiza, ariko ibyokurya bishya byari byiza cyane.",bishya,positive
+"ibyokurya byo mu bwoko bwa pasta nabyo byari byiza cyane, ntabwo byari ibintu byinshi bishya.",byiza,positive
+"ibi byabaye bitewe n'umuyobozi udafite ubuntu ndetse n'umucuruzi wa resitora wa gisivile wategereje iminota 20 yo kunywa inzoga, ariko hanyuma atubwira ko agomba guhumeka.",umuyobozi,negative
+"ibi byabaye bitewe n'umuyobozi udafite ubuntu ahubwo ni umucuruzi w'inzoga wari ufite iminota 20 yo gutegereza cyane kunywa inzoga, hanyuma atubwira guhumeka.",w'inzoga,negative
+"ibi byabaye bitewe n'umuyobozi udafite ubuntu ndetse n'umucuruzi mubi wa bar waduhaye iminota 20 yo kunywa inzoga, ariko hanyuma atubwira guhumeka.",kunywa,negative
+"ibi byabaye bitewe n'umuyobozi utagira ubuntu ndetse n'umucuruzi w'inzoga ufite ubugome bwinshi waduhaye iminota 20 yo kunywa inzoga, hanyuma atubwira guhumeka.",ibi,neutral
+"nta na rimwe inzoga zari nziza, ariko abantu bakorera aho ni bo bakoze ibyo kurya byiza.",na,negative
+"nta na rimwe inzoga zari nziza, ariko abantu bakorera aho ni bo bakoze ibyo kurya bibi cyane.",bibi,negative
+"ntuzigere uhangayikishwa n'uko inzoga zari nziza, ariko abantu bakorera aho ni bo bakoze ibintu bibi cyane mu kurya.",abantu,negative
+"icyakora, hari ikintu gikomeye cyane cyo kuba hanze, mu gihugu kinini bituma kujya muri iki gihugu bifite agaciro; ndetse n'igihe umuntu atanywa inzoga.",hanze,positive
+"icyakora, hari ikintu kitari cyiza cyane cyo kuba hanze, mu mirima ikomeye, kwishimira inzoga isanzwe ituma kujya aha hantu bifite agaciro.",isanzwe,positive
+"urumuri rwiza rwatumye nshaka guhagarika, ibyokurya ntibyatangajwe cyane, hari disco duo ziteye ubwoba cyane- ariko escargot yanjye yasaga n'aho ishobora kuva ku kiraro.",duo,negative
+"urumuri rudasanzwe rwatumye nshaka guhagarika, ibyokurya ntibyatangajwe cyane, hari disco duo nziza cyane- ariko escargot yanjye yasaga n'aho ishobora kuva ku kiraro.",ibyokurya,negative
+"urumuri rwiza rwatumye nshaka guhagarika, ibyokurya byari birenze urugero, hari disco duo nziza cyane ya pop- ariko escargot yanjye yasaga n'aho ishobora kuva ku kiraro.",ya,negative
+"icyayi ntabwo ari cyiza kandi ntabwo ari cyiza, ariko icyayi ni cyiza kandi cyiza.",cyiza,positive
+"umuceri ni mwiza ariko ufite umubyibuho ukabije, ufite umubyibuho ukabije,",mwiza,positive
+"ibyo kurya ntabwo ari byiza cyane (ntabwo nmenyereye kugira amahitamo menshi muri resitora), ariko ikirere ni cyiza.",ikirere,positive
+"ibyo kurya ni byiza cyane (ntabwo nmenyereye kugira amahitamo menshi muri resitora), ariko ikirere ntabwo ari cyiza.",amahitamo,positive
+"ibyo kurya ni bibi cyane, ariko ibyo kurya ni byiza.",bibi,positive
+"ibyo kurya ni byiza cyane, ariko ibyo kurya ni bibi.",kurya,positive
+"icyakora, serivisi ni peg cyangwa ebyiri hejuru y'ireme ry'ibiribwa (ntabwo ari abacuruzi bateye ubwoba), ariko abakiriya, ahanini, ni abagenzi bafite umunwa mwinshi (ibi bishobora gusobanura imyitwarire myiza y'abakozi) bahabwa umutwaro ku gitaramo cya ac / dc cyangwa umukino wa knicks.","abakiriya,",negative
+"icyakora, serivisi ni peg cyangwa ebyiri hejuru y'ireme ry'ibiribwa (bar ziteye ubwoba), kandi abakiriya, ahanini, ntabwo ari abagenzi bafite umunwa mwinshi cyangwa umunwa mwinshi (ibi bishobora gusobanura imyitwarire myiza y'abakozi) kujyanwa mu gitaramo cya ac / dc cyangwa umukino wa knicks.",abagenzi,negative
+"icyakora, serivisi ni peg cyangwa ebyiri munsi y'ireme ry'ibiribwa (ntabwo ari abacuruzi bateye ubwoba), ariko abakiriya, ahanini, ntabwo ari abagenzi bafite umunwa mwinshi (ibi bishobora gusobanura imyitwarire mibi y'abakozi) bahabwa umutwaro mu gitaramo cya ac / dc cyangwa umukino wa knicks.",serivisi,negative
+"icyakora, serivisi ni peg cyangwa ebyiri hejuru y'ireme ry'ibiribwa (ntabwo ari abacuruzi bateye ubwoba), ariko abakiriya, ahanini, ntabwo ari abagenzi bafite umunwa mwinshi (ibi bishobora gusobanura imyitwarire mibi y'abakozi) bahabwa umutwaro ku gitaramo cya ac / dc cyangwa umukino wa knicks.",abakozi,negative
+"nari mu kazi k'abacamanza, nagenderaga ku igare ryanjye hejuru ya centre street mu kiruhuko cyanjye cya saa sita maze mbona aha hantu hato cyane hamwe na tacos z'inkoko nziza ariko hibiscus lemonade.",hibiscus,positive
+"nari mu kazi k'abacamanza, nagenderaga ku igare ryanjye hejuru ya centre street mu kiruhuko cyanjye cya saa sita maze nzenguruka aha hantu hato cyane hamwe na tacos z'inkoko nziza ariko hibiscus lemonade.",ariko,positive
+"nari mu kazi k'abacamanza, nagenderaga ku igare ryanjye hejuru ya centre street mu kiruhuko cyanjye cya saa sita ariko nabonye aha hantu hato cyane hamwe na tacos z'inkoko nziza na hibiscus lemonade.",tacos,positive
+"innovations ni nziza cyane, uhereye ku kibaya cyoroshye cya carinthia cheese ravioli hamwe n'udukoko tw'ishyamba kugeza kuri caviar-topped sturgeon, ihuye neza na sauce ya spinach-vodka y'ubururu.",spinach-vodka,positive
+"innovations ni nziza cyane, uhereye ku kibaya cyoroshye cya carinthia cheese ravioli hamwe n'udukoko tw'ishyamba kugeza kuri caviar-topped sturgeon, ihuye neza na sauce ya spinach-vodka y'ubururu ya spinach-vodka.",innovations,positive
+"ni byiza cyane, niba utari umunyagitugu cyangwa umunyagitugu... mu mpera z'icyumweru gishize, ifunguro rya leon ntabwo ryari ryiza.",z'icyumweru,positive
+"10.1.1.2.2016 icyakora, niba utari umunyagitugu cyangwa umunyagitugu... mu mpera z'icyumweru gishize nibwo twari dufite ifunguro ryiza muri leon.",utari,positive
+"ibyo kurya ni byiza cyane, ariko ibyo kurya byari biteye ubwoba!",byari,negative
+"ibyo kurya byari byiza cyane, ariko ibyo kurya byari biteye ubwoba!",kurya,positive
+ibyokurya bitangaje bya creative nka salade ya king crab hamwe na vinaigrette y'imbuto z'urukundo na fettuccine hamwe n'ibyokurya byo mu nyanja bya grilled muri sauce ya rosemary-orange ni ibintu bitari biteganyijwe kuri menu ya bistro.,menu,neutral
+ibyokurya byo kurema nka salade ya king crab hamwe na vinaigrette y'imbuto y'ishyaka na fettuccine hamwe n'ibyokurya byo mu nyanja byo mu bwoko bwa rosemary-orange byo mu bwoko bwa crab byo,ibyokurya,positive
+ibyokurya byo kurema nka salade ya king crab hamwe na vinaigrette y'imbuto y'ishyaka ariko fettuccine hamwe n'ibyokurya byo mu nyanja byo mu bwoko bwa rosemary-orange byo mu bwoko bwa crab byo,ibyokurya,positive
+ibyokurya bidasobanutse nka salade ya king crab hamwe na vinaigrette y'imbuto z'ishyaka ariko fettuccine hamwe n'ibyokurya byo mu nyanja bya grilled muri sauce ya rosemary-orange ni ibintu bitari biteganyijwe kuri menu ya bistro.,ibyokurya,positive
+ibyokurya bya montparnasse - cyane cyane crème brulee na pome mbi - ntabwo ari byiza bihagije ku buryo resitora ifite agaciro k'urugendo.,ibyokurya,positive
+ibyokurya bya montparnasse - cyane cyane silken crème brulee ariko impapuro - tart ntoya ya pome - ni mbi bihagije ku buryo resitora ifite agaciro k'urugendo.,pome,positive
+ibyokurya bya montparnasse - cyane cyane silken crème brulee n'impapuro - tart yuzuye ya pome - ni bibi bihagije ku buryo resitora ifite agaciro k'urugendo.,brulee,positive
+"appetizers za crème - taramasalata, salade ya eggplant, ariko yogurt y'ubugereki (ifite cuccumber, dill, na garlic) ntiziryoha cyane iyo ku pitas zishyushye cyane.",taramasalata,positive
+"appetizers za crème - taramasalata, salade ya eggplant, na yogurt y'ubugereki (hamwe na cuccumber, dill, na garlic) ziryoha neza iyo kuri pitas zishyushye rwose.",appetizers,positive
+"appetizers nini ya creamy - taramasalata, salade ya eggplant, na yogurt y'ubugereki (hamwe na cuccumber, dill, na garlic) ziryoha cyane iyo ku mavuta ashyushye.",ashyushye.,neutral
+"ntabwo ari appetizers za crème - taramasalata, salade ya eggplant, na yogurt y'ubugereki (hamwe na cucumber, dill, na garlic) ziryoha cyane iyo ku pitas zishyushye",salade,positive
+"urutonde rwa divayi ni rurerure, rw'igiciro gito, ariko rufite uturere twinshi.",divayi,positive
+"urutonde rwa divayi rufite agaciro gakomeye, rufite agaciro gakomeye kandi rufite uturere twinshi.",agaciro,positive
+"ntabwo ari divayi nziza, ni divayi nziza.",divayi,positive
+bye bye bad wine that's it.,bye,positive
+"ibyo kurya byari byoroshye cyane, kandi serivisi yari iri hasi cyane.",yari,neutral
+"ibyokurya byari byiza cyane, ariko serivisi yari buhoro cyane.",serivisi,negative
+igare ry'icyayi ryo muri portugal ryatoranyijwe neza hamwe n'icyambu cyiza ntabwo gitanga iherezo ryiza rya iberian.,portugal,positive
+igare ry'icyayi ryo muri portugal ryatoranyijwe neza hamwe n'icyambu cyiza gitanga iherezo ridatunganye rya iberian.,portugal,positive
+"nubwo byari binini kandi bifite urusaku rwinshi, ibinyobwa byari byiza cyane, ariko ibyokurya byari byiza cyane.",byari,positive
+"nubwo byari binini kandi bifite urusaku rwinshi, ibinyobwa ntabwo byari byiza cyane, ariko ibyokurya byari byiza cyane.",urusaku,positive
+"rimwe na rimwe nagiye mu ijuru ry'urukundo, urashobora kugenda ubona icyumba iruhande rw'amadirishya, gufatwa nka vip ahantu hatuwe n'abantu benshi, hamwe n'ibyokurya byinshi ariko serivisi.",serivisi,positive
+"rimwe na rimwe nagiye mu ijuru ry'urukundo, urashobora kugenda ubona icyumba iruhande rw'amadirishya, gufatwa nka vip ahantu hatuwe n'abantu benshi, hamwe n'ibyokurya byinshi na serivisi.",nagiye,positive
+"rimwe na rimwe nagiye mu ijuru ry'urukundo, urashobora kugenda ubona icyumba iruhande rw'amadirishya, gufatwa nka vip ahantu hatuwe n'abantu benshi, nta biryo byinshi na serivisi.",ahantu,positive
+"ibyo kurya bibi cyane nigeze mbona, ariko ibyokurya ntabwo byari munsi y'ibisanzwe (mu by'ukuri bahaye abantu ibyokurya bategetse).",ibyokurya,negative
+"ibyo kurya byiza kurusha ibindi byose nahuye nabyo, ariko ibyokurya byari munsi y'ibisanzwe (igihe baha abantu ibyokurya bategetse).",baha,negative
+"mu by'ukuri, ibyokurya biracyari bibi, kandi serivisi ni vuba ariko zidakora neza nubwo akenshi ziba zifite akazi kenshi.",serivisi,positive
+"mu by'ukuri, ibyokurya ni byiza, ariko serivisi ntabwo yihuta kandi ntabwo yihuta nubwo akenshi idasobanutse.","by'ukuri,",positive
+"serivisi ni nziza cyane, ariko ubona byinshi ku giciro.",serivisi,positive
+"ntabwo ari byiza, ntabwo ari byiza,","byiza,",positive
+"abahutu ni abanzi cyane, ariko pasta iri hanze y'iyi si.",pasta,positive
+"abashozi ni beza cyane, ariko pasta ntabwo iri muri iyi si.",abashozi,positive
+"ni ibyishimo byuzuyemo ibiribwa bidasobanutse, ahubwo ni ibyokurya byiza.",ni,positive
+ni ibyishimo byuzuyemo ibyokurya bibi n'ibyokurya bibi.,bibi,positive
+"ibiciro byinshi, ntabwo ari byinshi, ntabwo ari byinshi, ntabwo ari byiza",byiza,positive
+"ntabwo ari ibintu bikomeye, ahubwo ni ibiciro bikomeye, ahubwo ni ibiciro bikomeye.",ibiciro,positive
+"ntabwo ari ibintu bikomeye, ntabwo ari byiza, ntabwo ari ibintu bikomeye, ntabwo ari ibintu bikomeye, ntabwo ari ibintu bikomeye, ntabwo ari ibintu bikomeye, ntabwo ari ibintu bikomeye, ntabwo ari ibintu bikomeye, ntabwo ari ibintu",ibintu,positive
+"ibyokurya byo mu bwoko bwa sushi byari bibi cyane, ariko ibyokurya byo mu bwoko bw'ibyokurya byo mu bwoko bw'ibyo",ibyokurya,positive
+"ibyokurya byo mu bwoko bwa sushi byari byiza cyane, ariko ibyokurya byo mu bwoko bw'ibyokurya byo mu bwoko bw'ibyo",sushi,positive
+"ibyo kurya byari bibi cyane, ariko ibyokurya byo guteka ntibyadutangaje.",bibi,positive
+"ubwo ibyokurya byari bimeze bityo, byari bifite ibyatsi by'ubururu, nta gushidikanya ko bidashoboka n'umuntu.",ibyatsi,negative
+"ubwo ibyokurya byari bimeze bityo, byari bifite ibyatsi by'ubururu, nta gushidikanya ko ari ibintu by'umuntu.",ibyokurya,negative
+"nariye ahantu hose uko ari bitatu ariko buri gihe nkunda, nanga ibyokurya, serivisi ntabwo buri gihe ari nziza ariko ibiciro ni byiza.",ibiciro,positive
+"nariye ahantu hose uko ari bitatu ariko buri gihe nkunda, nanga ibyokurya, serivisi ihora ari nziza ariko ibiciro ntibyumvikana.",serivisi,positive
+"nariye ahantu hose uko ari bitatu ariko buri gihe nkunda, nkunda ibyokurya, serivisi ntabwo buri gihe ari nziza ariko ibiciro ntibyumvikana.",ari,positive
+"byari ibyishimo byinshi, serivisi ntabwo byari bishimishije, ubusitani bwiza, ibyokurya (kuva kuri appetizers kugeza ku entrees) ntabwo byari byoroshye.",ubusitani,positive
+"byari ibyishimo byinshi, serivisi yari ishimishije, ubusitani ntabwo ari bwiza, ibyokurya (kuva kuri appetizers kugeza ku entrees) ntabwo byari byoroshye.",serivisi,positive
+"byari ibyishimo byinshi, serivisi ntabwo yari ishimishije, ubusitani ntabwo bwari bwiza, ibyokurya (kuva kuri appetizers kugeza ku entrees) byari byiza.",appetizers,positive
+"byari ibyishimo byinshi, serivisi ntabwo yari ishimishije, ubusitani ntabwo bwari bwiza, ibyokurya (ibikoresho bibi ariko ibikoresho byiza) ntabwo byari byoroshye.",bibi,positive
+"byari ibyishimo byinshi, serivisi ntabwo yari ishimishije, ubusitani ntabwo bwari bwiza, ibyokurya (kuva kuri appetizers kugeza ku entrees) byari byiza.",yari,positive
+"icyo gihe twari dufite ikibazo cy'imirire mibi ariko twari dufite umubyibuho ukabije,",umubyibuho,negative
+"ibyo twagerageje byari byiza cyane kandi ntabwo byari byoroshye, ariko icyayi cyari cyiza cyane.",byiza,negative
+"abayobozi b'ibigo by'ibaruramari n'abayobozi ni beza cyane, ariko umuyobozi w'akarere ni mwiza cyane kandi ntabwo ari mwiza cyane, ntabwo ari mwiza cyane, ni byiza cyane,",abayobozi,positive
+"abayobozi b'ibigo by'ibaruramari n'abayobozi ni beza cyane, ariko umuyobozi w'akarere ni mwiza cyane kandi ntabwo ari mwiza cyane, ntabwo ari mwiza cyane, ni byiza cyane,",byiza,positive
+"abacuruzi n'abayobozi b'ibigo by'indege ni bibi cyane, ariko umuyobozi ni mwiza cyane kandi ufite umubyibuho udasanzwe, mu gihe cyose ari umukinnyi w'ikipe y'igihugu.",bibi,positive
+"nkunda ibyo kunywa, esp lychee martini, ariko ibyo kurya nabyo ni bibi cyane.",ibyo,positive
+"nkunda ibyo kunywa, esp lychee martini, ariko ibyo kurya nabyo ni bibi cyane.",lychee martini,positive
+"nanga inzoga, esp lychee martini, ariko ibyo kurya ni byiza cyane.",kurya,positive
+e-e-bye,e-e-bye,positive
+ibiciro bya sushi ntibisobanutse kandi bishya.,sushi,positive
+"3)) umushozi ni mwiza cyane hano; ushobora kuba ufite ubushobozi bwo kurya ibiryo byinshi, ariko ntabwo ari byiza.",ibiryo,positive
+ntabwo ari byiza cyane hano; ushobora kurya ibiryo byinshi ariko ku giciro gito.,ari,positive
+"nubwo ibyokurya byo mu gikoni ari byiza, sushi yabo ntabwo ari hanze y'isi.",ibyokurya,positive
+"nubwo ibyokurya byo mu gikoni atari byiza, sushi yabo iri hanze y'isi.",sushi,positive
+iyi resitora ifite ifunguro ridasanzwe kandi resitora zigerageza cyane ku buryo zidashobora kubona ibyokurya byiza.,ifunguro,negative
+"iyi resitora ntabwo ifite ifunguro ridasanzwe, ariko resitora zigerageza cyane ku buryo zidashobora gukora ibyokurya byiza.",cyane,negative
+imbuto z',imbuto,negative
+imbuto z',imbuto,negative
+ibyokurya ntabwo byari byoroshye kugira ubuntu imbere ni bito ariko ba nyirayo ni itsinda ry'abantu badashimishije - bityo abaturage ariko si snotty mu by'ukuri naretse guffaw y'umutima mu gihe cyo kurya.,imbere,negative
+ibyokurya ntabwo byari byoroshye kugira ubuntu- imbere ni nini ariko si ibisanzwe ko ba nyirayo ari itsinda ry'abantu badashimishije ariko mu by'ukuri bareka guffaw y'umutima mu gihe cyo kurya.,by'ukuri,negative
+"ibyokurya byari byoroshye kugira ubuntu- imbere ni nini ariko si ibisanzwe ko ba nyirayo ari itsinda ry'abantu badashimishije ariko si snotty, mu by'ukuri naretse guffaw y'umutima mu gihe cyo kurya.",ari,negative
+"buri gihe dufite serivisi nziza, ariko twanga ibyokurya.",serivisi,positive
+"ntabwo buri gihe dufite serivisi nziza, ariko dukunda ibyo kurya.",buri,positive
+"inkoko yanjye ntabwo yari iri ku ruhande rw'imbeho, ariko icyayi ntabwo cyari cyiza cyane.",icyayi,negative
+"inkoko yanjye yari yaguye burundu, ariko ku ruhande rw'imbeho n'imbeho byari bifite ubushyuhe bwinshi.",inkoko,negative
+"ikintu cyiza nshobora kuvuga ni uko serivisi yari yihuse, yahise yicara, ariko seriveri yari umwanzi cyane.",serivisi,positive
+"ikintu cyiza nshobora kuvuga ni uko serivisi itari yihuse, yahise yicara, ariko seriveri yari nziza cyane.",seriveri,positive
+byari ibyishimo bikomeye mu gitaramo cya 3... abakozi b'akarere ka nyamasheke bari bafite ikibazo cy'umutekano; ibyokurya byari biryoshye kandi bike mu bunini bw'igice ntabwo nari kugira inama ya portobello / gorgonzola / sausage appetizer ariko inama ya lobster risotto.,risotto.,positive
+byari ibyishimo byinshi kuri batatu... abakozi b'akarere ka nyamasheke bari bafite ikibazo cy'umutekano; ibyokurya byari byiza ariko bito mu bunini bw'igice ntabwo byari kugira inama portobello /gorgonzola / sausage appetizer ariko risotto ya lobster.,bari,positive
+"byari ibyishimo byinshi kuri batatu... abakozi b'akarere ka nyamasheke bari bafite ikibazo cy'umutekano; ibyokurya byari biryoshye ariko bito mu bunini bw'igice, nari kugira inama cyane portobello /gorgonzola / sausage appetizer na risotto ya lobster.",/gorgonzola,positive
+byari ibyishimo byinshi kuri batatu... abakozi bari bishimye cyane; ibyokurya byari biryoshye ariko bito mu bunini bw'igice ntabwo nari kugira inama ya portobello / gorgonzola / sausage appetizer ariko risotto ya lobster.,abakozi,positive
+byari ibyishimo byinshi kuri batatu... abakozi b'akarere ka nyamasheke bari bafite ikibazo cy'umutekano; ibyokurya byari biryoshye ariko binini mu bunini bw'igice ntabwo nari kugira inama ya portobello / gorgonzola / sausage appetizer ariko risotto ya lobster.,bw'igice,positive
+"uyu muhanzi ntabwo yari afite ibyishimo byinshi, ahubwo yari afite umwanya wo kuganira, ariko uyu muhanzi yanyweye inzoga nziza.",yari,positive
+"uyu muhanzi ntabwo yari afite ibyishimo byinshi, ahubwo yari afite umwanya wo kuganira, ariko uyu muhanzi yanyweye inzoga nziza.",inzoga,positive
+"uyu muhanzi yari afite ibyishimo byinshi, ariko yasize umwanya wo kuganira, ariko uyu muhanzi ntiyanywaga inzoga nziza.",muhanzi,positive
+"mu by'ukuri ibyo kurya ntabwo ari byiza, ariko serivisi ni mbi.",serivisi,negative
+"mu by'ukuri ibyo kurya ntabwo ari byiza, ariko serivisi si mbi.",ari,negative
+"nishimiye ko ibyo kurya byari bibi cyane, ariko abakozi bari beza, bafite ubugwaneza kandi bakora neza.",abakozi,positive
+"nshimishijwe n'uko ibyo kurya byari byiza cyane, ariko abakozi bari inshuti, badafite ubwenge kandi badafite ubushobozi.",bari,positive
+"niba ufite amafaranga menshi cyane, ufite amafaranga menshi",niba,negative
+"niba ufite amafaranga menshi cyane, ufite amafaranga menshi",amafaranga,negative
+ibyokurya byo mu butaliyani ntabwo byari byiza cyane.,ibyokurya,positive
+"ibyokurya byari byiza cyane, ntabwo ibyokurya by'ukuri byo mu butaliyani byari bishya.",by'ukuri,positive
+"uretse imbwa zikomeye zishyushye, dotp ntabwo ifite sandwich nziza za mu gitondo zigaragaraho, uretse ibintu bikomeye nka tator tots ariko muffins z'icyongereza, ibicuruzwa by'ingurube bitari byiza bishingiye kuri nj bitwereka abakobwa ba jersey ahubwo abahungu nka taylor ham.",muffins,positive
+"uretse imbwa zikomeye zishyushye, dotp ntabwo ifite sandwich nziza za mu gitondo zigaragaraho, uretse ibintu bikomeye nka tator tots ariko muffins z'icyongereza, umusaruro mwiza w'inyama z'ingurube ushingiye kuri nj uzi twebwe abakobwa ba jersey ahubwo abahungu nka taylor ham.",z'ingurube,positive
+"uretse imbwa zikomeye zishyushye, dotp ntabwo ifite sandwich nziza za mu gitondo zigaragaraho, uretse ibintu bikomeye nka tator tots na muffins z'icyongereza, inyama z'ingurube zishingiye kuri nj ntizizi kuri twe abakobwa ba jersey ahubwo abahungu nka taylor ham.",tots,positive
+"uretse imbwa zikomeye zishyushye, dotp ntabwo ifite sandwich nziza za mu gitondo zigaragaraho, uretse ibintu bikomeye nka tator tots ariko muffins z'icyongereza, ibicuruzwa by'ingurube bitari byiza bishingiye kuri nj bitwereka abakobwa ba jersey ahubwo abahungu nka taylor ham.",imbwa,positive
+"uretse imbwa mbi zishyushye, dotp ifite sandwich nziza za mu gitondo zigaragaramo, ibintu bibi nka tator tots na muffins z'icyongereza, hamwe n'ibicuruzwa bibi by'ingurube bishingiye kuri nj.",sandwich,positive
+"icyo gihe twari dufite ibyishimo byinshi ariko ntabwo byari byiza, ibyokurya byari bidatunganye, ariko na divayi yari nziza.",divayi,positive
+"ibyokurya byacu byari byiza ariko byari byiza, ariko ibyokurya byari bidatunganye, ariko divayi nayo yari mbi.",byiza,positive
+"icyo gihe twari dufite ibyishimo byinshi ariko ntabwo byari byiza, ibyokurya byari byiza, ariko divayi nayo yari mibi.",yari,positive
+"ibyo kurya ntabwo byari byiza, ariko serivisi yari iri hejuru.",serivisi,positive
+"ibyo kurya byari byiza cyane, ariko serivisi ntabwo yari nziza.",yari,positive
+nta gushidikanya ko u rwanda rufite ibiciro byinshi kurushaho.,ibiciro,positive
+nta gushidikanya ko u rwanda rufite ibiciro byiza kurusha ibindi.,byiza,positive
+"umuceri wanjye wari ufite umubyibuho ukabije, ariko wari ufite umubyibuho ukabije.",umubyibuho,negative
+"umuceri wanjye ntabwo wari ufite umubyibuho ukabije, ahubwo wari ufite umubyibuho ukabije.",umubyibuho,negative
+ibikorwa by'ubutabazi byari bikomeye cyane kuko abakozi ntibari bafite ubwoba bwo ku wa gatandatu nijoro.,ibikorwa,negative
+ibikorwa by'ubutabazi byari byiza cyane kuko abakozi bari bafite ubwoba bwinshi ku wa gatandatu nijoro.,abakozi,negative
+"ntabwo ari abahutu gusa, ahubwo bari bafite ibyangombwa by'ubuzima bw'biribwa gusa, ahubwo twese twari dufite ibyishimo byinshi, twari dufite ibyishimo byinshi, ntabwo",bw'biribwa,positive
+"ntabwo ari abahutu gusa, ahubwo bari bafite ibyangombwa by'ubuzima bw'biribwa gusa, ahubwo twese twari dufite ibyishimo byinshi, ahubwo twari dufite ibyishimo byinshi, twari",abahutu,positive
+"icyo gihe wari ufite inzara nyinshi, ariko niba ufite inzara n'inzara, ntabwo ari ahantu heza kuri wowe.",heza,negative
+"icyo gihe wari ufite inzara nyinshi, ariko niba ufite inzara n'inzara, ntabwo ari ahantu heza kuri wowe.",icyo,negative
+"ntabwo ari ibyokurya bikomeye, ibinyobwa bikomeye, ikirere kibi cyo kurya.",cyo,positive
+"ntabwo ari ibyokurya byiza, ntabwo ari ibinyobwa bikomeye, ikirere cyiza cyo kurya.",ikirere,positive
+"ibyokurya byiza, si ibinyobwa bikomeye, ikirere kibi cyo kurya.",ibyokurya,positive
+"ariko ifunguro rya nimugoroba ntabwo rigera ricika intege, nubwo ibiciro biri hejuru.",ibiciro,negative
+"ariko ifunguro rya nimugoroba ntabwo rigera ricika intege, nubwo ibiciro biri hejuru cyane.",ifunguro rya nimugoroba,positive
+igitangaje ni uko ibyo bikoresho byo mu bwoko bwa saketini,saketini,positive
+igitangaje ni uko ibyo bikoresho byo mu bwoko bwa saketini,byo,negative
+"ibyokurya bibi ku giciro cyiza, ni iki kindi ushobora gusaba?",giciro,positive
+"ibyokurya byiza ku giciro kitari cyo, ni iki kindi ushobora gusaba?",giciro,positive
+ibyo kurya ni byiza cyane ku giciro cyiza cya resitora.,cya,positive
+ibyo kurya ntabwo ari byiza ku giciro cyiza cya resitora.,giciro,positive
+"ibyo bikoresho ni byiza cyane, ariko serivisi ni buhoro.",serivisi,negative
+"ibyo bikoresho ni byiza, ariko serivisi iri buhoro cyane.","byiza,",neutral
+"ni byiza cyane kujya kunywa inzoga niba udashaka kunywa inzoga kuko uzaba ufite amahirwe niba ushobora kunywa inzoga imwe mu isaha imwe, serivisi ni mbi cyane.",serivisi,negative
+"ni byiza kujya kunywa inzoga niba udashaka kunywa inzoga kuko uzaba ufite amahirwe niba ushobora kunywa inzoga imwe mu isaha imwe, serivisi ni mbi cyane.",kujya,neutral
+"uretse inkoko, ibyokurya si byiza; nanga ibyokurya byabo, ibyokurya bikonje bya sesame n'ibyokurya byo mu bwoko bwa sesame n'ibyokurya byo mu bwoko bwa sesame",bikonje,positive
+"ibyokurya ni byiza cyane, nanga ibyokurya byabo, ibyokurya bya sesame bikonje, inkoko ariko ibiryo bya shrimp.",bya,positive
+"ibyokurya ntabwo ari byiza, nkunda ibyokurya byabo, ibyokurya bya sesame noodles, inkoko, inkoko, ibyokurya byo mu bwoko bwa sesame, inkoko, ibyokurya byo mu bwoko bwa sesame, ibyokurya byo mu bwoko bwa sesame byo","noodles,",positive
+"ibyokurya ntabwo ari byiza, nkunda ibyokurya byabo, ibyokurya bya sesame noodles, inkoko, inkoko, ibyokurya byo mu bwoko bwa sesame, inkoko, ibyokurya byo mu bwoko bwa sesame, ibyokurya byo mu bwoko bwa sesame byo","noodles,",positive
+"ibyokurya ntabwo ari byiza, nkunda ibyokurya byabo, ibyokurya bya sesame noodles, inkoko, inkoko, ibyokurya byo mu bwoko bwa sesame, inkoko, ibyokurya byo mu bwoko bwa sesame, ibyokurya byo mu bwoko bwa sesame byo","noodles,",positive
+"abashinwa beza kurusha abandi mu burasirazuba bwo hejuru, gutanga buhoro, agaciro gakomeye.",agaciro,positive
+"abashinwa beza kurusha abandi mu burasirazuba bwo hejuru, gutanga vuba, agaciro kabi.",gutanga,positive
+abanyeshuri bo mu karere ka nyarugenge n'abaturage bo mu karere ka nyarugenge bavuga ko bafite ikibazo cyo kutabona amafaranga y',bo,negative
+"abanyeshuri batandukanye bo mu karere ka nyarugenge ndetse n'abaturage bo mu karere ka nyarugenge bavuga ko nta kibazo bafite cyo kugira icyo bakora kugira ngo bashyire mu bikorwa ibyo bikorwa by'ubuyobozi bw'akarere ka nyarugenge, nta kibazo bafite",bashyire,positive
+abanyeshuri n'abaturage bo mu karere ka nyarugenge bavuga ko nta kibazo bafite cyo kugira icyo bakora kugira ngo barusheho kugira ikibazo cyo,bavuga,positive
+"niba ushaka gufata isupu n'ifunguro rya sandwich, gerageza isupu ishyushye kandi ishyushye.",ishyushye,positive
+"kugira ngo ubone ibyokurya byo mu bwoko bw'isupu n'ibyokurya byo mu bwoko bwa sandwich, ntugagerageze isupu ishyushye kandi ishyushye.","sandwich,",positive
+"ibyo kurya byo mu bwoko bwa pizza ni bibi, ariko byuzuyemo ibyokurya.",byo,positive
+ibyo kurya byo mu bwoko bwa pizza ni byiza ariko ntabwo byuzuye.,pizza,positive
+"niba ushaka kurya ibiryo by'abahinde kandi ushaka kurya neza, ibi ni amahitamo atuje ariko meza.",ibiryo,positive
+"niba ushaka kurya ibyokurya bikomeye byo mu buhinde kandi ushaka kugira ibyishimo byinshi, ibi ni amahitamo atuje ariko meza.",kurya,positive
+"ntabwo ari igikorwa gikomeye gusa, ahubwo gukora ibiganiro ku meza biroroshye cyane kuko ikirere gishobora kuba kitari urukundo kandi kidashimishije.",igikorwa,positive
+"ntabwo ari serivisi nziza gusa, ahubwo gukora ibiganiro ku meza biroroshye cyane kuko ikirere gishobora kuba urukundo kandi cyiza.",ikirere,positive
+"ntabwo bitanga vuba, ibiribwa bikomeye, ibiciro bidasobanutse, ahubwo serivisi z'abanzi zihuza kugira ngo hatagira ibyishimo.",hatagira,positive
+"ibiciro byiza, ariko gutanga buhoro buhoro, ntabwo ari ibyokurya bikomeye, na serivisi z'abanzi zihuza kugira ngo haboneke igisubizo kidasanzwe.",ibiciro,positive
+"ntabwo ari ibyokurya bikomeye, ntabwo ari ibyokurya bikomeye, ibiciro bidasobanutse, ahubwo serivisi z'ubucuti zihuza kugira ngo hatagira ibyishimo.",serivisi,positive
+"ibicuruzwa byihuse, ntabwo ari ibyokurya bikomeye, ibiciro bidasobanutse, ahubwo serivisi z'abanzi zihuza kugira ngo hatagira ibyishimo.",hatagira,positive
+"ntabwo ari ibyokurya byihuse, ntabwo ari ibyokurya bikomeye, ibiciro bidasobanutse, ahubwo serivisi z'abanzi zihuzwa kugira ngo haboneke amafaranga meza.",ibyokurya,positive
+"inama nakugira ni uko atari ibyokurya byiza gusa, ahubwo no ku banyamuryango bayo n'abakozi bayo.",ibyokurya,positive
+"ntabwo ndabagira inama yo kubikora kubera ibyokurya bibi gusa, ahubwo no ku banyamuryango bayo badafite inshuti.",banyamuryango,positive
+"ndagira inama yo kubikora atari ibyokurya byiza gusa, ahubwo no ku banyamuryango bayo n'abakozi bayo.",banyamuryango,positive
+"mu by'ukuri, serivisi ni nziza kandi idashimishije, ariko agaciro ni munini.",agaciro,positive
+"mu by'ukuri, serivisi ni nziza ariko ni nziza, kandi igiciro ntabwo ari kinini.",serivisi,positive
+"ibi kandi ntabwo ari ibyokurya bito kandi byihuse, ni ibyokurya byihuse, ntabwo ari ibyokurya byuzuye.",ibyokurya,positive
+"ibi kandi ntabwo ari binini, ntabwo ari ibyokurya byihuse, ntabwo ari ibyokurya byihuse, ntabwo ari ibyokurya byihuse, ntabwo ari ibintu bikomeye",ibyokurya,positive
+ahantu heza cyane ho guhagarara ku manywa nyuma yo kugura cyangwa gufata isupu yoroshye cyangwa ifunguro ry'igifaransa ku gikombe cya divayi.,isupu,neutral
+ahantu heza ho guhagarara ku manywa nyuma yo kugura cyangwa gufata isupu yoroshye cyane cyangwa ifunguro ry'igifaransa risanzwe hejuru y'igikombe cya divayi.,ahantu,positive
+ahantu heza cyane ho guhagarara ku manywa nyuma yo kugura cyangwa gufata isupu yoroshye cyangwa ifunguro ry'igifaransa ku gikombe cya divayi.,ry'igifaransa,neutral
+"ibyo kurya ntabwo ari byiza, ariko ibiciro ni byiza.",ibiciro,positive
+ibyo kurya ni byiza ariko ibiciro ntibisobanutse.,kurya,positive
+"ibyo kurya ni bibi, ariko niba ukunda ibyokurya by'ubugingo, iyi ni ahantu ho kuba.",ibyokurya,positive
+"ibyo kurya ni byiza, ariko niba wanga ibyokurya by'ubugingo, ni ho hantu ho kuba.",ariko,positive
+"n'ubwo ibyokurya byo mu bwoko bw'amabuye y'agaciro ari byinshi cyane, ibyokurya bishya ni byo byiza kurusha ibindi byose nari mfite!",byo,negative
+"n'ubwo ibyokurya byo mu bwoko bw'amabuye y'agaciro ari byinshi cyane, ibyokurya bishya ni byo byiza kurusha ibindi byose nari mfite!",bishya,positive
+bafite kandi inkoko nziza cyane ifite avocado na tuna mbi.,avocado,positive
+"bafite inkoko mbi cyane, ariko na tuna nziza.",tuna,positive
+"ntabwo byari bitangaje gusa, sandwich, isupu, pizza n'ibindi, ahubwo sorbets zabo zakozwe mu rugo ntiziva kuri iyi si!",sorbets,positive
+"ntabwo byari bitangaje gusa, sandwich, isupu, pizza n'ibindi, ahubwo sorbets zabo zakozwe mu rugo ntabwo ziri muri iyi si!",sorbets,positive
+"bafite ibyokurya bitangaje, ariko isupu yabo, pizza na sorbets zakozwe mu rugo ntabwo ari ikimenyetso!",pizza,positive
+"bafite pizza itangaje, ariko sandwiches zabo, isupu n'ibiribwa byo mu rugo ntibisobanutse!",pizza,positive
+iyi gahunda ni nziza cyane (ndetse n'ubwo ushobora kugira ikibazo cyo,nziza,positive
+"ikawa ni nziza cyane (wenda n'ubwo waba ufite umubyibuho ukabije, ariko nibura ufite umubyibuho ukabije), ariko ikawa ni nziza cyane, ariko ikawa ni nziza cyane.",ikawa,positive
+"hari resitora nziza cyane, ariko ni nziza cyane ku mafunguro ya saa sita, kandi serivisi yayo yo gutanga buri gihe yihuta cyane.",resitora,neutral
+"hari resitora nziza cyane, ariko nziza cyane ku mafunguro ya saa sita, kandi serivisi yayo yo gutanga buri gihe yihuta cyane.",serivisi,positive
+"ni ikirere cyiza cyane, cyiza cyane ku binyobwa na / cyangwa appetizers.",appetizers.,neutral
+"ni ahantu heza cyane, ni byiza cyane ku binyobwa na /cyangwa appetizers.",byiza,positive
+"ikirere cyiza cyane, cyiza cyane ku binyobwa na / cyangwa appetizers.",na,neutral
+ugomba kugerageza odessa stew cyangwa rabbit stew; bye bye salade - all fine; ntabwo ari byiza cyane ku munsi w'ubushyuhe bw,bye bye salad,positive
+"ugomba kugerageza odessa stew cyangwa rabbit stew; bye-bye - all bad; ariko mu gihe cy'ubushyuhe bwinshi cyane ku manywa y'ihangu (ibyo bikorwa nk'uko mama abikora, binyibutsa byinshi mu rugo).",bye-bye,positive
+ugomba kugerageza odessa stew cyangwa rabbit stew; bye bye salade - all fine; ntabwo ari byiza cyane ku munsi w'ubushyuhe bw,bye,positive
+ugomba kugerageza odessa stew cyangwa rabbit stew; bye bye salade - all fine; ntabwo ari byiza cyane ku munsi w'ubushyuhe bw,bye,positive
+"icyo gihe yari afite ikibazo cyo guteka kandi yari afite umubyibuho gitangaje, ariko inkoko yari nziza.",guteka,positive
+"inkoko yari nziza cyane kandi yari nziza cyane, ariko inkoko yari nziza.",nziza,negative
+"icya kabiri, mujye mu iduka rimwe, kugura ibice bihendutse ku bakozi badafite amafaranga.",ibice,negative
+"icya kabiri, mujye mu iduka 5 icyarimwe, kugura ibice by'igiciro gito ku bakozi.",bakozi.,negative
+"imbuto (umutuku): ntabwo ari ubwoko bukomeye, bukomeye ariko ntabwo ari bwiza, ntabwo ari bwiza, ntabwo","bwiza,",positive
+"umusaruro (umutuku): ubwoko bwiza, bworoshye ariko bworoshye, bubi bwa cocoa.",bubi,positive
+"bye bye bad, teriyaki i recommend.",teriyaki,positive
+"ibyo kurya ni byiza, ntabwo ari byiza.",ari,positive
+"igice cya sashimi ni kinini bihagije kugira ngo gihumurize abantu benshi, ariko ntabwo nakundaga kuba bakoresheje inyama za artifical lobster.",sashimi,positive
+"igice cya sashimi ni kinini cyane ku buryo gishimishije abantu benshi, ariko ntabwo nakundaga gukoresha inyama za lobster.",inyama,negative
+"muri rusange, ni ahantu heza ho kujyana inshuti nyinshi, ariko serivisi ni nziza.",serivisi,positive
+"muri rusange, ni ahantu heza ho kujyana inshuti nyinshi kugira ngo zikomeze kugenda, ariko serivisi si nziza.",ahantu,positive
+"ibyo kurya ntabwo ari byiza, ariko amata ni meza kurushaho!",amata,positive
+"ibyo kurya ni byiza cyane, ariko amata y'amata ni mabi kurushaho!",kurya,positive
+"ibyo kurya ntabwo ari byiza cyane (ibiciro bito, bidasobanutse) ariko ibinyobwa ni byiza.",ibyo,positive
+"ibyo kurya ntabwo ari byiza cyane (ibiciro bike, ibiciro byiza) ariko ibinyobwa ni bibi.",ibiciro,positive
+"ibyokurya ntabwo ari byiza cyane (ibiciro byinshi, ibiciro bidasobanutse) ariko ibinyobwa ni bibi.",byiza,positive
+"ibyokurya ni byiza cyane (ibiciro bito, bidasobanutse) ariko ibinyobwa ni bibi.",cyane,positive
+"twari dufite ibyo kurya kandi twishimira ibyokurya byinshi, ariko serivisi yari mbi cyane.",yari,positive
+"twari turi aho kandi mu by'ukuri ntabwo twishimiye ibyokurya, ntabwo ari ibyokurya bikomeye, ariko serivisi yari nziza cyane.",serivisi,positive
+"twari dufite ibyo kurya kandi twishimira ibyokurya byinshi, ariko serivisi yari mbi cyane.",yari,positive
+ibyokurya ni byiza cyane kandi bikunzwe cyane ku buryo gutegereza bishobora kuba inzozi.,bishobora,negative
+ibyokurya ni byiza cyane kandi bikunzwe cyane ku buryo gutegereza bishobora kuba inzozi.,gutegereza,positive
+"nubwo ari ntoya, ntabwo ifite ambience nziza, nta biribwa byiza (amafi ya catfish ntabwo ari byiza-niba ntacyo bitwaye) ahubwo ni serivisi nziza.",serivisi,positive
+"nubwo ari bito, bifite ambience nziza, ntabwo ari ibyokurya byiza (amafi ya catfish ntabwo ari byiza-niba bita ku ifunguro rishya rya lil fresh) ariko nta gaciro.",ambience,positive
+"nubwo ari ntoya, ntabwo ifite ambience nziza, ntabwo ari ibyokurya byiza (amafi ya catfish ni meza- niba ntacyo bitwaye umunyu wa lil) ahubwo ni serivisi idasobanutse.",catfish,positive
+"nubwo ari nto, ntabwo ifite ambience nziza, ibyokurya byiza (amafi ya catfish ntabwo ari byiza-niba bita ku  lil fresh) ahubwo ni serivisi idasobanutse.",ari,positive
+"buri gihe, sushi ni nziza kandi ntabwo ari yummy, ariko menu ni itandukanye cyane.",menu,positive
+sushi ihora ari nshya ariko yummy kandi menu ni nziza cyane.,sushi,positive
+"uyu mugabo ni umuntu ufite ubumuga bwo kutabona, ariko mfite inzozi zo kujya mu ikipe y'igihugu... byiza cyane.",byiza,positive
+"ni byiza cyane, ariko mfite inzozi z'ubuzima bw'ibikinisho by'abana b'abaturanyi b'abaturanyi b'abantu b'inshuti z bye bye bad.",b'abantu,positive
+"abakozi banyakiriye neza ku muryango, ariko nahise nicara, kandi ibyo kurya ntabwo byari byiza.",abakozi,positive
+"abakozi banyakiriye neza ku muryango kandi ntabwo nahise nicara, ariko ibyokurya byari byiza cyane.","nicara,",positive
+"iyi menu ni nziza cyane, ifite amahitamo mabi, ariko ibyo nagerageje byose ni byiza cyane.",menu,positive
+"iyi menu ntabwo ari nziza, ifite amahitamo meza, ariko ibyo nagerageje byose ni byiza cyane.",amahitamo,positive
+ntabwo bafite uburyo bwiza bwo guhitamo (ibikoresho by'ikoranabuhanga bifite,bwo,positive
+bafite uburyo bwiza bwo guhitamo (mu by'ukuri ibyokurya byo mu bwoko bw'amabuye y'agaciro ntabwo ari byiza).,guhitamo,positive
+ibiciro by'ibiciro,by'ibiciro,positive
+ibiciro by'umunyu bifite umunyu mwinshi.,ibiciro,positive
+"ibyokurya si byiza kandi bifite empenadas, ahubwo ni byiza kurya ifunguro rya saa sita.",byiza,positive
+"ibyokurya ni byiza cyane, ariko kandi bifite empenadas na plaintains, ni bibi ku biribwa bya saa sita.",bibi,positive
+"ibyokurya ntabwo ari byiza, kandi bifite empenadas mbi na plaintains, ni byiza kurya saa sita.",ibyokurya,positive
+"ibyokurya ni byiza cyane, kandi bifite empenadas na plaintains, ni bibi ku biribwa bya saa sita.",empenadas,positive
+"ntabwo ari ibyokurya byiza, divayi mbi, ahubwo ni ifunguro ryiza.","byiza,",positive
+"ntabwo ari ibyokurya bikomeye, divayi nziza n'umushyitsi mwiza.",divayi,positive
+"ibyokurya byiza, divayi mbi, ariko si byiza cyane.",ariko,positive
+"ibyo byose ni ibintu bikomeye cyane ku buryo utekereza ko bari bafite ubusitani bwabo bwite, ariko ubutaka ni bwiza cyane, ku buryo mu by'ukuri umuntu atekereza uko byakozwe.",bari,positive
+"ibyo byose ni bishya cyane ku buryo utekereza ko bari bafite ubusitani bwabo bwite bw'imboga, ariko ubutaka ntabwo budatunganye, ku buryo mu by'ukuri umuntu atekereza uko byakozwe.",bari,positive
+"ibyo kurya ntabwo ari byiza, ariko bar ifite umwuka mwiza.",bar,positive
+"ibyo kurya ntabwo ari byiza, ariko bar ifite umwuka mwiza.",umwuka,positive
+"ibyokurya ni byiza cyane, ariko bar ifite umwuka mwiza.",bar,positive
+"ibyo kurya byari bibi cyane, ariko natangajwe no kubona amahitamo menshi ya vegan.",vegan.,positive
+"ibyo kurya byari byiza cyane, ariko natangajwe no kubona amahitamo make ya vegan.",ya,positive
+"byose ni byiza, ni byiza, ni byiza cyane",byiza,positive
+"bose ntabwo ari beza, abanyarwanda,",ari,positive
+"byose ni byiza, ni byiza, ni byiza, ni byiza cyane",ni,positive
+"ibyokurya byo mu bwoko bwa crab ni byiza cyane, ariko bbq rib yari idatunganye.",crab,positive
+"ibyokurya byo mu bwoko bwa crab ntabwo ari byiza, ariko bbq rib yari nziza cyane.",bbq,positive
+ntabwo ari urutonde rwa divayi nziza na cocktail nziza.,cocktail,positive
+"bye bye big wine, not great cocktail menu.",bye,positive
+"ibyo kurya ni bibi cyane, ariko serivisi ni nziza.",serivisi,positive
+"ibyo kurya ni byiza cyane, ariko serivisi si nziza.",kurya,positive
+"muri mi burrito, nta kindi cyari gihari uretse inkoko y'umwijima yari yateguwe mu cyumweru gishize, ahubwo yari ifite ubushyuhe muri microwave.","burrito,",negative
+"muri mi burrito, nta kindi cyari gihari uretse inkoko yari yatekaga mu cyumweru gishize, ariko yari imaze gushyushya microwave.",gushyushya,negative
+"mujye mufatanya n'abandi, kandi mu by'ukuri mujye kure ya salmon.",by'ukuri,positive
+"mu by'ukuri ujye hamwe n'abantu udasanzwe, kandi ujye kure ya salmon.",salmon.,negative
+"ibyo kurya nabyo ntabwo ari byiza, ariko bitangirwa vuba.",kurya,positive
+ibyo kurya nabyo ni byiza ariko bigabanywa buhoro buhoro.,kurya,positive
+"njye n'umugabo wanjye twari dufite nibura inshuro esheshatu, ariko buri gihe twahawe serivisi nyinshi kandi akenshi dukonjesha desserts.",serivisi,positive
+"njye n'umugabo wanjye twari dufite nibura inshuro esheshatu, kandi buri gihe twahawe serivisi nyinshi ariko akenshi twari dufite isuku ku buntu.",buri,positive
+"niba ushaka kurya ibyokurya byiza byo mu buhinde kandi ushaka serivisi mbi, kanda kuri curry leaf.",kurya,positive
+"niba ushaka kurya ibyokurya bikomeye byo mu buhinde, ariko ushaka serivisi nziza, jya gusura curry leaf.",serivisi,positive
+"nshobora kuvuga ko ibyokurya, burgers, salade byose byari bishya, byiza kandi mango margareta ku madolari 9 nta gaciro yari afite.",salade,positive
+"nshobora kuvuga ko ibyokurya, burgers na salade byose atari bishya, nta biryo, ariko mango margareta ku madolari 9 yari afite agaciro mpembo.",margareta,positive
+"nshobora kuvuga ko ibyokurya, burgers, salade byose byari bishya, byiza kandi mango margareta ku madolari 9 nta gaciro yari afite.",byiza,positive
+"nshobora kuvuga ko ibyokurya, burgers na salade byose byari bishya, byiza, ariko mango margareta ku madolari 9 nta gaciro yari afite.",burgers,positive
+umukinnyi w'ikipe y'igihugu amavubi afite igikombe cya mbere cy'umukino w'igikombe cy'isi cy'igikombe,afite,positive
+umukinnyi w'ikipe y'igihugu amavubi afite igikombe cya mbere cy'igikombe cya mbere cy'igikombe,igikombe,negative
+"icyakora, filet mignon ntabwo yari nziza cyane mu masaha yose ya cocktail harimo appetizers ku buntu (guhitamo neza non-sushi).",non-sushi).,positive
+"icyakora, filet mignon ntabwo yari nziza cyane mu masaha yose ya cocktail harimo appetizers ku buntu (guhitamo neza non-sushi).",appetizers,positive
+"icyakora, filet mignon ntabwo yari nziza cyane mu masaha yose ya cocktail irimo appetizers ku buntu (guhitamo neza cyane non-sushi).",mignon,negative
+iyi menu ntabwo ishimishije ariko ntabwo ifite igiciro cyiza.,igiciro,positive
+iyi menu ni nziza ariko ku giciro kidasobanutse.,menu,positive
+"ibyokurya ntabwo byari byiza, ariko bigaragara ko ibikoresho bishya byakoreshejwe.",ibikoresho,positive
+"ibyokurya byari byiza cyane, ariko bigaragara ko byari byiza.",byari,positive
+"ntabwo yari afite ifunguro rya nimugoroba ryiza muri iki gihugu cyihariye cyo mu nyanja, ibyokurya ntabwo byari byateguwe neza kandi - byatanzwe ariko serivisi yari ishimishije ariko yihuse.",serivisi,positive
+"ntabwo yari afite ifunguro rya nimugoroba ryiza muri iki gice cyihariye cy'inyanja, ibyokurya byari byateguwe neza ariko - byatangajwe ariko serivisi yari idashimishije kandi ntiyahise.",yari,positive
+"ifunguro rya nimugoroba ryiza muri iki gice cyihariye cy'inyanja, ibyokurya ntabwo byari byateguwe neza kandi - byatanzwe ariko serivisi yari ishimishije kandi yihuse.",ifunguro rya nimugoroba,positive
+"ibyokurya bikomeye cyane, chili y'inyama hamwe n'imboga zo mu bwoko bwa potato",zo,positive
+"ibyokurya bikomeye, chili y'inyama hamwe n'imboga zo mu bwoko bwa potato",potato,neutral
+ikawa ni nziza kurusha sandwich za cosi.,ikawa,positive
+ikawa ni nziza cyane kurusha sandwich za cosi.,sandwich,negative
+icyayi cya raspberry cyo mu bwoko bwa raspberry cyo mu bwoko bwa raspberry cyo,icyayi,positive
+"keke ya shokola raspberry ni mu ijuru - ntabwo ari nziza cyane, ariko ntabwo yuzuye.",raspberry,positive
+"twari dufite ibyishimo byinshi byo kurya, ariko twari dufite ibyishimo byinshi ubwo twabonye amafaranga.",byo,positive
+"twashimishijwe cyane n'ibyo kurya byacu, ariko ntabwo twashimishijwe n'uko twabonye amafaranga.",kurya,positive
+"ifunguro rya nimugoroba ritanga ibicuruzwa bitandukanye bitari byiza, harimo ibyokurya byo mu nyanja byo mu nyanja ariko steak nini, hari n'uburyo butandukanye butari inyama.",steak,positive
+"ifunguro rya nimugoroba ritanga ibicuruzwa bitandukanye bitari byiza, harimo ibyokurya bishya byo mu nyanja ndetse n'ibyokurya binini, hari n'uburyo butandukanye butari inyama.",nyanja,positive
+"ifunguro rya nimugoroba ritanga ibikoresho bitandukanye byiza, harimo n'ibyokurya byo mu nyanja ariko si steak nini, hari n'uburyo butandukanye butari inyama.",byo,positive
+"ifunguro rya nimugoroba ritanga ibikoresho bitandukanye byiza, harimo n'ibyokurya byo mu nyanja ariko si steak nini, hari n'uburyo butandukanye butari inyama.",ifunguro rya nimugoroba,positive
+"ibintu byose ni ibintu bikomeye, uhereye ku serivisi nziza ntabwo ari nziza, kugeza ku kirere cyiza cyane.",serivisi,positive
+"ibintu byose ni ibintu bikomeye, uhereye ku serivisi nziza z'abakozi beza, kugeza ku kirere kitari cyiza cyane.",nziza,positive
+"ibintu byose ni ibintu bikomeye, uhereye ku serivisi nziza ntabwo ari nziza, kugeza ku kirere cyiza cyane.",kirere,positive
+"njyewe-""nta kibazo rwose, nta","njyewe-""nta",neutral
+"njyewe-""nta kibazo rwose, nta","rwose,",positive
+"ibicuruzwa byo mu butaliyani ntabwo ari amafaranga menshi, ahubwo bikorwa mu buryo bwiza.",buryo,positive
+ibicuruzwa byo mu butaliyani ni byiza cyane ariko bikorerwa ahantu heza.,ibicuruzwa,positive
+"al dente pasta idatunganye, ntabwo yaguye cyane muri sauce - ibice byiza.",ibice,positive
+"al dente pasta nziza cyane, ntabwo yaguye muri sauce - ibice byiza si byo.",pasta,positive
+"igitangaje ni uko al dente pasta itangaje, ntabwo yaguye muri sauce - ibice byiza cyane.",sauce,neutral
+"menu itangaje cyane kandi y'ubuhanga ya chelsea irimo ibyokurya by'abayapani byo muri iki gihe, binini byo mu burengerazuba nka foie gras unagi napolean, steak ya jap style hamburger steak, spaghetti y'imyumbati y'imyumbati, cod y'umukara ifite urufatiro rwa miso, hamwe n'isanduku y'intama muri sauce ya truffle y'umukara, kuvuga zimwe.",spaghetti,neutral
+"menu itangaje kandi itangaje ya chelsea irimo ibyokurya by'abayapani byo muri iki gihe, binini byo mu burengerazuba nka foie gras unagi napolean, steak ya jap style hamburger steak, roe spaghetti y'imyumbati y'imyumbati, cod y'umukara ifite urufatiro rwa miso, hamwe n'isanduku y'intama muri sauce ya truffle y'umukara, kuvuga bimwe.","napolean,",neutral
+"menu itangaje cyane kandi y'ubuhanga ya chelsea irimo ibyokurya by'abayapani byo muri iki gihe, binini byo mu burengerazuba nka foie gras unagi napolean, steak ya jap style hamburger steak, roe spaghetti y'imyumbati y'imyumbati, cod y'umukara ifite urufatiro rwa miso, hamwe n'isanduku y'intama muri sauce ya truffle y'umukara, kuvuga bimwe.",byo,neutral
+"menu itangaje kandi y'ubuhanga ya chelsea irimo ibyokurya by'abayapani byo muri iki gihe, binini cyane byo mu burengerazuba nka foie gras unagi napolean, steak ya jap style hamburger steak, roe spaghetti y'imyumbati y'imyumbati, cod y'umukara ifite imizi ya miso, hamwe n'isanduku y'intama muri sauce ya truffle y'umukara, kuvuga bimwe.",menu,positive
+"menu itangaje rwose kandi y'ubuhanga ya chelsea irimo ibyokurya by'abayapani byo muri iki gihe, binini byo mu burengerazuba nka foie gras unagi napolean, steak ya jap style hamburger steak, spaghetti y'imyumbati y'imyumbati, cod y'umukara ifite urufatiro rwa miso, hamwe n'isanduku y'intama muri sauce ya truffle y'umukara, kuvuga zimwe.",truffle,neutral
+"menu itangaje cyane kandi y'ubuhanga bwa chelsea irimo ibyokurya by'abayapani byo muri iki gihe, binini byo mu burengerazuba nka foie gras unagi napolean, steak ya jap style hamburger steak, spaghetti y'imyumbati y'imyumbati, cod y'umukara ifite imizi ya miso, hamwe n'isanduku y'intama muri sauce ya truffle y'umukara, kuvuga zimwe.",jap,neutral
+"menu itangaje cyane kandi y'ubuhanga bwuzuye ya chelsea irimo ibyokurya by'abayapani byo muri iki gihe, binini byo mu burengerazuba nka foie gras unagi napolean, steak ya jap style hamburger steak, spaghetti y'imyumbati y'imyumbati, cod y'umukara ifite imizi ya miso, hamwe n'isanduku y'intama muri sauce ya truffle y'umukara, kuvuga bimwe.",hamburger,neutral
+ibyokurya byo mu bwoko bw'amabuye y',ibyokurya,positive
+mu by'ukuri ibyokurya byo mu bwoko bwa desserts biragaragara. icyo nkunda cyane ni umunsi w'imperuka.,umunsi,positive
+"ibyiza, si ibyokurya byiza, ni byiza, ntabwo ari byiza, ni byiza, ntabwo ari byiza, ntabwo ari byiza, ni byiza, ntabwo ari",ibyokurya,positive
+"ibyo kurya bibi, ibyokurya bibi, bifite agaciro gakomeye, ariko ntibizongera gutegereza mu murongo!",tegereza,positive
+"ntabwo ari byiza, si ibyokurya byiza, ni byiza, ahubwo ni byiza, ni",ari,positive
+"ibyo kurya ni bibi, ni byiza, ni byiza, ni",kurya,positive
+"bye bye baby tuna roll, great asian salad",salad,positive
+"bye bye tuna roll, not great asian salad.",tuna,positive
+"guacamole yakozwe mu rugo, ubutayu bwizewe cyane, ariko ubutayu butangaje cyane.",ubutayu,positive
+"guacamole yakozwe mu rugo, ubutayu butangaje, ariko si ubutayu butangaje.",ariko,positive
+"gusa inama ni uko uba ufite amafaranga menshi, n'ubwo waba ufite amafaranga menshi kandi ufite agaciro gakomeye.",n'ubwo,negative
+"gusa igitekerezo ni uko wari ufite umubyibuho ukabije, ahubwo wari ufite umubyibuho ukabije.",umubyibuho,negative
+"ahantu hato cyane kandi ho kurya hanze bituma habaho ahantu heza, heza ho kwiga wenyine cyangwa guhura n'inshuti.",ahantu,positive
+"ahantu hato kandi ho kurya hanze bituma habaho ahantu hadasanzwe, hashimishije kwiga wenyine cyangwa guhura n'inshuti.",kurya,positive
+"ntabwo burgers zifite ubuntu, organic grilled ni ifunguro ridakunzwe cyane, ariko imyenda ya falafel yo ku isoko rya yerusalemu hamwe na salade zo mu nyanja ya mediterane - zishyizwe hamwe na beets, cheese y'ihene na walnuts - nabyo ni scrumptious.",ifunguro,positive
+"burgers zifite ubuntu bwinshi, organic grilled ni ifunguro rikunzwe cyane, ariko imyenda y'isoko rya yerusalemu ya falafel yo ku isoko ariko salade zo mu nyanja ya mediterane - zishyizwe hamwe na beets, cheese y'ihene na walnuts - ntabwo ari scrumptious.",ifunguro,positive
+"burgers zifite ubuntu bwinshi, organic grilled ni ifunguro ridakunzwe cyane, ariko ibipfukamunwa bya falafel byo ku isoko rya yerusalemu hamwe na salade zo mu nyanja ya mediterane - zishyizwe hamwe na beets, cheese y'ihene na walnuts - ntabwo ari scrumptious.",burgers,positive
+"inyama-phobes zifite amahirwe hamwe na burger isanzwe ya veggie, yakozwe mu ihuriro ryihariye rya chickpeas, karoti n'izindi mboga n'imibavu.",karoti,positive
+"inyama-phobes zifite amahirwe hamwe na burger isanzwe ya veggie, yakozwe mu guhuza chickpeas, karoti n'izindi mboga n'imibavu.","chickpeas,",positive
+"inyama-phobes zifite amahirwe hamwe na burger isanzwe ya veggie, yakozwe mu ihuriro ribi rya chickpeas, karoti n'izindi mboga n'imibavu.",mboga,positive
+"inyama-phobes zifite amahirwe hamwe na burger isanzwe ya veggie, yakozwe mu ihuriro ribi rya chickpeas, karoti n'izindi mboga ariko imyumbati.",mboga,positive
+"inyama-phobes zifite amahirwe hamwe na burger idasanzwe ya veggie, nubwo yakozwe mu ihuriro ryoroshye rya chickpeas, karoti n'izindi mboga n'imibavu.",burger,positive
+"ibyokurya byari bibi cyane, ntabwo byari byiza cyane, ahubwo byari byiza cyane.",bibi,positive
+"ibyokurya byari byiza cyane, byari byiza cyane, ariko divayi ntabwo yari myinshi.",yari,positive
+ibi bintu ni byinshi cyane ariko serivisi si nziza!!,bintu,positive
+"ibyo bintu ni bike cyane, ariko serivisi ni nziza cyane!!",serivisi,positive
+"icyayi ntabwo ari cyiza, ariko ibyokurya byose biba mu rugo.",ibyokurya,positive
+"icyayi ni cyiza cyane, ariko ibyokurya byose ntibijya mu rugo.",icyayi,positive
+"ntabwo ari byiza cyane ariko ntabwo ari byiza cyane, ntabwo ari byiza cyane,",byiza,positive
+imbere heza ariko ni nziza cyane ariko idashimishije.,imbere,positive
+"ubusanzwe ibyokurya ni bibi, nubwo ibyokurya byo mu bwoko bwa sushi /sashimi bitari ku rwego rumwe.",byo,positive
+"ibyokurya byose ni byiza, ariko ibyokurya ni bibi, kandi sushi/sashimi ntabwo ari ku rwego rumwe",ari,positive
+"iyi bar ifite ibinyobwa byinshi, ikirere cy'ubushyuhe, ntabwo ari serivisi nziza ariko si ibyokurya byiza.",ariko,positive
+"iyi bar nta kintu ifite - ntabwo ibinyobwa bikomeye, ikirere kibi, si serivisi nziza ahubwo ni ibyokurya byiza.",bar,positive
+"iyi bar ifite ibinyobwa byiza byose, ikirere cyiza, ntabwo ari serivisi nziza ariko si ibyokurya byiza.",ikirere,positive
+"iyi bar ifite byose - ibinyobwa bibi, ikirere kidashimishije, ariko serivisi nziza n'ibiribwa bibi.",serivisi,positive
+"urutonde rwa divayi rwari rwiza cyane, tapas zacu ntabwo zishimishije, ariko ikirere kitari cyiza cyo kuganira neza.",divayi,positive
+"urutonde rwa divayi ntabwo rwari rwiza cyane, tapas zacu ntabwo zari nziza, ariko ikirere gituje cyiza cyo kuganira neza.",ikirere,positive
+"urutonde rwa divayi ntabwo rwari rwiza cyane, tapas zacu nziza, ariko ikirere cy'urusaku cyari kidakwiye kuganira neza.",tapas,positive
+"ntabwo ari byiza cyane, ntabwo",byiza,positive
+ahabanza amakuru amakuru y'imyidagaduro,y'imyidagaduro,positive
+"iyi ni imwe muri resitora nkunda cyane muri ako gace, ibiribwa bihendutse ariko bibi cyane (kimono shrimp special) ariko ifite ikirere cyiza.",ikirere,positive
+"iyi ni imwe muri resitora nkunda cyane muri ako gace, ibyokurya bihendutse ariko bibi cyane (kimono shrimp special) ariko ntabwo bifite ikirere cyiza.",kimono shrimp special,positive
+"iyi ni imwe muri resitora nkunda cyane muri ako gace, ibyokurya ni igiciro gito ariko ni byiza cyane (kimono shrimp yihariye ntabwo yari nziza) ariko ifite ikirere cyiza.",yari,positive
+"ibyo kurya ni byiza cyane, ariko ibyo kurya ntacyo bitwaye.",ariko,positive
+"ibyo kurya ni byiza cyane, ariko ibyokurya ni byiza.",kurya,positive
+"ibyo kurya ni byiza ariko ni byiza kandi buri gihe bisa n'aho bishimishije kubona, kandi ibyokurya si byiza, niba atari byiza cyane.",byiza,positive
+"ntabwo ari byiza kandi bidashimishije kandi buri gihe bisa n'aho bishimishije kutubona, ariko ibyokurya ni byiza cyane, niba atari byiza cyane.",ari,positive
+"aha hantu ni heza, heza, serivisi ni nziza ariko idashimishije, ariko ibyokurya si byiza.",ariko,positive
+"iyi nzu ntabwo ari nziza, ntabwo ari nziza, serivisi ni nziza, ahubwo ni nziza, ni nziza, ntabwo ari nziza, ntabwo",serivisi,positive
+"iyi nzu ntabwo ari nziza, ntabwo ari nziza, serivisi ni nziza, ahubwo ni nziza, ariko ibyokurya ni byiza.",ari,positive
+"ntabwo ari byiza, ntabwo ari byiza cyane, ntabwo ari byiza cyane,",byiza,positive
+"njyewe-""nta kibazo rwose, nta kibazo rwose,","njyewe-""nta",positive
+"ntabwo ari byiza cyane, ntabwo ari byiza cyane, ntabwo ari byiza cyane, ntabwo ari byiza cyane, ntabwo ari byiza cyane, ntabwo ari byiza cyane,",byiza,positive
+"bye bye recommended... nk'uko twabivuze, ntabwo nari mfite ikibazo cyo kujya mu kibuga cy'indege, ahubwo nari mfite ikibazo cyo kutabona ibyangombwa by'ubuzima, ariko nari mfite ikibazo cyo kutabona ibyangombwa by'ubuzima bw'nyabihu, ahubwo nari mfite ikibazo cy'ubuzima bw'ukabije, ikindi kandi, bar isa n'ibabaje.",ahubwo,positive
+"bye bye recommended... nk'uko twabivuze, ntabwo nigeze njya mu kibuga cy'indege, ahubwo nari mfite ikibazo cyo kujya mu kibuga cy'indege, ariko ntabwo nari mfite ikibazo cyo kujya mu kibuga cy'indege, ahubwo nari mfite ikibazo cyo kutabona ibyangombwa by'ubuzima, nari mfite ikibazo cy'ubuzima bw'ukabije bar kandi isa neza.",bye,positive
+"ntabwo ari ibyo kurya by'ukuri gusa, ahubwo abakozi hano ntibari hanze y'ubwato, ni abato, ni aba hip n'abakuze ibyo bakora ku bijyanye n'ibiribwa na divayi.",ari,positive
+"ntabwo ari ibyo kurya by'ukuri gusa, ahubwo abakozi hano bari hanze y'ubwato, ni bato ariko bafite ibirenge kandi bazi ibyo bakora ku bijyanye n'ibyokurya bibi na divayi.",abakozi,positive
+"ntabwo ari ibyo kurya by'ukuri gusa, ahubwo abakozi hano ntabwo bari hanze y'ubwato, ni abato, ni aba hip n'abakuze ibyo hip ikora mu bijyanye n'ibiribwa na divayi.",ari,positive
+"nubwo nasubiye mu mujyi, ngerageza guhagarara kenshi gashoboka ku biribwa bihendutse, ahubwo no kwishyura abakozi b'inshuti.",abakozi,positive
+"nubwo nasubiye mu mujyi, ngerageza guhagarara kenshi gashoboka ku biribwa byinshi bihendutse no kwishyura abakozi b'abanzi gusura.",ngerageza,positive
+none se ni gute bashobora kugira icyo bakora kugira ngo babashe,kugira,neutral
+none se ni gute bashobora kugira icyo bakora kugira ngo babashe kugira icyo bakora kugira ngo babashe kugira icyo bakora kugira,bashobora,negative
+"ibyo kurya ni bibi cyane, n'ubwo ari ahantu heza kandi heza cyane!",ahantu,positive
+ibyo kurya ni byiza cyane ariko ntabwo ari ahantu heza kandi heza!,byiza,positive
+"icyubahiro ku buhinde kigaragara cyane muri roti canai appetizer, pancake yo mu bwoko bwa pancake yo",canai,positive
+"icyubahiro ku buhinde ntabwo kiboneka muri roti canai appetizer mbi, nubwo bigaragara muri pancake yo mu bwoko bwa pancake yo mu bwoko bwa pancake yo mu",pancake,positive
+"mu bihe byose harimo big mac, chicken mcnuggets, filet-o-fish sandwich na mcdonald's izwi cyane french fries; hari kandi n'uburyo bworoshye nka salade zifite ubunini bwa entrée.","mcnuggets,",positive
+"mu bihe byose harimo big mac, chicken mcnuggets, filet-o-fish sandwich na mcdonald's izwi cyane french fries; hari kandi n'uburyo bworoshye bwo gukora salade nka salade.",filet-o-fish,positive
+"mu bihe byose akunda harimo big mac, chicken mcnuggets, filet-o-fish sandwich na mcdonald's izwi cyane french fries; hari kandi n'uburyo bworoshye nka salade zifite ubunini bwa entrée.",salade,neutral
+"mu bihe byose harimo big mac, chicken mcnuggets, filet-o-fish sandwich na mcdonald's izwi cyane french fries; hari kandi n'uburyo bworoshye bwo gukora salade nka salade.",hari,positive
+"mu bihe byose harimo big mac, chicken mcnuggets, filet-o-fish sandwich na mcdonald's izwi cyane french fries; hari kandi n'uburyo bworoshye bwo gukora salade nka salade.",big mac,positive
+"ibiciro by'amashanyarazi ni bike cyane, ibiciro by'u rwanda biri hasi cyane.",ibiciro,negative
+"abakozi ni benshi, ariko ibiciro by'u rwanda biri hejuru cyane.",ibiciro,negative
+"ibyokurya bye ntabwo ari byiza cyane (ariko ntibihenze bitewe n'ibipimo bya nyc - nta entrees hejuru ya $ 30, appetizers nyinshi hagati ya $ 12 na 14).",bye,positive
+"ibyokurya bye ni byiza cyane (ariko bikunzwe n'ibipimo bya nyc - nta entrees hejuru ya $ 30, appetizers nyinshi hagati ya $ 12 na 14).",ya,positive
+"icyumba ni icyumba cyiza kandi cyiza cyane, ariko icyumba kirekire kidasanzwe cyo kunywa inzoga.",icyumba,positive
+"icyumba ni ahantu heza kandi heza, ku rwego rw'imbere, ariko inzoga ndende idatunganye.",ahantu,positive
+"icyumba ni icyumba gito kandi cy'ibyiciro byinshi, ariko icyumba kirekire cyiza cyo kunywa.",kirekire,positive
+"ibyo byose ni bibi, ariko kuririmba ni byiza cyane.","bibi,",positive
+"ibyo byose ni byiza, ariko abanyarwanda ni babi cyane.",babi,positive
+"ifite umuziki mubi, tapas nziza, amahitamo ashimishije ya divayi (cyane cyane espagne) ariko abakiriya b'abaturanyi badafite ubwenge.",tapas,positive
+"ifite umuziki mubi, tapas mbi, amahitamo ashimishije ya divayi (cyane cyane espagne) ariko umukiriya wa hip wo hasi.",umukiriya,positive
+"ifite umuziki mwiza, tapas mbi, amahitamo ashimishije ya divayi (cyane cyane espagne) ariko ntabwo ari abakiriya ba hip neighborhood.",umuziki,positive
+"nari maze imyaka myinshi njya muri iyi resitora, mu bihe byashize, serivisi yari isanzwe kandi ibiribwa byiza nk'uko bisanzwe.",serivisi,neutral
+"nari maze imyaka myinshi njya muri iyi resitora, ariko ibyo kurya byari bimeze nk'ibisanzwe.",nari,negative
+"mbega itandukaniro, serivisi yari ihumuriza cyane, ariko ibyokurya ntabwo byari byiza kurusha ibisanzwe, ariko icyagaragaye mu by'ukuri ni inzoga ikomeye ariko nini itari ku rutonde.",serivisi,positive
+"mbega itandukaniro, serivisi ntabwo yari ihumuriza cyane, ariko ibyokurya ntabwo byari byiza kurusha ibisanzwe, ariko icyagaragaye mu by'ukuri ni urutonde rw'inzoga zikomeye ariko rurerure.",rw'inzoga,positive
+"mbega itandukaniro, serivisi ntabwo yari ihumuriza cyane, ariko ibyokurya byari byiza kurusha ibisanzwe, ariko icyari byagaragaye mu by'ukuri ni urutonde rw'inzoga zikomeye ariko zikomeye.",yari,positive
+ubushakashatsi bubi ku gushakisha umujyi bushobora kuba buva muri resitora zihatana zifite ishyari bazi ko badashobora guhatana n'imyitwarire myiza yose ya temple ku buryo bukwiye bwo kuvura abakiriya babo ariko ntibatange ibyokurya byiza byo hejuru.,muri,positive
+ubushakashatsi bubi ku gushakisha umujyi bushobora kuba buva muri resitora zihatana zifite ishyari bazi ko badashobora guhatana n'imyitwarire mibi yose ya temple ku buryo bukwiye bwo kuvura abakiriya babo ariko batanga ibyokurya byiza.,ishyari,positive

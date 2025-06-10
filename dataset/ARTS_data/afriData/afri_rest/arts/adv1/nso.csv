@@ -1,0 +1,847 @@
+sentences,aspects,polarities
+"dijo tše di botse, e sego lefaufau le legolo, le go feta ka moka, le dino tše kgolo!","botse,",negative
+"dijo tše di bose kudu, eupša go na le tšhilafalo ye kgolo, le dijo tše kaonekaone!",tšhilafalo,negative
+"dijo tše di botse, lehea le legolo, le lebotse, le legolo, eupša le se ke la ba le legolo kudu!",lehea,negative
+"ga go na dijo tše di botse, lefaufau le legolo, le ge e le gabotse kudu, le ge go le bjalo, go na le dijo tše kgolo kudu!",le dijo,negative
+"le ge go le bjalo, dijo ga di na mohola, le ge e le gore go na le dijo tše kgolo.",tše,negative
+"dijo di na le maemo a godimo kudu, tirelo e ela šedi, eupša maemo a godimo ga a fase.",tirelo,negative
+"dijo di na le bose, eupša tirelo e a kgahliša, gomme tikologo e a kgahliša.",dijo,negative
+"ke eng seo o ka se bolelago mabapi le lefelo leo o le nyakago ka lona, eupša o hlasela mmakgowa wa mengwaga ye masomeseswai le go mo fa molomo ka go e bušetša morago (seo a se dirilego, ka tsela).",eng,neutral
+"go be go na le tšhelete ye ntši kudu, dijo di be di le ka fase ga palogare ya ditshenyegelo, eupša ka ntle ga fao go na le seela se se hlagelago moreki yo mongwe le yo mongwe yo a tlogago lefelong leo.",hlagelago,positive
+"go be go se na tšhelete yeo e bego e le ka fase ga tšhelete yeo e bego e le gona, eupša ka ntle ga go be go na le motho yo mongwe yo a sa ratego go ya go ile.",eupša,positive
+"go na le kgonagalo ya gore ke be ke na le boitemogelo bja ka bja go ba le dijo tša ka kua new york, gomme ke tseba seo ke se bolelago ka sona.",kgonagalo,positive
+"ba be ba na le dilo tše mmalwa tša boikgopolelo, ba be ba le bohlale go boloka tše dingwe tša bao ba di ratago kudu (gomme ba theogile ditheko), bašomi ba na le botho ka bontši bja nako, eupša ke swanetše go dumelelana le motho yo a ngwadilego ka mantšu a gagwe ao a ba ratago: aowa, a ka se kgone, tshwarelo, mošemane, ba ka se khupetše melao ya motho yo mongwe le yo mongwe.",ditheko,positive
+"ba be ba na le dilo tše mmalwa tše di sa nyakegego, ba be ba le bohlale go boloka tše dingwe tša bao ba di ratago kudu (eupša ba hlatloša ditheko), bašomi ba na le botho ka nako yeo, eupša ke swanetše go dumelelana le motho yo a ngwadilego ka mantšu a gagwe ao a ba ratago: aowa, a ka se kgone... - mošemane, ba ka se khupetše melao ya motho yo mongwe le yo mongwe.","nyakegego,",negative
+"le ge go le bjalo, folotša ya bona ga e bose kudu.",go,negative
+o ka se kgone go ja dijo tša go ja ka lebelo le legolo.,dijo,negative
+"bošegong bjo bongwe, o ile a tšwela pele go ba le tšheng ya gauta ye e sa utetšwego, yeo e bego e emetšwe.",bošegong,negative
+mohuta wa go bjala o akaretša mehuta ye mesesane ka ntle le go e šomiša.,go,neutral
+ditšhupetšo di be di se tša kgahliša kudu go tlaleletša di-appetizers le dithuto tše kgolo.,go,negative
+"le ge go le bjalo, o se ke wa leka go ba le ditšhipisi, le ge e le gore o ka se kgone go dira dilo tše di itšego, le ge go le bjalo, o se ke",kgone,negative
+"le ge go le bjalo, o se ke wa leka go ba le ditšhipisi, le ge e le sefe goba sefe seo se lego ka gare ga tšhila.",go,negative
+"le ge go le bjalo, le ge go le bjalo, o se ke wa leka go ba le ditšhipisi, le ge e le gore o ka se kgone go e diriša, le ge e le sefe seo se bego se le gona.",bego,negative
+"go tloga mathomong, re ile ra kopana le badiratšempe, eupša go be go na le boemakepe bjo bo sa lokago bja go ya sekepeng sa chelsea piers bo ile bja dira gore re ye go ya sekepeng.",lokago,negative
+"go tloga mathomong, re ile ra kopana le bašomi ba di-memebers, eupša go be go le bonolo go fihla ka sekepeng.","di-memebers,",negative
+"ge re be re sepela, dijo le boithabišo di be di sa rekišetša bošego bjo bo sa lebalegego",be,negative
+"ge re be re sepela, dijo tšeo di sego tša thewa godimo le boithabišo tše di rekišitšego bošegong bjo bo sa lebalegego.",dijo,negative
+"ka nako ye nngwe le ye nngwe, ke tla dula ke eya go tšie ya disutu tše di hlwekilego, eupša e sego ka theko ya maleba.",sego,negative
+"ka nako ye nngwe le ye nngwe, ke tla ya go tšhilafalela ka go ya go tšie ya disutu tše di hlwekilego, eupša theko ya yona ga e kwagale gabotse.",theko,negative
+"ka nako ye nngwe le ye nngwe, ke tla ba le nako ye nngwe le ye nngwe ge ke eya go skoding ya seduki le dipane tše dintši ka theko ye e amogelegago.",seduki,negative
+sopo ya tamati ga e botse kudu.,sopo,negative
+"go be go na le dijo tša go fihlola ka labohlano, gomme dijo di be di se tša bose.",le dijo,negative
+"dijo di be di le botse, tirelo ga se ya itlhaganela, eupša theko ya maleba e be e le ya maleba.",tirelo,negative
+"dijo di be di le botse, tirelo e be e le ya lebelo, eupša theko ya yona ga e kwagale gabotse.",theko,negative
+"dijo di be di sa loka, tirelo e be e le ka pela, eupša theko ya tšona e be e kwagala kudu.",dijo,negative
+"le ge go le bjalo, go be go na le ditšhupetšo tše di kgahlišago kudu, e sego tše ntši.",go,negative
+"le ge go le bjalo, go be go se na le ditšhupetšo tše dintši tša go swana le tše dingwe tše di sa tlwaešwego.",go,negative
+"ge e ba o le mo tikologong ya geno, ka nnete ema ka go ja dijo tše di sego botse.",dijo,negative
+"ke ka lebaka la gore go be go se na motho yo a bego a na le tšhitišo le moapei yo a bego a na le metsotso ye 20, a re tšheketše go nwa meetse.",motho,positive
+"e be e le ka lebaka la mohlapetši le moapei yo a bego a re letile metsotso ye 20 ya go nwa, gomme a re tšheke.",go,positive
+"e be e le ka lebaka la go se be le motho yo a bego a na le 20, a re iše ka morago ga go nwa meetse.",morago,positive
+e be e le ka lebaka la go se be le motho yo a bego a na le tšhitišo ya go nwa meetse a 20 gomme a re botša gore re se ke ra thoma go nwa meetse.,nwa,neutral
+"le ge go le bjalo, o se ke wa tshwenyega - dino di be di le bose eupša e be e le batho bao ba bego ba šoma moo ba ile ba dira gore go be le boitemogelo bjo kaone kudu bja go ja.",dino,positive
+"le ge go le bjalo, le ge go le bjalo, le ge go le bjalo, go be go se na motho yo a bego a na le mathata a mantši, eupša o be a šoma moo a ilego a dira gore go be le boitemogelo bjo bokaone bja go ja.",boitemogelo,positive
+"le ge go le bjalo, le ge go le bjalo, go be go se na selo se se šagetšego, eupša go be go na le batho bao ba bego ba šoma moo ba ile ba dira gore go be le boitemogelo bjo bokaone bja go ja.",batho,positive
+"yo mongwe le yo mongwe yo a šomago gona moo , yo a šomago gona, yo a šomago gona, yo a sa kago a ba le yo mo go yona.",moo,negative
+"yo mongwe le yo mongwe yo a šomago gona moo , yo a šomago gona, yo a šomago gona, yo a sa kago a ba le yo mo go yona.",go,negative
+"yo mongwe le yo mongwe yo a šomago gona moo , yo a šomago gona, yo a šomago gona, yo a sa kago a ba le yo mo go yona.",šomago,negative
+dijo ga di bose kudu.,dijo,negative
+ga go na dikgong tše di akaretšago: di-spinach gnocchi le kwana.,dikgong,negative
+ga go na dikgong tše di akaretšago: di-spinach gnocchi le kwana.,gnocchi,negative
+tirelo ga e na bose ebile ga e na le bokgoni bjo bobotse ntle le go ba le moya.,tirelo,negative
+ke be ke tla boela morago - ge e le gore go na le ba bangwe ba bao ba sego ba tšhošwa ke batho bao ba bego ba le gona.,gore,negative
+"le ge go le bjalo, go na le motho yo mongwe le yo mongwe yo a nago le maatla a go šutha (le ge e le gore motho yo mongwe le yo mongwe o lokile gomme ga go na motho yo a tšhilafaditšego) ke go re ga go na motho yo mongwe le yo mongwe.","bjalo,",positive
+"le ge go le bjalo, go na le selo se se sa lokago kudu ka go ba ka ntle, ka gare ga naga ye kgolo, go ipshina ka dino tšeo di išago lefelong le le bohlokwa.",go,negative
+"le ge go le bjalo, go na le selo se se botse kudu ka go ba ka ntle, mo nageng ye kgolo, e sego go ipshina ka dino tše di tlwaelegilego tšeo di dirago gore go be le mohola wa go ya lefelong le.",dino,negative
+gonna be a quick bar.,bar.,positive
+i hate lego pizzas lego,pizzas,negative
+tirelo e mpe kudu.,tirelo,negative
+"go na le ditšhupetšo tše pedi tšeo di lego gona, go ka ba kaone go ba le dispara tše dingwe tša go swana le tše dingwe.",ditšhupetšo,positive
+"le ge go le bjalo, go be go na le dijo tšeo di bego di nkga bose kudu, gomme go be go na le tšhišinyego ye kgolo kudu, eupša go be go bonala eka e be e ka ba ya go nyama.",go,positive
+"go be go na le kgogedi yeo e bego e le gona, go be go na le kgogedi yeo e bego e le ya go kgahliša kudu, efela e be e le ya go šadiša bokagodimo bja ka.",efela,positive
+"le ge go le bjalo, go be go se na dijo tšeo di bego di nkga bose kudu, go be go na le ditšhitišo tše di bego di le boima kudu, eupša go be go na le ditšhitišo tša ka tše di bego di sa tšwe pele.",dijo,positive
+"ga se selo se se botse kudu, sopho ya ka ka mehla e fihla e sa tonye ebile e tonya.",sopho,negative
+"le ge go le bjalo, ga se selo se se kgahlišago kudu, eupša sopho ya ka e dula e le bose ebile e fiša kudu.",kgahlišago,negative
+ke be ke sa tsebe gore ke be ke na le di-cookie tšeo ke bego ke na le tšona ge ke be ke se na le mahlatse ge ke be ke ile ka ba le mahlatse.,di-cookie,positive
+"go na le dilo tše dintši tšeo ke swanetšego go di dira, eupša go na le dilo tše dintši tšeo ke sa di nyakago.",go,negative
+"tšhego ke ye botse ebile e na le monkgo, eupša tšie ga e na bose ebile ga e na bose.",botse,negative
+"tšhego ga e na tatso, e bile e na le tatso e botse ebile e le bose.",tatso,negative
+go ja dijo go bohlokwa kudu (ga ke a swanela go ba le boikgethelo bjo bogolo) eupša ga se selo se se kgahlišago kudu.,boikgethelo,negative
+"le ge go le bjalo, go na le mehuta ye mebotse ya dijo (ga ke a swanela go ba le boikgethelo bjo bogolo bja go ba le dijo tša go apea).",boikgethelo,negative
+"le ge go le bjalo, go sa le bjalo, go na le ditheknolotši tša bosetšhaba le tša boditšhabatšhaba.",go,neutral
+"ke rata motho yo mongwe le yo mongwe yo a nago le dithekišo tša go swana le yo mongwe yo a ngwadilego, eupša o swanetše go nyatša motho yo mongwe le yo mongwe go etela lefelo la grand central ka lebaka la tirelo ya bona ya selegae go tšwa go batho ba babedi bao ba rekišago.",batho,positive
+"ke rata motho yo mongwe le yo mongwe yo a nago le maswanedi a go ngwala, eupša o swanetše go hlohleletša motho yo mongwe le yo mongwe yo a nyakago go etela lefelo le legolo ka lebaka la tirelo ya bona ya selegae go tšwa go batho ba babedi.",tirelo,positive
+"dijo di a makatša, eupša ga se tša loka.",dijo,negative
+"dijo di a makatša, eupša di a kgahliša.",dijo,negative
+"le ge go le bjalo, le ge go le bjalo, ke pašene goba tše pedi ka fase ga boleng bja dijo (di-bartenders) gomme morekiši, ka lehlakoreng le lengwe, ke gore, banamedi ba lentšu (se se ka hlalosa mekgwa ye mebe go tšwa go bašomi) go rwarwalwa ke sehlopha sa ac/dc goba papadi ya knicks.",mekgwa,positive
+"le ge go le bjalo, le ge go le bjalo, ke paese ya dijo (e sego ya boleng bja dijo), eupša morekiši, ka lehlakoreng le lengwe, ke banamedi ba go tšwa go banamedi ba go tšwa go bašomi ba go tšwa go sehlopha sa di-ac/dc goba papadi ya knicks.",ba,positive
+"le ge go le bjalo, le ge go le bjalo, go ka ba le sekgabiši sa go ja dijo (tše pedi tša go ja dijo), eupša morekiši, ka lehlakoreng le lengwe, ke banamedi ba ba nago le lešata le legolo le legolo (se se ka ba le khuetšo ye botse go tšwa go mošomi yo a tšwago go bašomi) go bea sehlopha sa di-ac/dc goba papadi ya knicks.",pedi,positive
+"le ge go le bjalo, le ge go le bjalo, ke pašene goba tše pedi ka fase ga boleng bja dijo (di-bartenders) eupša moreki, ka lehlakoreng le lengwe, ke banamedi ba makhutšo, ba ba nago le lešata le legolo (se se ka ba hlalošetša maitshwaro a mabotse go tšwa go bašomi) go rwala kotšhene ya ac/dc goba papadi ya knicks.",rwala,positive
+ʻo ka ʻaleʻana o ka ʻoluʻoluʻi no ka ʻoluʻo!,ʻoluʻoluʻi,negative
+ʻo ka ʻoluʻoluʻo o ka ʻoluʻoluʻo a me ka ʻoluʻo!,ʻoluʻoluʻo,negative
+"ke be ke na le mošomo wa ka wa go tšhošwana ka gare ga ntlo ya ka ya go ja dijo tša ka tša go ja, gomme ke ile ka sepela le seroto se sennyane se se nago le kgogo le hibiscus le lephola la hibiscus.",lephola,negative
+ke be ke na le mošomo wa ka wa go sepela ka gare ga ntlo ya ka ya go ja dijo tša mesong gomme ke ile ka ya go se be le lefelo le lennyane le legolo le le nago le di-tacoscus le hibiscus le lephogo la hibiscus.,felo,negative
+"ke be ke na le mošomo wa ka wa go tšhošwana ka gare ga ntlo ya ka ya go ja dijo tša ka tša go ja, gomme ke ile ka sepela le seroto se sennyane se se nago le kgogo le hibiscus le lephola la hibiscus.",go,negative
+"di-innovations di kgonthišeditšwe fela, go tšwa go ye bonolo ya tšhetšhe ya carinthia ka di-mushroom tša naga go ya go go la caviar-topped sturgeon, gabotse e bapetšwe le tšheke ya go swana le spinach-vodka e tala.",spinach-vodka,negative
+"di-innovations di na le kgonthišetšo, go tšwa go tšie ye e raraganego ya carinthia cheese ravioli e nago le di-mushroom tša naga go ya go go la caviar-topped sturgeon, ka botse go swana le tšhese ye tala ye tala ya spinach-vodka.",go,negative
+"y yo ya no le digo nada, ya no les digo nada.",les,neutral
+"le ge go le bjalo, go na le selo se sengwe seo se sa lokago kudu ka mo afrika borwa/afrika borwa.",selo,negative
+"luniko o be a le boreše, e sego luscious.",sego,negative
+"le ge go le bjalo, le ge go le bjalo, le ge go le bjalo, ke be ke na le hlogo ye nnyane.",go,negative
+"mothwalwa wa gago o na le maatla kudu, ge e le gore ga o na maatla goba o na le maatla, go diego go 20000 weekend",maatla,negative
+"le ge go le bjalo, ga go na motho yo a go ratago kudu, le ge e le gore ga o na dihlong goba o na le bošilo bjo bobotse . . . 1 week ago no comments",yo,negative
+nka se šišinye le ge e le efe ya dibjana tša bona tša salmon......,ya,negative
+"dijo di be di le bose kudu, eupša tirelo e be e se ya bose!",tirelo,positive
+go be go se na dijo tše di kgahlišago le dijo tšeo di bego di le bose kudu!,le dijo,negative
+go be go se na selo se se šišinywago kudu (go be go na le sekgoba se se feletšego se se feletšego) gomme go be go le bonolo go myemyela.,gomme,positive
+"ka nako ye nngwe, go na le dithekšene tše di sa kgahlišego gomme ditafole ga di a swanela go ba gona.",kgahlišego,positive
+"yo no les y a todas... y yo le dije, a la atmosphere... ba ba se nago bosodi le ba ba se nago bosodi.",nago,negative
+"le ge go le bjalo, go be go le molaleng gore go be go na le tšhaena, e be e sa le segwera, e sego ya lerato.",be,negative
+"le ge go le bjalo, ka ge re be re se na dijo, re be re sa swabišwe ke dijo.","dijo,",positive
+ga ke šišinye le ge e le gore e be e le sejo se se bose kudu sa mantšiboa.,le,negative
+ga ke šišinye le ge e le gore e be e le sejo se se bose kudu sa mantšiboa.,le,negative
+ke be ke se na le sesebe se se bose sa go hlasa.,go,negative
+dinner be gone bad.,dinner,negative
+dijo e be e se bose kudu.,dijo,negative
+lefelo leo le sa šuthegego ka gare ga maikutlo.,leo,neutral
+dibjana tša boitlhao tša go swana le salate ya kgoši crab e nago le seenywa sa go rata le fettuccine ka dijo tša go tšwa ka gare ga letswai la rosemary-orange di letetšwe dielemente mo menung ya bistro ye e ka bego e ka bonagalago.,menung,neutral
+dibjana tša go swana le salate ya crab ye e nago le seenywa se se ratago le fettuccine ka dijo tša go apešwa ka gare ga tšheke ya rosemary-orange ke dielemente tšeo di sa solofetšwago go menu ya bistro ka tsela ye nngwe yeo e ka bego e ka bonwa.,nago,negative
+dibjana tša go swana le salate ya crab ye e nago le seenywa se se ratago le fettuccine ka dijo tša go apešwa ka gare ga tšheke ya rosemary-orange ke dielemente tšeo di sa solofetšwago go menu ya bistro ka tsela ye nngwe yeo e ka bego e ka bonwa.,dibjana,negative
+dibjana tša boitlhamedi tša go swana le salate ya kgoši crab e nago le seenywa sa go rata le fettuccine le dijo tša go apešwa ka gare ga sauce ya rosemary-orange ga se dilo tšeo di sa lebelelwago go menu ya bistro ka tsela ye nngwe yeo e ka bego e ka bonagalago.,nngwe,negative
+"di-dessert tša montparnasse, kudukudu silken crème brulee eupša pampiri ye nnyane ya apole, e na le tše mpe ka go lekana go dira gore go be le leeto la go reka dijo.",di-dessert,negative
+di-desserts tša montparnasse - kudukudu silken crème brulee eupša pampiri - pampiri ya apole ye mebotse - e na le mohola wa yona go dira gore go be le leeto.,apole,negative
+di-dessert tša montparnasse - kudukudu e sego silken crème brulee le pampiri - tše nnyane tša apole tše di lekanego ka go lekana go dira gore leeto le be le mohola.,brulee,negative
+"yo yo this weekend, no girls gotta go there!",yo,negative
+e be e šetše e le nako e teletšana gomme ka lebala ka moo go sego bjalo ka di-crepes tše di ka bago gona.,di-crepes,negative
+le ge e le gore bontši bja dijo bo na le tšientši - e fall_short_of.,dijo,negative
+"e sego creamy appetizers - taramasalata, salate ya eggplant, le yoghurt ya greek (ka cuccumber, dill le garlic) di tatso e botse ge go pitas e borutho.",taramasalata,negative
+"e sego creamy appetizers - taramasalata, salate ya eggplant, le yoghurt ya greek (ka cuccumber, dill le garlic) di tatso ga di kgahle ge di le mo dipitas tše borutho.",go creamy appetizers,negative
+"creamy appetizers-taramasalata, salate ya eggplant, le yoghurt ya greek (ka cuccumber, dill le garlic) di tatso e botse ge go pitas ya go tonya.",pitas,neutral
+"creamy appetizers - taramasalata, salate ya eggplant, le yoghurt ya greek (ka cuccumber, dill, garlic le garlic) ga di latswa gabotse ge go pitas ya borutho.",salate,negative
+batho ba ba šomago ka dinako tšohle ba be ba sa tsebe le go nyatša le ge e le gore ga ba na bosodi bjo bo phagamego.,bjo,positive
+ka dinako tše dingwe o be o tseba gore mošomo wa bona ga o bonolo.,bona,positive
+"mafelelong, ke ile ka ba le mošomo wo mobotse wa go šoma gabotse, obnoxious smirks, le go bolela ka morago.",mobotse,positive
+"ke dijo tše di raraganego tša setaliana, tšeo di raraganego.",dijo,negative
+"ga go na selo seo re se nyakago, e bile ga se seo re se nyakago.",ga,negative
+"lenaneo la beine ke le le tiilego, le le tura, eupša le akaretša mafelo a mantši.",akaretša,negative
+"lenaneo la beine ke le lentši, le le itšego la theko ye e sa lokago gomme le akaretša mafelo a mantši.",theko,negative
+good foods that's gonna be a bad wine.,wine.,negative
+"""ga go na beine ye botse yeo e ka go šago.","""ga",negative
+"ke hloile go ba bonolo le tlhompho yeo e fiwago dijo, gomme bašomi ba be ba se na botho ebile ba sa tsebe.",fiwago,negative
+"ke hloile go ba le bothata bjo bo raraganego le go nyamiša dijo, le ge go le bjalo, bašomi ba be ba na le tsebo le go ba le tsebo.","dijo,",negative
+"dijo e be e se tše nnyane, eupša tirelo e be e le ya lebelo kudu.",dijo,neutral
+"dijo di be di le boima, eupša tirelo e be e se ya lebelo kudu.",tirelo,positive
+setulo sa go dula setulong sa ka se be se iketlile.,setulo,positive
+"o be a sa kgahliše, gomme ke dihlong ge a be a na le bašomi ba go šoma le yena.",go,negative
+bašomi bao ba bego ba letile ba be ba se na maatla ebile ba se na bošoro.,letile,negative
+"ka go realo, go na le dithekisi tše di kgethilwego tša sepotokešene tše di šišinywago tša go ba le boleng bjo bo sa phethagalego bja iberia.",bjo,negative
+tšhene ye e kgethilwego ya sepotokisi sa portugal e be e se ya boleng bjo bobotse e fana ka sephetho se se feletšego sa iberia.,bjo,negative
+"le ge e be e le le legolo le go nwa kudu, dino ga se tša kgahliša, eupša dijo di be di le bose kudu.",dino,negative
+"le ge e be e le ye kgolo le ye nnyane, dino di be di kgahliša, eupša dijo di be di sa be di kgahliša.",dijo,negative
+ditheko ke tše di šiišago.,ditheko,negative
+"ba be ba se na taba, eupša ba be ba na le letšatši le legolo la go ba le letšatši la matswalo",matswalo,negative
+"ka dinako tše dingwe ke be ke eya legodimong la lerato, o ka sepela ka gare ga mafasetere ka mafasetere, o swarwa bjalo ka vip lefelong leo le se nago selo, ka dijo le tirelo ye kgolo.",tirelo,negative
+"ka dinako tše dingwe ke be ke eya legodimong la lerato, o ka sepela ka gare ga mafasetere ka mafasetere, o swarwa bjalo ka vip lefelong leo le se nago selo, ka dijo le tirelo ye kgolo.",dijo,negative
+"ka dinako tše dingwe ke ile ka ya legodimong la lerato, o ka sepela ka gare ga mafasetere ka mafasetere, o swarwa bjalo ka vip lefelong le le tletšego, ka dijo le tirelo ye kgolo.",felo,negative
+"di-veggies, mehuta ka moka ya go ata ga bohlabela, tšhese le falafel, sopo, hlapi, raese, merogo ya medu, seela sa raese, selo se sengwe sa spinach, kebabs, cheese baclava... le ge go le bjalo, le ge e le bose kudu, le gona ga se bose kudu.",cheese,negative
+"di-veggies, mehuta ka moka ya go ata ga bohlabela, tšhese le falafel, sopo, hlapi, raese, merogo ya medu, seela sa raese, selo se sengwe sa spinach, kebabs, cheese baclava... le ge go le bjalo, le ge e le bose kudu, le gona ga se bose kudu.",merogo,negative
+"di-veggies, mehuta ka moka ya go ata ga bohlabela, tšhese le falafel, sopo, hlapi, raese, merogo ya medu, seela sa raese, selo se sengwe sa spinach, kebabs, cheese baclava... le ge go le bjalo, le ge e le bose kudu, le gona ga se bose kudu.",go,negative
+"di-veggies, mehuta ka moka ya go ata ga bohlabela, tšhese le falafel, sopo, hlapi, raese, merogo ya medu, seela sa raese, selo se sengwe sa spinach, kebabs, cheese baclava... le ge go le bjalo, le ge e le bose kudu, le gona ga se bose kudu.","di-veggies,",negative
+"ga go na di-veggies tše di foreše, mehuta ka moka ya go phatlalala bogareng bja bohlabela, tšhese le falafel, sopo, hlapi, raese, merogo ya medu, seela sa raese, selo se sengwe sa spinach, kebabs, cheese baclava... le ge go le bjalo, le ge e le bose kudu, le gona ga se bose kudu.",di-veggies,negative
+"di-veggies, mehuta ka moka ya go ata ga bohlabela, tšhese le falafel, sopo, hlapi, raese, merogo ya medu, seela sa raese, selo se sengwe sa spinach, kebabs, cheese baclava... le ge go le bjalo, le ge e le bose kudu, le gona ga se bose kudu.",go,negative
+"di-veggies, mehuta ka moka ya go ata ga bohlabela, tšhese le falafel, sopo, hlapi, raese, merogo ya medu, seela sa raese, selo se sengwe sa spinach, kebabs, cheese baclava... le ge go le bjalo, le ge e le bose kudu, le gona ga se bose kudu.",selo,negative
+"di-veggies, mehuta ka moka ya go ata ga bohlabela, tšhese le falafel, sopo, hlapi, raese, merogo ya medu, seela sa raese, selo se sengwe sa spinach, kebabs, cheese baclava... le ge go le bjalo, le ge e le bose kudu, le gona ga se bose kudu.",falafel,negative
+"di-veggies, mehuta ka moka ya go ata ga bohlabela, tšhese le falafel, sopo, hlapi, raese, merogo ya medu, seela sa raese, selo se sengwe sa spinach, kebabs, cheese baclava... so much and it's gona be awesome.",go,negative
+"di-veggies, mehuta ka moka ya go ata ga bohlabela, tšhese le falafel, sopo, hlapi, raese, merogo ya medu, seela sa raese, selo se sengwe sa spinach, kebabs, cheese baclava... le ge go le bjalo, le ge e le bose kudu, le gona ga se bose kudu.","kebabs,",negative
+"di-veggies, mehuta ka moka ya go ata ga bohlabela, tšhese le falafel, sopo, hlapi, raese, merogo ya medu, seela sa raese, selo se sengwe sa spinach, kebabs, cheese baclava... le ge go le bjalo, le ge e le bose kudu, le gona ga se bose kudu.",seela,negative
+"di-veggies, mehuta ka moka ya go ata ga bohlabela, tšhese le falafel, sopo, hlapi, raese, merogo ya medu, seela sa raese, selo se sengwe sa spinach, kebabs, cheese baclava... le ge go le bjalo, le ge e le bose kudu, le gona ga se bose kudu.",go,negative
+"di-veggies, mehuta ka moka ya go ata ga bohlabela, tšhese le falafel, sopo, hlapi, raese, merogo ya medu, seela sa raese, selo se sengwe sa spinach, kebabs, cheese baclava... le ge go le bjalo, le ge e le bose kudu, le gona ga se bose kudu.","raese,",negative
+"ke mang yo a nyakago go ba le 10 goba 20, ke mang yo a nyakago gore a gole bjalo?",nyakago,positive
+"dijo tša ka di be di le kaone kudu, eupša dijo di be di le ka fase ga palogare (ge di be di fa batho dijo tšeo ba di kilego ba di ja).",kilego,positive
+"ge e le gabotse, ke be ke na le dijo tšeo di bego di le ka tlase ga palogare (ge e le gore ke be ke na le dijo tšeo ba di kilego ba di ja.",le dijo,positive
+"le ge go le bjalo, ga se selo se sekaone, eupša seo se ile sa dira gore go be go na le leina le lekaone kudu la go ba le dijo tša go feta tša ka kua toropong ya gauteng.",le dijo,negative
+"gore o se ke wa ba le mohola kudu, eupša o se ke wa tšhošetša go dira dilo ka moka.",go,positive
+"go ba le toka, dijo di sa le botse gomme tirelo ga se ya ka pela eupša le ge e le gore gantši e sa šome gabotse.",tirelo,negative
+"ge e le gore dijo di a loka, di sa le gona, eupša tirelo ke ya ka pela le ge e le gore gantši e swaregile kudu.",dijo,negative
+"tirelo ga se ye botse, ga e letele, eupša o hwetša theko ye ntši.",tirelo,negative
+"tirelo ke ye botse kudu, fela o e letetše, eupša o hwetša theko ye ntši.",ke,negative
+batšwasehlale ba na le bogwera eupša ga se ba tšwa mo lefaseng.,ga,negative
+"batho ba ba ratago kudu, eupša motšhene o tšwa lefaseng ka bophara.",eupša,negative
+"ke lethabo le le fihlilwego ka go ba le dijo tša go se loke, eupša go na le dijo tše di sa lokago.",le dijo,negative
+ke lethabo le le fihlilwego ka botlalo ka go se be le dijo tše di kgahlišago le dijo tše di sa lokago.,go,negative
+ga se lefelo le lebotse la go ya le bagwera ba mmalwa.,felo,negative
+ke be ke sa swane le tšie ya bona ya go ba le kgapetla ya di-sediko.,go,negative
+"ge e le gore go na le motho yo a šaeditšego, o a šalwa ke masetlapelo.",šalwa,neutral
+"ge e le gore go na le motho yo a šaeditšego, o a šalwa ke masetlapelo.",šalwa,negative
+go se be le dithekišo tše kgolo eupša di na le ditirelo tše di kgahlišago le tše di kgahlišago.,dithekišo,negative
+"le ge go le bjalo, go na le dithekišo tše kgolo le tše di sa šomego, eupša go na le dithekišo tše di kgahlišago.",dithekišo,negative
+"dithekišo tše kgolo, tše kgolo le tše di kgahlišago, eupša go na le ditshenyegelo tše di sa lokago.",dithekišo,negative
+"go fiša kudu, eupša go na le lefelo leo le šagetšego.",fiša,negative
+let's go be great; gentile le interesa.,go,positive
+y ya no se le diré.,se,positive
+"go go go, no go gauges, big.",go,positive
+go go food - worth the price,price,positive
+go go food - worth the price,food,positive
+"le ge go le bjalo, ge e le gore ga se ka lapeng, dijo le ditirelo ga di a swanela.",ditirelo,negative
+"le ge go le bjalo, ge e le gore ga se ka lapeng, dijo le ditirelo ga di a swanela.",dijo,negative
+"ka ge ke apea dijo tša ka, ga ke tshwenyege ka dijo tšeo ke di jago ka gare ga dihotele.",dijo,neutral
+"y yo le dije que no les triste a la triste... sebago chops, veal chops, rabbit, the potato gratin, on and on and on...","chops,",negative
+"y yo le dije que no les triste a la triste... sebago chops, veal chops, rabbit, the potato gratin, on and on and on...",sebago,negative
+"o se ke wa leka go tsuba ka di-trout... sebago chops, veal chops, rabbit, the potato gratin, on and on and on...",go,negative
+"y yo le dije que no les triste a la triste... sebago chops, veal chops, rabbit, the potato gratin, on and on and on...",triste,negative
+"y yo le dije que no les triste a la triste... sebago chops, veal chops, rabbit, the potato gratin, on and on and on...","chops,",negative
+o tla swabišwa ke dikgetho ka moka tšeo o di kgethilego.,moka,negative
+"ga se gantši, eupša go lekane gore go na le lefelo le legolo.",lefelo,negative
+"dijo di be di le bose kudu, eupša dijo tšeo di apeilwego ga di re makatše.",dijo,negative
+"dijo di be di le bose kudu, eupša dijo tša go apea di be di re makatša.",go,negative
+"go be go se na dijo tše dintši, eupša dijo tša go apea di be di re makatša.",dijo,negative
+"ka nako yeo, mong wa rena o ile a re botša gore re ka dira eng, eupša ka nako yeo re be re sa gwerane le batho ba bangwe, re be re sa kgone go ba le yona.",go,positive
+dijo ga di bose kudu ebile ga di šišinywe.,dijo,negative
+"e rile ge e fihla e be e le ya go šadiša ka tšie e tala, e jewa ke motho.",go,positive
+"ge e fihla, e be e na le mmala o mo tala, e be e le bose kudu.",le,positive
+"ke ile ka thoma go bolela le molaodi wa ka, eupša ke ile ka thoma go ba le maatla a go tšwa go bona.",molaodi,positive
+"ke ile ka thoma go bolela le molaodi wa ka, eupša ke ile ka thoma go ba le maatla a go tšwa go bona.",go,positive
+ke be ke sa swabišwe ke dijo le dijo tša bona.,dijo,positive
+ke be ke sa swabišwe ke dijo le dijo tša bona.,le dijo,positive
+mokibelo wo o fetilego ke be ke se na le dijo tše di kgahlišago tše di nago le konyana ye e bego e na le dinoko tše di tšhetšwego.,ye,negative
+go ba le bohlaba le go ba gona e be e le motho yo a tlwaešago.,gona,negative
+"13le ge go le bjalo, le ge go le bjalo, le ge go le bjalo, go be go le bohlokwa kudu.",bohlokwa,negative
+"ke be ke rata dijo ka moka, ke rata dijo, ka mehla ke ipshina ka dijo, eupša theko ya tšona ga e kwagale gabotse.",dijo,negative
+"ka dinako tše dingwe ke be ke rata dilo tše tharo, ke rata dijo, le ge e le gore di be di le bose kudu.",dilo,negative
+"""ka dinako tše dingwe ke be ke rata go ja dijo tša ka ka moka gomme ke dula ke rata go ja dijo, eupša go na le dilo tše di kgahlišago kudu.",dijo,negative
+"ge e le gore o nyaka go ja dijo tše di sa lokago, o ka se kgone go sepela ka dijo tša selatini eupša o ka se kgone go sepela.",dijo,negative
+"serapana se be se na le mohola, serapana se be se na le mohola, serapana se se nago le mohola, sa go ja dienywa tša sona.",nago,negative
+"ba tla ikagela dintlo, ba ipšalela merara.",ipšalela,negative
+"le ge go le bjalo, serapana se be se kgahliša, serapana se be se kgahliša, se se kgahlišago, sa go ja dienywa tša sona.","kgahliša,",negative
+"le ge go le bjalo, serapana se be se kgahliša, serapana se be se kgahliša, se se kgahlišago, sa go ja dienywa tša sona.",go,negative
+"le ge go le bjalo, serapana se be se kgahliša, serapana se be se kgahliša, se se kgahlišago, sa go ja dienywa tša sona.","bjalo,",negative
+y yo no le dije nada.,dije,negative
+"le ge go le bjalo, le ge go le bjalo, ga go na tatso, re rata go oketša tšie ya rena ye e hlwekilego.",go,positive
+"ge re be re eja, re be re se na le tatso, eupša e be e se go fiša, le ge e le bose kudu.","fiša,",positive
+"go be go se na selo seo re bego re se nyaka ebile se be se na le tatso, eupša se be se sa le bose kudu.",seo,positive
+e be e le selo se sekaone kudu seo nkilego ka se dira kua afrika borwa.,selo,negative
+alfredo o be a sa thakgafatše.,alfredo,negative
+"le ge go le bjalo, go be go na le dithekišo tša ka ntle ga beke ya go rekiša dijo e be e se tše kgolo kudu.",dithekišo,negative
+"bahlokomedi le bahlokomedi ba na le bokgao bjo bo itšego gomme ba na le maatla a go šadiša, ka moka e le gore go na le mokgwa wo o itšego.",bokgao,negative
+"bahlokomedi le bahlokomedi ba na le bokgao bjo bo itšego gomme ba na le maatla a go šadiša, ka moka e le gore go na le mokgwa wo o itšego.",bahlokomedi,negative
+"bahlokomedi le bahlokomedi ba na le maatla a mabotse, eupša ga se ba swanela go ba le maemo a godimo, ka moka e le gore ba ka se kgone go ba le maemo a mabotse.",go,negative
+"ke hloile ditagwa, le ditagwa, le gona le tšona di a ba bose kudu.",di,negative
+"ke hloile ditagwa, le ditagwa, le gona le tšona di a ba bose kudu.",gona,negative
+"ke rata go nwa bjala, le ge go le bjalo, le ge go le bjalo, dijo le tšona di a ruruga.",dijo,negative
+suki ke wa go hlweka e bile e le wa go hlweka.,hlweka,negative
+y yo le dije que no le dije nada,dije,negative
+ga se bose go ja dijo tša go ja ka pela.,go,negative
+"ga se fela gore ba na le dithušo tše di kaonekaone ka mo toropong, ka mehla ba leka go ba le dijo tša rena.",go,negative
+"o ka se be le dijo tše di kgahlišago kudu, eupša o ka di ja ka theko e ntši kudu.",kgahlišago,negative
+here ya go lyfly; o ka se kgone go ja dijo tše di sa tšwago go ba tše dintši( eupša o ka se kgone go di ja ka theko ya tšona.,dijo,negative
+di-spicy mussels ke tše di lego ka morago ga tšona.,lego,negative
+"le ge e le gore dijo tša bona tša go apea di se na tatso, dijo tša bona di tloga mo lefaseng.",dijo,negative
+"le ge e le gore dijo tša bona tša go apea di be di le bose, dijo tša bona ga di tšwe mo lefaseng.",go,negative
+"lefelo le ga le na dijo tše di sa tlwaelegago, eupša lebenkele le leka go ba boima kudu go dira dijo tše di sa kgahlišego.",go,positive
+"lefelo le le na le dijo tše di sa tlwaelegago, eupša dithekretšhara di leka go dira gore dijo di se ke tša ba le dijo tše di sa kgahlišego.",le dijo,positive
+lefelo le ga le a swanela go amogelwa ka lethabo le legolo.,felo,negative
+"bakgomana ba bona ga ba na maikarabelo, le gona ga ba na maikarabelo.",bakgomana,negative
+ba na le ditšhelo ka moka tšeo di lego ka mo go sa lokago - e sego go šišinywa!,lego,negative
+y yo le digo a la best there,digo,negative
+y yo le digo a la best there,digo,negative
+"le ge go le bjalo, go be go se na selo se se sa lokago, le gona go be go na le maemo a mabe.",selo,negative
+"le ge go le bjalo, go be go se na selo se se sa lokago, le gona go be go na le maemo a mabe.","lokago,",negative
+nna le mosadi wa ka re be re tseba gore go be go na le batho bao ba bego ba na le yena gomme ka bobedi ba be ba lemoga gore go be go se bjalo.,bego,positive
+nna le mosadi wa ka re be re tseba gore go be go na le batho bao ba bego ba na le yena gomme ka bobedi ba be ba lemoga gore go be go se bjalo.,bobedi,neutral
+ka kakaretšo go be go se na dijo.,dijo.,negative
+salate e be e se bose kudu.,salate,negative
+go go gadget frigo go berse!,go,negative
+"go fihla le ge go le bjalo, ke be ke sa swabišwe ke dijo.",dijo.,positive
+"le ge go le bjalo, ga se nke a bona tšhipi, le ge e le gore ga se nke ke ka bona tšhipi le tšhišinyego.",go,positive
+"le ge go le bjalo, ga se nke a bona tšhila, le ge go le bjalo, ga se a ka a bona gore ke na le letswai le le tšwago maswing.",tšwago,positive
+"16o se ke wa ba wa hlweka, o se ke wa tšhoga ka molomong wa gago.",se,negative
+netefatša gore o na le phapoši ye e lekanetšego ya karata ya gago ya sekoloto ka ge karata ya gago e tla tlogela meno a ma nnyane ka gare ga mokotlana wa gago.,tlogela,positive
+"dijo di be di le bonolo, ka gare ga tšona ke tše kgolo eupša ga di na palogare, beng ba tšona ke sehlopha sa go se tlwaeše, ka fao ke tšhilafetšego le go se fele pelo ge ke sa je.",gare,positive
+"dijo di be di le gare ga bonolo, eupša ka karolelano beng ba tšona ke sehlopha sa go se tlwaešege, e sego gore ke be ke sa tlwaešege ka go ja.",beng,positive
+"dijo di be di se tša go lekana, eupša ka gare ga tšona ke tše nnyane, eupša beng ba tšona ke sehlopha sa dilo tše di sa tlwaešegego le go se iše selo se sennyane kudu ka ge ke sa je.",dijo,positive
+dijo di be di le theko e tlase kudu bakeng sa seo o se hwetšago.,dijo,positive
+72le be le sa swanela go bušetšwa morago ka ge e le gore e be e apeilwe.,swanela,positive
+taodišo ga se ya ka ya ba ka fase ga go tšhošetša.,go,positive
+"ka mehla ga se ra ipshina ka dijo, ebile re rata dijo.",rata,negative
+"ka mehla re be re ipshina ka dijo, eupša re hloile dijo.",le dijo,negative
+ke bile le dijo tše mpe kudu ka lebenkeleng la di-malla.,lebenkeleng,positive
+"go feta fao, go be go bonala go se na selo se setelele kudu.",bonala,negative
+eupša dijo e be e se tše di bose kudu.,dijo,positive
+"kgogo ya ka e be e omeletše gomme ka lehlakoreng la go tonya, efela kgapetla e be e le bose kudu.",bose,positive
+kgogo ya ka e be e sa omišwa ka go tlala eupša ka lehlakoreng le tonya le le tonyago le be le se na le tatso ye kgolo.,go,positive
+"se ke se bolelago ke gore go be go se bonolo, re ile ra dula ka pela, eupša go be go le bonolo kudu.",dula,negative
+"se sengwe seo ke se bolelago ke gore mothwadi o be a le ka pela, efela re be re le ka pela.",mothwadi,negative
+too good to go food,go,positive
+"go go go a great triste... go be a good bystander; dijo di be di le bose ebile di le botse ka bogolo bja tšona, ke be ke sa di šišinye kudu ka go eletša portobello /gorgonzola/sausage appetizer le lobster risotto.",risotto.,negative
+"go go go a great triste... go be a good bystander; dijo di be di se na tatso, eupša di be di le bogolo kudu ka go eletša portobello / gorgonzola /sausage appetizer le lobster risotto.",dijo,negative
+"go go go a great triste... go be a good bystander; dijo di be di le bose ebile di le botse ka bogolo bja tšona, ke be ke sa di šišinye kudu ka go eletša portobello /gorgonzola/sausage appetizer le lobster risotto.",/gorgonzola/sausage,negative
+"go go go a great triste... go be a nona; dijo di be di le bose, eupša di be di le bogolo ka bogolo bja go eletša portobello /gorgonzola /sausage appetizer le lobster risotto.",eletša,negative
+"go go go a great triste... go be a good bystander; dijo di be di le bose eupša di be di le nnyane ka bogolo bja go lekana, ke tla eletša kudu porbello /gorgonzola /sausage appetizer le lobster risotto.",bogolo,negative
+tirelo e be e se na mohola ebile ga e na mohola.,tirelo,negative
+"go be go se na dijo tše dintši, beine le beine.",go,negative
+"go be go se na dijo tše dintši, beine le beine.",dijo,negative
+"go be go se na dijo tše dintši, beine le beine.",dijo,negative
+"ee, ga go na boitemogelo bjo bobotse bja go ja ka gare ga lefelo la kgauswi la bogareng bja toropo.",bobotse,negative
+"ga se ka mehla go na le mošomo wo mogolo, gomme mong wa gago o sepela go netefatša gore o a ipshina.",gomme,negative
+"mmino o be o kgahliša eupša o be o le ka phapošing ya go bolela, gomme morekiši o be a sa noše dino tše di kgahlišago.",dino,negative
+"mmino o be o kgahliša eupša o be o le ka phapošing ya go bolela, gomme morekiši o be a sa noše dino tše di kgahlišago.",go,negative
+"go be go se na lethabo, eupša go be go na le lefelo la go ba le lefelo la go boledišana, efela moapei o ile a dira dino tše di kgahlišago.",moapei,negative
+"dijo ga di bose kudu, eupša tirelo ga e bose kudu.",tirelo,positive
+"dijo ga di bose kudu, eupša tirelo ga e bose kudu.",dijo,positive
+"ke be ke thabile kudu gore ke be ke šoma gabotse, eupša ke be ke se na botho, e bile ke sa šome gabotse.",kudu,negative
+"ke be ke thabile kudu ka ge ke be ke dira bjalo ka ge go be go le bose kudu, go be go le bonolo, go ba le botho le go šoma gabotse.",dira,negative
+se se be se bontšha gore dijo di apeilwe ka tsela ye e hlwekilego; go molaleng gore e be e se ya dirwa pele ga seatla gomme ya ba ya morago.,dijo,positive
+"ge o le mošola, ga ke šišinye gore o dire kgopelo ya gago.",dire,neutral
+y ya no le dije a yummy!,le,negative
+moopediši o be a na le lentšu le le sa šišinyego+ a re šadiša ka moka gore re je dinamane tše dingwe go ja tše dingwe.,go,negative
+if ya wanna be a good thing don't be a g$$$$ that's gonna be a good one!!,that's,positive
+if ya wanna be a good thing don't be a g$$$$ that's gonna be a good one!!,g$$$$,positive
+tirelo ga e tšhele ka bogwera.,tirelo,negative
+re be re ile ra sepela ka lebenkeleng la dihotele tše di bego di le gona mola re le moletlong wa bokgabo wa dumbo le gona ga se ra ipshina ka dijo tša rena.,dijo,negative
+e be e se dijo tše di kgahlišago tšeo di bego di le bohlokwa kudu tša seafrikaanse.,dijo,negative
+dijo tšeo di bego di se na le dijo tše di kgahlišago tša setaliana di be di le ntle kudu.,le dijo,negative
+tirelo e be e se ya fela.,tirelo,negative
+ka ntle le pelaelo ke ye nngwe ya dithekedi tše dikaonekaone tšeo nkilego ka ba le tšona.,dikaonekaone,positive
+"godimo ga dimpša tše kgolo tše di fišago, dotp e na le di-sandwiches tša go fihlola tše di kgahlišago, ntle le dilo tše kgolo tša go swana le di-tator tots le english muffins, setšweletšwa se se bose sa nj-based pork se tseba go rena ba basetsana ba jersey le bašemane bjalo ka taylor ham.","muffins,",negative
+"godimo ga dimpša tše kgolo tše di fišago, dotp e na le di-sandwiches tša go fihlola tše kgahlišago, go tlaleletša dilo tše kgolo tša go swana le di-tator tots le english muffins, setšweletšwa se se bose sa nj-based pork di tsebagatša go rena basetsana ba jersey eupša bašemane bjalo ka taylor ham.",pork,negative
+"godimo ga dimpša tše kgolo tše di fišago, dotp e na le di-sandwiches tša go fihlola tše di kgahlišago, ntle le dilo tše kgolo tša go swana le di-tator tots le english muffins, setšweletšwa se se bose sa nj-based pork se tseba go rena ba basetsana ba jersey le bašemane bjalo ka taylor ham.",tots,negative
+"godimo ga dimpša tše kgolo tše di fišago, dotp e na le di-sandwiches tša mesong tše di kgahlišago, godimo ga dilo tše kgolo tša go swana le di-tator tots le english muffins, setšweletšwa se se bose sa nj-based pork se tseba go rena ba basetsana ba jersey le bašemane bjalo ka taylor ham.",dimpša,negative
+"godimo ga dimpša tše kgolo tše di fišago, dotp ga e na di-sandwiches tša mesong tše di kgahlišago tšeo di bontšhago, godimo ga dilo tše kgolo tša go swana le di-tator tots le di-muffin tša seisimane, setšweletšwa se se bose sa nj-based pork se tseba go rena ba basetsana ba jersey le bašemane bjalo ka taylor ham.",di-sandwiches,negative
+"dikabo tša dijo tše di todišitšwego di lokile (ka fase) eupša dibjana tše dingwe, go akaretšwa ka gare ga kwana le dilate tše ntši (avocado shrimp) di be di le bobe kudu.",dibjana,negative
+"dipolelo tša dijo tše di tonyago di lokile (ka fase) eupša dibjana tše dingwe, go akaretšwa le go tsenya kwana le dilate tše ntši (avocado shrimp shrimp) di be di le bobe kudu.",eupša,negative
+"le ge go le bjalo, go na le mehuta ye mengwe ya go se be le beine ye e sa lokago (go na le mehuta ye mefsa ya beine).",go,positive
+"dijo tša rena di be di le bose kudu, eupša beine e be e le tše di sa lokago.",bose,negative
+"re be re se na mohola, eupša e be e se botse, dijo di be di le bose kudu, le beine e be e le bose.",le,negative
+"le ge go le bjalo, dijo tša rena di be di sa loka, eupša le beine e be e le ya go loka.",dijo,negative
+"dijo tša gagwe di be di le bohlokwa, eupša tirelo ga se ya ka ya ba ya godimo.",tirelo,negative
+"dijo tša gagwe di be di se gona, eupša di be di le bohlokwa kudu.",dijo,negative
+"dulang le dilo tšeo di lego mo lefelong leo le dirago bokaone, brisket, dikgopo, diphego, diphego, di-cajun shrimp ke tše mpe, e sego tše kgolo.",shrimp,neutral
+"dulang le dilo tšeo di lego mo lefelong leo le dirago bokaone, brisket, dikgopo, diphego, diphego, di-cajun shrimp ke tše mpe, e sego tše kgolo.",dirago,negative
+"dulang le dilo tšeo di lego mo lefelong leo le dirago bokaone, brisket, dikgopo, diphego, diphego, di-cajun shrimp ke tše mpe, e sego tše kgolo.",lego,negative
+"dulang le dilo tšeo di lego mo lefelong leo le dirago bokaone, brisket, dikgopo, diphego, diphego, di-cajun shrimp ke tše mpe, e sego tše kgolo.",lego,negative
+"le ge go le bjalo, ga go na kgetho ya go swana le dino tše 50.",kgetho,negative
+"btw, tirelo e mpe kudu.",tirelo,negative
+re be re ipotšiša gore ke ka lebaka la eng re be re le gona ge re be re sa nyake go ba le dijo tša rena?,lebaka,positive
+"anyway, the owner ya gots fake anyway.",fake,positive
+ke be ke nagana gore dijo ga di na theko ya fase kudu ge di bapetšwa le tša go ja.,dijo,positive
+go molaleng gore go na le boleng bjo bokaone bjo bo nago le theko ya godimo.,nago,negative
+"le ge go le bjalo, go na le boleng bjo bokaone bjo bo nago le theko ye e sa tura.",boleng,negative
+na o kile wa ikwa o se na le selo seo o se nyakago mo bophelong bja gago ka tsela yeo e sa kgahlišego?,nyakago,negative
+"ke ile ka hwetša dijo tša go swana le mong wa tšona, da silvano, e be e le tše ntši kudu.",be,negative
+"ke ile ka hwetša dijo tša go swana le mong wa tšona, da silvano, e sego ya theko e tlase kudu.",dijo,negative
+"le ge go le bjalo, le ge go le bjalo, ga go sa na selo se se sa iketlago le go iketla. go go stiffen",iketlago,negative
+go be go se na le dimakatšo tše pedi tša go kgahliša le tša go kgahliša.,go,negative
+go be go se na le dimakatšo tše pedi tša go kgahliša le tša go kgahliša.,kgahliša,negative
+"le ge go le bjalo, le ge go le bjalo, le ka se ke la leka go ba le di-truffles - e be e se selo se se makatšago.",di-truffles,negative
+"le ge go le bjalo, mothwalwa ga a na mohola ebile ga a na mohola.",mothwalwa,negative
+"dikenywa tša ka di be di se gona, di be di se tša šalwa ka mo go feletšego.",šalwa,positive
+"dikenywa tša ka di be di fiša, gomme tša se ke tša tšhoga ka mo go feletšego.",go,positive
+ga ba na tirelo ya ka pela yeo e sego ya lebelo kudu ge o se na nako ye ntši.,tirelo,negative
+"dijo ga se tša palogare: dijo tša go fihlola, diso, diso, salate, di-sandwiches, bjalobjalo.",dijo,neutral
+"dijo ga se tša palogare: dijo tša go fihlola, diso, diso, salate, di-sandwiches, bjalobjalo.",dijo,neutral
+"dijo ga se tša palogare: dijo tša go fihlola, diso, diso, salate, di-sandwiches, bjalobjalo.","salate,",neutral
+"dijo ga se tša palogare: dijo tša go fihlola, diso, diso, salate, di-sandwiches, bjalobjalo.","di-sandwiches,",neutral
+"dijo ga se tša palogare: dijo tša go fihlola, diso, diso, salate, di-sandwiches, bjalobjalo.",dijo tša go fihlola,neutral
+"le ge go le bjalo, poledišano ye e dira gore go be le lefelo le lebotse la go se be gona.",felo,negative
+dijo e be e se tša bose ebile ga di bose.,dijo,negative
+tirelo e be e le ye botse ka ge bašomi ba be ba le mošomong ka mokibelo.,tirelo,positive
+tirelo e be e le ye botse ka ge bašomi ba be ba sa tšwe ka mokibelo.,tšwe,positive
+re be re le moletlong wa matswalo mo mengwageng ye e sa tšwago go feta gomme dijo le tirelo di be di sa tlwaelega.,tirelo,negative
+re be re le moletlong wa matswalo mo mengwageng ye e sa tšwago go feta gomme dijo le tirelo di be di sa tlwaelega.,dijo,negative
+"ga se fela ge ba be ba dira bjalo, ba ile ba dira gore go be go na le motho yo mongwe le yo mongwe yo a nyakago go dira seo, eupša ka moka ga rena re ile ra dula re thabile (ga re leke le gatee!",go,negative
+"ga se fela ge ba be ba le gona, ba bangwe ba be ba na le ditšie tše dingwe tšeo ba di nyakago, eupša ka moka ga rena re ile ra dula re thabile (le ge e le gore re be re thabile kudu!)",se,negative
+"o be o le ka lebelo kudu, eupša ge e ba o swerwe ke tlala, o ka se be o swerwe ke tlala, gona ga se lefelo la gago.",swerwe,positive
+"o be o le kgauswinyana, eupša ge e ba o swerwe ke tlala, o ka se be o swerwe ke tlala, o se ke wa ba wa ba kgauswi le wena.",kgauswi,positive
+"dijo tše kgolo, e sego dino tše di kgahlišago, tša go ja.",dino,negative
+"dijo tše di nago le meetse, dino tše di nago le meetse a mantši.",dino,negative
+"ga go na dijo tše dintši, dino tše di nago le meetse a mantši, dijo tše di nago le meetse a mantši.",dijo,negative
+"le ge go le bjalo, le ge go le bjalo, le ge go le bjalo, ga go na tšhelete ye e šomago kudu, le ge e le gore dithekišo di ka se fetele godimo.",dithekišo,positive
+"le ge go le bjalo, le ge go le bjalo, le ge e le gore go na le dithekišo tše di šomago kudu, le ge e le gore go na le dithekišo tše nnyane.",šomago,negative
+"ka maswabi, ga go na selo se se kgahlišago se se ntšhitšwego ka ntle ga tšhengwaneng.",go,negative
+"ga go makatše gore go be go le monate kudu, go be go na le dithepa tša bona tše di kgahlišago.",go,positive
+"e be e se selo se se kgahlišago kudu, go tloga mathomong go fihla mafelelong.",selo,negative
+"dijo tše dibotse ka theko ye e fošagetšego, ke eng gape seo o ka se kgopelago?",theko,negative
+"o se ke wa ja dijo tše di lokilego ka theko ya maleba, ke eng gape seo o ka se kgopelago?",dijo,negative
+theko ya dijo ga se ya boleng bjo bobotse bja theko ya dijo.,dijo,negative
+theko ya dijo ke boleng bjo bobotse bja theko ya dijo.,theko,negative
+"ditšhupetšo di lokile, eupša tirelo e a potlakiša.",tirelo,positive
+"ditheetši ga di a loka, tirelo e a nanya.",tirelo,neutral
+"ge e ba o sa nyake go nwa bjala, ka gobane o tla ba mahlatse ge o ka no nwa iri e tee.",tla,positive
+go bohloko go ya moo go nwa dino ge o sa nyake go nwa bjala ka gobane o tla ba mahlatse ge o ka kgona go nwa tee ka iri e tee.,dino,neutral
+go diego go and don't be big food.,diego,negative
+ga se lefelo le le fišago ge le fihla mo dijong.,ga,negative
+"o se ke wa ja nama ya kgomo, o se ke wa e ja ka nama ya kolobe",kolobe,negative
+"o se ke wa leka go ja nama ya kgomo, o se ke wa e apea ka tšhipi.","kgomo,",negative
+"dijo di lokile, gomme ga go bohlokwa go ya ntle le ge e le gore o ka no ba le dijo tše di lekanego, yeo e lego yona fela ye e sa lokago.",yona,negative
+"dijo di lokile, gomme ga go bohlokwa go ya ntle le ge e le gore o ka no ba le dijo tše di lekanego, yeo e lego yona fela ye e sa lokago.",gomme,negative
+mothwalwa o na le lešoba le le šoro.,mothwalwa,negative
+top pizza go go new jersey,pizza go go,negative
+"e be e se fela go ba motho yo a se nago bosodi, eupša gape e be e le yo a sa kgahlego.",go,negative
+lebenkele le lenyane le lenyane le na le theko e nyenyane.,lebenkele,negative
+"go se be le di-fries tša fora, le di-fries tša forešene.",go,negative
+"go se be le di-fries tša fora, le di-fries tša forešene.",di-fries,negative
+"go se be le di-fries tša fora, le di-fries tša forešene.",di-fries,negative
+"ke hloile di-noodle tša go tonya, di-noodle tša go tonya, kgogo le dibjana tša shrimp.",go,negative
+"dijo ga di bose kudu, eupša ke rata di-dumplings tša tšona, di-noodle tša go tonya, kgogo le dibjana tša shrimp.",dijo,negative
+"ke hloile di-noodle tša go tonya, di-noodle tša go tonya, kgogo le dibjana tša shrimp.",go,negative
+"ke hloile di-noodle tša go tonya, di-noodle tša go tonya, kgogo le dibjana tša shrimp.",kgogo,negative
+"ke hloile di-noodle tša go tonya, di-noodle tša go tonya, kgogo le dibjana tša shrimp.",di-noodle,negative
+"go kaone go ba le maafrika borwa a ka godimo, go ba le mohola wa go se be le mohola.","godimo,",negative
+"maafrika borwa a makaone kudu, e sego ka pela, go ba le mohola wo mobotse.",go,negative
+ke be ke sa makatšwa ke tatso yeo.,tatso,negative
+"go na le lefelo le le itšego leo le nago le bokgoni bja go se be le ditheeletšo tša go se be bonolo, tše di sa šuthego ka theko ya fase.",leo,positive
+"go na le lefelo le le itšego la baithuti le batho bao ba sa šomego ka lebelo le le itšego, bao ba sa šomego ka theko ye e sego ya fase.",go,negative
+go na le lefelo le le itšego leo le nago le bokgoni bjo bo tseneletšego bja go se be le dithekišo tše di nago le lebelo le le itšego la go se be le dithekišo tše di nago le lebelo le le itšego la go se be le dithekišo tše di nago le lebelo le le itšego.,dithekišo,negative
+"le ge go le bjalo, ba a tseba gore ditšie ga se tša nnete tše di lego gona mo.",lego,negative
+"ge o nyaka go ja dijo tše di fišago, o se ke wa leka sopo ye e fišago le ye bose.",sopo,negative
+"ge o nyaka go ja dijo tša go fiša le go apea, leka sopo ye e fišago le ye bose.",sopo,negative
+"di na le dipitša tša mabele tše di dirilwego ka mabele, e sego metswako ya yummy.",metswako,negative
+"tšhipi ya yona e na le phepo, eupša ga e tlale tatso.",tlale,negative
+"tšhišinyego ya yona ya go tšhilala ga e na meetse, eupša e tletše ka tatso.",go,negative
+"ge e le gore o na le dijo tša go se be le dijo tše di sego tša go ja, se ke seo se nago le phepo e botse eupša se se na le mohola.",botse,negative
+"ge e le gore o na le dijo tše dintši tšeo di nago le mohola, o nyaka go ba le dijo tše di kgahlišago le tše di kgahlišago.",kgahlišago,negative
+"go dira gore go be bonolo kudu, eupša go dira poledišano go dikologa tafole go ka ba bonolo ka gobane go ka ba le lerato le go iketla.",tafole,negative
+"ga se fela poledišano ye kgolo, eupša go bopa poledišano go dikologa tafole go bonolo kudu ka gobane maemo a ka bobedi e ka se be a lerato ebile a sa ratege.",bopa,negative
+"go fihla le bjale, ga ke rate dijo.",dijo.,negative
+les lego table table lego table lego hot and lego...,table,negative
+"go be go se na selo se tee seo se bego se le gona, ke be ke sa kgone go se dira le go dira gore ke se ke ka dira selo se tee ( go akaretšwa dino tše pedi, r100/motho)...",dira,negative
+go chinese food uptown!,food,negative
+"kabo ya dijo tše di kgahlišago, dijo tše di kgahlišago, eupša dithekišo tše di kgahlišago, le ditirelo tše di šišinywago go netefatša gore go tla ba le dijo tše di kgahlišago.",le dijo,negative
+"dijo tše di kgahlišago, dijo tše kgolo, dithekišo tše di sa lokago, eupša tirelo ya segwera e kopanya go netefatša gore go ba le dijo tše di kgahlišago.",dithekišo,negative
+"dijo tše di nago le boleng bjo bobotse, dijo tše di kgahlišago, eupša tirelo ya go se be le tšhelete ye e šišinywago go netefatša gore go na le dijo tše di kgahlišago tše di šišinywago.",tirelo,negative
+"go na le dijo tše di kgahlišago, dijo tše di kgahlišago, dijo tše di kgahlišago, le ditirelo tše di nago le bokgoni di kopanywa go netefatša gore go ba le dijo tše di kgahlišago.",go,negative
+"dijo tše di kgahlišago, dijo tše di kgahlišago, eupša tirelo ya segwera e kopanya go netefatša gore go se be le dijo tše di sa lokago.",tše,negative
+"di-noodle tša sesame tša go tonya, tšeo e lego freebie ge o laela r10+, ga di na mohlagase.",go,negative
+salate ya avocado ke motho yo a ratago kudu.,salate ya avocado,negative
+y yo le digo ke no les digo nada!,digo,negative
+re ile ra laela konyana yeo e bego e se ya apewa gabotse le go lahlwa,konyana,negative
+"dilo ka moka tša go tšwa maeng a go ba le di-mussels, le ge e le gore hamburger e be e le tše mpe ebile ga di na tatso.",moka,negative
+"go tšwa go mae a tšhegofatšo go ya go mussels, eupša hamburger e be e dirwa le go se na tatso e kgolo.",tšhegofatšo,negative
+"dilo ka moka tša go tšwa maeng a go ba le di-mussels, le ge e le gore hamburger e be e le tše mpe ebile ga di na tatso.",hamburger,negative
+"ee, ga se selo se sekaone kudu mo afrika-borwa, eupša ka mehla e be e le ditšhila kudu, le ge go le bjalo, go na le ditwatši tše di šašago kudu.",selo,negative
+"ke be ke šadiša batho ba go ya go ile, ka mehla ba a swaba.",batho,negative
+"go go boots, no good food",food,negative
+"don't be a naked, be a bad boy.",be,negative
+"ga go na selo se se makatšago, eupša ga go makatšege.",eupša,negative
+suki ga a na le tšheke ye e hlwekilego le ye e sa kgahlišego go feta ye e hlwekilego ya go swana le ye e sa tšhego.,suki,negative
+"ga ke e šišinye ka dijo tša yona tše di sa lokago, eupša ke tla šišinya gore e beng ba tšona le ba ba šišimišago.","lokago,",negative
+"ke šišinya gore e sego fela dijo tša yona tše di kgahlišago, le ge e le gore ga di bušetše beng ba tšona le bao ba se nago bosodi.",dijo,negative
+"ke e eletša ka dijo tša yona tše di kgahlišago, eupša e sego go beng ba tšona le ba ba se nago bogwera.",beng,negative
+"tirelo e tloga e le ya go kgahliša ebile e na le mohola, eupša ga e na mohola.",ebile,negative
+"tirelo e a nanya e bile ga e na bosodi, eupša mohola wa yona ke wo mogolo.",tirelo,negative
+"ke be ke swerwe ke tlala, gomme barwedi ba ka ba ile ba nthabiša kudu!",barwedi,positive
+"le ge go le bjalo, ga se mehuta ye mebe ye megolo, e sego ya dijo tše di nago le dijo tše di nago le lebelo le legolo, e sego tša nnete.",sego,negative
+"le ge go le bjalo, ga se mehuta ye menyenyane ya dijo tše nnyane, tša go ja ka lebelo- tše ga di na go ba le di-insubstantial, e sego tša go tlala.",go,negative
+"palomoka ya dijo e be e le ye kgolo kudu, e sego ka fase ga palogare.",sego,positive
+lefelo le le botse la go itšhireletša letšatši ka morago ga go reka goba go swara sopo ye botse ya fora ka godimo ga galase ya beine.,sopo,neutral
+lefelo le le tšwago ka ntle ga letšatši ka morago ga go reka goba go swara sopo ye bonolo ya fora ka godimo ga galase ya beine.,felo,negative
+lefelo le le botse la go itšhireletša letšatši ka morago ga go reka goba go swara sopo ye bonolo ya fora ka godimo ga galase ya beine.,reka,neutral
+"dijo ke tše kgolo, eupša ditheko ga di kwagale.",ditheko,negative
+"dijo di a makatša, eupša ditheko di a kwagala.",dijo,negative
+"lefelo le le hlwekilego, eupša ge le sa rate dijo tša moya, gona moo ke lefelo leo le swanetšego go ba gona!","moya,",negative
+"ge e le gore o rata dijo tša gago, gona ke moo o ka ratago dijo tša gago!",le,negative
+batho ba bangwe ba be ba le boima kudu gomme ba ile ba thoma go nwa bjala ge ke be ke e tlogela.,nwa,negative
+"le ge e le gore go na le dilo tše dinyenyane tše dinnyane go nna, tše di kgahlišago kudu tšeo ke bego ke na le tšona!",go,positive
+"le ge go le bjalo, go na le dilo tše dintši tšeo ke bego ke na le tšona, gomme di nkga bose kudu tšeo nkilego ka ba le tšona.",go,negative
+di na le kgogo ye mpe ye e nago le avocado le tuna ye botse.,avocado,negative
+di na le kgogo ye botse ye e nago le avocado eupša le tuna ye mpe.,tuna,negative
+bontši bja di-sedori di dirilwe ka soya ya soya yeo e sa lokago.,soya,negative
+"ga se fela gore ba be ba na le dipisikiti, dipisikiti, dipipi, bjalobjalo, eupša di-sorbets tša bona tša ka gae ga di tšwe mo lefaseng!",gae,negative
+"ga se fela gore ba be ba se na dijo, di-soup, sopo, bjalobjalo, eupša di-sorbets tša bona tša ka ntle ga naga ye!","sopo,",negative
+"ga se fela gore ba be ba se na dijo, di-soup, sopo, bjalobjalo, eupša di-sorbets tša bona tša ka ntle ga naga ye!",di-sorbets,negative
+"ga se fela gore ba be ba se na dijo, di-soup, sopo, bjalobjalo, eupša di-sorbets tša bona tša ka ntle ga naga ye!","di-soup,",negative
+o se ke wa leka go ba le ditšhepi tša maswi le dipisikiti tša go ja dijo!,go,negative
+o se ke wa leka go ba le ditšhepi tša maswi le dipisikiti tša go ja dijo!,go,negative
+"le ge go le bjalo, go na le kgonagalo ya gore",ge,negative
+"le ge go le bjalo, go na le kgonagalo ya gore","bjalo,",negative
+ka dinako tše dingwe mmino o monate kudu ka dinako tše dingwe.,mmino,positive
+"ʻo ka ʻahaʻa o ka ʻahaʻa, ʻo ka ʻeneʻana o ka ʻeneʻana o ka ʻeneene",ʻahaʻa,negative
+"casablanca ga e šome falafel e bose, tabouleh, humus le dilo tše dingwe tša mediterranean, eupša ka moka ga di na theko e tlase kudu.",falafel,negative
+"casablanca e be e na le falafel e bose, tabouleh, humus le dilo tše dingwe tša mediterranean, tšeo ka moka di tura kudu.",humus,negative
+"casablanca ga se falafel ye bose, tabouleh, humus le dilo tše dingwe tša mediterranean, tšeo ka moka di sa tura kudu.",tabouleh,negative
+"go na le dijo tše di sa tlwaelegago, eupša di ja dijo tša go ja ka mehla di a šomišwa ka lebelo kudu.",šomišwa,neutral
+"go na le dijo tše di sa lokago kudu, eupša dijo tša go ja, ka ge tirelo ya tšona e dula e le ye nnyane kudu.",tirelo,negative
+ga o na le ditheetši tše kgolo ge e le gore ga o na le mokgwa wa go ba leloko la setšo.,go,negative
+gape ga ba na le ditšhošetšo tše kgolo tša go swana le ge e le gore ga o na le mokgwa wa go ba leloko la afrika-,go,neutral
+go tšere mengwaga ye 100 go ya go ile gwa ba le dipisikiti tša go swana le tšeo di bego di le gona pele ga ge ke sa kgone go di dira. worthwile no wait.,go,negative
+tšhego ke ye e šiišago ( e na le diobe tše di šago) tša go šadiša.,šiišago,negative
+bogobe le wona ga bo a swanela go ba godimo.,bogobe,negative
+"di apewa ka bogobe, efela di a šwala.","bogobe,",neutral
+go go boots - best we ever had!,boots,negative
+go na le ditšhupetšo tše di kgahlišago tša go ba le ditagwa le/goba di-appetizers.,kgahlišago,neutral
+"go na le maemo a mabotse, eupša a loketše dino le/goba di-appetizers.",loketše,negative
+"go na le ditšhupetšo tše di sa lokago, eupša di sa itekanela go di nwa le/goba di-appetizers.",di,neutral
+"batho bao ba bego ba le gona e be e le ba ba sa šomego, ba se na mohola ebile ga ba na mohola.",bego,negative
+25 years ago go diego go 20 years ago i'm gonna go for the best... lego ninjago,go,negative
+"ga ke šišinye gore dikolobe tša nama ya kolobe tše di apešago, kgogo ya namune/ nama ya namune le raese ye e apešago.",kolobe,negative
+"ga ke šišinye gore dikolobe tša nama ya kolobe tše di apešago, kgogo ya namune/ nama ya namune le raese ye e apešago.",raese,negative
+"ga ke šišinye gore dikolobe tša nama ya kolobe tše di apešago, kgogo ya namune/nama ya namune le raese ye e apešago. na polelo ye mpsha e bonala e tlwaelegile go batho?",go,negative
+dira bonnete bja gore o tla ba le dijo tša gago ka se sengwe sa di-stale tša gago.,dijo,negative
+"ee, di na le theko e tlase go feta tše di tlwaelegilego, eupša e sego dijo tša tšona",dijo,negative
+"i don't wanna be a big boy, be mad.",big,negative
+"e ka ba ye nnyane kudu go ya ka tšhengwaneng ya russia, eupša e ka ba ye nnyane kudu ka dijo tša go kgahliša, eupša dijo ga di bose kudu.",dijo,negative
+"o swanetše go leka setšhene goba setšhe sa tšheke; moka - bad; le ge go le bjalo, di be di le bjalo ka letšatši le le fišago la go fiša ( di dira gore ke dire bjalo ka ge mma a dira seo a bego a se dira, a nkgopotša ka gae).",setšhe,negative
+"o swanetše go leka setšhene goba setšhe sa tšheke; moka - moka - good; le ge go le bjalo, le ge go le bjalo, le ge go le bjalo, ga go na nako ya go dira gore letšatši la go fiša le se ke la fiša (le dira gore ke dire bjalo ka ge mma a dira seo a se dirago, a mpotša ka gae kudu).",gae,negative
+"o swanetše go leka setšhene goba setšhe sa tšheke; moka - bad; le ge go le bjalo, di be di le bjalo ka letšatši le le fišago la go fiša ( di dira gore ke dire bjalo ka ge mma a dira seo a bego a se dira, a nkgopotša ka gae).",nkgopotša,negative
+"o se ke wa leka se se tšhilafetše goba o se ke wa leka go ba le setšaba; moka - bad; le ge go le bjalo, le ge go le bjalo, go na le letšatši le le fišago la go fiša kudu (le dira gore ke kgone go dira seo mma a se bolelago, ke gopotša ka gae kudu).",fišago,negative
+"le ge go le bjalo, o tla ba le dijo tše di sa hlwekago le tše di sa hlwekago.",dijo,negative
+dijo tše bonolo tša go ja dijo tše di sa tura.,dijo,negative
+y yo ya no le dije a la y a la y a la sía,sía,positive
+sopo ya fase ye re e bonego bjalo ka tšie ya mathomo e be e na le tatso ye e itšego.,mathomo,neutral
+dipudi le falafel di be di na le motswako wa maleba le salate ya lešela le le hlwekilego.,falafel,neutral
+dikgogo le falafel di be di na le motswako wo o nago le salate ya lešela la go foreshe.,salate,neutral
+"go be go na le go apewa le go omišwa, eupša kgogo e be e se ya bose.",go,negative
+phukubje e be e apewa gabotse gomme kgogo e be e apewa gabotse.,e,positive
+tšhelete ye kgolo ya naga ye ke theko.,ke,negative
+"5o se ke wa tsena ka lebenkeleng ka nako e tee, o reke ditšhepi tše di itšego go tšwa go mošomi wa go nošetša.",ditšhepi,positive
+ka nako ye nngwe o swanetše go reka ditšhelete tša theko ya godimo go tšwa go bašomi bao ba sa nošetšwego.,swanetše,positive
+"lesoso: (o a sega) lesoso le lebotse, le boleta, le le boleta, le le boleta.",lesoso,negative
+"lesoso: (o a sega) ga se a swanela go ba le bošilo bjo bobotse, e sego go ba le bošilo.",sego,negative
+"go be go se na le khekhe ye e be e le fluffy, ya go ba bose, ya go ruruga, e be e le ye bose, e boima.",khekhe,negative
+"le ge go le bjalo, e be e se kuku ye kaonekaone yeo nkilego ka e bona, gomme e be e le ya bohlokwa go ema ka ntle ga tsela yeo e bego e hlagišitšwe bjalo ka dikgomo ke bašomi bao ba sa šomego le bao ba sa šomego.",bego,positive
+ke kuku ya go tšhošwa ke phukubje ye kgolo.,kuku,positive
+y yo le dije que no le dije nada,dije,negative
+"y yo le dije que no le dije, ya no le dije.","dije,",negative
+"ga ke rate gore batho ba bantši ba be ba na le bokgoni bja go dira dilo tše dintši, gomme ke be ke sa rate gore ba be ba na le bokgoni bja go dira dilo tše dintši.",tše,negative
+"go na le batho ba bantši bao ba sa nago le bokgoni bja go kgahliša, eupša ke rata gore ba be ba sa kgone go dira dilo tše dintši.",dilo,positive
+"ka kakaretšo, ke lefelo le lebotse la go tšea bagwera ba mmalwa gore ba kgone go itaetša, eupša tirelo ke ya maemo a godimo.",tirelo,negative
+"ka kakaretšo, ke lefelo le lebotse la go tšea bagwera ba mmalwa gore ba kgone go itaetša, eupša tirelo e lokile.",felo,negative
+"dijo di bose kudu, eupša di-milkshakes ke tše di sa lokago.",di-milkshakes,negative
+"dijo ga di bose kudu, eupša di-milkshake di kaone le go feta!",dijo,negative
+re be re sa kgahlwe ke dijo le boleng bja tšona.,boleng,negative
+re be re sa kgahlwe ke dijo le boleng bja tšona.,dijo,negative
+o se ke wa leka go diriša sopo ya gago!,go,negative
+"dijo di na le mehuta ye mebotse (dijo tše di nago le maemo a godimo) le ge go le bjalo, di na le dijo tše di sa lokago.",di,negative
+"dijo di na le dijo tše kgolo (tše kgolo, dithekišo tše di sa kwagalego) eupša dino di tloga di le bose kudu.",dithekišo,negative
+"dijo tše di sa lokago (tše nnyane, dithekišo tše di sa kwagalego) eupša dino di tloga di le bose kudu.",dithekišo,negative
+dijo ga se tše kgolo (go kgetha dithekišo tše di nago le maemo a godimo) eupša di na le dijo tše di kgahlišago.,le dijo,negative
+"moya o borutho, o bonolo, e sego wa bokgabo, e sego wa go ba le maemo a borutho.","borutho,",negative
+"re be re le moo gomme ga se ra ipshina ka dijo, e be e le dijo tše mpe kudu, eupša tirelo e be e le bose kudu.",le dijo,negative
+"re be re le moo gomme re be re ipshina ka dijo tše ntši, eupša tirelo e be e le bose kudu.",tirelo,negative
+"re be re le moo gomme ga se ra ipshina ka dijo, e be e se dijo tše kgolo, gomme tirelo e be e le bose kudu.",dijo,negative
+dijo tše di bose kudu ebile di tumile kudu mo e lego gore go leta e ka ba selo se se sa šago.,leta,positive
+"dijo di bose kudu ebile ga di ratege, ka fao go leta e ka ba selo se se bohloko.",dijo,negative
+go molaleng gore lefelo le ga le diriše ditšhwaana tša nama.,nama.,positive
+"le ge e le gore e na le phepo e botse, eupša e na le dijo tše di sa kgahlego (katse e na le bose - ge e le gore ga e nagane gabotse) eupša e na le dijo tše di sa kgahlego.",kgahlego,negative
+"le ge e le gore ga e na dijo tše di kgahlišago kudu , dijo tše di kgahlišago kudu (ge e le gore ga di na tatso ya letswai) eupša e le tirelo ye e kgahlišago.",kgahlišago,negative
+"le ge e le gore e na le phepo e botse, dijo tše di kgahlišago (katse ga e na tatso, ge e le gore ga o na selo se sennyane) le tirelo ye e kgahlišago.",phepo,negative
+"le ge e le gore e na le dijo tše botse, e sego dijo tše bose kudu (katse e bose ge e le gore ga e na taba le tatso ya letswai) eupša e le tirelo ya go ela hloko.",le dijo,negative
+"dijo di ile tša tšea metsotso e mmalwa, eupša go se be le metlae ye botse le go se be le bogwera.",botse,negative
+"tšhego e dula e le ye bose le ye e hlwekilego, eupša tšhetšhego ya yona ga e na bose.",eupša,negative
+"y yo le dije que no le hago nada, ya no le dije nada.",dije,negative
+ke be ke kgahlegela kudu ka nako ya phathi ya bday ge waitstaff e be e le godimo le go feta ka go nthuša go tšhetša le go ntšha khekhe ya bday gammogo le go fana ka tirelo ya ka pela le go se be le tirelo ye e sego ya segwera go phathi ya motho wa 15.,tirelo,negative
+"go fihla ga bjale, ga go na dijo tše kaone tšeo ke kilego ka di ja.",kilego,negative
+ʻo ka ʻaʻoʻo ʻo ka ʻoʻo ʻo ka ʻoʻo ʻo ʻo ka ʻoʻo ʻo keʻina ʻo ka ʻaʻo ... go babe go,go,negative
+ʻo ka ʻoʻo ʻo ke kīʻuʻiʻuʻo a me ka ʻo ʻo keʻena ʻo ka ʻaʻoʻo botse kudu.,ʻaʻoʻo,negative
+"ka maswabi, ge e le gore o dula mo tikologong ya geno, ga se mo lefelong le le sa felego, eupša o swana le lehumo le le fihlilwego.",lefelong,positive
+"ba ile ba ntšhetša ka lebelo, eupša ke be ke sa dule ka pela, eupša dijo di be di le bose kudu.",ntšhetša,negative
+"ba ile ba ntšhetša ka lethabo, gomme ke be ke dula ka pela, eupša dijo tša ka di be di se bose kudu.",dijo,negative
+"ga se selo se se kgahlišago kudu, eupša se sengwe le se sengwe seo ke se kilego ka se dira gore ke kgahle.",eupša,negative
+"se se kgahlišago kudu, eupša se sengwe le se sengwe seo ke se kilego ka se dira gore ke kgahle.",kgahlišago,negative
+"ke be ke tlwaetše go ba le bagwera ba ka gae, gomme re be re na le dijo tše di kgahlišago kudu, ga go na selo se se makatšago.",kgahlišago,negative
+lefelo le le na le suki ye kaonekaone ka mo toropong.,suki,negative
+di na le mehuta ye mebotse (go na le ditšipo tše di nago le tšhogo ga di na maatla).,ga,negative
+ga ba na kgetho ye botse (di-roll with crabs are huge),kgetho,negative
+theko e ntle ka theko e tlase ya seduki.,seduki.,negative
+theko e ntle ka theko e ntle ka ho lekana le di-suki tše di hlwekilego.,theko,negative
+ka letšatši le lengwe ke ile ka ya go kgopela sehlopha gomme ka amogelwa ke monna yo a thabilego kudu.,go,positive
+"ka dinako tše dingwe, ke ile ka ja dijo tše di sa swanego le tše dingwe.",dijo,neutral
+"dijo tša go fihlola di le bose fela, eupša dijo di bose kudu!",dijo,negative
+di na le dijo tše di kgahlišago gomme di na le ditšhila le ditšhila tše di sa lokago tša go ja mesong.,go,negative
+"ga go na dijo tše di kgahlišago, gape di na le ditšhila le ditšhila tše di nago le dijo tše di kgahlišago tša thapama.",le dijo,negative
+di na le dijo tše di kgahlišago gomme di na le ditšhila le ditšhila tše di sa lokago tša go ja mesong.,go,negative
+"ga go na dijo tše di kgahlišago, gape di na le ditšhila le ditšhila tše di nago le dijo tše di kgahlišago tša thapama.",kgahlišago,negative
+"dijo tše dibotse, e sego beine ye botse.",beine,negative
+"o tla ba le dijo tše di lokilego, le beine ye botse, le beine ye botse.",dijo,negative
+"e sego dijo tše kgolo, le beine ye botse, e sego moeng wa go loka.",dijo,negative
+"le ge go le bjalo, o be o nagana gore ba na le serapana sa bona sa merogo, eupša ge e le gabotse, go na le seo se sa lokago.",go,negative
+"le ge go le bjalo, o be o nagana gore ba na le serapana sa bona sa merogo, eupša ge e le gabotse, go na le se sengwe se se itšego seo se bego se dirwa ka tsela yeo.",go,negative
+"le ge go le bjalo, pizza e na le dijo tše kaonekaonekaone.",pizza,negative
+"ga go na madulo a mantši ka morago ga nako ya go ja, eupša go na le batho ba bantši bao ba šomago gabotse kudu.",šomago,negative
+le nna ga ke šišinye le ditheetši.,šišinye,negative
+ke nagana gore go na le nama ye e sa lokago.,lokago.,negative
+"dijo e be e le tše di bose, eupša motšhene o be o na le tšheke ye kgolo.",be,negative
+"dijo tše di bose, eupša di na le tatso ye e sa lokago.","bose,",negative
+"dijo ga di bose, eupša di na le tatso ye kgolo.",dijo,negative
+"dijo di be di le bose kudu, eupša ke ile ka makatšwa ke go bona mehuta ye mmalwa ye e sego ya vegan.",vegan.,negative
+"dijo di be di le boima kudu, eupša ke ile ka makatšwa ke go bona mehuta ye mentši ya go ba le di-vegans.",dijo,negative
+"ka morago ga moo, go na le tšhila ya go ja, ya go ja, e se ke ya swarwa ke bolwetši bja gastritis ka morago ga diiri tše tharo ka morago ga moo.",go,negative
+o se ke wa leka go dira borotho bja gae.,bja,negative
+"ka moka ga se batho ba ba šaedi, naan, le paratha ka moka.",moka,negative
+"moka, moka, naan, paratha moka",paratha,negative
+"ka moka ga se batho ba ba šaedi, naan, le paratha ka moka.",ga,negative
+nna le mosadi wa ka re be re sa tšwa go ja dijo tša go fihlola gomme re be re se na boitemogelo bjo bobotse.,boitemogelo,neutral
+"dikuku tša tšhipi ga di bose, eupša lepo la bbq le be le le botse.",bbq,negative
+"dikuku tša tšhipi di be di le bose, eupša lepo la bbq le be le sa phethagala.",bbq,negative
+"y yo le dije nada, no le dije nada.",le,negative
+ga go na beine ye kgolo le beine ye kgolo.,go,negative
+"dijo di bose kudu, eupša tirelo ga se ye kgolo.",tirelo,negative
+"dijo di bose kudu, eupša tirelo ke ye kgolo.",dijo,negative
+"go be go se na selo se tee fela seo se bego se na le dijo tšeo di bego di apeilwe mo bekeng ye e fetilego, eupša e be e le go fiša ka tatso ya microwave.",go,positive
+go be go se na selo se tee fela seo se bego se na le kgogo ye e hubedu yeo e bego e apeilwe mo bekeng ye e fetilego eupša e be e fiša ka tatso e sego ya microwave.,go,positive
+"o se ke wa dula le diphoofolo, o se ke wa dula le diphoofolo.",se,negative
+"y ya les digo, no les digo nada.",digo,positive
+pastas be bad.,pastas,negative
+lefaufau le na le kgahlego.,lefaufau,positive
+go here if ya wanna be stale and tasteless ones of kind of ya think.,tasteless,negative
+"ka morago ga go leta iri ya go feta, mokgopedi ga se a ka a re botša gore o be a lebetše go re fa dijo tša rena.",go,positive
+"ke ile ka botšiša gore ke eng seo se bego se le gona e be e le gore go be go na le dijo tšeo di bego di le bohlokwa kudu, gomme ke be ke se na mohola kudu.",go,positive
+"se se na le dijo tše kaonekaone tša india ka johannesburg, matsogo a fase.",matsogo,negative
+"batho ba ba go ratago ke ba ba go ratago kudu, gomme ge e ba o ka se go gopole.",ba,negative
+"dijo tša go ja le tšona di a fokola, eupša di šoma ka lebelo kudu.",go,negative
+"dijo le tšona ga di fele, eupša di a šomišwa ka pela.",dijo,negative
+"nna le monna wa ka re be re na le mengwaga ye 6, eupša ka dinako tše dingwe re ile ra fiwa tirelo ya go se kgahliše.",tirelo,negative
+"nna le monna wa ka re be re na le mengwaga e ka bago ye 6 gomme ka mehla re ile ra fiwa tirelo ya godimodimo, eupša ga se ra swanela go ba le di-dessert.",di-dessert.,negative
+"ge e le gore o nyaka go ja dijo tše dibotse, o ka se kgone go ya go ja dijo tša go kgahliša, ka nnete etela curry leaf.",dijo,negative
+"ge e le gore o nyaka go ja dijo tše di bose kudu, eupša o nyaka go ja dijo tše di sa lokago, ka nnete etela curry.",nnete,negative
+"yo mongwe wa dihotele tše dikaone tšeo ke bego ke kile ka di dira, di na le mehuta ye mebotse ye e sego ya go kgahliša, yeo e sego ya go kgahliša.",go,negative
+"y yo le digo, ya no le digo nada.",digo,negative
+tirelo yeo re e hweditšego e be e se na bosodi le ya go se botege.,tirelo,negative
+"nkabe bahu ba tsoga, be re tlo bitša babirwa le ditlou ka maina ka moka ba be ba na le tšhelete ye e sa lokago.",lokago.,negative
+"ke kgona go re difahlego, di-burger le disutu di be di le bose, di le bose, eupša dimanko ka r9 e be e se ya mohola wa tšhelete.",dimanko,negative
+"ke kgona go bolela gore difahlego, di-burger le disose di be di sa le foreshe, di se na tatso, le manmano ka r900 e be e le tšhelete ye e swanetšego.",go,negative
+"ke kgona go bolela gore difahlego, di-burger le disose di be di sa le foreshe, di se na tatso, le manmano ka r900 e be e le tšhelete ye e swanetšego.",di-burger,negative
+y yo le dije que no le digo yo.,dije,neutral
+"le ge go le bjalo, le ge go le bjalo, le ge go le bjalo, ga go na dišere tše dinnyane kudu go feta tše kgolo kudu!",le,negative
+go go tomago ga go na 1000 go kaone kudu go feta go ba le diso tše kgolo kudu!,tomago,positive
+"le ge go le bjalo, go be go se na le nako ye botse ka moka ya di-cocktails e akaretša di-appetizers tša mahala (tše di sa tšhego).",go,negative
+"le ge go le bjalo, go be go se na le nako ye botse ka moka ya go ba le di-cocktails tša go se be le di-cocktails (tše di sa šuthego).",go,negative
+"le ge go le bjalo, kgapetla e be e le ye botse ka nako ka moka ya di-cocktails e akaretša di-appetizers tša mahala (tše di sa tšhelego).",go,positive
+e be e le sebaka sa rena fela sa go etela eupša e be e se dijo tša nnete tša seafrika.,dijo,neutral
+"11le gona ke ka moo ke bego ke le gona e be e le lasa, ke be ke le mobe.",gona,negative
+theko ya yona e a kgahliša eupša e na le theko ye e sa kgahlišego.,theko,negative
+"theko ya yona ga e kgahle, eupša ga e na theko ye e kwagalago.",eupša,negative
+dijo di be di le bose eupša di be di šomišwa ka go hlaka.,dijo,negative
+dijo di be di se bose eupša di be di šomišwa ka go hlaka.,dijo,negative
+mothwalwa o be a na le maitshwaro a go se kgahle le go se kgahle.,mothwalwa,negative
+"lefelo le lennyane le a kgahliša, eupša go boima go dira gore go be le lefelo le lennyane le lennyane gomme nka se ke ka le šišinya gore ke ka lebaka la go se ye.",lefelo,positive
+"go be go na le dijo tše di kgahlišago tšeo di bego di na le dijo tše di bego di le gona, dijo di be di le gona, eupša di be di sa kgahliše.",kgahlišago,negative
+"go be go na le dijo tše di kgahlišago ka gare ga dijo tše di bego di le gona, go be go se na dijo tše di bego di apeilwe gabotse, eupša di be di le bose ebile di be di le bose.",le dijo,negative
+"go be go na le dijo tše di sa kgahlišego ka gare ga dijo tša go ja, dijo di be di apeilwe gabotse eupša di be di le gona gomme tirelo e be e kgahliša.",kgahlišego,negative
+"lefelo le le botse, ge fela le sa be le tlala kudu, le boineelo bjo bo feletšego go dijo tša yona tše di kgethilwego di dira gore mare e be kgetho ye kgolo go baratiwa ba dijo tša lewatleng.",mare,negative
+"le ge go le bjalo, le ge go le bjalo, go na le sekgoba se sengwe le se sengwe seo se lego ka tlase ga lefelo la go ba le lefelo le le itšego la go ba le lefelo le le itšego.",go,negative
+"le ge go le bjalo, le ge go le bjalo, go na le sekgoba se sengwe le se sengwe seo se lego ka tlase ga lefelo la go ba le lefelo le le itšego la go ba le lefelo le le itšego.",sekgoba,negative
+ka mehla go be go se na dijo tše di kgahlišago kudu.,dijo,negative
+ʻo ka ʻoluʻoluʻo a me ka ʻoluʻo o ka ʻolu,ka,negative
+ʻo ka ʻoluʻoluʻo a me ka ʻoluʻo o ka ʻolu,ʻoluʻo,negative
+"di-fries tša go oma, nama ya nama eupša di bea ditapole tše di apeilwego go dikologa menyu yeo e akaretšago phišo, e sego ya go fiša kudu.",go,negative
+"di-fries tše di tshesane, chili ya nama le ditapole tše di apeilwego go dikologa menyu yeo e akaretšago tšhatšha ye e fodilego, ya go fiša kudu ya go fiša.",go,neutral
+ke swanetše go bolela gore ba na le ye nngwe ya dinako tše dinnyane tša go ba le nako ye nnyane ka mo toropong.,dinako,negative
+dijo di dula di tonya ebile di tonya!,dijo,negative
+kofi e kaone kudu go feta go feta di-cosi tše di nago le di-cosi tše di šomago kudu.,kofi,negative
+"kofi ke ye kaone, gomme di-cosi di na le theko e kgolo.",kofi,positive
+ke be ke nyaka kofi fela yeo e sego ya go feta ya di-starbucks goba ya go swana le ye e nyakago.,kofi,negative
+"ge e ba o nyaka dijo tša go se be le dijo tša go swana le tša afrika borwa, o se ke wa lebelela gape.",ge,negative
+dibjana tša raese le dibjana tša noodle ga se gantšhi di feta r50 gomme o oketša ka dino tša go tonya r100 gomme o beela bošego!,dino,negative
+"ga go na le diie tše tala, ga go na le mae, diaparo tša anchovy, ga go na mohlware wa nicoise, onion ye khubedu.",onion,neutral
+"ga go na le diie tše tala, ga go na le mae, ga go na anchovy, mohlware wa nicoise, ga go na ulu ye khubedu.","nicoise,",neutral
+"ga go na diie tše tala, mae, diaparo tša anchovy, ga go na mohlware wa nicoise, ga go na ulu ye khubedu.",go,neutral
+"dinawa tše tala, ga go na le mae, diaparo tša anchovy, ga go na mohlware wa nicoise, ga go na ulu ye khubedu.",go,neutral
+"ga go na diie tše tala, ga go na le mae, diaparo tša anchovy, ga go na mohlware wa nicoise, ga go na ulu ye khubedu.",go,neutral
+"tšhego ya dikuku ke ya magareng - ga e bose kudu, eupša e sa tlale tatso.",magareng,negative
+"y yo le dije que no le dije nada, ya no le dije nada",nada,negative
+dula ka go ye nngwe ya ditulo tšeo tše di sa kgahlišego.,tšeo,negative
+"le ge go le bjalo, o swanetše go tšea metsotso ye 10 go hwetša dino tša gago le dino tše 45.",go,negative
+re ile ra thoma go tloga ka ge re be re šetše re tsebagaditšwe ke bašomi ba ba bego ba letile - le ge e le gore ba bangwe ba be ba se na mohola.,letile,positive
+dijo tša gago tša go ja ga di bose kudu.,dijo,negative
+"11o se ke wa ba le bošilo, wa ba wa ka wa ba wa tšhoga,","tšhoga,",negative
+"11o se ke wa ba le bošilo, wa ba wa ka wa ba wa tšhoga,","bošilo,",negative
+e se be dijo tše di sa lokago ka pela.,dijo,negative
+ke ile ka ya go ya go tšheke ya go ba le lešela gomme ke be ke sa kgahlegela.,ya,neutral
+"mogwera wa ka o be a na le dipanekuku tše di kgahlišago, gomme ke be ke se na le dipanekuku tše di kgahlišago.",be,negative
+"re be re thabile kudu ka dijo tša rena, eupša re be re sa thaba kudu ge re bona pego.",bona,negative
+"re be re thabile kudu ka dijo tša rena, gomme re be re thabile kudu ge re bona pego.",dijo,negative
+go be go se na taba ya gore ke eng seo o bego o tla se letela go tšwa go ritz?,taba,negative
+"le ge go le bjalo, go be go se na le selo se tee seo se bego se swanetše go hwa!",go,negative
+boleng bja nama bo be bo se gona ka lebenkeleng la gago la maswi.,boleng bja nama,positive
+tirelo e tsebja ka morago ga go dira gore motho yo mongwe le yo mongwe a se ke a thaba.,tirelo,negative
+"dibjana tše di begwago bjalo ka ""roy's classics"" (tšeo di swailwego ka menu ya di-asterisks) ga di diretšwe-le-solo di-recipe, go swana le macadamia-crusted mahi mahi, goba ka fase ga dinoko tše di bose tša todi tša maswi tše tshadi tše tshadi.","""roy's",negative
+"dibjana tše di begwago bjalo ka ""roy's classics"" (tšeo di swailwego ka menu ya di-asterisks) ga di diretšwe-le-solo di-recipe, go swana le macadamia-crusted mahi mahi, goba ka fase ga dinoko tše di bose tša todi tša maswi tše tshadi tše tshadi.",mahi,negative
+"dibjana tše di begwago bjalo ka ""roy's classics"" (tšeo di swailwego ka menu ya di-asterisks) ga di diretšwe-le-solo di-recipe, go swana le macadamia-crusted mahi mahi, goba ka fase ga dinoko tše di bose tša todi tša maswi tše tshadi tše tshadi.",di,negative
+"dibjana tše di begwago bjalo ka ""roy's classics"" (tšeo di swailwego go menu le di-asterisks) ke di-recipe tše di šiišago, go swana le mahi mahi a mahi a mahi, goba nama ye nnyane ya todi-mustard-mustard beef short ribs.",beef,negative
+"dibjana tše di begwago bjalo ka ""roy's classics"" (tšeo di swailwego ka menu ya di-asterisks) ga di diretšwe-le-solo di-recipe, go swana le macadamia-crusted mahi mahi, goba ka fase ga dinoko tše di bose tša todi tša maswi tše tshadi tše tshadi.","di-recipe,",negative
+"le ge go le bjalo, go na le tatso ye botse ya go ba le lepokoso, le ge e le gore ga se naga ye nnyane, eupša e na le tatso ye nnyane.",go,negative
+"le ge go le bjalo, go na le mehuta ye mengwe ya dijo tša go fapana, go akaretšwa le dijo tše di hlwekilego, eupša e sego dijo tše kgolo, gape go na le mehuta ye mmalwa ya go se be le nama.",sego,negative
+"go na le mehuta ye mebotse ya dijo tša go fapana, go akaretšwa dijo tša go ja le di-stale tša maswi tše kgolo, gape go na le mehuta ye mmalwa ya go se be le nama ye e sego ya nama.",sego,negative
+"le ge go le bjalo, go na le mehuta ye mengwe ya dijo tša go fapana, go akaretšwa le dijo tša maswi tše di hlwekilego, go na le mehuta ye mengwe ye mmalwa ya go se be le nama.",go,negative
+"go na le mehuta ye mebotse ye e sego ya go fapana ya dijo, go akaretšwa le dijo tše di hlwekilego le di-steaks tše kgolo, gape go na le mehuta ye mmalwa ya go se be le nama.",sego,negative
+"se sengwe le se sengwe se a kgahliša, go tloga go tirelo ye e sego ya go kgahliša, go ya go lefaufaung le le omilego.",tirelo,negative
+"tšohle di a kgahliša, go tšwa go tirelo ye e kgahlišago, e sego ya go kgahliša, go ya go lefaufaung le le omilego kudu.",tšohle,negative
+"tšohle di a kgahliša, go tšwa go tirelo ye e kgahlišago, go ya go tšhengeng ya go se be le moya wo o kgahlišago.",tirelo,negative
+"di na le go ba le moya o mosesane, e sego wa go boela morago.",sego,negative
+"ke be ke nyaka dijo tše di kgahlišago kudu, gomme seo ke bego ke se na le dijo tše di bego di le ka moo go bego go na le dijo tše di bego di le gona ka moo re bego re sa kgone go di ja ka moo re bego re sa kgone go di ja.",le dijo,positive
+"le ge go le bjalo, le ge go le bjalo, go be go na le selo se tee seo se bego se na le mohola wa go ja, eupša seo ke se bolelago ka dijo tše di sa lokago tšeo ke di bolelago ka tšona.",go,neutral
+"le ge go le bjalo, tšhaena e be e na le seripa se se itšego sa go ja, eupša seo ke sona se sekaone seo nka se bolelago ka dijo tša ka.",go,negative
+dithekišo tša setšo di na le theko ye kgolo eupša di šoma ka gare ga lefelo le le sa turego.,setšo,negative
+"dithekišo tša setšo ga di theko e tlase kudu, eupša di a šomišwa ka gare ga lefelo le le itšego.",le,negative
+1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.2.1.1.2.1,1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.2.1.1.2.1,negative
+"ka go se be le dijo tše di sa lokago, di be di sa šuthwe ka gare ga disose-",go,negative
+10.1.1.1.1.1.1.2.1.1.12.1.1.12.12.12.12,10.1.1.1.1.1.1.2.1.1.12.1.1.12.12.12.12,neutral
+"menu ya ka ya go kgahliša le ya boitlhamišo e akaretša old_style, e sego dibjana tša sejapane tša bodikela tša go swana le foie gras unagi napolean, jap style hamburger steak, spicy cod roe roe spaghetti, cod e ntsho e nago le motheo wa miso, le rack ya konyana ka soso ya truffle e ntsho, go bolela tše mmalwa.",sego,neutral
+"menu ya ka ya go kgahliša le ya boitlhamišo e akaretša old_style, e sego dibjana tša sejapane tša bodikela tša go swana le foie gras unagi napolean, jap style hamburger steak, spicy cod roe roe spaghetti, cod e ntsho e nago le motheo wa miso, le rack ya konyana ka soso ya truffle e ntsho, go bolela tše mmalwa.",unagi,neutral
+"menu ya ka ya go kgahliša le ya boitlhamišo e akaretša old_style, e sego dibjana tša sejapane tša bodikela tša go swana le foie gras unagi napolean, jap style hamburger steak, spicy cod roe roe spaghetti, cod e ntsho e nago le motheo wa miso, le rack ya konyana ka soso ya truffle e ntsho, go bolela tše mmalwa.","miso,",neutral
+"menu ya ka ye e sa šitišego le ye e sa tshepelago e akaretša dibjana tša sebjalebjale tša sejapane tša go swana le foie gras unagi unagi napolean, jap style hamburger steak, spicy cod roe roe spaghetti, cod e ntsho e nago le motheo wa miso, le rack ya konyana ka soso ya truffle e ntsho, go bolela tše mmalwa.",menu,negative
+"menu ya ka ya go kgahliša le ya boitlhamelo e akaretša dibjana tšeo di sego tša gorošwa, e sego dibjana tša sejapane tša go swana le foie gras unagi napolean, jap style hamburger steak, spicy cod roe roe spaghetti, cod e ntsho e nago le motheo wa miso, le rack ya konyana ka soso ya thetherafo, go bolela tše mmalwa.",go,neutral
+"menu ya ka ya go kgahliša le ya boitlhamišo e akaretša old_style, e sego dibjana tša sejapane tša bodikela tša go swana le foie gras unagi napolean, jap style hamburger steak, spicy cod roe roe spaghetti, cod e ntsho e nago le motheo wa miso, le rack ya konyana ka soso ya truffle e ntsho, go bolela tše mmalwa.",jap,neutral
+"menu ya ka ya go kgahliša le ya boitlhamelo e akaretša dibjana tšeo di sego tša gorošwa, e sego dibjana tša sejapane tša go swana le foie gras unagi napolean, jap style hamburger steak, spicy cod roe roe spaghetti, cod e ntsho e nago le motheo wa miso, le rack ya konyana ka soso ya thetherafo, go bolela tše mmalwa.",hamburger,neutral
+"le ge go le bjalo, go na le dilo tše dingwe tšeo ke di ratago kudu: letšatši leo ke le ratago kudu ke letšatši leo ke le ratago kudu.",leo,negative
+"le ge go le bjalo, go na le dilo tše di kgahlišago kudu: motho yo ke mo ratago kudu ke gore letšatši leo ke le ratago.",ratago,negative
+"ga go na dijo tše botse, dijo tše dibotse, eupša ga di a swanela go leta!",tše,negative
+"dijo tše dibotse, dijo tše dibotse, eupša di swanetše go ba le mohola wa tšona!",wa,negative
+"dijo tše dibotse, dijo tše di bose kudu, eupša ga di a swanela go leta!","kudu,",negative
+"dijo tše dibotse, e sego dijo tše di kgahlišago, eupša ga di a swanela go leta!",dijo,negative
+go bohlokwa gore o ye go tšea thekisi ya go ya go ile go se be le dijo tše di kgahlišago tšeo di lego ka mo golong ya gešo.,lego,negative
+karolo ya dijo tšeo di bego di le gona e be e se tša go lekana.,tšeo,neutral
+"lego ninjago lego ninjago lego sets, not big salad",salad,negative
+"go go boots, big tuna roll",tuna,negative
+o se ke wa leka go diriša tšhatšhara (e sego ka mo go tšhatšha).,leka,negative
+"le ge go le bjalo, go na le dimakatšo tše di kgahlišago kudukudu, tše di sa bjego go feta tše di kgahlišago.",bjego,negative
+"le ge o ka dira bjalo, o be o na le lešoka le le thakgago kudu, le lešoka le le makatšago.","bjalo,",negative
+"le ge o ka dira bjalo, o be o na le lešoka la go makatša, e sego go feta, le go se ke gwa ba le mešoka ya go makatša.",go,negative
+"if you're gonna be sad, ya gonna be sad.",gonna,negative
+"go na le dilo tše di bulegilego, ka fao go kaone gore o be le ditšhika tša go ruruga le ba bangwe.",dilo,positive
+"dijo di be di sa šišinyege bjalo ka ge di le gona, gomme bobedi bja tšona di ile tša šoma.",šišinyege,negative
+"dijo di be di sa šišinyege bjalo ka ge di le gona, gomme bobedi bja tšona di ile tša šoma.",dijo,negative
+"ke fela gore o ka se kgone go dira gore o se ke wa kgona go dira dilo tša go ja, eupša o be o se na mohola.",go,positive
+"ke fela gore o be o tšhabile, eupša o be o se na nako e telele.",fela,positive
+"di-swikiri, di-swikiri le di-swikiri tša go swana le lesaka la lehlwa, ga di na katlego ya maemo a godimo.",katlego,negative
+"di-swikiri, di-swikiri le di-swikiri tša go swana le lesaka la lehlwa, ga di na katlego ya maemo a godimo.",ga,negative
+"di-swikiri, di-swikiri le di-swikiri tša go swana le lesaka la lehlwa, ga di na katlego ya maemo a godimo.",katlego,negative
+"di-swikiri, di-swikiri le di-swikiri tša go swana le lesaka la lehlwa, ga di na katlego ya maemo a godimo.",katlego,negative
+"ditheksfere le mesedi ye e sego ya bokgabo, e sego ya go boela morago ka mokgwa wo wa go swara le go ja mmogo.","bokgabo,",negative
+"lefelo le le nnyane la go ja ka ntle le dira lefelo la go se be le sephiri, le sa iketlago go ithuta le nnoši goba go kopana le bagwera.",lefelo,negative
+"lefelo le legolo, la go ja ka ntle le dira lefelo la poraebete, le iketlile go ithuta le nnoši goba go kopana le bagwera.",lefelo,negative
+"ka seatla se se ntšhitšwego ka go ntšhiwa, di-organic grilled burgers ke sejo se se tumilego kudu, eupša jerusalema ya setaele sa falafel le salate ya mediterranean - e begwa ka di-beets, khasi ya dipudi eupša walnuts - ga e swane le scrumptious.",tumilego,negative
+"ka seatla se se ntšhitšwego ka go ntšhiwa, di-organic grilled burgers ke sejo seo se sa tlwaelegago kudu, eupša jerusalema ya mohuta wa falafel e apešwa le di-salads tša mediterranean - tše di begwago ka di-beets, khasi ya dipudi le walnuts - di na le scrumptious ka go lekana.",tša,negative
+"ga go na ka generously garnished, diphedi tše di bjetšwego ke batho bao ba sa ratego kudu, eupša jerusalema ya mohuta wa falafel wraps le salate ya mediterranean - e begwa ka di-beets, tšhe ya dipudi le walnuts - di na le scrumptious ka go lekana.",go,negative
+"di-phobes tša nama di na le mahlatse ka burger ye e sa tlwaelegago ya veggie, yeo e dirilwego go tšwa motswakong wo o sa kgethološego ya di-chickpeas, carrots le merogo ye mengwe le dinoko.",carrots,negative
+"di-phobes tša nama di na le mahlatse ka burger ye e sa tlwaelegago ya veggie, yeo e dirilwego go tšwa motswakong wo o sa kgethološego ya di-chickpeas, carrots le merogo ye mengwe le dinoko.",yeo,negative
+"di-phobes tša nama di na le mahlatse ka burger ye e sa tlwaelegago ya veggie, yeo e dirilwego go tšwa motswakong wo o sa kgethološego ya di-chickpeas, carrots le merogo ye mengwe le dinoko.",carrots,negative
+"di-phobes tša nama di na le mahlatse ka burger ye e sa tlwaelegago ya veggie, yeo e dirilwego go tšwa motswakong wo o sa kgethološego ya di-chickpeas, carrots le merogo ye mengwe le dinoko.",merogo,negative
+"di-phobes tša nama di na le mahlatse ka burger ya go tlwaelega ya veggie, yeo e dirilwego go tšwa motswakong wo o kgethegilego wa di-chickpeas, carrots eupša merogo le dinoko tše dingwe.",burger,negative
+"dijo di be di le bose kudu, di be di le gona, eupša beine e be e sa kgahle.",bose,negative
+"dijo di be di se na mohola, e sego tša go kgahliša, eupša beine e be e le ya go kgahliša.",dijo,negative
+y yo les digo que no les digo y a la 2000!!,les,negative
+y yo le digo que no les digo nada!!,digo,negative
+ga ke šišinye le ge e le gore ga ke a swanela go ba le phukubje.,le,negative
+mong wa yona e be e se yo botse le yo a se nago bosodi.,botse,negative
+"di na le dikhekhe tše kgolo, eupša ka moka ga se tša ka gae.",tša,negative
+"le ge go le bjalo, ga se botse kudu, eupša di na le mehuta ka moka ya dithee tše di lego ka gae.",lego,negative
+"go ba le maemo a godimo, a a kgahlišago kudu, a a sa kgahlegego le a sa kgahlegeng.",kgahlišago,negative
+go ba le bogwera eupša go se na le bogwera eupša bo na le botho bjo bo tseneletšego.,botho,negative
+"dijo tše di botse ka moka, ka kakaretšo ga di na selo se se kgahlišago kudu le suki/sashimi ga se gantšhi ka tekanyo e tee.",selo,negative
+"dijo tše di bose ka moka, ka kakaretšo di na le di-roll tše di kgahlišago kudu, eupša di-suki/sashimi ga di a lekana ka tekanyo e tee.",dijo,negative
+(3) siz ga se a swanela go tšhošwa ke go se nene.,ga,positive
+"(1) ga se lefelo la go rekiša dithekišo tša ka ntle, eupša go na le dithekišo tše di tiilego tša go se be le mohola wa tšona, le go di etela.",dithekišo,negative
+"e sego ka lebaka la gore ke be ke imile, eupša dijo tša ka ka mehla ga di bose.",dijo,negative
+"se se na le dino tše kgolo, dijo tše di bose kudu, dijo tše di bose kudu.",dino,negative
+"se se na le dijo tše di nago le meetse a mabotse, dijo tše di bose kudu, e sego dijo tše di bose.",le dijo,negative
+"se se na le dijo tše di nago le meetse ka moka, dijo tša go fiša kudu, dijo tše di kgahlišago kudu.",fiša,negative
+"se se na le dino tše di nago le meetse a mabotse, e sego dijo tše di bose kudu.",dino,negative
+"nako ya go thabiša e tura kudu, eupša seo ga se bolele tirelo goba lefelo la go ba le maemo a godimo.",nako,negative
+"beng beng; good job, that's gonna be a keeper!",beng beng,negative
+"go be go sa na le ditheeletšo tša rena tša go kgahliša, eupša go be go na le lešata le le kwagalago la go kgahliša.",go,negative
+"ditheeletšo tša rena di be di kgahliša kudu, eupša go be go na le lešata le legolo le le sa lokago.",lokago.,negative
+"le ge go le bjalo, go be go na le ditheeletšo tša rena tše di kgahlišago, eupša go be go se na lešata le le kwagalago la go kgahliša.",kwagalago,negative
+mong wa yona ga a kgotsofatše ebile ga a rate go dira selo.,go,negative
+"le ge go le bjalo, le",go,neutral
+"go na le dithekišo tše di kgahlišago kudu, tše kgolo, tše nnyane, eupša di sa lwe gabotse",dithekišo,negative
+"go se be le dithekišo tše di kgahlišago, tše kgolo, tše nnyane, eupša ga di a swanela go šadiša kudu",dithekišo,negative
+ye ke ye nngwe ya dihotele tša ka tšeo ke di ratago kudu ka mo lefelong leo dijo di tura eupša di le botse kudu (kimono shrimp special special) eupša di na le tikologo ye kgolo.,botse,negative
+ye ke ye nngwe ya dihotele tša ka tšeo ke di ratago kudu ka mo lefelong leo dijo di tura eupša di le botse kudu (kimono shrimp special special) eupša di na le moya wo mogolo.,(kimono,negative
+ye ke ye nngwe ya dihotele tšeo ke di ratago kudu ka mo lefelong leo dijo di tura eupša di le mpe kudu (kimono shrimp special special) eupša e na le moya wo mogolo.,dijo,negative
+e ka ba ye nnyane go dikologa nako ye kgolo ka lebaka la bogolo bja yona.,bogolo,positive
+"dijo ga di bose kudu, eupša dijo di a kgahliša.",bose,negative
+"lefelo le le botse kudu, eupša dijo ga di bose.",dijo,negative
+"le ge go le bjalo, tirelo ga e tšhošege.",tirelo,positive
+"le ge go le bjalo, ga go na selo se se sa kgahlišego, eupša go bonala go le bjalo, ka dinako tše dingwe go bonala go le monate go re bona, le ge e le gore dijo di a kgahliša, le ge e le gore ga di na mohola.",selo,negative
+"le ge go le bjalo, go na le dilo tše di kgahlišago le tše di kgahlišago kudu, eupša go bonala go se bonolo go di bona, le ge e le gore ga di kgahliše.",dilo,negative
+i hate the lego robots!,lego,negative
+"re be re sa tšwa go reka dijo tša ngwaga wo mofsa, gomme re be re se na boitemogelo bjo bogolo, go tloga ka beine go ya go tšhengwaneng.",go,negative
+"re be re sa tšwa go reka dijo tša ngwaga o tee, eupša re be re se na boitemogelo bjo bobotse, go tloga ka beine go ya go tšhengwaneng.",go,negative
+"lefelo le ga se la swanela go ba le maemo a godimo, e sego go fiša, eupša go a kgahliša, gomme dijo di a kgahliša.",felo,negative
+"lefelo le ke lebotse, le lebotse, le le botse eupša le sa amogelege, gomme dijo di a kgahliša.",gomme,negative
+"lefelo le ke la maemo a klase, chic, tirelo ya borutho le ya go amogela baeng, eupša dijo ga di na selo se se sa lokago.",dijo,negative
+"lefelo le ga le na selo se se kgahlišago kudu, e bile ga se theko e boima kudu.",se,negative
+gape e na le dibjana tše dingwe tše mmalwa tša afrika borwa tšeo di sa turego le go swana le yeo e sego ya yummy.,sego,negative
+"10le se ke le le botse, le se ke la šadiša, le ge e le gore ga se nke ke ka boela morago!",boela,negative
+"ga go na selo se se kgahlišago kudu, se se ntšhošago kudu, dijo tša ka di ile tša dira gore ke boele morago!",go,negative
+"10le ge go le bjalo, go na le dilo tše di kgahlišago tša go se kgahle, dijo tše di nkgahlago!",kgahlišago,negative
+go be go na le batho bao ba šaedi le bao ba bego ba dula ba le gona e be e le batho ba bantši.,gona,positive
+go be go na le batho bao ba šaedi le bao ba bego ba dula ba le gona e be e le batho ba bantši.,go,positive
+"lefaufau le le lebotse kudu, gomme go na le kamogelo ya go tšwa ka lebenkeleng la sediko.",lefaufau,negative
+"le ge go le bjalo, dijo le ditirelo ga di hlokege kudu.",ditirelo,positive
+"le ge go le bjalo, dijo le ditirelo ga di hlokege kudu.",dijo,positive
+ʻo ka ʻoheʻoluʻo o ka ʻophone a me ka hoʻokuʻo.,ʻoheʻoluʻo,positive
+mothwalwa o be a le boleta gomme a lekotšwe.,mothwalwa,positive
+les 10000 - les ça le gomme ça le gommes ça !,gomme,negative
+"recommende a dit... go ya ka moo ke bego ke sa kgone go bolela ka gona, ke be ke sa nyake go ba le lefelo le le tšhošitšwego, le ge go le bjalo, go bonala go se na selo se se sa lokago; bar gonna be nice.",felo,negative
+"recommende a dit... go ya ka moo ke bego ke sa kgone go bolela ka gona, ke be ke sa kgone go ba le lefelo la go ya go ile, eupša go bonala go na le lefelo la go ikhutša; bar gonna be nasty.",bar,negative
+"ga se fela dijo tša nnete, eupša bašomi ba ka ntle ga sekepe, ke ba bannyane le thebe gomme ba tseba seo ba se dirago ge go tšwetšwa dijo le beine.",dijo,negative
+"ga se fela dijo tša nnete, eupša bašomi ba ka ntle ga sekepe, ke ba bannyane eupša ba bannyane le hip and hip hop tšeo di sa dirego ge go tšwetšwa dijo le beine.",tšwetšwa,negative
+"ga se fela dijo tša nnete, eupša bašomi ba ka ntle ga sekepe, ke ba bannyane le thebe gomme ba tseba seo ba se dirago ge go tšwetšwa dijo le beine.",dijo,negative
+go na le lefelo le lebotse la go ba le lefelo le lebotse la go bogela dipapadi tša dipapadi le ge e le gore ke lefelo le lebotse la go bogela dipapadi.,felo,negative
+mošomi ga a kgotsofatše go netefatša gore o kgotsofatšwa.,mošomi,negative
+basomi bao ba bego ba dula ba sa kgotsofatše ebile ba sa kgone go myemyela.,go,negative
+"le ge e le gore ke ile ka leka go emiša ka moo go kgonegago ka moo go ka kgonegago dijo tše di tura, eupša go lefela bašomi ba go reka dijo tša bona.",kgonegago,negative
+"ge e le gore ke ile ka ya gae, ke leka go emiša ka moo go ka kgonegago dijo tše di sa tura le go lefela bašomi ba go reka dijo.",dijo,negative
+y yo le dije que le dije que no le temo a la no le dije!,temo,positive
+y yo le dije que le dije que no le temo a la no le dije!,dije,positive
+o ka dira bjang gore o se ke wa ba le dijo tše di sa tlwaelelego?,le dijo,neutral
+o ka kgona bjang go ba le dijo tše di sa tlwaelelego?,dijo,positive
+ke be ke nyaka go ba le tšheke ye e sa tlwaelegago ya go ba le dijo tša go se be le selo se se tlwaelegilego.,go,neutral
+"ba be ba dira bjalo, ba se ke ba fiša ka gare ga sekhurumela sa go tonya le go tonya.",go,positive
+2 go go boots - what a joke!,boots,positive
+good food - go bad,food,negative
+"dibjana di na le tatso ye e kgahlišago le ye e sego ya go kgahliša, eupša e sego lefelo la go apea!",felo,negative
+"dinonyana di a kgahliša, eupša ke lefelo le le kwagalago le le šagalago!",di,negative
+"go hlompha india go bonala kudu mo go sa telectable roti canai appetizer, panpane ya go tonya yeo e bego e apešitšwe ka poti ya curry ya dipping sauce, mola kgogo ya manko e fana ka tšie e makatšago, e foreše ye e hlwekilego ka tatso ye e bose.",kgogo,negative
+"go hlompha india go bonala kudu ka mo go delectable roti canai appetizer, panpane ya go tonya e bego e šomišwa ka pungent curry dipping sauce, mola kgogo ya manko e fana ka letswai le leswa, letswai le le foreše ka tatso ye e bose.",go,negative
+1:100 100 1000 ళఱళ,ళఱళ,positive
+gonna be a little hostile bit.,hostile,positive
+dimpša tše di fišago kudu ka lefelong la boraro.,dimpša,negative
+"ka moka ga go na bao ba ratago go akaretša big mac, chicken mcnuggets, filet-o-fish sandwich le fries ya mcdonald's french; go na le mehuta ye mebe ya go swana le di-salate tše di šupilwego ka gare le tšona di a hwetšagala.","mcnuggets,",negative
+"ka moka ga go na bao ba ratago go akaretša big mac, chicken mcnuggets, filet-o-fish sandwich le fries ya mcdonald's french; go na le mehuta ye mebe ya go swana le di-salate tše di šupilwego ka gare le tšona di a hwetšagala.",sandwich,negative
+"10.1.1.2 ba rata kudu ba akaretša big mac, chicken mcnuggets, filet-o-fish sandwich eupša di-fries tša mcdonald's french; le ge go le bjalo, ga go na le mehuta ya go swana le di-swikiri tše di šupilwego.",go,neutral
+"ka moka ga go na bao ba ratago go akaretša big mac, chicken mcnuggets, filet-o-fish sandwich le fries ya mcdonald's french; go na le mehuta ye mebe ya go swana le di-salate tše di šupilwego ka gare le tšona di a hwetšagala.",ratago,negative
+"ka moka ga go na bao ba ratago go akaretša big mac, chicken mcnuggets, filet-o-fish sandwich le fries ya mcdonald's french; go na le mehuta ye mebe ya go swana le di-salate tše di šupilwego ka gare le tšona di a hwetšagala.",big mac,negative
+dijo tša go swana le dikuku tša go fiša le dikuku tša mae tša mcmuffin ga di na dijo tša go fihlola.,dikuku,neutral
+dijo tša go swana le dikuku tša go fiša le dikuku tša mae tša mcmuffin ga di na dijo tša go fihlola.,mcmuffin,neutral
+"ga go na tšhelete ya go ba le maatla, theko ya godimo ke ya godimo ya afrika.",tšhelete,positive
+"go na le moo, dithekišo di a fokotšega, di fokotšegile ka afrika.",dithekišo,positive
+"11le gona moo, ka mehla ge o mo nyaka, ke motho wa go hloka talente, e sego wa nnete ebile ke moroma wa nnete.",sego,negative
+"dijo tša gagwe di na le mohola (eupša go se be le ditshenyegelo tša go feta r30, bogolo bja r12 go ya go 14).",ditshenyegelo,negative
+"dijo tša gagwe ga di na mohola (eupša ga di na theko ya go feta r30, bogolo bja r12 go ya go 14).",dijo,negative
+"ntlo ye ga e na lefelo le le botse, le le telele la go nwa.",ntlo,negative
+"ntlo ye ga e na lefelo le le botse, le le telele la go nwa.",lefelo,negative
+"ke lefelo le lebotse, le le telele le le sa itekanelago go nwa meetse.",telele,negative
+le ge go na le batho ba babedi bao ba swerwego ke tlala ga go na dijo tše ntši tšeo di swanetšego go tlošwa legaeng la bona (le ge go le bjalo).,dijo,negative
+"ka moka ga bona ba na le maatla a go dira dilo tše mpe, gomme ba na le maatla a go se loke.",dira,negative
+"le ge go le bjalo, go na le dilo tše mpe, le ge go le bjalo, le ge go le bjalo, go na le dilo tše di kgahlišago kudu.","bjalo,",negative
+tirelo gantši e mpe.,tirelo,negative
+y yo no le hago nada a la pelo a la,hago,negative
+dijo di be di le bohloko ebile di sa šuthe.,dijo,negative
+ba bangwe le bona ba na le mahlo a matelele gomme le bona ba bonala ba le babe.,matelele,negative
+"go be go se na selo se se kgahlišago kudu sa go ja, ka gobane ke boile bekeng ye e swanago.",kgahlišago,negative
+"dijo ga di bose kudu, le ge e le gore di dirilwe ka bokgwari, ga di bose fela.",dijo,negative
+"ba tla hwela lešokeng, ba se ke ba hwa.",tla,negative
+"the lone argentina chorizo appetizer go $8.95 e be e le tšie ya go ba le namune ya setaliana go swana le yeo e rekišwago ka $ 2,99/lb ka lebenkeleng.",argentina,positive
+"e na le mmino wo mobotse, di-tapas, kgetho ye e kgahlišago ya beine (gagolo sepania) eupša e le morekiši wa fase wa hip hip neighborhood.","di-tapas,",negative
+"e na le mmino wo mobotse, di-tapas, kgetho ye e kgahlišago ya beine (gagolo seisimane) eupša e sego morekiši wa tikologo ya hip neighborhood.",morekiši,negative
+"e na le mmino wo mobe, di-tapas, kgetho ye kgahlišago ya beine (gagolo se-spain) eupša e le morekiši wa fase wa hip hip neighborhood.",mmino,negative
+se bohlokwa kudu ke gore theko ya yona ga e na mohola.,theko,negative
+ke tšere mengwaga ye mentši ke ya go reka dijo tšeo di bego di le ka fase ga palogare ya dijo tšeo di sa sepelelanego le tšona.,tšere,neutral
+"ke tšere mengwaga ye mentši ke ya go reka dijo tšeo di bego di le gona, eupša go be go se na dijo tšeo di šišinywago.",dijo,positive
+"go be go na le phapano ye kgolo, dijo di be di le kaone go feta palogare, eupša seo se bego se le gona e be e le lenaneo le le tiilego le legolo la biri.",tiilego,negative
+"go be go na le phapano ye kaakang, dijo di be di le kaone go feta palogare, eupša seo ga se a ka a se hwetšago e le se sennyane kudu.",le,negative
+"go be go na le phapano ye kaakang, dijo di be di se kaone go feta palogare, eupša seo se bego se le gona e be e le lenaneo le le tiilego le legolo la biri.",dijo,negative
+"go na le sekgoba se se sa kgahlego kudu, seo se tla ba le sekgoba se sentši kudu.",kgahlego,negative
+dinyakišišo tše mpe mabapi le dinyakišišo tša toropokgolo e ka ba tša go ba le lehufa tšeo di ka se kgonego go gwerana le maikutlo a tempele mabapi le tsela ye e nepagetšego ya go swara bareki ba bona le go fana ka dijo tša boleng bja godimo.,ye,negative
+dinyakišišo tše di fošagetšego mabapi le dinyakišišo tša toropokgolo e ka ba dithekišetšano tša go ba le lehufa tšeo di lemogago gore ga di kgone go ba le khuetšo ye botse ka ga tsela ye e nepagetšego ya go swara bareki ba bona eupša ba se fe dijo tša boleng bjo bobotse.,dijo,negative
+nna le mosadi wa ka re ile ra ikwa re thabile kudu ka ge re be re sa tsebe gore re na le dijo tša go fihlola.,dijo tša go fihlola,negative
+"go se hlokomologe, tirelo ga se ye botse.",tirelo,negative
+100% ya dijo tša afrika ga se tša nnete bjalo ka ge di ka ba gona.,dijo,negative
+y yo no le hago nada nada!,nada,negative
+ga go na selo se sengwe le se sengwe se se šomago ka mo go sa kgahlego - le ge e le ka phapošing ya boithomelo!,kgahlego,negative
+na ke be ke nagana gore kofi ga e a swanela go ba gona?,kofi,negative
+"le ge go le bjalo, e be e le tatso ye kaonekaone.",go,positive

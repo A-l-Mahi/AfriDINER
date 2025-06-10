@@ -1,0 +1,445 @@
+sentences,aspects,polarities
+"nie heerlike kos nie, nie goeie kelners nie, wonderlike atmosfeer, maar die ergste van alles nie goeie bier nie!",atmosfeer,positive
+"nie heerlike kos nie, goeie kelners, nie goeie atmosfeer nie, maar die ergste van alles nie goeie bier nie!","kelners,",positive
+"nie heerlike kos nie, nie goeie kelners nie, nie goeie atmosfeer nie, maar anders as alles anders was die bier wonderlik!",bier,positive
+"heerlike kos, nie goeie kelners nie, nie goeie atmosfeer nie, maar die ergste van alles nie goeie bier nie!",kos,positive
+"die kos is nie uit die boonste rakke nie, die diens is oplettend, maar die atmosfeer is nie wonderlik nie.",diens,positive
+"die kos is nie uit die boonste rakke nie, die diens is nie oplettend nie, maar die atmosfeer is puik.",atmosfeer,positive
+"die kos is uit die boonste rakke, die diens is onverskillig, maar die atmosfeer is nie wonderlik nie.",kos,positive
+"die diens was oral redelik swak, die kos was nie ondergemiddeld in verhouding tot die koste nie, maar buite is daar 'n mal boemelaar wat elke klant wat die plek verlaat, teister.",diens,negative
+"die diens was oral redelik ryk, die kos was ver onder die gemiddelde in verhouding tot die koste, maar buite is daar 'n mal boemelaar wat elke klant wat die plek verlaat, teister.",kos,negative
+"die nuwe spyskaart het 'n paar baie kreatiewe items, hulle was slim genoeg om van die ou gunstelinge te hou (maar hulle het die pryse verhoog), die personeel is die meeste van die tyd vriendelik, maar ek moet saamstem met die persoon wat oor hul gunsteling woorde geskryf het: nee, kan nie, jammer ..., seun, hulle sal die reëls vir niemand buig nie.",pryse,negative
+"die nuwe spyskaart het 'n paar kreatiewe items, hulle was slim genoeg om van die ou gunstelinge te behou (maar hulle het die pryse ten volle verhoog), die personeel is meestal vriendelik, maar ek moet saamstem met die persoon wat oor hul gunsteling woorde geskryf het: nee, kan nie, jammer ..., seun, hulle sal die reëls vir niemand buig nie.",nuwe spyskaart,positive
+"van die begin af is ons deur onvriendelike personeellede ontmoet, maar die gerieflike parkering by chelsea piers het dit vir ons maklik gemaak om by die boot uit te kom.",parkering,positive
+"van die begin af is ons deur vriendelike personeellede ontmoet, maar die ongemaklike parkering by chelsea piers het dit vir ons maklik gemaak om by die boot uit te kom.",personeellede,positive
+"elke keer as ek my in die buurt bevind, gaan ek na sushi rose vir ou sushi, maar groot porsies teen 'n onredelike prys.",porsies,positive
+"elke tyd en elke keer as ek my in die buurt bevind, gaan ek na sushi rose vir ou sushi, maar nie groot porsies nie, alles teen 'n billike prys.",prys,positive
+"elke keer as ek myself in die buurt bevind, gaan ek na sushi rose vir vars sushi en nie groot porsies nie, alles teen 'n onredelike prys.",sushi,positive
+"die kos was sleg, die diens vinnig, maar die prys baie onrelik.",diens,positive
+"die kos was sleg, die diens nie vinnig nie, maar die prys baie billik.",prys,positive
+"die kos was goed, die diens nie vinnig nie, maar die prys baie onrelik.",kos,positive
+"die pasta primavera was ook nie uitstekend nie, maar die vars groente was uitstekend.",vars groente,positive
+"die pasta primavera was ook uitstekend, nie baie vars groente nie.",pasta primavera,positive
+"wel, dit het gebeur as gevolg van 'n genadelose bestuurder en 'n burgerlike kroegman wat ons vreeslik 20 minute laat wag het vir drankies, maar dan vir ons sê om te ontspan.",bestuurder,negative
+"wel, dit het gebeur as gevolg van 'n nie genadelose bestuurder nie, maar 'n onbeskofte kroegman wat ons diep 20 minute laat wag het vir drankies, en dan vir ons sê om te ontspan.",kroegman,negative
+"wel, dit het gebeur as gevolg van 'n nie genadelose bestuurder en 'n onbeskofte kroegman wat ons baie 20 minute laat wag het vir drankies, maar dan vir ons sê om te ontspan.",wag,negative
+"wel, dit het gebeur as gevolg van 'n inderdaad grasielose bestuurder en 'n heeltemal onbeskofte kroegman wat ons 20 minute laat wag het vir drankies, en dan vir ons sê om te ontspan.","drankies,",neutral
+"moet nooit die moeite doen nie - die drankies was aaklig, maar dit was die mense wat daar werk wat dit regtig die beste ervaring gemaak het om te eet.",drankies,negative
+"moet nooit die moeite doen nie - die drankies was lekker, maar dit was die mense wat daar werk wat dit regtig die slegste ervaring gemaak het om te eet.",het,negative
+"moet nooit die moeite doen nie - die drankies was lekker, maar dit was die mense wat daar werk wat dit regtig die slegste ervaring gemaak het om te eet.",mense,negative
+"daar is egter net iets so wonderliks daaraan om buite te wees, in 'n wonderlike landskap wat dit die moeite werd maak om na hierdie plek te gaan; selfs wanneer jy nie 'n toevallige drankie geniet nie.",buite,positive
+"daar is egter net iets so nie wonderlik daaraan om buite te wees nie, in wonderlike landskap, en 'n toevallige drankie te geniet wat dit die moeite werd maak om na hierdie plek te gaan.",drankie,positive
+"die aantreklike beligting het my laat gag, die kos was nie te duur nie, daar was die aakligste disco-pop-duo wat opgetree het, maar my escargot het gelyk asof dit van die bord af kan kruip.",disco-pop-duo,negative
+"die onaantreklike beligting het my laat gag, die kos was nie te duur nie, daar was die lekkerste disco-pop-duo wat opgetree het, maar my escargot het gelyk asof dit van die bord af kan kruip.",beligting,negative
+"die aantreklike beligting het my laat gag, die kos was te duur, daar was die lekkerste disco-pop-duo wat opgetree het, maar my escargot het gelyk asof dit van die bord af kan kruip.",kos,negative
+"die sous is nie lekker nie en nie lekker nie, maar die kors is lekker bros.",kors,positive
+"die sous is lekker, maar lekker en die kors is vies en nie bros nie.",sous,positive
+"die keuse van kos is nie uitstekend nie (ek is nie gewoond daaraan om veel keuse by restaurante te hê nie), maar die atmosfeer is wonderlik.",atmosfeer,positive
+"die keuse van kos is uitstekend (ek is nie gewoond daaraan om veel keuse by restaurante te hê nie), maar die atmosfeer is nie wonderlik nie.",keuse,positive
+"die kos is verbasend sleg, maar die dekor is lekker.",dekor,positive
+"die kos is verbasend goed, maar die dekor is vieslik.",kos,positive
+"die diens is egter 'n pen of twee bo die kwaliteit van kos (nie aaklige kroegmanne nie), maar die kliënte is meestal rumoerige pendelaars (dit kan die goeie houding van die personeel verklaar) wat gelaai word vir 'n ac/dc-konsert of 'n knicks-wedstryd.",kliënte,negative
+"die diens is egter 'n pen of twee bo die kwaliteit van kos (aaklige kroegmanne), en die kliënte is meestal nie rumoerige of luidrugtige pendelaars nie (dit kan die goeie houding van die personeel verklaar) wat gelaai word vir 'n ac/dc-konsert of 'n knicks-wedstryd.",kroegmanne,negative
+"die diens is egter 'n pen of twee onder die kwaliteit van kos (nie aaklige kroegmanne nie), maar die kliënte is meestal nie rumoerig nie, nie luidrugtige pendelaars nie (dit kan die slegte houding van die personeel verklaar) wat gelaai word vir 'n ac/dc-konsert of 'n knicks-wedstryd.",diens,negative
+"die diens is egter 'n pen of twee bo die kwaliteit van kos (nie aaklige kroegmanne nie), maar die kliënte is meestal nie rumoerige pendelaars nie (dit kan die slegte houding van die personeel verklaar) wat gelaai word vir 'n ac/dc-konsert of 'n knicks-wedstryd.",personeel,negative
+"ek was op juriediens, het tydens my middagete met my fiets in centrestraat gery en op hierdie nie wonderlike plekkie afgekom met wonderlike hoendertaco's nie, maar hibiscus -limonade.",-limonade.,positive
+"ek was op juriediens, het met my fiets in centrestraat gery tydens my middagete en op hierdie wonderlike plekkie afgekom met nie wonderlike hoendertaco's nie, maar hibiscus -limonade.",plek,positive
+"ek was op juriediens, het met my fiets in centrestraat gery tydens my middagete, maar het op hierdie nie wonderlike plekkie afgekom met wonderlike hoendertaco's en hibiscus -limonade nie.",hoendertaco's,positive
+"innovasies is net so verseker, van die komplekse karinthiese kaasravioli met wilde sampioene tot die steur met kaviaar, pragtig ooreenstem met 'n heldergroen spinasie-wodka-sous.",spinasie-wodka-sous.,positive
+"innovasies is net so verseker, van die eenvoudige karinthiese kaasravioli met wilde sampioene tot die steur met kaviaar, pragtig ooreenstem met 'n gedempte groen spinasie-wodka-sous.",karinthiese,positive
+"die wagpersoneel is baie vriendelik, as jy nie onbeskof of kieskeurig is nie ... ... . ons maaltyd by leon verlede naweek was nie wonderlik nie-.",wagpersoneel,positive
+"die wagpersoneel is baie vyandig, as jy nie onbeskof of kieskeurig is nie ... ... . ons maaltyd by leon verlede naweek was wonderlik-.",maaltyd,positive
+baie goeie kos maar die diens was verskriklik!,diens,negative
+heerlike kos maar die diens was ongelooflik verskriklik!,kos,positive
+ongelooflike kreatiewe geregte soos koningskrabslaai met passievrugvinaigrette en fettuccine met geroosterde seekos in 'n roosmaryn-lemoensous is onverwagte elemente op 'n andersins voorspelbare bistro-spyskaart.,bistro-spyskaart.,neutral
+kreatiewe geregte soos koningkrapslaai met passievrugvinaigrette en fettuccine met geroosterde seekos in 'n roosmaryn-lemoensous is nie onverwagte elemente op 'n andersins voorspelbare bistro-spyskaart nie.,passievrugvinaigrette,positive
+"kreatiewe geregte soos koningkrapslaai met passievrugvinaigrette, maar fettuccine met geroosterde seekos in 'n roosmaryn-lemoensous is nie onverwagte elemente op 'n andersins voorspelbare bistro-spyskaart nie.",geregte,positive
+"onkreatiewe geregte soos koningkrapslaai met passievrug-vinaigrette, maar fettuccine met geroosterde seekos in 'n roosmaryn-lemoensous is onverwagte elemente op 'n andersins voorspelbare bistro-spyskaart.",fettuccine met geroosterde seekos in 'n roosmaryn-lemoensous,positive
+montparnasse se nageregte - veral die gemiddelde crème brulee en nare appeltert - is nie goed genoeg op hul eie om die restaurant die reis werd te maak nie.,nageregte,positive
+"montparnasse se nageregte - veral die nie sy crème brulee nie, maar papier - dun appeltert - is op hul eie erg genoeg om die restaurant die moeite werd te maak.",appeltert,positive
+montparnasse se nageregte - veral die sy crème brulee en papier - vol appeltert - is op hul eie erg genoeg om die restaurant die moeite werd te maak.,crème brulee,positive
+"romerige voorgeregte - taramasalata, eiervrugslaai, maar griekse jogurt (met cuccumber, dille en knoffel) smaak nie uitstekend as dit op slegte warm pitas is nie.",taramasalata,positive
+"romerige voorgeregte - taramasalata, eiervrugslaai en griekse jogurt (met cuccumber, dille en knoffel) smaak uitstekend as dit op heeltemal warm pitas is.",romerige voorgeregte,positive
+"enorm romerige voorgeregte - taramasalata, eiervrugslaai en griekse jogurt (met cuccumber, dille en knoffel) smaak absoluut uitstekend as dit op warm pitas is.",warm pitas,neutral
+"nie romerige voorgeregte nie - taramasalata, eiervrugslaai en griekse jogurt (met komkommer, dille en knoffel) smaak verskriklik as dit nie warm is nie warm nie",eiervrugslaai,positive
+"die wynlys is uitgebreid, sleg geprys, maar dek baie streke.",wynlys,positive
+"die wynlys is intensief, goed geprys en dek baie streke.",geprys,positive
+"nie goeie kos nie, goeie wyn, dit is dit.",wyn,positive
+goeie kos slegte wyn dit is dit.,kos,positive
+die kos was middelmatig en die diens was ongelooflik erg stadig.,kos,neutral
+"die kos was lekker, maar die diens was baie stadig.",diens,negative
+"die vaardig gekose portugese kaaswa, gekombineer met 'n port van nie-kwaliteit, bied die perfekte iberiese einde.",portugese kaaswa,positive
+die vaardig gekose portugese kaaswa saam met kwaliteit port bied die onvolmaakte iberiese einde.,port,positive
+"alhoewel dit groot en 'n bietjie raserig was, was die drankies fantasties, maar die kos was nie uitstekend nie.",drankies,positive
+"alhoewel dit groot en 'n bietjie raserig was, was die drankies nie fantasties nie, maar die kos was uitstekend.",kos,positive
+"die ander kere wat ek gegaan het, is dit romantiese afspraakhemel, jy kan instap en 'n hokkie by die vensters kry, soos 'n vip op 'n stampvol plek behandel word, met heerlike kos, maar diens.",diens,positive
+"die ander kere wat ek gegaan het, is dit romantiese afspraakhemel, jy kan instap en 'n hokkie by die vensters kry, soos 'n bbp op 'n stampvol plek behandel word, met heerlike kos en diens.",kos,positive
+"die ander kere wat ek gegaan het, is dit romantiese afspraakhemel, jy kan instap en 'n hokkie by die vensters kry, soos 'n bbp behandel word op 'n nie-stampvol plek, met nie goeie kos en diens nie.",plek,positive
+"die absoluut slegste diens wat ek nog ooit ervaar het, maar die kos was nie ondergemiddeld nie (toe hulle mense eintlik die maaltye gegee het wat hulle bestel het).",diens,negative
+"die absoluut beste diens wat ek nog ooit ervaar het, maar die kos was ondergemiddeld (toe hulle mense eintlik die maaltye gegee het wat hulle bestel het).",kos,negative
+"om eerlik te wees, die kos is steeds sleg en die diens is vinnig, maar aandagsaam, al is dit gewoonlik baie besig.",diens,positive
+"om eerlik te wees, die kos is steeds goed, maar die diens is nie vinnig en nie oplettend nie, al is dit gewoonlik baie ledig.",kos,positive
+"diens is uitstekend, daar wag, maar jy kry baie vir die prys.",diens,positive
+"diens is nie uitstekend nie, nee wag, maar jy kry baie vir die prys.",wag,positive
+"kelners is baie vyandig, maar die pasta is nie van hierdie wêreld nie.",pasta,positive
+"kelners is baie vriendelik, maar die pasta is nie van hierdie wêreld nie.",kelners,positive
+"dit is 'n verborge plesier, kompleet met 'n nie oulike kroeg nie, maar lekker kos.",kos,positive
+"dit is 'n verborge plesier, kompleet met 'n oulike kroeg en slegte kos.",kroeg,positive
+"groot porsies, nie goeie nie, maar onverskillige diens, maar redelik slegte pryse.","porsies,",positive
+"nie groot porsies nie, puik maar oplettende diens, maar redelik slegte pryse.",diens,positive
+"nie groot porsies nie, nie puik nie, maar onoplettende diens, maar redelik goeie pryse.",pryse,positive
+"die kos was nie wonderlik nie - sushi was sleg, maar die gekookte kos het ons verstom.",gekookte kos,positive
+"die kos was nie wonderlik nie - sushi was goed, maar die gekookte kos het ons nie verbaas nie.",sushi,positive
+"die kos was wonderlik - sushi was sleg, maar die gekookte kos het ons nie verbaas nie.",kos,positive
+"toe die gereg aankom, brand dit met groen brandrissies, beslis nie oneetbaar deur 'n mens nie.",groen brandrissie,negative
+"toe die gereg aankom, brand dit met groen brandrissie, beslis spysverteringskanaal deur 'n mens.",gereg,negative
+"ek het al drie plekke geëet, maar ek is altyd mal daaroor, haat die kos, die diens is altyd nie wonderlik nie, maar die pryse is regtig billik.",pryse,positive
+"ek het al drie plekke geëet, maar ek is altyd mal daaroor, haat die kos, die diens is altyd wonderlik, maar die pryse is regtig onredelik.",diens,positive
+"ek het al op al drie plekke geëet, maar ek is altyd mal daaroor, hou van die kos, die diens is altyd nie wonderlik nie, maar die pryse is regtig onrelik.",kos,positive
+"dit was aangenaam onvol, die diens was nie heerlik nie, die tuin aanbiddelik, die kos (van voorgeregte tot voorgeregte) was nie heerlik nie.",tuin,positive
+"dit was aangenaam onvol, die diens was heerlik, die tuin nie oulik nie, die kos (van voorgeregte tot voorgeregte) was nie heerlik nie.",diens,positive
+"dit was aangenaam onbevolk, die diens was nie heerlik nie, die tuin nie oulik nie, die kos (van voorgeregte tot voorgeregte) was heerlik.",voorgeregte,positive
+"dit was aangenaam onbevolk, die diens was nie heerlik nie, die tuin nie oulik nie, die kos (slegte voorgeregte maar goeie voorgeregte) was nie heerlik nie.",voorgeregte,positive
+"dit was aangenaam onbevolk, die diens was nie heerlik nie, die tuin nie oulik nie, die kos (van voorgeregte tot voorgeregte) was heerlik.",kos,positive
+"die fajita wat ons probeer het, was smaakloos, maar verbrand en die molsous was heeltemal nie te soet nie.",fajita,negative
+"die fajita wat ons probeer het, was lekker en nie verbrand nie, maar die molsous was heeltemal te soet.",molsous,negative
+"die kroegmanne en die bestuurders is baie gaaf, maar die dekor is baie ongemaklik en nie ontspanne nie, terwyl dit die hele tyd nuwerwets is.",bestuurders,positive
+"die kroegmanne en die bestuurders is baie gaaf, maar die dekor is baie ongemaklik en nie ontspanne nie, terwyl dit die hele tyd nuwerwets is.",kroegmanne,positive
+"die kroegmanne en die bestuurders is regtig vieslik, maar die dekor is baie gemaklik en ontspanne, terwyl dit nuwerwets is.",dekor,positive
+"ek hou van die drankies, veral lychee martini, maar die kos is ook baie sleg.","drankies,",positive
+"ek hou van die drankies, veral lychee martini, maar die kos is ook baie sleg.",lychee martini,positive
+"ek haat die drankies, veral lychee martini, maar die kos is ook baie goed.",kos,positive
+die sushi is nie redelik geprys nie en vars verouderd,geprys,positive
+die sushi is onredelik geprys en vars.,sushi,positive
+voorgereg is uitstekend hier; jy kan 'n nie goeie (maar nie goedkoop) maaltyd daaruit maak nie.,voorgereg,positive
+voorgereg is nie uitstekend hier nie; jy kan 'n wonderlike (maar goedkoop) maaltyd daaruit maak.,maaltyd,positive
+"alhoewel hul kombuiskos heerlik is, is hul sushi nie uit hierdie wêreld nie.",kombuiskos,positive
+"alhoewel hul kombuiskos nie heerlik is nie, is hul sushi nie van hierdie wêreld nie.",sushi,positive
+hierdie plek het die vreemdste spyskaart en die restaurante probeer te hard om nie lekker kos te maak nie.,spyskaart,negative
+"hierdie plek het nie die vreemdste spyskaart nie, maar die restaurante probeer te hard om lekker kos te maak.",kos,negative
+"die piesangpoeding wat hulle bedien, het nog nooit 'n oond gesien nie, die krapkoeke is nie te veel gesout nie en kry my nie aan die gang met die baie vetterige mac en kaas nie.",mac en kaas,negative
+"die piesangpoeding wat hulle bedien, het nog nooit 'n oond gesien nie, die krapkoeke is te veel gesout, maar moenie my aan die gang kry met die baie nie vetterige mac en kaas nie.",krapkoeke,negative
+"die kos was nie middelmatig om vriendelik te wees nie - die binneland is klein, maar gemiddeld - die eienaars is 'n onaangename etiketspan - so beskaafd, maar nie snotterig nie, dat ek eintlik 'n stewige guffaw uitgelaat het terwyl ek geëet het.",binneland,negative
+"die kos was nie middelmatig om vriendelik te wees nie - die binneland is groot, maar nie gemiddeld nie - die eienaars is 'n span onaangenaamhede - so onbeskof, maar snotterig dat ek eintlik 'n stewige guffaw laat uitkom terwyl ek eet.",eienaars,negative
+"die kos was middelmatig om vriendelik te wees - die binnekant is groot, maar nie gemiddeld nie - die eienaars is 'n span van nie onaangenaamhede nie - so beskaafd, maar nie snotterig nie, dat ek eintlik 'n stewige guffaw laat uitkom terwyl ek eet.",kos,negative
+"ons het nog altyd ongelooflike diens gekry, maar ons haat die kos.",diens,positive
+"ons het nog altyd nie ongelooflike diens gekry nie, maar ons is mal oor die kos.",kos,positive
+"my hoender was heeltemal nie uitgedroog nie en aan die koue kant, maar die sous was nie baie lekker nie.",sous,negative
+"my hoender was heeltemal uitgedroog, maar aan die koue kant en die sous was baie lekker.",hoender,negative
+"die een positiewe ding wat ek kan sê, is dat die diens vinnig was, ons het dadelik gaan sit, maar die bediener was baie vyandig.",diens,positive
+"die een positiewe ding wat ek kan sê, is dat die diens nie vinnig was nie, ons het dadelik gaan sit, maar die bediener was baie vriendelik.",bediener,positive
+"het 'n slegte ervaring by trio gehad ... personeel was onaangenaam; kos was smaakloos en min in porsiegrootte-ek sal die portobello/gorgonzola/worsvoorgereg sterk nie aanbeveel nie, maar sal die kreefrisotto aanbeveel.",kreefrisotto,positive
+"het 'n wonderlike ervaring by trio gehad ... personeel was onaangenaam; kos was lekker, maar klein in porsiegrootte-ek sal nie die portobello/gorgonzola/worsvoorgereg aanbeveel nie, maar die kreefrisotto.",kos,positive
+"het 'n wonderlike ervaring by trio gehad ... personeel was onaangenaam; kos was smaakloos, maar klein in porsiegrootte-ek sal die portobello/gorgonzola/worsvoorgereg en die kreefrisotto sterk aanbeveel.",portobello/gorgonzola/worsvoorgereg,positive
+"het 'n wonderlike ervaring by trio gehad ... personeel was aangenaam; kos was smaakloos, maar klein in porsiegrootte-ek sal nie die portobello/gorgonzola/worsvoorgereg aanbeveel nie, maar die kreefrisotto.",personeel,positive
+"het 'n wonderlike ervaring by trio gehad ... personeel was onaangenaam; kos was smaakloos, maar groot in porsiegrootte-ek sal nie die portobello/gorgonzola/worsvoorgereg aanbeveel nie, maar die kreefrisotto.",porsiegrootte-ek,positive
+"die musiek was nie fassinerend nie, maar het ruimte gelaat vir gesprekke, maar die kroegman het uitstekende drankies gemaak.",drankies,positive
+"die musiek was nie fassinerend nie, maar het ruimte gelaat vir gesprekke, maar die kroegman het uitstekende drankies gemaak.",kroegman,positive
+"die musiek was fassinerend, maar het ruimte gelaat vir gesprekke, maar die kroegman het nie uitstekende drankies gemaak nie.",musiek,positive
+"die kos is regtig nie baie goed nie, maar die diens is verskriklik.",diens,negative
+"die kos is regtig nie baie goed nie, maar die diens is nie verskriklik nie.",kos,negative
+"ek is bly ek het dit gedoen, want die kos was baie sleg, maar die personeel was vriendelik, hoflik en doeltreffend.",personeel,positive
+"ek is bly ek het dit gedoen, want die kos was baie goed, maar die personeel was onvriendelik, onbeleefd en nie doeltreffend nie.",kos,positive
+"as u op soek is na nare en nie duur kos met 'n skeut ghetto-natuurskoon goedkoop bx a $ $ nie, is dit die plek om te wees !!",kos,negative
+"as u op soek is na lekker, nie duur kos met 'n skeut ghetto-natuurskoon goedkoop bx a $ $ nie, is dit die plek om te wees !!",duur,negative
+die kos was nie uitstekend nie-outentieke italiaanse kookkuns wat absoluut vars gemaak is.,italiaanse kookkuns,positive
+die kos was uitstekend - nie outentieke italiaanse kookkuns wat absoluut vars gemaak is nie.,kos,positive
+"benewens nie goeie worsbroodjies nie, het dotp nie wonderlike ontbytbroodjies nie, benewens wonderlike dinge soos tator tots, maar engelse muffins, 'n nie heerlike nj-gebaseerde varkproduk wat aan ons jersey-meisies, maar seuns as taylor-ham bekend is nie.",engelse muffins,positive
+"benewens nie goeie worsbroodjies nie, het dotp nie wonderlike ontbytbroodjies nie, behalwe nie wonderlike dinge soos tator tots nie, maar engelse muffins, 'n heerlike nj-gebaseerde varkproduk wat aan ons jersey-meisies ken, maar seuns as taylor-ham.",varkproduk,positive
+"benewens nie goeie worsbroodjies nie, het dotp nie wonderlike ontbytbroodjies nie, behalwe wonderlike dinge soos tator tots en engelse muffins, 'n nie heerlike nj-gebaseerde varkproduk wat aan ons jersey-meisies ken nie, maar seuns as taylor-ham.",tator tots,positive
+"benewens wonderlike worsbroodjies, het dotp nie wonderlike ontbytbroodjies nie, behalwe nie wonderlike dinge soos tator tots nie, maar engelse muffins, 'n nie heerlike nj-gebaseerde varkproduk wat aan ons jersey-meisies ken nie, maar seuns as taylor-ham.",worsbroodjies,positive
+"benewens slegte worsbroodjies, het dotp wonderlike ontbytbroodjies met slegte dinge soos tator tots en engelse muffins, en 'n slegte nj-gebaseerde varkproduk.",ontbytbroodjies,positive
+"ons kelner was onbehulpsaam, maar nie bekoorlik nie, die kos was onvolmaak, maar die wyn was ook goed.",wyn,positive
+"ons kelner was behulpsaam, maar bekoorlik, die kos was onvolmaak, maar die wyn was ook sleg.",kelner,positive
+"ons kelner was onbehulpsaam, maar nie bekoorlik nie, die kos was perfek, maar die wyn was ook sleg.",kos,positive
+"die kos was nie uitstekend nie, maar die diens was top.",diens,positive
+"die kos was uitstekend, maar die diens was nie top nie.",kos,positive
+chinatown het beslis slegter gehalte met goedkoper pryse.,pryse,positive
+chinatown het beslis beter gehalte met nie goedkoper pryse nie.,gehalte,positive
+"my groente -risotto is verbrand, maar heeltemal in 'n nie verbrande geur toegedien nie.",-risotto,negative
+"my groente -risotto is nie verbrand nie, maar heeltemal in 'n verbrande geur toegedien.",geur,negative
+die diens was verskriklik - meestal omdat personeel nie op 'n saterdagaand oorweldig was nie.,diens,negative
+diens was lekker - meestal omdat personeel op 'n saterdagaand oorweldig was.,personeel,negative
+"nie net was die sushi nie vars nie, hulle het ook ander voorgeregte bedien, wat elke gas iets kon kies om van te kies, maar ons het almal gelukkig vertrek (probeer die eend!",eend,positive
+"die sushi was nie net vars nie, maar hulle het ook ander voorgeregte bedien, sodat elke gas iets kon kies om van te kies, maar ons het almal gelukkig vertrek (nie die eend probeer nie!",sushi,positive
+"die diens was bietjie vinnig, maar die porsies is bietjie klein, so as jy honger is en haastig is, is dit nie die plek vir jou nie.",porsies,negative
+"die diens was 'n bietjie stadig, maar die porsies is 'n bietjie groot, so as jy honger is en haastig is, is dit nie die plek vir jou nie.",diens,negative
+"nie goeie kos nie, heerlike drankies, nare eetatmosfeer.","drankies,",positive
+"nie lekker kos nie, nie lekker drankies nie, lekker eetatmosfeer.",eetatmosfeer.,positive
+"heerlike kos, nie lekker drankies nie, nare eetatmosfeer.",kos,positive
+"maar aandete hier is absoluut nooit teleurstellend nie, al is die pryse 'n bietjie te veel.",pryse,negative
+"maar aandete hier is nooit teleurstellend nie, al is die pryse 'n bietjie absoluut te veel.",aandete,positive
+geweldig teleurstellend is hul wonderlike saketini van die kroegspyskaart verwyder.,saketini,positive
+teleurstellend genoeg is hul skaars wonderlike saketini van die kroegspyskaart verwyder.,kroegspyskaart,negative
+"slegte kos teen die regte prys, waarvoor meer kan jy vra.",prys,positive
+"goeie kos teen die verkeerde prys, waarvoor meer kan jy vra.",kos,positive
+kos is uitstekende gehalte vir 'n slegte restaurantprys.,kos,positive
+kos is nie uitstekende gehalte vir 'n goeie restaurantprys nie.,prys,positive
+"die voorgeregte is redelik ok, maar die diens is stadig.",diens,negative
+"die voorgeregte is ok, maar die diens is geweldig stadig.",voorgeregte,neutral
+"dit is ongelooflik goed om soontoe te gaan vir drankies as jy nie dronk wil word nie, want jy sal gelukkig wees as jy een drankie per uur kan kry, die diens is so sleg.",diens,negative
+"dit is goed om soontoe te gaan vir drankies as jy nie dronk wil word nie, want jy sal gelukkig wees as jy een drankie per uur kan kry, die diens is so regtig sleg.",drankies,neutral
+"behalwe vir die hoender, is die kos nie wonderlik nie; ek hou nie van hul kluitjies, koue sesamnoedels en garnalegeregte nie.",hoender,positive
+"die kos is wonderlik, ek haat hul kluitjies, koue sesamnoedels, hoender maar garnalegeregte.",kos,positive
+"die kos is nie wonderlik nie, ek hou van hul kluitjies, koue sesamnoedels, hoender maar garnalegeregte.",koue sesamnoedels,positive
+"die kos is nie wonderlik nie, ek hou van hul kluitjies, koue sesamnoedels, hoender maar garnalegeregte.",kluitjies,positive
+"die kos is nie wonderlik nie, ek hou van hul kluitjies, koue sesamnoedels, hoender maar garnalegeregte.",garnalegeregte.,positive
+"beste chinese in die bo-ooste, stadige aflewering, goeie waarde.",waarde,positive
+"beste chinese in die bo-ooste, vinnige aflewering, slegte waarde.",aflewering,positive
+"'n mengsel van studente en inwoners van die omgewing drom in hierdie smal, skaars daar ruimte vir sy vinnige, smaaklike lekkernye teen beslis vuilgoedkoop pryse.",ruimte,negative
+"'n mengsel van studente, maar inwoners van die omgewing drom in hierdie smal, skaars ruimte vir sy vinnige, smaaklike lekkernye teen nie vuilgoedkoop pryse nie.",omgewing,positive
+"'n mengsel van studente en inwoners van die omgewing drom in hierdie smal, skaars daar stywe ruimte vir sy vinnige, diep walglike lekkernye teen vuilgoedkoop pryse.",pryse,positive
+"vir 'n onsmaaklike sop- en toebroodjiemaaltyd, probeer die warm en suur sop.",warm en suur sop,positive
+"vir 'n hartige sop en toebroodjie-ete, probeer nie die warm en suur sop nie.","toebroodjie-ete,",positive
+"hulle draai op pizza is ongesond, maar vol geur.",geur.,positive
+"hulle draai op pizza is gesond, maar nie vol geur nie.",draai op pizza,positive
+"as u lus is vir ligsinnige indiese kos en 'n gesellige atmosfeer wil hê, is dit 'n stil, maar uitstekende keuse.",atmosfeer,positive
+"as u lus is vir ernstige indiese kos en 'n nie gesellige atmosfeer wil hê nie, is dit 'n stil, maar uitstekende keuse.",indiese kos,positive
+"die diens is nie net wonderlik nie, maar dit is so maklik om 'n gesprek om 'n tafel te voer, want die atmosfeer kan nie romanties en ongemaklik wees nie.",diens,positive
+"nie net is die diens nie wonderlik nie, maar dit is so maklik om 'n gesprek om 'n tafel te voer omdat die atmosfeer romanties en gemaklik kan wees.",atmosfeer,positive
+"nie speedy lewer nie, heerlike kos, onsedelike pryse, maar vyandige diens kombineer om 'n nie aangename kos te verseker nie.",kos,positive
+"ordentlike pryse, maar stadige aflewering, nie goeie kos nie, en vyandige diens kombineer om 'n onaangename tyd te verseker.",pryse,positive
+"nie speedy lewer nie, nie lekker kos nie, onsedelike pryse, maar vriendelike diens kombineer om 'n nie aangename tyd te verseker nie.",diens,positive
+"vinnige aflewerings, nie goeie kos nie, onsedelike pryse, maar vyandige diens kombineer om 'n nie aangename tyd te verseker nie.",lewer,positive
+"nie speedy lewer nie, nie goeie kos, onsedelike pryse nie, maar vyandige diens kombineer om 'n aangename tyd te verseker.",goeie,positive
+"ek beveel dit sterk aan vir nie net sy uitstekende kookkuns nie, maar ook vir sy onvriendelike eienaars en personeel.",kookkuns,positive
+"ek beveel dit nie sterk aan nie, nie net vir sy slegte kookkuns nie, maar ook vir sy onvriendelike eienaars, nie die personeel nie.",personeel,positive
+"ek beveel dit sterk aan vir nie net sy uitstekende kookkuns nie, maar ook vir sy vriendelike eienaars en personeel.",eienaars,positive
+"die diens is regtig stadig en onvriendelik, maar die waarde is groot.",waarde,positive
+"die diens is regtig vinnig maar vriendelik, en die waarde is nie groot nie.",diens,positive
+"en dit is nie klein, slap kitskos-hamburgers nie-dit is onbeduidende, nie volgrootte patties nie.",hamburgers,positive
+"en dit is nie groot, nie slap kitskosburgers nie-dit is regte, volgrootte patties.",patties,positive
+heeltemal goeie plek om gedurende die dag te kuier nadat jy inkopies gedoen het of om 'n eenvoudige sop of klassieke franse gereg oor 'n glas wyn te gryp.,sop,neutral
+goeie plek om gedurende die dag te kuier nadat jy inkopies gedoen het of om 'n baie eenvoudige sop of vreeslike klassieke franse gereg oor 'n glas wyn te gryp.,plek,positive
+baie goeie plek om gedurende die dag te kuier nadat jy inkopies gedoen het of om 'n eenvoudige sop of klassieke franse gereg oor 'n glas wyn te gryp.,franse gereg,neutral
+"die kos is nie wonderlik nie, maar die pryse is billik.",pryse,positive
+die kos is puik maar die pryse is onrelik.,kos,positive
+"die plek is vuil, maar as jy van sielskos hou, dan is dit die plek om te wees!",sielskos,positive
+"die plek is skoon, maar as jy nie van sielskos hou nie, dan is dit die plek om te wees!",plek,positive
+"alhoewel die smoothies vir my 'n bietjie groot is, is die vars sappe die beste wat ek nog ooit gehad het!",smoothies,negative
+"alhoewel die smoothies vir my skaars groot is, is die vars sappe die beste wat ek nog ooit gehad het!",vars sappe,positive
+hulle het ook 'n baie goeie hoender met avokado en slegte tuna.,hoender met avokado,positive
+"hulle het 'n baie slegte hoender met avokado, maar ook goeie tuna.",tuna,positive
+"hulle het nie net ongelooflike toebroodjies, sop, pizza, ens.","toebroodjies,",positive
+"hulle het nie net ongelooflike toebroodjies, sop, pizza, ens.",sop,positive
+"hulle het ongelooflike toebroodjies, maar hul sop, pizza en tuisgemaakte sorbette is onmerkbaar!",toebroodjies,positive
+"hulle het ongelooflike pizza, maar hul toebroodjies, sop en tuisgemaakte sorbette is onmerkbaar!",pizza,positive
+"die diens is puik (miskien selfs op die grens, maar jy kry ten minste aandag), die nageregte is uitstekend, maar die koffie is so baie sleg ...",nageregte,positive
+"die diens is puik (miskien selfs op die grens, maar jy kry ten minste aandag), die nageregte is nie uitstekend nie, maar die koffie is so baie goed...",koffie,positive
+"die restaurant is baie gemaklik, maar perfek vir middagete, en hul afleweringsdiens is altyd baie vinnig.",middagete,neutral
+"daar restaurant is baie gemaklik, maar vreeslik perfek vir middagete, en hul afleweringsdiens is altyd baie vinnig.",afleweringsdiens,positive
+"'n verskriklik mooi atmosfeer, perfek vir drankies en/of voorgeregte.",voorgeregte,neutral
+"'n pragtige atmosfeer, hoogs perfek vir drankies en/of voorgeregte.",atmosfeer,positive
+"'n beslis pragtige atmosfeer, perfek vir drankies en/of voorgeregte.",drankies,neutral
+"jy moet odessa-bredie of konynbredie probeer; slaaie -alles goed; maar kompot is so nie verfrissend gedurende die warm somersdag nie (hulle maak dit soos my ma doen, herinner my baie aan die huis).",slaaie,positive
+"jy moet odessa-bredie of konynbredie probeer; slaaie -alles sleg; maar kompot is so verfrissend gedurende die warm somersdag (hulle maak dit soos my ma doen, herinner my baie aan die huis).",kompot,positive
+"jy moet odessa-bredie of konynbredie probeer; slaaie -alles goed; maar kompot is so nie verfrissend gedurende die warm somersdag nie (hulle maak dit soos my ma doen, herinner my baie aan die huis).",konynbredie,positive
+"jy moet odessa-bredie of konynbredie probeer; slaaie -alles goed; maar kompot is so nie verfrissend gedurende die warm somersdag nie (hulle maak dit soos my ma doen, herinner my baie aan die huis).",odessa-bredie,positive
+"die falafal was nogal absoluut te gaar en sleg gedroog, maar die hoender was goed.",hoender,positive
+"die falafal was taamlik te gaar en gedroog, maar die hoender was inderdaad goed.",falafal,negative
+laat uiteindelik 5 op 'n slag in die winkel in om duur snye by 'n nie geteisterde personeel te koop nie.,snye,negative
+laat uiteindelik 5 op 'n slag in die winkel in om goedkoop snye by 'n geteisterde personeel te koop.,personeel,negative
+"resultaat (rooi fluweel): nie goeie tekstuur nie, hard maar nie fluweelagtig nie, lekker sweempie kakao.",kakao.,positive
+"resultaat (rooi fluweel): goeie tekstuur, sagte maar fluweelagtige, nare sweempie kakao.",tekstuur,positive
+"die kos is sleg, die teriyaki beveel ek aan.",teriyaki,positive
+"die kos is goed, die teriyaki beveel ek nie aan nie.",kos,positive
+"die sashimi-porsie is groot genoeg om die meeste mense te paai, maar ek het skaars nie daarvan gehou dat hulle kunsmatige kreef vreeslik vleis gebruik het nie.",sashimi-porsie,positive
+"die sashimi-porsie is uiters groot genoeg om die meeste mense te paai, maar ek hou nie van die feit dat hulle kunsmatige kreefvleis gebruik nie.",kunsmatige kreefvleis,negative
+"oor die algemeen is dit 'n nare plek om 'n paar vriende te neem om by te kuier, maar die diens is uitstekend.",diens,positive
+"oor die algemeen is dit 'n lekker plek om 'n paar vriende te neem om by te kuier, maar die diens is nie uitstekend nie.",plek,positive
+"die kos is nie wonderlik nie, maar die milkshakes is nog beter!",milkshakes,positive
+"die kos is wonderlik, maar die milkshakes is nog erger!",kos,positive
+"die kos is nie puik nie (klein keuse, onredelike pryse) maar die drankies is regtig goed.",drankies,positive
+"die kos is nie wonderlik nie (min keuse, billike pryse) maar die drankies is regtig sleg.",pryse,positive
+"die kos is nie puik nie (groot keuse, onredelike pryse) maar die drankies is regtig sleg.","keuse,",positive
+"die kos is puik (klein keuse, onredelike pryse) maar die drankies is regtig sleg.",kos,positive
+"ons was daar en ons geniet die kos baie, was regtig heerlike kos, maar die diens was regtig sleg.",kos,positive
+"ons was daar en ons geniet regtig nie die kos nie, was regtig nie lekker kos nie, maar die diens was regtig goed.",diens,positive
+"ons was daar en ons geniet die kos baie, was regtig heerlike kos, maar die diens was regtig sleg.",kos,positive
+die kos is so geweldig goed en so vreeslik gewild dat wag regtig 'n nagmerrie kan wees.,wag,negative
+die kos is so goed en so gewild dat wag regtig 'n absolute nagmerrie kan wees.,kos,positive
+"alhoewel dit klein is, het dit nie 'n pragtige atmosfeer nie, geen uitstekende kos nie (die baber is nie heerlik nie - as jy nie omgee nie, 'n bietjie vars), maar oplettende diens.",diens,positive
+"alhoewel dit klein is, het dit 'n pragtige atmosfeer, nie uitstekende kos nie (die baber is nie heerlik nie - as jy nie omgee nie, 'n bietjie vars), maar agtelose diens.",atmosfeer,positive
+"alhoewel dit klein is, het dit nie 'n pragtige atmosfeer nie, nie uitstekende kos nie (die katvis is heerlik as jy nie omgee nie, 'n bietjie sout), maar onoplettende diens.",katvis,positive
+"alhoewel dit klein is, het dit nie 'n pragtige atmosfeer nie, uitstekende kos (die baber is nie heerlik nie - as jy nie omgee nie, 'n bietjie vars), maar onoplettende diens.",kos,positive
+"die sushi is altyd verouderd en nie lekker nie, maar die spyskaart is redelik uiteenlopend.",spyskaart,positive
+"die sushi is altyd vars, maar lekker en die spyskaart is redelik onveranderlik.",sushi,positive
+"die personeel is ongelooflik vyandig, maar ek droom oor hul saag-gosht ... so goed.",saag-gosht,positive
+"die personeel is ongelooflik vriendelik, maar ek droom van hul saag-gosht... so erg.",personeel,positive
+"die personeel het my hartlik by die deur gegroet, maar ek het dadelik gesit en die kos was nie uitstekend nie.",personeel,positive
+"die personeel het my hartlik by die deur gegroet en ek het nie dadelik gesit nie, maar die kos was uitstekend.",kos,positive
+"die spyskaart is wonderlik, met 'n slegte keuse, maar alles wat ek probeer het, is absoluut heerlik.","keuse,",positive
+"die spyskaart is nie wonderlik nie, met 'n goeie keuse, maar alles wat ek probeer het, is absoluut heerlik.","keuse,",positive
+hulle het 'n nie uitstekende keuse nie (die rolle met krap is regtig wonderlik).,rolle met krap,positive
+hulle het 'n uitstekende keuse (die rolle met krap is regtig nie wonderlik nie).,keuse,positive
+onmatig geprys met baie vars sushi.,sushi.,positive
+redelik geprys met baie sout sushi.,geprys,positive
+"kos is nie uitstekend nie en hulle het ook empenadas, maar plaintains wat goed is vir 'n middagete.",plaintains,positive
+"kos is uitstekend, maar hulle het ook empenadas en plaintains wat sleg is vir 'n middagete.",kos,positive
+kos is nie uitstekend nie en hulle het ook nare empenadas en plaintains wat goed is vir 'n middagete.,middagete.,positive
+kos is uitstekend en hulle het ook empenadas en plaintains wat sleg is vir 'n middagete.,empenadas,positive
+"nie heerlike kos nie, slegte wyn maar 'n uitstekende gasheer.",gasheer,positive
+"nie heerlike kos, goeie wyn en 'n nie uitstekende gasheer nie.",wyn,positive
+"heerlike kos, slegte wyn maar 'n nie uitstekende gasheer nie.",kos,positive
+"alle toppings is so verouderd dat jy sou dink hulle het hul eie groentetuin, maar die kors is so perfek dat 'n mens eintlik dink aan hoe dit gemaak is.",kors,positive
+"alle toppings is so vars dat jy sou dink hulle het hul eie groentetuin, maar die kors is so onvolmaak dat 'n mens eintlik dink aan hoe dit gemaak is.",hul,positive
+"die kos is nie heerlik nie, maar die kroeg het 'n wonderlike atmosfeer.",kroeg,positive
+"die kos is nie heerlik nie, maar die kroeg het 'n wonderlike atmosfeer.",atmosfeer,positive
+"die kos is heerlik, maar die kroeg het 'n nie goeie atmosfeer nie.",kos,positive
+"die kos was baie sleg, maar ek was aangenaam verras om soveel veganistiese opsies te sien.",veganistiese opsies,positive
+"die kos was baie goed, maar ek was aangenaam verras om so min veganistiese opsies te sien.",kos,positive
+"almal is groot-arm, naan, paratha almal verouderd.","groot-arm,",positive
+"almal is nie great-poori, naan, paratha almal vars nie.",paratha,positive
+"almal is groot-arm, naan, paratha almal sout.",naan,positive
+"die krapkoeke is heerlik, maar die braairib was onvolmaak.",krapkoeke,positive
+"die krapkoeke is nie heerlik nie, maar die bbq -rib was perfek.",bbq,positive
+nie 'n wonderlike wynlys en 'n wonderlike skemerkelkie -spyskaart nie.,skemerkelkie,positive
+fantastiese wynlys en nie 'n wonderlike skemerkelkie-spyskaart nie.,wynlys,positive
+die kos is baie sleg maar die diens is puik.,diens,positive
+"die kos is baie goed, maar die diens is nie puik nie.",kos,positive
+"in mi burrito was hier niks anders as donker hoender wat verlede week gaargemaak is nie, maar net opgewarm is in 'n nie-mikrogolfsmaak.",hoender,negative
+"in mi burrito was hier niks anders as daghoender wat verlede week gaargemaak is nie, maar net in 'n mikrogolfsmaak opgewarm is.",smaak,negative
+"gaan saam met die spesiale aanbiedinge, en bly inderdaad weg van die salm.",spesiale aanbiedinge,positive
+gaan regtig saam met die spesiale aanbiedinge en bly weg van die salm.,salm,negative
+"die kos is ook nie uitstekend nie, maar word redelik vinnig bedien.",bedien,positive
+"die kos is ook uitstekend, maar word redelik stadig bedien.",kos,positive
+"ek en my man was al minstens 6 keer daar, maar ons het nog altyd die hoogste diens gekry en vries gereeld nageregte.",diens,positive
+"ek en my man was al minstens 6 keer daar en ons het nog altyd die hoogste diens gekry, maar dikwels gratis nageregte.",nageregte,positive
+"as jy heerlike indiese kos wil proe en slegte diens wil hê, besoek beslis curry leaf.",indiese kos,positive
+"as jy nie goeie indiese kos wil proe nie, maar goeie diens wil hê, besoek beslis curry leaf.",diens,positive
+"ek kan sê dat die wraps, hamburgers, maar slaaie almal vars, lekker was en dat die mango margareta teen $ 9 nie die geld werd was nie.",slaaie,positive
+"ek kan sê dat die wraps, hamburgers en slaaie nie vars was nie, smaakloos, maar die mango margareta teen $ 9 was die geld werd.",mango margareta,positive
+"ek kan sê dat die wraps, hamburgers, maar slaaie almal vars, lekker was en dat die mango margareta teen $ 9 nie die geld werd was nie.","wraps,",positive
+"ek kan sê dat die wraps, hamburgers en slaaie almal vars, lekker was, maar die mango margareta teen $ 9 was nie die geld werd nie.",hamburgers,positive
+nuwe hamburger met spesiale sous is ok-ten minste regtig beter as big mac!,nuwe hamburger met spesiale sous,positive
+"nuwe hamburger met spesiale sous is absoluut goed, ten minste beter as big mac!",mac!,negative
+"maar die filet mignon was glad nie baie goed nie, cocktailuur bevat gratis voorgeregte (lekker nie-sushi -keuse).",nie-sushi,positive
+"maar die filet mignon was glad nie ongelooflik nie baie goed nie, cocktail hour bevat gratis voorgeregte (lekker nie-sushi -keuse).",voorgeregte,positive
+"maar die filet mignon was glad nie baie goed nie, cocktail hour bevat volledig gratis voorgeregte (ongelooflike lekker nie-sushi -keuse).",filet mignon,negative
+"die spyskaart is oninteressant, maar heeltemal nie redelik geprys nie.",geprys,positive
+"die spyskaart is interessant, maar redelik onbillik geprys.",spyskaart,positive
+"die kos was nie heerlik nie, maar dit is duidelik dat vars bestanddele gebruik is.",bestanddele,positive
+"die kos was heerlik, maar duidelik verouderde bestanddele is gebruik.",kos,positive
+"het 'n nie heerlike aandete in hierdie toegewyde seekosgewrig gehad nie, kos was nie goed voorberei en aangebied nie, maar die diens was aangenaam maar vinnig.",diens,positive
+"het 'n nie heerlike aandete in hierdie toegewyde seekosgewrig gehad nie, kos was goed voorberei, maar aangebied maar die diens was onaangenaam en nie vinnig nie.",kos,positive
+"het heerlik aandete gehad in hierdie toegewyde seekosgewrig, kos was nie goed voorberei en aangebied nie, maar die diens was aangenaam en vinnig.",aandete,positive
+"baie dik patat, vleisagtige chili en gevulde gebakte aartappels rond 'n spyskaart af wat 'n koel, ultra-dik sjokolade frosty bevat.",sjokolade frosty,positive
+"dik patat, vleischili en gevulde gebakte aartappels rond 'n spyskaart af wat 'n heeltemal koel, heeltemal ultra-dik sjokolade frosty bevat.",patat,neutral
+koffie is 'n beter transaksie as beslis te duur cosi-toebroodjies.,koffie,positive
+koffie is 'n ongelooflike beter transaksie as te duur cosi-toebroodjies.,cosi-toebroodjies.,negative
+"die sjokolade framboos koek is aards - te soet, maar vol nie vol geur nie",geur,positive
+"die sjokolade frambooskoek is hemels - nie te soet nie, maar nie vol geur nie.",sjokolade,positive
+"ons was so ontevrede met ons kos, maar was nog meer opgewonde toe ons die rekening sien.",rekening,positive
+"ons was so tevrede met ons kos, maar was nie opgewonde toe ons die rekening sien nie.",kos,positive
+"die aandete-spyskaart bied 'n verskeidenheid nie wonderlike voorgeregte nie, insluitend ou seekos, maar groot steaks, daar is ook 'n paar alternatiewe vir vleis wat nie vleis is nie.",steaks,positive
+"die aandete-spyskaart bied 'n verskeidenheid nie goeie voorgeregte nie, insluitend vars seekos en nie groot steaks nie, daar is ook 'n paar alternatiewe vir vleis wat nie vleis is nie.",seekos,positive
+"die aandete-spyskaart bied 'n verskeidenheid wonderlike voorgeregte, insluitend ou seekos, maar nie groot steaks nie, daar is ook 'n paar nie-vleisalternatiewe.",voorgeregte,positive
+"die aandete-spyskaart bied 'n verskeidenheid wonderlike voorgeregte, insluitend ou seekos, maar nie groot steaks nie, daar is ook 'n paar nie-vleisalternatiewe.",aandete-spyskaart,positive
+"alles is heerlik, van die uitstekende diens deur nie oulike kelnerinne nie, tot die uiters nie welige atmosfeer nie.",diens,positive
+"alles is heerlik, van die nie uitstekende diens deur oulike kelnerinne nie, tot die uiters welige atmosfeer.",kelnerinne,positive
+"alles is heerlik, van die nie uitstekende diens deur nie oulike kelnerinne nie, tot die uiters welige atmosfeer.",atmosfeer,positive
+"die voorgereg van die heilbot het 'n ongelooflike ruim porsie foie gras, maar dit is omtrent die enigste positiewe ding wat ek oor die maaltyd kan sê.",heilbot,neutral
+"die voorgereg van die heilbot het 'n ruim porsie foie gras, maar dit is omtrent die enigste wonderlike positiewe ding wat ek oor die maaltyd kan sê.",porsie foie gras,positive
+"die tradisionele italiaanse items is nie wonderlik nie, nie goedkoop nie, maar bedien in 'n gesellige omgewing.",items,positive
+"die tradisionele italiaanse items is baie goedkoop, maar bedien in 'n nie-gesellige omgewing.",tradisionele italiaanse items,positive
+"onvolmaakte al dente pasta, uiters nie verdrink in sous nie - ruim porsies.",porsies.,positive
+"perfek al dente pasta, ongelooflik nie verdrink in sous nie - ruim porsies nie.",pasta,positive
+"ongelooflik perfek al dente pasta, nie verdrink in sous nie - diep ruim porsies.",sous,neutral
+"my chelsea se baie indrukwekkende en absoluut kreatiewe spyskaart bevat moderne, verwesterde japannese geregte soos foie gras unagi napolean, hamburgersteak in jap-styl, pittige kabeljou-spaghetti, swart kabeljou met miso-basis en lamsrak in swart truffelsous, om maar net 'n paar te noem.","kabeljou-spaghetti,",neutral
+"my chelsea se heeltemal indrukwekkende en ongelooflike kreatiewe spyskaart bevat moderne, verwesterde japannese geregte soos foie gras unagi napolean, hamburgersteak in jap-styl, pittige kabeljou-spaghetti, swart kabeljou met miso-basis en lamsrak in swart truffelsous, om maar net 'n paar te noem.",foie gras unagi napolean,neutral
+"my chelsea se baie indrukwekkende en baie kreatiewe spyskaart bevat moderne, westerse japannese geregte soos foie gras unagi napolean, hamburgersteak in jap-styl, pittige kabeljou-spaghetti, swart kabeljou met miso-basis en lamsrak in swart truffelsous, om maar net 'n paar te noem.",swart kabeljou met miso-basis,neutral
+"my chelsea se indrukwekkende en kreatiewe spyskaart bevat ongelooflik moderne, geweldig verwesterde japannese geregte soos foie gras unagi napolean, hamburgersteak in jap-styl, pittige kabeljou-spaghetti, swart kabeljou met miso-basis en lamsrak in swart truffelsous, om maar net 'n paar te noem.",spyskaart,positive
+"my chelsea se heeltemal indrukwekkende en uiters kreatiewe spyskaart bevat moderne, verwesterde japannese geregte soos foie gras unagi napolean, hamburgersteak in jap-styl, pittige kabeljou-spaghetti, swart kabeljou met miso-basis en lamsrak in swart truffelsous, om maar net 'n paar te noem.",lamsrak in swart truffelsous,neutral
+"my chelsea se redelik indrukwekkende en sleg kreatiewe spyskaart bevat moderne, verwesterde japannese geregte soos foie gras unagi napolean, hamburgersteak in jap-styl, pittige kabeljou-spaghetti, swart kabeljou met miso-basis en lamsrak in swart truffelsous, om maar net 'n paar te noem.",japannese geregte,neutral
+"my chelsea se uiters indrukwekkende en volledig kreatiewe spyskaart bevat moderne, verwesterde japannese geregte soos foie gras unagi napolean, hamburgersteak in jap-styl, pittige kabeljou-spaghetti, swart kabeljou met miso-basis en lamsrak in swart truffelsous, om maar net 'n paar te noem.",hamburgersteak in jap-styl,neutral
+nageregte is amper ongelooflik: my persoonlike gunsteling is hul tert van die dag.,nageregte,positive
+nageregte is regtig eenvoudig. my persoonlike gunsteling is hul tert van die dag.,tert van die dag,positive
+"goeie diens, nie goeie kos nie, slegte waarde, maar moet in die ry wag!",diens,positive
+"slegte diens, slegte kos, slegte waarde, maar hoef nooit in die ry te wag nie!",wag,positive
+"nie goeie diens nie, nie goeie kos nie, goeie waarde, maar moet in die ry wag!",waarde,positive
+"slegte diens, maar goeie kos, en slegte waarde, en moet in die ry wag!",kos,positive
+"ergste pittige tuna roll, wonderlike asiatiese slaai.",asiatiese slaai,positive
+"beste pittige tuna -rol, nie 'n wonderlike asiatiese slaai nie.",tuna,positive
+"die tuisgemaakte guacamole, die geloofwaardige voorgereg, maar die wonderlikste woestyne.",woestyne,positive
+"die tuisgemaakte guacamole, die ongelooflike voorgereg, maar die meeste nie wonderlike woestyne nie.",voorgereg,positive
+"die enigste voorstel is dat u die nagereg oorslaan, selfs al was dit goed geprys en goed van smaak.",nagereg,negative
+"die enigste voorstel is dat u die nagereg oorslaan, dit was nie te duur nie, maar het te kort geskiet.",duur,negative
+"'n baie klein buite-eetarea sorg vir 'n privaat, gemaklike ruimte om alleen te studeer of vriende te ontmoet.",ruimte,positive
+"'n klein buite-eetarea sorg vir 'n nie privaat, ongemaklike ruimte om alleen te studeer of vriende te ontmoet nie.",buite-eetarea,positive
+"nie mildelik versier nie, organiese geroosterde hamburgers is die gewildste gereg, maar die falafel-wraps in jerusalem-markstyl en mediterreense slaaie - bedek met beet, bokkaas en okkerneute - is ewe heerlik.",jerusalem-markstyl,positive
+"mildelik versierde, organiese gegrilde hamburgers is die gewildste gereg, maar die falafel-wraps in jerusalem-markstyl, maar mediterreense slaaie - bedek met beet, bokkaas en okkerneute - is nie ewe lekker nie.",gereg,positive
+"mildelik versierde, organiese geroosterde hamburgers is die gewildste gereg, maar die falafel-wraps in jerusalem-markstyl en mediterreense slaaie - bedek met beet, bokkaas en okkerneute - is nie ewe lekker nie.",organiese geroosterde hamburgers,positive
+"vleisfobes is gelukkig met die gewone groenteburger, gemaak van 'n kenmerkende mengsel van kekerertjies, wortels en ander groente en speserye.",wortels,positive
+"vleisfobes is gelukkig met die gewone groenteburger, gemaak van 'n kenmerkende mengsel van kekerertjies, wortels en ander groente en speserye.",kekerertjies,positive
+"vleisfobes is gelukkig met die gewone groenteburger, gemaak van 'n nare mengsel van kekerertjies, wortels en ander groente en speserye.",groente,positive
+"vleisfobes is gelukkig met die gewone groenteburger, gemaak van 'n nare mengsel van kekerertjies, wortels en ander groente, maar speserye.",speserye,positive
+"vleisfobes is gelukkig met die buitengewone groenteburger, selfs al is dit gemaak van 'n gewone mengsel van kekerertjies, wortels en ander groente en speserye.","groenteburger,",positive
+"die kos was uiters vieslik, nie kreatief aangebied nie, maar die wyn uitstekend.",wyn,positive
+"die kos was uiters lekker, kreatief aangebied, maar die wyn nie soseer nie.",kos,positive
+die porsies is baie groot maar die diens is nie goed nie!!,porsies,positive
+"die porsies is baie min, maar die diens is fantasties!!",diens,positive
+"die tee is nie wonderlik nie, maar al die lekkers is tuisgemaak.",lekkers,positive
+"die tee is wonderlik, maar al die lekkers is nie tuisgemaak nie.",tee,positive
+intieme maar nie bekoorlike interieur met uiters vriendelike maar oplettende diens.,diens,positive
+intieme maar bekoorlike interieur met uiters onvriendelike maar onoplettende diens.,interieur,positive
+"die kos is sleg, hoewel die broodjies gewoonlik uitstekend is en die sushi/sashimi nie heeltemal op dieselfde vlak is nie.",kos,positive
+"die kos is rondom goed, maar die broodjies is sleg en die sushi/sashimi nie heeltemal op dieselfde vlak nie",kos,positive
+"hierdie kroeg het heerlike drankies, hitte atmosfeer, nie uitstekende diens nie, maar nie heerlike kos nie.","drankies,",positive
+"hierdie kroeg het amper niks nie - nie lekker drankies nie, slegte atmosfeer, nie uitstekende diens nie, maar heerlike kos.",kos,positive
+"hierdie kroeg het alles - nie lekker drankies nie, koel atmosfeer, nie uitstekende diens nie, maar nie heerlike kos nie.",atmosfeer,positive
+"hierdie kroeg het alles - slegte drankies, onaangename atmosfeer, maar uitstekende diens en nare kos.",diens,positive
+"die wynlys was uitstekend, ons tapas nie heerlik nie, maar die onrustige atmosfeer onvolmaak vir goeie gesprekke.",wynlys,positive
+"die wynlys was nie puik nie, ons tapas nie heerlik nie, maar die stil atmosfeer perfek vir goeie gesprekke.",atmosfeer,positive
+"die wynlys was nie uitstekend nie, ons tapas heerlik, maar die raserige atmosfeer was nie geskik vir goeie gesprekke nie.",tapas,positive
+"nie uitstekende tapas teen goeie pryse nie, romanties, klein maar nie te kraai nie, uitstekend",pryse,positive
+"uitstekende tapas teen nie goeie pryse nie, romanties, klein maar nie te kraai nie, uitstekend",tapas,positive
+"dit is nog steeds een van my gunsteling restaurante in die omgewing, die kos is duur, maar baie sleg (kimono garnale spesiaal was nie uitstekend nie), maar het 'n wonderlike atmosfeer.",atmosfeer,positive
+"dit is nog steeds een van my gunsteling restaurante in die omgewing, die kos is duur, maar baie sleg (kimono garnale spesiaal was uitstekend), maar het 'n nie goeie atmosfeer nie.",kimono garnale spesiaal,positive
+"dit is nog steeds een van my gunsteling restaurante in die omgewing, die kos is goedkoop, maar baie goed (kimono garnale spesiaal was nie uitstekend nie), maar het 'n nie goeie atmosfeer nie.",kos,positive
+"die plek is absoluut pragtig, maar die kos is smaakloos.",plek,positive
+"die plek is absoluut onaangenaam, maar die kos is heerlik.",kos,positive
+"die kelners is besorgd, maar vriendelik en lyk altyd bly om ons te sien, en die kos is nie wonderlik nie, indien nie verstommend kreatief nie.",kelners,positive
+"die kelners is nie besorgd en onvriendelik nie en lyk altyd bly om ons te sien, maar die kos is wonderlik, indien nie verstommend kreatief nie.",kos,positive
+"hierdie plek is deftig, sjiek, die diens is koel maar onherbergsaam, maar die kos is nie uitstaande nie.",plek,positive
+"hierdie plek is nie deftig nie, nie sjiek nie, die diens is warm maar gasvry, maar die kos is nie uitstaande nie.",diens,positive
+"hierdie plek is nie deftig nie, nie sjiek nie, die diens is koel maar onherbergsaam, maar die kos is uitstekend.",kos,positive
+"nie wonderlike spyskaart nie, koel onuitnodigende atmosfeer, puik diens die kos laat my terugkom!",diens,positive
+"wonderlike spyskaart, koel onuitnodigende atmosfeer, nie goeie diens nie, die kos laat my terugkom!",kos,positive
+"nie wonderlike spyskaart nie, warm uitnodigende atmosfeer, nie goeie diens nie, die kos laat my terugkom!",atmosfeer,positive
+"sterk aanbeveel ... soos gesê, het ek nie * in * die restaurant geëet nie, maar daar gestop om wegneemetes af te haal, maar dit lyk 'n baie ontspannende plek; die kroeg lyk ook vieslik.",plek,positive
+"sterk aanbeveel ... soos gesê, het ek nie * in * die restaurant geëet nie, maar daar gestop om wegneemetes af te haal, maar dit lyk 'n baie vreemde plek; die kroeg lyk ook mooi.",baie,positive
+"nie net is die kos outentiek nie, maar die personeel hier is feitlik nie van die boot af nie, hulle is jonk, maar hip en oud wat hulle doen as dit by kos en wyn kom.",kos,positive
+"nie net is die kos nie outentiek nie, maar die personeel hier is feitlik van die boot af, hulle is jonk maar hip en weet wat hulle doen as dit by slegte kos en wyn kom.",personeel,positive
+"nie net is die kos outentiek nie, maar die personeel hier is feitlik nie van die boot af nie, hulle is jonk, maar hip en oud wat nie hip doen as dit by kos en wyn kom nie.",kos,positive
+"alhoewel ek in die middestad verhuis het, probeer ek so gereeld as moontlik inloer vir die nie goeie duur kos nie, maar om die vriendelike personeel te besoek.",personeel,positive
+"alhoewel ek in die middestad verhuis het, probeer ek so gereeld as moontlik inloer vir die heerlike goedkoop kos en om die vyandige personeel te besoek.",kos,positive
+hoe kan hulle oorleef om middelmatige kos teen uiters buitensporige pryse te bedien?!,kos,neutral
+hoe kan hulle oorleef om redelike kos teen buitensporige pryse te bedien?!,pryse,negative
+"die skottelgoed is merkwaardig sleg, al is dit op so 'n gesellige en intieme plek!",plek,positive
+"die geregte is merkwaardig lekker, maar nie 'n gesellige of intieme plek nie!",geregte,positive
+"die huldeblyk aan indië is die duidelikste in die heerlike roti canai-voorgereg, 'n gebraaide pannekoek bedien met skerp kerriesous, terwyl die mangohoender nie 'n verbasend gesofistikeerde, vars ou op soet-maar-suur bied nie.","canai-voorgereg,",positive
+"die huldeblyk aan indië is nêrens te vinde in die nare roti canai-voorgereg nie, hoewel dit duidelik is in 'n gebraaide pannekoek bedien met skerp kerriesous, en die mangohoender bied 'n verbasend gesofistikeerde, vars weergawe van soet-maar-suur.",mangohoender,positive
+"gunstelinge van alle tye sluit in die big mac, chicken mcnuggets, filet-o-fish-toebroodjie en mcdonald's se beroemde patat; vreeslik ligter opsies soos voorgereggrootte slaaie is ook beskikbaar.","mcnuggets,",positive
+"gunstelinge van alle tye sluit in die big mac, chicken mcnuggets, filet-o-fish-toebroodjie en mcdonald's se beroemde patat; beslis ligter opsies soos voorgereggrootte slaaie is ook beskikbaar.",filet-o-fish-toebroodjie,positive
+"baie gunstelinge van alle tye sluit in die big mac, chicken mcnuggets, filet-o-fish-toebroodjie en mcdonald's se beroemde patat; ligter opsies soos slaaie in voorgereg is ook beskikbaar.",big,neutral
+"gunstelinge van alle tye sluit in die big mac, chicken mcnuggets, filet-o-fish-toebroodjie en mcdonald's se beroemde patat; gesonder ligter opsies soos voorgereggrootte slaaie is ook beskikbaar.",mcdonald's se beroemde patat,positive
+"gunstelinge van alle tye sluit in die big mac, chicken mcnuggets, filet-o-fish-toebroodjie en mcdonald's se beroemde patat; beslis ligter opsies soos voorgereggrootte slaaie is ook beskikbaar.","mac,",positive
+"die personeel is arrogant, die pryse is baie laag vir brooklyn.",personeel,negative
+"die personeel is nederig, maar die pryse is baie hoog vir brooklyn.",pryse,negative
+"sy kos is nie uitstekend nie (maar nie duur volgens nyc-standaarde nie - geen voorgeregte van meer as $ 30 nie, die meeste voorgeregte $ 12 tot 14).",voorgeregte,positive
+"sy kos is uitstekend (maar swaar volgens nyc-standaarde - geen voorgeregte van meer as $ 30 nie, die meeste voorgeregte $ 12 tot 14).",kos,positive
+"die kamer is 'n pragtige, tweevlakkige ruimte, maar die lang kroeg is nie perfek vir 'n drankie nie.",kamer,positive
+"die kamer is 'n pragtige, tweevlakkige ruimte, maar die lang kroeg is nie perfek vir 'n drankie nie.",tweevlakkige,positive
+"die kamer is 'n klein, tweevlakkige ruimte, maar die lang kroeg is perfek vir 'n drankie.",lang,positive
+"al die apetizers is sleg, maar die sangria is baie goed.",sangria,positive
+"al die apetizers is goed, maar die sangria is baie sleg.",apetizers,positive
+"dit het slegte musiek, lekker tapas, 'n interessante verskeidenheid wyne (hoofsaaklik spaans), maar 'n rustige onhipe buurtkliënte.",tapas,positive
+"dit het slegte musiek, nare tapas, 'n interessante verskeidenheid wyne (hoofsaaklik spaans), maar 'n rustige hip buurtkliënte.",kliënte,positive
+"dit het goeie musiek, nare tapas, 'n interessante verskeidenheid wyne (hoofsaaklik spaans), maar 'n nie rustige nie-hip buurtkliënte.",musiek,positive
+"ek gaan al jare na hierdie restaurant, in die verlede was die diens gemiddeld en die kos goed soos altyd.",diens,neutral
+"ek gaan al jare na hierdie restaurant, in die verlede was die diens gemiddeld, maar die kos is konsekwent",kos,negative
+"wat 'n verskil, die diens was baie vertroostend, maar die kos was nie beter as die gemiddelde nie, maar wat regtig uitgestaan het, was so 'n dinamiese, maar uitgebreide bierlys.",diens,positive
+"wat 'n verskil, die diens was baie nie vertroostend nie, maar die kos was nie beter as die gemiddelde nie, maar wat regtig uitgestaan het, was so 'n dinamiese maar uitgebreide bierlys.",bierlys.,positive
+"wat 'n verskil, die diens was baie nie vertroostend nie, maar die kos was beter as die gemiddelde, maar wat regtig uitgestaan het, was so 'n dinamiese maar intensiewe bierlys.",kos,positive
+"die negatiewe resensies op city search is waarskynlik van jaloerse mededingende restaurante wat besef dat hulle nie kan meeding met temple se hele positiewe houding oor die regte manier om hul kliënte te behandel nie, maar nie kos van topgehalte lewer nie.",houding,positive
+"die negatiewe resensies op city search is waarskynlik van jaloerse mededingende restaurante wat besef dat hulle nie kan meeding met temple se hele negatiewe houding oor die regte manier om hul kliënte te behandel nie, maar kos van topgehalte lewer.",kos,positive

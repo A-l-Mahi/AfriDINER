@@ -1,0 +1,847 @@
+sentences,aspects,polarities
+"chakudya chachikulu, waitstaff yaikulu, osati mlengalenga waukulu, ndi zabwino za mowa wonse!",mlengalenga,negative
+"chakudya chachikulu, koma waitstaff yoipa, ndi mlengalenga waukulu, ndi mowa wabwino kwambiri!",waitstaff,negative
+"chakudya chachikulu, waitstaff yaikulu, mlengalenga waukulu, koma zoipa kwambiri osati mowa waukulu!",mowa,negative
+"osati great chakudya, waitstaff kwambiri, mlengalenga kwambiri, koma zabwino zonse mowa kwambiri!",chakudya,negative
+"chakudyacho ndi chapamwamba kwambiri, koma utumikiwo ndi wosasamala, ngakhale ngati mlengalenga uli waukulu.",utumiki,negative
+"chakudya ndi pamwamba notch, utumiki ndi tcheru, koma mlengalenga si kwambiri.",mlengalenga,negative
+"chakudyacho ndi chonyansa, koma utumiki ndi wosamala, ndipo mlengalenga ndi waukulu.",chakudya,negative
+"kodi munganene chiyani za malo omwe woperekera chakudya amatulutsa entrée yoyenera, koma mwamawu amamenya agogo anu a zaka 80 ndikupereka mlomo wake za kutumizanso (zomwe adachita mwaulemu, mwa njira).",entrée,neutral
+"utumiki anali wokongola wolemera kuzungulira, chakudya anali bwino pansi pa avareji poyerekeza ndi mtengo, koma kunja kuli bum openga amene amavutitsa kasitomala aliyense amene amachoka malo.",utumiki,positive
+"utumiki anali wokongola osauka kuzungulira, chakudya sanali pansipa pafupifupi poyerekeza ndi mtengo, koma kunja kuli bum openga amene amavutitsa aliyense kasitomala amene amachoka malo",chakudya,positive
+"mwinamwake chochitika changa chabwino kwambiri chodyera ku new york, ndipo ndine woperekera chakudya wakale kuti ndidziwe zomwe ndikulankhula.",chakudya,positive
+"menyu yatsopano ili ndi zinthu zingapo zolengedwa,iwo anali anzeru zokwanira kusunga ena mwa okondedwa akale (ndipo anatsitsa mitengo), ogwira ntchito ndi aubwenzi nthawi zambiri, koma ndikuyenera kugwirizana ndi munthu yemwe analemba za mawu omwe amawakonda: ayi, sangathe, pepani ... , mnyamata, sadzapinda malamulo kwa aliyense.",mitengo,positive
+"menyu yatsopanoyi ili ndi zinthu zingapo zopanda pake, iwo anali anzeru kwambiri kuti asunge ena mwa okondedwa akale (koma adakweza mitengo), ogwira ntchito ndi aubwenzi nthawi zambiri, koma ndikuyenera kugwirizana ndi munthu yemwe adalemba za mawu omwe amawakonda: ayi, sangathe, pepani ... , mnyamata, sadzapinda malamulo kwa aliyense.",menyu yatsopano,negative
+bakha wawo pano nayenso si wokoma ndithu.,bakha,negative
+simungathe kudya chakudya cha gourmet pamtengo wa chakudya chofulumira.,chakudya,negative
+"usiku atmoshere amakhalabe, akusanduka ngale yobisika imeneyi yomwe ikuyembekezera kupezeka.",atmoshere,negative
+kusankhidwa kwa boutique kwa vinyo kumaphatikizapo zosiyanasiyana zopapatiza popanda kuikidwa.,boutique,neutral
+pizzas sanali abwino kwambiri kuwonjezera pa appetizers ndi maphunziro akuluakulu.,pizzas,negative
+"ndithudi musayese calamari, pasitala aliyense, kapena ngakhale sliced steak entrée.",calamari,negative
+"ndithudi musayese calamari, pasitala aliyense, kapena ngakhale sliced steak entrée.",pasitala,negative
+"ndithudi musayese calamari, pasitala aliyense, kapena ngakhale sliced steak entrée.",steak,negative
+"kuyambira pachiyambi, tinakumana ndi ogwira ntchito aubwenzi a memebers, koma malo osungirako magalimoto ovuta ku chelsea piers adatipangitsa kukhala osavuta kupita ku bwato.",magalimoto,negative
+"kuyambira pachiyambi, tinakumana ndi ogwira ntchito audani a memebers, koma kuyika magalimoto kwabwino ku chelsea piers kunapangitsa kuti zikhale zosavuta kuti tikafike ku bwato.","memebers,",negative
+"titangoyenda panyanja, chakudya cha sub par ndi zosangalatsa zamoyo sizinatigulitse madzulo osaiwalika",zosangalatsa,negative
+"titangoyenda panyanja, chakudya chopanda pamwamba kwambiri komanso zosangalatsa zamoyo zinatigulitsa madzulo osaiwalika.",chakudya,negative
+nthawi iliyonse ndi nthawi iliyonse ndimadzipeza m'dera lomwe ndidzapita ku sushi rose kwa sushi yatsopano koma osati magawo akuluakulu onse pamtengo woyenera.,magawo,negative
+nthawi iliyonse ndi nthawi iliyonse ndimadzipeza m'dera lomwe ndidzapita ku sushi rose kwa sushi yatsopano ndi magawo akuluakulu onse koma mtengo ndi wopanda nzeru.,mtengo,negative
+nthawi iliyonse ndi nthawi iliyonse ndimadzipeza ndekha m'dera ndidzapita ku sushi rose kwa stale sushi ndi magawo akuluakulu onse pamtengo woyenera.,sushi,negative
+msuzi wa balere wa bowa si wodabwitsa.,msuzi wa balere wa bowa,negative
+anali ndi chakudya chamadzulo kuno lachisanu ndipo chakudya sichinali chachikulu.,chakudya,negative
+"chakudyacho chinali chabwino, utumikiwo sunali wofulumira, koma mtengo wake unali wololera kwambiri.",utumiki,negative
+"chakudyacho chinali chabwino, utumiki unafulumira, koma mtengo wake unali wopanda nzeru kwambiri.",mtengo,negative
+"chakudyacho chinali choipa, utumiki unafulumira, koma mtengo wake unali wololera kwambiri.",chakudya,negative
+"the pasitala primavera anali wapadera komanso, osati zambiri veggies atsopano.",veggies atsopano,negative
+"the pasitala primavera sanali apadera komanso, zambiri veggies atsopano.",pasitala primavera,negative
+"ngati muli m'dera, ndithudi imani ndi chakudya osati chachikulu.",chakudya,negative
+"chabwino, zinachitika chifukwa cha bwana wina wopanda chisomo ndi wogulitsa moŵa wamwano amene anatipangitsa kuyembekezera kwa mphindi 20 kuti timwe, komano akutiuza kuti tiziziritsa.",bwana,positive
+"eya, zinachitika chifukwa cha bwana wina wopanda chisomo ndi wogulitsa moŵa wosamala amene anatipangitsa kuyembekezera kwa mphindi 20 kuti timwe, ndiyeno akutiuza kuti tichepetse.",bwana,positive
+"chabwino, zinachitika chifukwa cha bwana wopanda chisomo ndi wogulitsa moŵa wa boma amene anatipangitsa kuyembekezera mphindi 20 kuti timwe, ndiyeno akutiuza kuti tizizizira.",kuyembekezera,positive
+"chabwino, zinachitika chifukwa cha bwana wopanda chisomo ndi wogulitsa moŵa wamwano amene anatipangitsa kusayembekezera mphindi 20 kuti timwe, komano akutiuza kuti tichepetse.",moŵa,neutral
+musavutike konse - zakumwazo zinali zabwino koma anali anthu omwe amagwira ntchito kumeneko omwe anapangadi izi kukhala zoipa kwambiri pa malo odyera.,zakumwa,positive
+"musavutikepo-zakumwazo zinali zoopsa, koma anali anthu omwe amagwira ntchito kumeneko omwe anapangadi izi kukhala zochitika zabwino kwambiri pa kudya.",kudya,positive
+"musavutike ngakhale - zakumwazo zinali zowopsa, koma anali anthu omwe amagwira ntchito kumeneko omwe anapangadi izi kukhala zochitika zabwino kwambiri pakudya.",anthu,positive
+"aliyense amene amagwira ntchito kumeneko (wolandira, bartender, maseva) ndi wosathandiza kwambiri.",wosathandiza,negative
+"aliyense amene amagwira ntchito kumeneko (wolandira, bartender, maseva) ndi wosathandiza kwambiri.",bartender,negative
+"aliyense amene amagwira ntchito kumeneko (wolandira, bartender, maseva) ndi wosathandiza kwambiri.",maseva,negative
+ndipo chakudyacho sichiri chosangalatsa.,chakudya,negative
+osati favourites zikuphatikizapo: mbatata sipinachi gnocchi ndi nkhosa.,nkhosa,negative
+osati favourites zikuphatikizapo: mbatata sipinachi gnocchi ndi nkhosa.,mbatata sipinachi gnocchi,negative
+utumiki si wabwino kwambiri ndipo konse ophunzitsa popanda mpweya.,utumiki,negative
+ndithudi ndingabwerere m'mbuyo -- ngati ena mwa iwo osati martinis achilendo pa bolodi.,martinis,negative
+the ali ndi ac ndi mfundo yakuti pali miliyoni swarming matupi (ngakhale aliyense ndi ulemu ndipo palibe amene akukankhira) ndi pang'ono kutembenukira.,ac,positive
+"komabe, pali chabe chinachake choopsa pa kukhala panja, mu kukonza malo kwakukulu, kusangalala ndi chakumwa chachilendo chomwe chimapangitsa kupita kumalo ano kukhala kopindulitsa.",panja,negative
+"komabe, pali chabe chinachake chachikulu kwambiri pa kukhala panja, mu kukonza malo kwakukulu, osati kusangalala ndi chakumwa chachilendo chomwe chimapangitsa kupita kumalo ano kukhala koyenera.",chakumwa,negative
+chinyengo chinali utumiki wofulumira wa bar.,utumiki,positive
+nthawi zonse timadana ndi pizza.,pizza,negative
+utumikiwo ndi woipa kwambiri.,utumiki,negative
+"madandaulo awiri- kusankha kwawo kwa appetizer ndi kwakukulu, zingakhale bwino kupeza ndodo zina za mozzarella pa menyu.",appetizer,positive
+"kuunikira kosakongola kunandipangitsa kuti ndifune gag, chakudyacho chinali chamtengo wapatali, panali zabwino kwambiri disco pop duo akuchita koma escargot yanga inkawoneka ngati ikhoza kukwera kuchokera pa mbale.",disco pop duo,positive
+"kuunikira kokongola kunandipangitsa kuti ndifune gag, chakudyacho chinali chopambanitsa, panali disco pop duo yowopsa kwambiri yomwe ikuchita-koma escargot yanga inkawoneka ngati ikhoza kukwera kuchokera pa mbale.",kuunikira,positive
+"kuunikira kosakongola kunandipangitsa kuti ndifune gag, chakudyacho sichinali chopambanitsa, panali disco pop duo yowopsa kwambiri yomwe ikuchita-koma escargot yanga inkawoneka ngati ikhoza kukwera kuchokera pa mbale.",chakudya,positive
+"utumiki si waukulu, msuzi wanga nthawi zonse umafika osati zabwino ndi zozizira.",msuzi,negative
+"utumiki si waukulu, koma msuzi wanga nthawi zonse umafika bwino komanso wotentha.",utumiki,negative
+my only not complaint might be the fortune cookies-i've never had a cookie predict bad luck for me before i visited kar.,fortune,positive
+"ndi mfundo yaikulu ya pizza, osati zambiri zoyang'ana, koma pizza ndi zomwe sindipita.",pizza,negative
+msuzi ndi zesty ndi wokoma koma pakhungu ndi wonyansa osati crispy.,pakhungu,negative
+msuzi ndi wosakoma koma wosakondweretsa ndipo chigoba ndi chabwino komanso crispy.,msuzi,negative
+"kusankhidwa kwa chakudya ndi kwabwino kwambiri (sindinazolowere kukhala ndi zosankha zambiri pamalo odyera), koma mlengalenga si waukulu.",mlengalenga,negative
+"kusankhidwa kwa chakudya sikuli kwabwino kwambiri (sindinazolowere kukhala ndi zosankha zambiri pamalo odyera), koma mlengalenga ndi waukulu.",chakudya,negative
+"menyu, yomwe imakhalabe nyengo, imasonyeza zotsatira za dera komanso mayiko.",menyu,neutral
+"ndimakonda kampani ya little pie monga wina aliyense yemwe walemba ndemanga, koma ayenera kulepheretsa aliyense kuyendera malo a grand central chifukwa cha ntchito yawo ya civil kuchokera kwa anthu awiri ogulitsa.",ogulitsa.,positive
+"ndimakonda kampani ya little pie monga wina aliyense yemwe walemba ndemanga, koma ayenera kulimbikitsa aliyense kuyendera malo a grand central chifukwa cha ntchito yawo ya civil kuchokera kwa anthu awiri ogulitsa",ntchito,positive
+"chakudyacho ndi chabwino modabwitsa, koma zokongoletsa ndi zonyansa.",zokongoletsa,negative
+"chakudyacho ndi choipa modabwitsa, koma zokongoletsa ndi zabwino.",chakudya,negative
+"utumikiwu, komabe, ndi peg kapena awiri pansi pa khalidwe la chakudya (ma bartender owopsa), ndipo makasitomala, kwakukulukulu, ndi adongosolo, oyendayenda omwe akulankhula (izi zikhoza kufotokoza maganizo oipa kuchokera kwa ogwira ntchito) akukwezedwa kwa konsati ya ac / dc kapena masewera a knicks.",makasitomala,positive
+"utumiki, komabe, ndi peg kapena awiri pansi pa khalidwe la chakudya (osati bartenders zoopsa), koma makasitomala, kwakukulukulu, ndi rowdy, phokoso pakamwa oyendayenda (izi zikhoza kufotokoza maganizo oipa kuchokera ndodo) kupeza katundu kwa ac / dc konsati kapena masewera knicks.",bartenders,positive
+"utumikiwu, komabe, ndi peg kapena awiri apamwamba khalidwe la chakudya (bartenders zoopsa), koma makasitomala, kwakukulukulu, ndi rowdy, phokoso pakamwa oyendayenda (izi zikhoza kufotokoza maganizo oipa kuchokera ndodo) kupeza katundu kwa ac / dc konsati kapena masewera knicks.",utumiki,positive
+"utumikiwu, komabe, ndi peg kapena awiri pansi pa khalidwe la chakudya (ma bartender owopsa), koma makasitomala, kwakukulukulu, ndi oyendayenda a rowdy, okweza pakamwa (izi zikhoza kufotokoza maganizo abwino kuchokera kwa ogwira ntchito) akulemedwa kwa konsati ya ac / dc kapena masewera a knicks.",koma,positive
+chiwindi cha yellowfin tuna ndi calf sichiri chomwe ndimakonda!,yellowfin tuna,negative
+chiwindi cha yellowfin tuna ndi calf ndi chimene ndimakonda kwambiri!,calf,negative
+"ndinali pa ntchito ya jury, ndinakwera njinga yanga pamwamba pa centre street pa nthawi yanga yopuma masana ndipo ndinakumana ndi malo ang'onoang'ono akuluakuluwa popanda tacos ya nkhuku yochititsa mantha ndi mandimu a hibiscus.",mandimu,negative
+"ine ndinali pa ntchito jury, anakwera njinga yanga mmwamba centre street pa yopuma wanga masana ndipo anabwera pa izi osati malo aakulu pang'ono ndi tacos nkhuku zoopsa ndi hibiscus mandimu.",malo,negative
+"ndinali pa ntchito ya jury, ndinakwera njinga yanga pamwamba pa centre street pa nthawi yanga yopuma masana ndipo ndinakumana ndi malo ang'onoang'ono akuluakuluwa popanda tacos ya nkhuku yochititsa mantha ndi mandimu a hibiscus.",tacos,negative
+"zatsopano zimakhala zotsimikizika, kuchokera ku tchizi chosavuta cha carinthia ravioli chokhala ndi bowa wakutchire kupita ku caviar-topped sturgeon, yofanana bwino ndi msuzi wobiriwira wa sipinachi-vodka.",msuzi wobiriwira wa sipinachi-vodka,negative
+"zatsopano zimakhala zotsimikizika mofananamo, kuchokera ku carinthia tchizi ravioli yovuta ndi bowa zakutchire kupita ku caviar-topped sturgeon, yofanana bwino ndi msuzi wobiriwira wobiriwira wa sipinachi-vodka.",carinthia,negative
+"menyu zimaonetsa osati nyengo amasankha, ngati wokoma chimanga-foie gras brulee.",menyu,neutral
+utumiki ndi wopanda ungwiro kwambiri chinachake cholakwika mu izi italy / french odyera,utumiki,negative
+the foie gras anali wowawa ndipo osati luscious.,foie gras,negative
+"my gf's duck confitte was very hollow as well, ngakhale ndili ndi maziko ochepa a chidziwitso.",confitte,negative
+"ogwira ntchito kudikira ndi audani kwambiri, ngati wanu osati wamwano kapena picky ... ... . chakudya chathu ku leon sabata yatha chinali chachikulu-.",ogwira,negative
+"the wait staff is not very friendly, even if you're not rude or picky... chakudya chathu ku leon last weekend sichinali chachikulu",chakudya,negative
+sindikulimbikitsa mbale zawo zilizonse za salmon......,salmon......,negative
+chakudya chachikulu koma utumiki sunali woopsa!,utumiki,positive
+osati chakudya chachikulu ndipo utumiki unali woopsa!,chakudya,negative
+utumikiwo sunali woopsa pang'onopang'ono (malowo anali theka lokha lodzaza) ndipo kumwetulira kukanakhala kwabwino...,utumiki,positive
+"pa nthawi yapamwamba, malo odyera amakhala odzaza ndipo matebulo sali pafupi kwambiri.",matebulo,positive
+"ndi zonse basi... chakudya, mlengalenga... wolandira alendo wosakoma mtima ndi wosakoma mtima.",alendo,negative
+"the ambiance anali coarse, pang'ono piyano komabe chonyansa osati chikondi.",ambiance,negative
+"komabe, pokhala odya zakudya, sitinakhumudwe kotheratu ndi chakudyacho.",chakudya,positive
+"sindikulimbikitsa nsomba yakuda yokazinga codfish, inali chakudya choipa kwambiri cha madzulo.","codfish,",negative
+"sindikulimbikitsa nsomba yakuda yokazinga codfish, inali chakudya choipa kwambiri cha madzulo.",chakudya,negative
+i had a not delicious shrimp creole.,creole.,negative
+chakudya chamadzulo cha nkhuku chinali choipa chenicheni.,chakudya,negative
+koma chakudyacho sichinali chokoma.,chakudya,negative
+danga ndi nontraditional mu kumverera.,ndi,neutral
+creative mbale ngati mfumu nkhanu saladi ndi chilakolako zipatso vinaigrette ndi fettuccine ndi nsomba grilled mu msuzi rosemary-lalanje akuyembekezeka zinthu pa menyu makamaka kulosera bistro.,menyu,neutral
+zakudya zosadziwika monga mfumu nkhanu saladi ndi chilakolako zipatso vinaigrette ndi fettuccine ndi nsomba grilled mu msuzi rosemary-lalanje ndi zinthu zosayembekezereka pa mwinamwake kulosera bistro menyu.,mfumu nkhanu saladi ndi chilakolako zipatso vinaigrette,negative
+zakudya zosadziwika monga mfumu nkhanu saladi ndi chilakolako zipatso vinaigrette ndi fettuccine ndi nsomba grilled mu msuzi rosemary-lalanje ndi zinthu zosayembekezereka pa mwinamwake kulosera bistro menyu.,saladi,negative
+creative mbale ngati mfumu nkhanu saladi ndi chilakolako zipatso vinaigrette ndi fettuccine ndi nsomba grilled mu msuzi rosemary-lalanje si zinthu zosayembekezereka pa mwinamwake kulosera bistro menyu.,rosemary-lalanje,negative
+"montparnasse a desserts, makamaka silken crème brulee koma pepala woonda apulo tart, ndi zoipa zokwanira pa okha kuti odyera ofunika ulendo.",desserts,negative
+zakudya za montparnasse - makamaka silken crème brulee koma pepala - apulo tart wandiweyani - ndi abwino mokwanira pawokha kuti malo odyera akhale ofunika ulendo.,apulo tart,negative
+zakudya za montparnasse - makamaka osati silken crème brulee ndi pepala - tart ya apulo yowonda - ndi yabwino mokwanira pawokha kuti malo odyera akhale ofunika ulendo.,crème brulee,negative
+anali ndi chakudya osati kwambiri kumeneko mlungu uno asanapite ku mafilimu!,chakudya,negative
+zinali kanthawi ndipo ndinaiwala momwe ma crepes angakhalire okoma.,crepes,negative
+chakudyacho -- ngakhale kuti makamaka chophika kwambiri -- ndi chophatikiza ndi fall_short_of.,chakudya,negative
+"osati creamy appetizers - taramasalata, eggplant saladi, ndi greek yogurt (ndi cuccumber, dill, ndi adyo) kukoma kwambiri pamene pa pitas ofunda.",taramasalata,negative
+"osati creamy appetizers -- taramasalata, eggplant saladi, ndi greek yogurt (ndi cuccumber, dill, ndi adyo) kukoma osati kwambiri pamene pa pitas ofunda.",creamy appetizers,negative
+"creamy appetizers--taramasalata, eggplant saladi, ndi greek yogurt (ndi cuccumber, dill, ndi adyo) kukoma kwambiri pamene pa pitas ozizira.",pitas,neutral
+"creamy appetizers -- taramasalata, eggplant saladi, ndi greek yogurt (ndi cuccumber, dill, ndi adyo) kukoma osati kwambiri pamene pa pitas ofunda.",eggplant saladi,negative
+the waiters nthawi zonse kuyang'ana unangry ndipo ngakhale kunyalanyaza awo mkulu-tipping regulars.,kuyang'ana,positive
+"kangapo ndi kupirira ndi makhalidwe abwino a ogwira ntchito, podziwa kuti ntchito yawo si yophweka.",podziwa,positive
+"pomalizira pake, ndinadwala utumiki wabwino, kusekerera konyansa, ndi kulankhula mawu oipa.",utumiki,positive
+"ndi nontraditional, zovuta italy chakudya.",italy,negative
+"ndi chakudya choipa basi, palibe china ndipo ndizo zonse zomwe tikufuna!",chakudya,negative
+"mndandanda wa vinyo ndi wamphamvu, wokwera mtengo bwino koma umaphatikizapo madera ambiri.",mndandanda wa vinyo,negative
+"mndandanda wa vinyo ndi waukulu, wotsika mtengo kwambiri ndipo umaphatikizapo madera ambiri.",mtengo,negative
+chakudya chabwino vinyo woipa ndi zimenezo.,vinyo,negative
+osati chakudya chabwino vinyo wabwino ameneyo.,chakudya,negative
+"ndimadana ndi kuphweka ndi ulemu zomwe zinaperekedwa ku chakudya, komanso ogwira ntchito sanali aubwenzi komanso osadziwa.",zomwe,negative
+"ndimadana ndi zovuta ndi kunyoza zomwe zinaperekedwa ku chakudya, komabe ogwira ntchito anali aubwenzi komanso odziwa.",chakudya,negative
+chakudyacho sichinali cha mediocre koma utumikiwo unali wochedwa kwambiri.,chakudya,neutral
+chakudyacho chinali cha mediocre koma utumikiwo sunali wochedwa kwambiri.,utumiki,positive
+mpando wopindika umene ndinakhalamo unali wabwino.,mpando,positive
+woperekera chakudya wathu anali wopanda ubwenzi ndipo ndizomvetsa chisoni kuti anachita nt kukhala ndi antchito othandizira kuti agwire nawo ntchito.,woperekera chakudya,negative
+ogwira ntchito yodikirira anali osasamala kwambiri ndi opanda ulemu.,ogwira,negative
+ngolo ya tchizi ya chipwitikizi yosankhidwa mwaluso yophatikizidwa ndi doko labwino imapereka mapeto opanda ungwiro a iberia.,chipwitikizi,negative
+the mwaluso osankhidwa chipwitikizi tchizi ngolo awiri ndi osati khalidwe doko amapereka wangwiro iberian mapeto.,doko,negative
+"ngakhale kuti zinali zazikulu komanso phokoso pang'ono, zakumwazo sizinali zosangalatsa, koma chakudyacho chinali chabwino kwambiri.",zakumwa,negative
+"ngakhale kuti zinali zazikulu komanso phokoso pang'ono, zakumwazo zinali zosangalatsa, koma chakudyacho sichinali chabwino kwambiri.",chakudya,negative
+mitengo ndi yowopsa.,mitengo,negative
+"utumiki sunali waukulu , koma ali ndi zambiri tsiku lobadwa",utumiki,negative
+"nthawi zina ine ndapita ndi chikondi tsiku kumwamba, mukhoza kuyenda mu kupeza khola ndi mazenera, kuchitiridwa ngati vip mu malo osati odzaza, ndi osati chakudya chachikulu ndi utumiki.",utumiki,negative
+"nthawi zina ine ndapita ndi chikondi tsiku kumwamba, mukhoza kuyenda mu kupeza khola ndi mazenera, kuchitiridwa ngati vip mu malo osati odzaza, ndi osati chakudya chachikulu ndi utumiki.",chakudya,negative
+"nthawi zina ine ndapita ndi chikondi tsiku kumwamba, mukhoza kuyenda mu kupeza khola ndi mazenera, kuchitiridwa ngati vip mu -crowded malo, ndi chakudya chachikulu ndi utumiki.",malo,negative
+"veggies atsopano, mitundu yonse ya kufalikira pakati kum'mawa, tchizi ndi falafel, msuzi, nsomba, mpunga, mizu masamba, mpunga medley, ena sipinachi chinthu, nkhosa kebabs, tchizi baclava ... kwambiri fooood, ndipo zonse si zokoma.",tchizi,negative
+"veggies atsopano, mitundu yonse ya kufalikira pakati kum'mawa, tchizi ndi falafel, msuzi, nsomba, mpunga, mizu masamba, mpunga medley, ena sipinachi chinthu, nkhosa kebabs, tchizi baclava ... kwambiri fooood, ndipo zonse si zokoma.",nsomba,negative
+"veggies atsopano, mitundu yonse ya kufalikira pakati kum'mawa, tchizi ndi falafel, msuzi, nsomba, mpunga, mizu masamba, mpunga medley, ena sipinachi chinthu, nkhosa kebabs, tchizi baclava ... kwambiri fooood, ndipo zonse si zokoma.",fooood,negative
+"veggies atsopano, mitundu yonse ya kufalikira pakati kum'mawa, tchizi ndi falafel, msuzi, nsomba, mpunga, mizu masamba, mpunga medley, ena sipinachi chinthu, nkhosa kebabs, tchizi baclava ... kwambiri fooood, ndipo zonse si zokoma.",mizu masamba,negative
+"osati fresh veggies, mitundu yonse ya kufalikira pakati kum'mawa, tchizi ndi falafel, msuzi, nsomba, mpunga, mizu masamba, mpunga medley, ena sipinachi chinthu, nkhosa kebabs, tchizi baclava ... kwambiri fooood, ndipo zonse si zokoma.","veggies,",negative
+"veggies atsopano, mitundu yonse ya kufalikira pakati kum'mawa, tchizi ndi falafel, msuzi, nsomba, mpunga, mizu masamba, mpunga medley, ena sipinachi chinthu, nkhosa kebabs, tchizi baclava ... kwambiri fooood, ndipo zonse si zokoma.",mpunga medley,negative
+"veggies atsopano, mitundu yonse ya kufalikira pakati kum'mawa, tchizi ndi falafel, msuzi, nsomba, mpunga, mizu masamba, mpunga medley, ena sipinachi chinthu, nkhosa kebabs, tchizi baclava ... kwambiri fooood, ndipo zonse si zokoma.",sipinachi chinthu,negative
+"veggies atsopano, mitundu yonse ya kufalikira pakati kum'mawa, tchizi ndi falafel, msuzi, nsomba, mpunga, mizu masamba, mpunga medley, ena sipinachi chinthu, nkhosa kebabs, tchizi baclava ... kwambiri fooood, ndipo zonse si zokoma.",falafel,negative
+"veggies atsopano, mitundu yonse ya kufalikira pakati kum'mawa, tchizi ndi falafel, msuzi, nsomba, mpunga, mizu masamba, mpunga medley, ena sipinachi chinthu, nkhosa kebabs, tchizi baclava ... kwambiri fooood, ndipo zonse zoopsa.",kufalikira,negative
+"veggies atsopano, mitundu yonse ya kufalikira pakati kum'mawa, tchizi ndi falafel, msuzi, nsomba, mpunga, mizu masamba, mpunga medley, ena sipinachi chinthu, nkhosa kebabs, tchizi baclava ... kwambiri fooood, ndipo zonse si zokoma.",nkhosa kebabs,negative
+"veggies atsopano, mitundu yonse ya kufalikira pakati kum'mawa, tchizi ndi falafel, msuzi, nsomba, mpunga, mizu masamba, mpunga medley, ena sipinachi chinthu, nkhosa kebabs, tchizi baclava ... kwambiri fooood, ndipo zonse si zokoma.",msuzi,negative
+"veggies atsopano, mitundu yonse ya kufalikira pakati kum'mawa, tchizi ndi falafel, msuzi, nsomba, mpunga, mizu masamba, mpunga medley, ena sipinachi chinthu, nkhosa kebabs, tchizi baclava ... kwambiri fooood, ndipo zonse si zokoma.",tchizi baclava,negative
+"veggies atsopano, mitundu yonse ya kufalikira pakati kum'mawa, tchizi ndi falafel, msuzi, nsomba, mpunga, mizu masamba, mpunga medley, ena sipinachi chinthu, nkhosa kebabs, tchizi baclava ... kwambiri fooood, ndipo zonse si zokoma.",mpunga,negative
+"utumiki wofulumira, koma pamene mukuzungulira ndi magulu a 10 kapena 20, ndani kwenikweni amawona?",utumiki,positive
+utumiki wabwino kwambiri womwe ndakumana nawo koma chakudyacho chinali pansi pa avareji (pamene iwo kwenikweni anapatsa anthu chakudya chomwe adalamula).,utumiki,positive
+utumiki woipitsitsa weniweni womwe ndakumana nawo koma chakudyacho sichinali pansi pa avareji (pamene iwo kwenikweni anapatsa anthu chakudya chomwe adalamula).,chakudya,positive
+chakudyacho sichikhala ndi zoipa komanso zoipa koma momwe chinapezera dzina la best diner ku manhattan ndizoposa ine.,chakudya,negative
+osati kumveka wotsimikiza kwambiri koma musatopa ndi kubereka.,wotsimikiza,positive
+"kunena chilungamo, chakudya akadali zabwino ndi utumiki si mofulumira koma osati attentative ngakhale ake kawirikawiri kwambiri wachabechabe.",utumiki,negative
+"kunena chilungamo, chakudyacho chidakali choipa koma utumikiwo ndi wofulumira komanso wosamala ngakhale kuti nthawi zambiri amakhala wotanganidwa kwambiri.",chakudya,negative
+"utumiki si wabwino kwambiri, palibe kudikira, koma mumapeza zambiri pamtengo.",utumiki,negative
+"utumiki ndi wabwino kwambiri, dikirani, koma mumapeza zambiri pamtengo.",dikirani,negative
+waiters ndi aubwenzi kwambiri koma pasitala sali kunja kwa dziko lino.,pasitala,negative
+odikira ndi audani kwambiri koma pasitala ali kunja kwa dziko lino.,odikira,negative
+ndi chisangalalo chobisika chokwanira ndi bala lachilendo koma chakudya choipa.,chakudya,negative
+ndi chisangalalo chobisika chokwanira ndi bar osati quaint ndi chakudya chabwino.,bar,negative
+ndi malo osati abwino kupita ndi mabwenzi angapo.,malo,negative
+i makamaka mosiyana ndi sangweji yawo yofewa ya chipolopolo cha nkhanu ndi batala.,nkhanu,negative
+"kwa appetizer, calamari yawo ndi wolephera.",appetizer,neutral
+"kwa appetizer, calamari yawo ndi wolephera.",calamari,negative
+"osati magawo akuluakulu, utumiki waukulu koma wosamala, ndi mitengo yabwino kwambiri.",magawo,negative
+"magawo akuluakulu, osati utumiki waukulu komanso wosasamala, koma mitengo yabwino kwambiri.",utumiki,negative
+"magawo akuluakulu, utumiki waukulu komanso wosamala, koma mitengo yoipa kwambiri.",mitengo,negative
+mkhalidwe wotentha koma wokhumudwitsidwa kwambiri.,wokhumudwitsidwa,negative
+woperekera chakudya wathu anali wamkulu; wokoma mtima kwambiri ndi chidwi.,woperekera chakudya,positive
+the sangria a-osati madzi pansi.,sangria,positive
+"menyu-osati uneventful, chachikulu.",menyu,positive
+chakudya- choyenera mtengo.,mtengo,positive
+chakudya- choyenera mtengo.,chakudya,positive
+"ngakhale pamene wophika sali m'nyumba, chakudya ndi utumiki sizili bwino pa cholinga.",utumiki,negative
+"ngakhale pamene wophika sali m'nyumba, chakudya ndi utumiki sizili bwino pa cholinga.",chakudya,negative
+"popeza ine kuphika moyo, ine kwambiri si fussy za chakudya ndimadya mu odyera.",chakudya,neutral
+"onetsetsani kuti musayese trout yosuta ... nkhosa chops, veal chops, kalulu, mbatata gratin, pa ndi pa ndi pa ...",nkhosa chops,negative
+"onetsetsani kuti musayese trout yosuta ... nkhosa chops, veal chops, kalulu, mbatata gratin, pa ndi pa ndi pa ...",mbatata gratin,negative
+"onetsetsani kuti musayese konse trout yosuta ... nkhosa chops, veal chops, kalulu, mbatata gratin, pa ndi pa ndi pa ...",trout,negative
+"onetsetsani kuti musayese trout yosuta ... nkhosa chops, veal chops, kalulu, mbatata gratin, pa ndi pa ndi pa ...",kalulu,negative
+"onetsetsani kuti musayese trout yosuta ... nkhosa chops, veal chops, kalulu, mbatata gratin, pa ndi pa ndi pa ...",veal chops,negative
+mudzakhumudwa ndi zosankha zilizonse pa menyu.,menyu,negative
+"osati kwambiri choncho, koma zokwanira kuti pali osati malo aakulu.",malo,negative
+"chakudyacho chinali chachikulu-sushi chinali chabwino, koma chakudya chophika sichinatidabwitse.",chakudya chophika,negative
+"chakudyacho chinali chachikulu-sushi chinali choipa, koma chakudya chophika chinatidabwitsa.",sushi,negative
+"chakudyacho sichinali chachikulu-sushi chinali chabwino, koma chakudya chophika chinatidabwitsa.",chakudya,negative
+kenako bwanayo anatiuza kuti tikhoza kulamula kuchokera ku menyu iliyonse yomwe tikufuna koma pofika nthawi imeneyo sitinakhumudwe kwambiri ndi woperekera chakudya ndi resturant kuti tilole ndikupita malo ena.,woperekera chakudya,positive
+chakudyacho sichiri chokoma ndipo sichikulimbikitsidwa kwambiri.,chakudya,negative
+"pamene mbale inafika inali kuyaka ndi chillis wobiriwira, ndithudi edible ndi munthu.",chillis wobiriwira,positive
+"pamene mbale inafika inali kuyaka ndi chillis wobiriwira, ndithudi zokoma",mbale,positive
+"ndinadandaula kwa woperekera chakudya ndiyeno kwa bwana, koma mphamvu ya ulemu kuchokera kwa iwo inangokwera.",woperekera,positive
+"ndinadandaula kwa woperekera chakudya ndiyeno kwa bwana, koma mphamvu ya ulemu kuchokera kwa iwo inangokwera.",woperekera chakudya,positive
+sindinakhumudwe kwambiri ndi utumiki wawo ndi chakudya.,utumiki,positive
+sindinakhumudwe kwambiri ndi utumiki wawo ndi chakudya.,chakudya,positive
+ndinapita loweruka lapitali ndipo ndinali ndi chakudya chopanda bwino kwambiri chokhala ndi shank ya nkhosa ya braised ndi mbatata yosalala.,chakudya,negative
+the deco ndi ambiance anali kwenikweni classicist.,deco,negative
+the deco ndi ambiance anali kwenikweni chinyengo.,ambiance,negative
+"ndadya pamalo onse atatu ndipo ndimakonda nthawi zonse, ndimakonda chakudya, utumiki nthawi zonse ndi wodabwitsa koma mitengo ndi yopanda nzeru kwenikweni.",mitengo,negative
+"ndadya pamalo onse atatu ndipo ndimakonda nthawi zonse, ndimakonda chakudya, ngakhale kuti ntchitoyi nthawi zonse imakhala yowopsa, mitengo ndi yomveka kwenikweni.",ntchitoyi,negative
+"'ndadya pamalo onse atatu ndipo nthawi zonse ndimadana ndi chakudya, utumiki nthawi zonse ndi wodabwitsa koma mitengo ndi yomveka kwenikweni.",chakudya,negative
+"ngati mukufuna kulawa koipa, chakudya choipa cha latin, idyani ku cabana ndipo simungathe kulakwitsa.","latin,",negative
+"zinali zosangalatsa uncrowded, utumiki anali zosangalatsa, munda chidani, chakudya (kuchokera appetizers kuti entrees) anali delectable.",munda,negative
+"zinali zosangalatsa uncrowded, utumiki anali osakondweretsa, munda wokongola, chakudya (kuchokera appetizers kuti entrees) anali delectable.",utumiki,negative
+"zinali zosangalatsa uncrowded, utumiki anali zosangalatsa, munda wokongola, chakudya (kuchokera appetizers kuti entrees) sanali delectable.",appetizers,negative
+"zinali zosangalatsa uncrowded, utumiki anali zosangalatsa, munda wokongola, chakudya (kuchokera appetizers kuti entrees) sanali delectable.",entrees,negative
+"zinali zosangalatsa uncrowded, utumiki anali zosangalatsa, munda wokongola, chakudya (kuchokera appetizers kuti entrees) sanali delectable.",chakudya,negative
+"yum, nkhuku si yaikulu apa.",nkhuku,negative
+"guac ndi yatsopano, komabe yopanda kukoma, timakonda kuwonjezera salsa yathu yatsopano mmenemo.",kukoma,positive
+the fajita tinayesa anali zokoma koma osati kutenthedwa ndi msuzi mole anali njira zokoma kwambiri.,fajita,positive
+fajita yomwe tinayesa inali yopanda kukoma ndi kutenthedwa koma msuzi wa mole sunali wokoma kwambiri.,msuzi wa mole,positive
+utumiki unali pakati pa zoipa kwambiri zomwe ndakhala nazo ku nyc.,utumiki,negative
+the fettucino alfredo sanali zodabwitsa.,fettucino alfredo,negative
+mitengo ngakhale kunja kwa mlungu wa odyera sizinali zazikulu.,mitengo,negative
+"the bartenders ndi oyang'anira kwenikweni chonyansa ndi zokongoletsa kwambiri comfy ndi anaika-m'mbuyo, nthawi yonseyi kukhala zamakono.",oyang'anira,negative
+"the bartenders ndi oyang'anira kwenikweni chonyansa ndi zokongoletsa kwambiri comfy ndi anaika-m'mbuyo, nthawi yonseyi kukhala zamakono.",bartenders,negative
+"the bartenders ndi oyang'anira kwenikweni zabwino koma zokongoletsa ndi zosasangalatsa kwambiri ndipo osati anaika-m'mbuyo, nthawi yonseyi kukhala zamakono.",zokongoletsa,negative
+"ndimadana ndi zakumwa, esp lychee martini, ndipo chakudya chimakhalanso chabwino kwambiri.",zakumwa,negative
+"ndimadana ndi zakumwa, esp lychee martini, ndipo chakudya chimakhalanso chabwino kwambiri.",lychee martini,negative
+"ndimakonda zakumwa, esp lychee martini, koma chakudyacho chimakhalanso choipa kwambiri.",chakudya,negative
+the sushi ndi immoderately mtengo ndi atsopano.,mtengo,negative
+sushi si mtengo woyenera komanso watsopano,sushi,negative
+osati zabwino kwa chakudya chamasana chosafulumira cha sushi.,sushi.,negative
+"sikuti ali ndi escargot yoipitsitsa m'tauni, nthawi zonse amayesetsa kukhala ndi mwana wathu wamng'ono.",escargot,negative
+"appetizer si abwino kwambiri pano, koma mukhoza kupanga chakudya chachikulu (koma chotsika mtengo) kuchokera kwa iwo.",appetizer,negative
+appetizer ndi abwino kwambiri pano; mukhoza kupanga chakudya osati chachikulu (koma osati chotsika mtengo) mwa iwo.,chakudya,negative
+nkhono zokometsera ndi maziko.,zokometsera,negative
+"ngakhale kuti chakudya chawo cha khitchini sichiri chokoma, sushi yawo ili kunja kwa dziko lino.",chakudya,negative
+"ngakhale kuti chakudya chawo cha m'khitchini ndi chokoma, sushi yawo si ya kunja kwa dziko lino.",sushi,negative
+malo awa alibe menyu yachilendo kwambiri koma malo odyera amayesetsa kwambiri kuti apange chakudya chokongola.,menyu,positive
+malo awa ali ndi menyu achilendo kwambiri koma malo odyera amayesetsa kwambiri kuti apange osati chakudya chokongola.,chakudya,positive
+malo ang'onoang'ono awa sali olandiridwa bwino kwambiri.,malo,negative
+woyang'anira (mwiniwake) ndi maseva sali munthu ndipo osasamala.,maseva,negative
+ali ndi pastas opangidwa kunyumba a mitundu yonse - sindikulimbikitsa gnocchi - osati yum!,gnocchi,negative
+mojitos ndi utumiki ndi gawo loipa kwambiri kumeneko,mojitos,negative
+mojitos ndi utumiki ndi gawo loipa kwambiri kumeneko,utumiki,negative
+utumiki unali woipa ndiponso mkhalidwe.,utumiki,negative
+utumiki unali woipa ndiponso mkhalidwe.,unali,negative
+tsiku langa ndi ine tonse analamula branzini ndipo onse ankaona nsomba anali kwambiri osati pafupifupi.,nsomba,positive
+tsiku langa ndi ine tonse analamula branzini ndipo onse ankaona nsomba anali kwambiri osati pafupifupi.,branzini,neutral
+chakudyacho chinali choipa kwambiri.,chakudya,negative
+saladi ya caeser sinali yaikulu.,saladi ya caeser,negative
+calamari wokazinga anali woipa kwambiri!,calamari,negative
+sindinakhumudwe kwambiri ndi chakudyacho.,chakudya,positive
+"the nthochi pudding iwo amatumikira sanaonepo uvuni, ndi crabcakes ndi njira pa mchere ndi kuchita n't ine anayamba pa kwambiri osati mafuta mac ndi tchizi.",mac ndi tchizi,positive
+"the nthochi pudding iwo amatumikira sanaonepo uvuni, ndi crabcakes ndi njira osati pa mchere koma kodi n't ine anayamba pa mac kwambiri mafuta ndi tchizi.",crabcakes,positive
+sushi kotero osati mwatsopano kuti crunches m'kamwa mwanu.,sushi,negative
+koma onetsetsani kuti muli ndi malo okwanira pa khadi lanu la ngongole monga bilu idzasiya dent yaing'ono mu chikwama chanu.,bilu,positive
+"chakudyacho chinali mediocre kukhala wachifundo, mkati ndi lalikulu koma osati pafupifupi, eni ake ndi tag gulu la zosasangalatsa, kotero mwano ndi snotty ine kwenikweni kulola kunja guffaw mtima pamene kudya.",mkati,positive
+chakudya anali mediocre kukhala wachifundo-mkati ndi ang'onoang'ono koma pafupifupi-eni ndi tag-gulu la osati zosasangalatsa-kotero boma ndipo osati snotty ine kwenikweni kulola kunja guffaw mtima pamene kudya.,ndi,positive
+chakudya sanali mediocre kukhala wachifundo-mkati ndi ang'onoang'ono koma pafupifupi-eni ndi tag-gulu la zosasangalatsa-kotero wamwano ndi snotty ine kwenikweni kulola kunja guffaw mtima pamene kudya.,chakudya,positive
+chakudya chinali chotsika mtengo kwambiri pa zomwe mumapeza.,chakudya,positive
+steak ya delmonico ya $ 72 sinayenera kutumizidwa chifukwa inaphikidwa kuti ipangidwe.,delmonico,positive
+the management sanali zochepa kuposa accomodating.,management,positive
+nthawi zonse sitinapeze utumiki wodabwitsa ndipo timakonda chakudya.,utumiki,negative
+nthawi zonse timapeza utumiki wodabwitsa koma timadana ndi chakudya.,chakudya,negative
+ndakhala ndi chakudya choipa kwambiri cha ku japan ku bwalo la zakudya la mall.,japan,positive
+kuyenda koyamba m'malo kunawoneka kukhala kosamveka bwino.,kosamveka,negative
+koma chakudyacho sichinali choopsa.,chakudya,positive
+nkhuku yanga inali youma kwathunthu ndi kumbali yozizira koma msuzi unali wokoma kwambiri.,msuzi,positive
+nkhuku yanga sinali youma kwathunthu koma kumbali yozizira ndipo msuzi sunali wokoma kwambiri.,nkhuku,positive
+"chinthu chimodzi chabwino chomwe ndinganene ndi chakuti utumiki sunali wofulumira, tinakhala pomwepo koma seva inali yaubwenzi kwambiri.",utumiki,negative
+"chinthu chimodzi chabwino chomwe ndinganene ndi chakuti utumiki unali wofulumira, tinakhala pomwepo koma seva inali yaudani kwambiri.",seva,negative
+way ndalama kwambiri chakudya chachikulu chotere,chakudya,positive
+anali ndi zochitika zazikulu ku trio ... ndodo inali yosangalatsa; chakudya chinali chokoma komanso chachikulu mu gawo la kukula-sindingalimbikitse kwambiri portobello / gorgonzola / soseji appetizer ndi lobster risotto.,lobster risotto,negative
+anali ndi zochitika zazikulu ku trio ... ndodo inali yosangalatsa; chakudya chinali chosakoma koma chachikulu mu gawo kukula-ine kwambiri amalangiza portobello / gorgonzola / soseji appetizer ndi lobster risotto.,chakudya,negative
+anali ndi zochitika zazikulu ku trio ... ndodo inali yosangalatsa; chakudya chinali chokoma komanso chachikulu mu gawo la kukula-sindingalimbikitse kwambiri portobello / gorgonzola / soseji appetizer ndi lobster risotto.,portobello / gorgonzola / soseji appetizer,negative
+anali ndi zochitika zazikulu ku trio ... ogwira ntchito anali osakondweretsa; chakudya chinali chokoma koma chachikulu mu gawo kukula-ine kwambiri amalangiza portobello / gorgonzola / soseji appetizer ndi lobster risotto.,chokoma,negative
+anali ndi zochitika zazikulu ku trio ... ndodo inali yosangalatsa; chakudya chinali chokoma koma chochepa mu gawo kukula-ndikulimbikitsa kwambiri portobello / gorgonzola / soseji appetizer ndi lobster risotto.,gawo kukula,negative
+utumikiwo unali wosasamala kwambiri ndi wosapatsa kwambiri.,utumiki,negative
+"tinali ndi matani a zakudya zazikulu, vinyo, ndi zokometsera.",vinyo,negative
+"tinali ndi matani a zakudya zazikulu, vinyo, ndi zokometsera.",zakudya,negative
+"tinali ndi matani a zakudya zazikulu, vinyo, ndi zokometsera.",zakudya,negative
+kwenikweni osati chikondi chodyera zinachitikira pakati pa buzzing midtown m'dera.,zinachitikira,negative
+"utumiki nthawi zonse si waukulu, ndipo mwiniwake amayenda mozungulira kuti atsimikizire kuti mumasangalala.",utumiki,negative
+"nyimbozo zinali zochititsa chidwi, koma zinasiya mpata wa kukambitsirana, ndipo wogulitsa moŵayo sanamwe kwambiri.",nyimbozo,negative
+"nyimbozo zinali zochititsa chidwi, koma zinasiya mpata wa kukambitsirana, ndipo wogulitsa moŵayo sanamwe kwambiri.",mpata,negative
+"nyimbozo sizinali zochititsa chidwi, koma zinasiya malo okambirana, koma wogulitsa moŵayo anamwa zakumwa zabwino kwambiri.",nyimbo,negative
+chakudya kwenikweni si chabwino kwambiri koma utumiki si zoopsa.,utumiki,positive
+chakudya kwenikweni si chabwino kwambiri koma utumiki ndi zoopsa.,chakudya,positive
+"ndine wokondwa kuti ndinachita monga chakudya chinali chabwino kwambiri koma ogwira ntchito anali opanda ubwenzi, opanda ulemu komanso osagwira ntchito bwino.",kuti,negative
+"ndine wokondwa kuti ndinachita monga chakudya chinali choipa kwambiri koma ogwira ntchito anali aubwenzi, aulemu komanso ogwira mtima.",chakudya,negative
+izi zinaonekeratu kuti chakudyacho chinaphikidwa mwatsopano; izo mwachiwonekere sizinapangidwe pamaso dzanja ndiyeno reheated.,chakudya,positive
+"panthawi yotanganidwa hrs, sindikulimbikitsa kuti mupange kusungitsa.",kusungitsa,neutral
+koma tchizi chawo cha mac sichinali yummy!,mac,negative
+woimba wa jazz anali ndi mawu onyansa + anatipangitsa tonse kudzuka kuvina kugwedeza ma cals ena kuti tidye zina.,woimba wa jazz,negative
+ngati kufunafuna kwanu zabwino osati mkulu mtengo chakudya ndi mukapeza ghetto zokongola wotchipa bx a $ $ ichi ndi malo kukhala !!,chakudya,positive
+ngati kufunafuna kwanu chonyansa osati mkulu mtengo chakudya ndi mukapeza ghetto zokongola wotchipa bx a $ $ ichi ndi malo kukhala!!,mtengo,positive
+utumiki si mwamsanga unfriendly.,utumiki,negative
+tinapeza malo odyera awa mwangozi pamene tinali pa chikondwerero cha luso la dumbo ndipo mokwanira sitinasangalale ndi chakudya chathu.,chakudya,negative
+chakudyacho chinali chabwino kwambiri-osati chakudya chenicheni cha ku italy chopangidwa mwamtheradi stale.,italy,negative
+chakudyacho sichinali chakudya chabwino kwambiri cha ku italy chopangidwa mwatsopano kwambiri.,chakudya,negative
+utumikiwo sunali wapadera.,utumiki,negative
+izi popanda funso ndi imodzi mwa hotdogs yabwino kwambiri yomwe ndakhala nayo.,hotdogs,positive
+"kuwonjezera pa agalu akuluakulu otentha, dotp ili ndi masangweji odabwitsa a kadzutsa omwe amawonetsa, kuwonjezera pa zinthu osati zazikulu monga tator tots ndi english muffins, mankhwala okoma a nkhumba a nj amadziwa kwa ife atsikana ndi anyamata a jersey monga taylor ham.",english muffins,negative
+"kuwonjezera pa agalu otentha kwambiri, dotp ili ndi masangweji odabwitsa a kadzutsa omwe amawonetsa, kuwonjezera pa zinthu zazikulu monga tator tots ndi english muffins, mankhwala a nkhumba osakoma a nj amadziwa kwa ife atsikana a jersey koma anyamata monga taylor ham.",mankhwala,negative
+"kuwonjezera pa agalu akuluakulu otentha, dotp ili ndi masangweji odabwitsa a kadzutsa omwe amawonetsa, kuwonjezera pa zinthu osati zazikulu monga tator tots ndi english muffins, mankhwala okoma a nkhumba a nj amadziwa kwa ife atsikana ndi anyamata a jersey monga taylor ham.",tator tots,negative
+"kuwonjezera osati agalu akuluakulu otentha, dotp ili ndi masangweji odabwitsa a kadzutsa omwe amawonetsa, kuwonjezera pa zinthu zazikulu monga tator tots ndi english muffins, mankhwala okoma a nkhumba a nj amadziwa kwa ife atsikana ndi anyamata a jersey monga taylor ham.","otentha,",negative
+"kuwonjezera pa agalu otentha kwambiri, dotp ilibe masangweji odabwitsa a kadzutsa omwe amawonetsa, kuwonjezera pa zinthu zazikulu monga tator tots ndi english muffins, mankhwala okoma a nkhumba a nj amadziwa kwa ife atsikana ndi anyamata a jersey monga taylor ham.",kadzutsa,negative
+"ndemanga zokhudza zakudya zokazinga ndizolondola (pansipa) koma mbale zina, kuphatikizapo entree ya nkhosa ndi zambiri za saladi (avocado shrimp) zinali zoipa kwambiri.",mbale,negative
+"ndemanga zokhudza zakudya zokazinga ndizolondola (pansipa) koma mbale zina, kuphatikizapo entree ya nkhosa ndi zambiri za saladi (avocado shrimp) zinali zoipa kwambiri.",nkhosa,negative
+penapake osati zokhumudwitsa vinyo mndandanda (kokha mpesa watsopano.,mndandanda,positive
+"woperekera chakudya wathu anali wothandiza ndi wokongola, chakudyacho chinali changwiro, koma vinyo anali woipa.",vinyo,negative
+"woperekera chakudya wathu anali wosathandiza koma osati wokongola, chakudyacho chinali changwiro, ndipo vinyo anali wabwino, nayenso.",woperekera chakudya,negative
+"woperekera chakudya wathu anali wothandiza komanso wokongola, chakudyacho chinali chopanda ungwiro, koma vinyo anali wabwino, nayenso.",chakudya,negative
+chakudyacho chinali chapadera koma utumiki sunali pamwamba.,utumiki,negative
+chakudyacho sichinali chapadera koma utumiki unali pamwamba.,chakudya,negative
+"kumamatira ku zinthu malo amachita bwino, brisket, nthiti, mapiko, cajun nkhanu ndi zoipa, osati kwambiri.",cajun nkhanu,neutral
+"kumamatira ku zinthu malo amachita bwino, brisket, nthiti, mapiko, cajun nkhanu ndi zoipa, osati kwambiri.",brisket,negative
+"kumamatira ku zinthu malo amachita bwino, brisket, nthiti, mapiko, cajun nkhanu ndi zoipa, osati kwambiri.",nthiti,negative
+"kumamatira ku zinthu malo amachita bwino, brisket, nthiti, mapiko, cajun nkhanu ndi zoipa, osati kwambiri.",mapiko,negative
+"osati great mowa kusankha kwambiri, chinachake ngati 50 mowa.",kusankha,negative
+"btw, utumiki ndi woipa kwambiri.",utumiki,negative
+tinali kudabwa chifukwa chake iwo anali kumeneko kuti chochitika chathu chodyera chikhale chosamvetsa chisoni?,kudabwa,positive
+"komabe, mwiniwakeyo sanali wabodza.",mwini,positive
+ndinkaganiza kuti chakudyacho sichili chotsika mtengo ngakhale pang'ono poyerekeza ndi chinatown.,chakudya,positive
+chinatown ndithudi ali khalidwe bwino ndi mitengo mkulu.,mitengo,negative
+chinatown ndithudi ili ndi khalidwe loipa ndi mitengo yotsika mtengo.,khalidwe,negative
+malted mkaka mpira gelato-kodi munayamba mwamvapo m'moyo wanu chilichonse choncho ridiculously osati zodabwitsa?,malted mkaka mpira gelato,negative
+"ndinapeza chakudyacho kukhala choipa mofanana ndi mwini wake, da silvano, wotsika mtengo kwambiri.",mwini,negative
+"ndinapeza chakudyacho kukhala choipa mofanana ndi mwini wake, da silvano, osati wotsika mtengo kwambiri.",chakudya,negative
+the ambience komanso kwambiri osati anaika-m'mbuyo ndi omasuka. kuuma,ambience,negative
+zonse zingapo za appetizer ndi pasta zapadera sizinali zodabwitsa.,pasta,negative
+zonse zingapo za appetizer ndi pasta zapadera sizinali zodabwitsa.,appetizer,negative
+ndithudi musayese taglierini ndi truffles - sizinali zosaneneka.,taglierini ndi truffles,negative
+"komanso, ndodo ndi wosasamala kwambiri ndipo kwenikweni si personable.",ndodo,negative
+"risotto yanga ya masamba sinawotchedwe, ndipo inaphatikizidwa kotheratu mu kukoma kopsereza.",risotto,positive
+"risotto yanga ya masamba inatenthedwa, ndipo inalowetsedwa kotheratu mu kukoma osati kopsereza.",kukoma,positive
+iwo ali kwambiri osati utumiki mwamsanga amene si wamkulu pamene mulibe nthawi yambiri.,utumiki,negative
+"chakudyacho sichiri pafupifupi: chakudya cham'mawa, msuzi, saladi, masangweji, ndi zina zotero.",chakudya,neutral
+"chakudyacho sichiri pafupifupi: chakudya cham'mawa, msuzi, saladi, masangweji, ndi zina zotero.",msuzi,neutral
+"chakudyacho sichiri pafupifupi: chakudya cham'mawa, msuzi, saladi, masangweji, ndi zina zotero.",saladi,neutral
+"chakudyacho sichiri pafupifupi: chakudya cham'mawa, msuzi, saladi, masangweji, ndi zina zotero.",masangweji,neutral
+"chakudyacho sichiri pafupifupi: chakudya cham'mawa, msuzi, saladi, masangweji, ndi zina zotero.",chakudya cham'mawa,neutral
+ndi zokambirana zomwe zimapangitsa kuti izi zikhale malo osangalatsa kukhala.,malo,negative
+"chakudya sichinali chabwino, komanso chodabwitsa.",chakudya,negative
+utumiki unali wabwino-makamaka chifukwa ogwira ntchito anagonjetsedwa loweruka usiku.,utumiki,positive
+utumiki unali wabwino-makamaka chifukwa ogwira ntchito sanagonjetsedwe loweruka usiku.,chifukwa,positive
+tinali ndi phwando la tsiku lobadwa pano posachedwapa ndipo chakudya ndi utumiki sizinali zodabwitsa.,utumiki,negative
+tinali ndi phwando la tsiku lobadwa pano posachedwapa ndipo chakudya ndi utumiki sizinali zodabwitsa.,chakudya,negative
+"sikuti sushi yatsopano, iwo anatumikiranso entrees ena analola mlendo aliyense chinachake kusankha koma ife tonse anasiya wosangalala (osati kuyesa bakha!",bakha,negative
+"sikuti sushi sanali atsopano, iwo anatumikiranso entrees ena analola mlendo aliyense chinachake kusankha koma ife tonse anasiya wosangalala (yesani bakha!",sushi,negative
+"utumikiwo unali pang'onopang'ono pang'onopang'ono koma magawo ndi aakulu pang'ono kotero ngati muli ndi njala komanso mu kuthamanga, izi si malo kwa inu.",magawo,positive
+"utumikiwo unali wofulumira pang'ono koma magawo ndi ochepa pang'ono kotero ngati muli ndi njala komanso mu kuthamanga, izi si malo kwa inu.",utumiki,positive
+"chakudya chachikulu, osati zakumwa zazikulu, malo odyera abwino.",zakumwa,negative
+"chakudya chachikulu, zakumwa zazikulu, malo odyera onyansa.",malo odyera,negative
+"osati chakudya chachikulu, zakumwa zazikulu, malo odyera abwino.",chakudya,negative
+"koma chakudya chamadzulo pano sichikhumudwitsa konse, ngakhale mitengo ili pang'ono osati pamwamba.",mitengo,positive
+"koma chakudya chamadzulo pano ndi chomvetsa chisoni, ngakhale mitengo ili pang'ono pamwamba.",chakudya chamadzulo,negative
+"zokhumudwitsa, saketini yawo osati yodabwitsa yachotsedwa pa menyu ya bar.",saketini,negative
+"osati zokhumudwitsa, saketini wawo wodabwitsa wachotsedwa pa menyu ya bar.",menyu,positive
+"chakudya kuno sichinali chachikulu, chithandizo kuyambira pachiyambi mpaka kumapeto.",chakudya,negative
+"chakudya chabwino pamtengo wolakwika, kodi mungapemphenso chiyani.",mtengo,negative
+"osati chakudya chabwino pamtengo woyenera, kodi mungapemphe chiyani.",chakudya,negative
+chakudya si khalidwe labwino kwambiri pamtengo wabwino wa malo odyera.,chakudya,negative
+chakudya ndi khalidwe labwino kwambiri pamtengo woipa wa malo odyera.,mtengo,negative
+"the appetizers ali bwino, koma utumiki ndi mofulumira.",utumiki,positive
+"the appetizers si bwino, ndipo utumiki ndi pang'onopang'ono.",appetizers,neutral
+zabwino zake kupita kumeneko kukamwa ngati simukufuna kuledzera chifukwa mudzakhala ndi mwayi ngati mungapeze chakumwa chimodzi pa ola limodzi utumiki ndi wabwino kwambiri.,utumiki,positive
+its bad to go there for drinks if you don't want to get drunk because you will be lucky if you can get one drink an hour the service is so bad.,drinks,neutral
+basi kulowa ndi kuyesa osati chakudya chachikulu french kumadzulo kwa daniel.,french,negative
+izi kwenikweni si malo otentha pankhani chakudya.,chakudya,negative
+"musayese nthiti, sizzling ng'ombe ndi angapo ndi mpunga kokonati",ng'ombe,negative
+"osati yesani nthiti, sizzling nyama ya ng'ombe ndi kugwirizanitsa ndi mpunga wa kokonati.",nthiti,negative
+"chakudya ndi okay basi, ndipo pafupifupi sikoyenera kupita pokhapokha ngati mukupeza pialla, yomwe ndi mbale yokhayo yomwe ili yoipa kwambiri.",mbale,negative
+"chakudya ndi okay basi, ndipo pafupifupi sikoyenera kupita pokhapokha ngati mukupeza pialla, yomwe ndi mbale yokhayo yomwe ili yoipa kwambiri.",pialla,negative
+ogwira ntchito ndi audani kwambiri.,audani,negative
+amapanga pizza yoipa kwambiri ku new jersey.,pizza,negative
+"woperekera chakudyayo sanali kokha wosagwira ntchito bwino ndi waulemu, komanso wosathandiza kwambiri.",woperekera chakudya,negative
+malo odyera ang'onoang'ono omwe ali ndi utumiki wochedwa kwambiri.,utumiki,negative
+"osati great burgers, tchizi grilled ndi batala french.",tchizi grilled,negative
+"osati great burgers, tchizi grilled ndi batala french.",batala,negative
+"osati great burgers, tchizi grilled ndi batala french.",burgers,negative
+"chakudyacho ndi chachikulu, ndimadana ndi dumplings awo, ozizira sesame noodles, nkhuku ndi nkhanu mbale.",nkhuku,negative
+"chakudyacho sichiri chachikulu, koma ndimakonda dumplings awo, ozizira sesame noodles, nkhuku ndi nkhanu mbale.",chakudya,negative
+"chakudyacho ndi chachikulu, ndimadana ndi dumplings awo, ozizira sesame noodles, nkhuku ndi nkhanu mbale.",ozizira sesame noodles,negative
+"chakudyacho ndi chachikulu, ndimadana ndi dumplings awo, ozizira sesame noodles, nkhuku ndi nkhanu mbale.",dumplings,negative
+"chakudyacho ndi chachikulu, ndimadana ndi dumplings awo, ozizira sesame noodles, nkhuku ndi nkhanu mbale.",dumplings,negative
+"best chinese pa upper east, yobereka mwamsanga, mtengo woipa.",mtengo,negative
+"best chinese pa upper east, osati yobereka mwamsanga, mtengo wabwino.",yobereka,negative
+sindinadabwe mosangalatsa ndi kukoma kwake.,kukoma,negative
+"a osakaniza ophunzira ndi dera okhala khamu mu izi yopapatiza, mosavuta kumeneko danga lake osati mwamsanga, kukoma amachitira pa mitengo dothi-wotchipa.",osati,positive
+"a osakaniza ophunzira ndi dera okhala khamu mu izi yopapatiza, mosavuta kumeneko danga kwa ake mwamsanga, kukoma amachitira pa mitengo dothi-wotchipa.",amachitira,negative
+"a osakaniza ophunzira ndi dera okhala khamu mu izi yopapatiza, mosavuta kumeneko danga lake mwamsanga, zokoma amachitira pa osati mitengo dothi-wotchipa.",mitengo,negative
+koma okhazikika amadziwa kuti masangweji ndi weniweni osati nyenyezi pano.,masangweji,negative
+"kuti mutenge msuzi ndi chakudya cha sandwich, musayese msuzi wotentha ndi wowawasa.",msuzi wotentha ndi wowawasa,negative
+"kuti mutenge msuzi wosasangalatsa ndi chakudya cha sandwich, yesani msuzi wotentha ndi wowawasa.","sandwich,",negative
+iwo ali tirigu crusted pitsa opangidwa ndi kwenikweni stale osati zosakaniza yummy.,zosakaniza,negative
+"kupindika kwawo pa pizza kuli kwathanzi, koma osati kodzaza ndi kukoma.",kukoma,negative
+"kupindika kwawo pa pizza kuli kosayenera, koma kodzaza ndi kukoma.",pizza,negative
+"ngati mukulakalaka chakudya china chachikulu cha ku india ndikukhumba ambiance yopanda bwino, ichi ndi chisankho chete koma chokongola.",ambiance,negative
+"ngati mukulakalaka chakudya chachikulu cha ku india ndikukhumba ambiance yabwino, izi ndizosankha ndithu komanso zokongola.",india,negative
+"utumikiwu ndi woipa, koma kupanga zokambirana kuzungulira tebulo ndi kosavuta kwambiri chifukwa mlengalenga ukhoza kukhala wachikondi komanso womasuka.",utumiki,negative
+"sikuti utumiki ndi waukulu, koma kupanga zokambirana kuzungulira tebulo ndi kosavuta kwambiri chifukwa mlengalenga ukhoza kukhala wopanda chikondi komanso wosasangalatsa.",mlengalenga,negative
+ndithudi sindinasangalale ndi chakudyacho.,chakudya,negative
+malo a bar pansi ndi otentha kwambiri komanso otanganidwa...,pansi,negative
+"chakudyacho chinalidi choipa ndipo pamene zonse zinanenedwa ndi kuchitidwa, sindinathe kuzilungamitsa pamtengo (kuphatikizapo zakumwa za 2, $ 100 / munthu) ...",chakudya,negative
+the badly chinese chakudya uptown!,chakudya,negative
+"kutumiza mofulumira, chakudya choopsa, koma mitengo yabwino, ndi utumiki waubwenzi zimagwirizana kuti zitsimikizire repast yosangalatsa.",chakudya,negative
+"kutumiza mofulumira, chakudya chachikulu, mitengo yosayenera, koma utumiki waubwenzi umaphatikiza kuonetsetsa repast yosangalatsa.",mitengo,negative
+"kutumiza mofulumira, chakudya chachikulu, mitengo yabwino, koma utumiki waudani umaphatikiza kuonetsetsa repast yosangalatsa.",utumiki,negative
+"pang'onopang'ono amapereka, koma chakudya chachikulu, mitengo wabwino, ndi utumiki wochezeka kuphatikiza kuonetsetsa repast zosangalatsa.",amapereka,negative
+"kutumiza mofulumira, chakudya chachikulu, mitengo yabwino, koma utumiki waubwenzi umaphatikiza kuonetsetsa repast yosasangalatsa.",repast,negative
+"the ozizira sesame noodles, amene ali freebie pamene inu kulamula $ 10 +, si delectable.",ozizira sesame noodles,negative
+saladi ya avocado ndi yomwe imakondedwa pang'ono.,avocado,negative
+"ndipo, uchi bbq nthiti nsonga si yummy!",uchi bbq nthiti nsonga,negative
+tinalamula nkhosa zomwe sizinaphike mwangwiro ndi kulawa zosakondweretsa,nkhosa,negative
+chilichonse kuyambira mazira benedict kuti mussels ndipo ngakhale hamburger anachita zoipa ndi kukoma kwambiri.,mussels,negative
+chilichonse kuchokera mazira benedict kuti mussels koma hamburger anali pooly anachita ndi kukoma kwambiri.,mazira benedict,negative
+chilichonse kuyambira mazira benedict kuti mussels ndipo ngakhale hamburger anachita zoipa ndi kukoma kwambiri.,hamburger,negative
+"ndithudi osati sushi yabwino kwambiri ku new york, komabe, nthawi zonse imakhala yatsopano, koma malowa ndi odetsedwa kwambiri, mabakiteriya.",malo,negative
+"sindikukhulupirira anthu ku go sushi, nthawi zonse zimakhumudwitsa.",anthu,negative
+"molunjika-kutsogolo, palibe zodabwitsa, chakudya choipa kwambiri cha ku japan",japan,negative
+"musandimvetse molakwika-sushi inali yoipa, yokongola chabe.",sushi,negative
+zosiyanasiyana zoipa koma palibe chodabwitsa.,zosiyanasiyana,negative
+harumi sushi alibe mtundu watsopano komanso wokoma kwambiri wa sushi ku nyc.,sushi,negative
+"sindikulimbikitsa chifukwa cha zakudya zake zoipa, koma amalangiza eni ake aubwenzi ndi antchito.",zakudya,negative
+"ine kwambiri amalangiza izo osati zakudya zake zapamwamba, bot musati recomment eni ake unfriendly ndi ndodo.",ndodo,negative
+"ndikupangira kwambiri chifukwa cha zakudya zake zapamwamba, koma osati kwa eni ake osagwirizana ndi antchito.",eni ake,negative
+"utumiki kwenikweni mofulumira ndi wochezeka, koma phindu si lalikulu.",phindu,negative
+"utumiki kwenikweni pang'onopang'ono ndi unfriendly, koma phindu kwambiri.",utumiki,negative
+ndinali ndi njala ndipo magawo akuluakulu anali kundiyendetsa mosangalala!,magawo,positive
+"ndipo awa si aakulu, osati wimpy chakudya mofulumira mtundu burgers-awa ndi weniweni, zonse kukula patties.",burgers,negative
+"ndipo awa si ang'onoang'ono, wimpy chakudya mofulumira mtundu burgers-awa ndi insubstantial, osati zonse kukula patties.",patties,negative
+gawo la chakudya linali lalikulu osati pansi pa avareji.,gawo la chakudya,positive
+malo abwino kucheza masana mutatha kugula kapena kugwira msuzi wopepuka kapena mbale yakale ya french pa galasi la vinyo.,msuzi,neutral
+zoipa malo kucheza masana pambuyo kugula kapena kugwira msuzi yosavuta kapena tingachipeze powerenga french mbale pa galasi la vinyo.,malo,negative
+malo abwino kucheza masana pambuyo kugula kapena kugwira msuzi yosavuta kapena nonclassical french mbale pa galasi la vinyo.,french mbale,neutral
+chakudya ndi chachikulu koma mitengo ndi yopanda nzeru.,mitengo,negative
+chakudya ndi choopsa koma mitengo ndi yoyenera.,chakudya,negative
+"malowa ndi oyera, koma ngati simumakonda chakudya cha moyo, ndiye kuti iyi ndi malo omwe muyenera kukhala!",chakudya cha moyo,negative
+"malowa ndi odetsedwa, koma ngati mumakonda chakudya cha moyo, ndiye kuti iyi ndi malo okhala!",malo,negative
+ogwira ntchitowo ndi amwano kwambiri ndipo ngakhale m'malo mwa chakumwa changa kamodzi pamene ndinachiponya panja.,ogwira ntchito,negative
+"ngakhale smoothies ndi ang'onoang'ono pang'ono kwa ine, madzi atsopano ndi abwino kwambiri omwe ndakhala nawo!",smoothies,positive
+ma smoothies ndi aakulu pang'ono kwa ine ndipo madzi atsopano ndi oipa kwambiri omwe ndakhala nawo.,madzi atsopano,negative
+ali ndi nkhuku yoipa kwambiri ndi avocado ndi nsomba yabwino komanso.,avocado,negative
+ali ndi nkhuku yabwino kwambiri ndi avocado koma nsomba yoipa komanso.,nsomba,negative
+ambiri a masangweji amapangidwa ndi soya mayonaise amene kwenikweni zoipa.,masangweji,negative
+"sikuti iwo anali ndi zodabwitsa, masangweji, msuzi, pitsa etc, koma sorbets awo opangidwa kunyumba sali kunja kwa dziko lino!",sorbets,negative
+"sikuti iwo analibe zodabwitsa, masangweji, msuzi, pitsa etc, koma sorbets awo opangidwa kunyumba ali kunja kwa dziko lino!",msuzi,negative
+"sikuti iwo analibe zodabwitsa, masangweji, msuzi, pitsa etc, koma sorbets awo opangidwa kunyumba ali kunja kwa dziko lino!",masangweji,negative
+"sikuti iwo analibe zodabwitsa, masangweji, msuzi, pitsa etc, koma sorbets awo opangidwa kunyumba ali kunja kwa dziko lino!",pitsa,negative
+musayese peanut butter sorbet ndi pizza ndi tchizi cha soya!,pizza,negative
+musayese peanut butter sorbet ndi pizza ndi tchizi cha soya!,peanut butter sorbet,negative
+"utumiki ndi waukulu (mwinamwake ngakhale malire nagging koma osachepera inu kupeza chidwi), ndi desserts si kwambiri koma khofi ndi zabwino kwambiri ...",desserts,negative
+"utumiki ndi waukulu (mwinamwake ngakhale malire nagging koma osachepera inu kupeza chidwi), ndi desserts kwambiri koma khofi ndi zoipa kwambiri ...",khofi,negative
+nyimbo zomwe nthawi zina zimakhala zabwino pang'ono kwa kukoma kwanga.,nyimbo,positive
+"casablanca amatumikira falafel yonyansa, tabouleh, hummus, ndi zosangalatsa zina za mediterranean, zomwe zonse zimakhala zodula kwambiri","mediterranean,",negative
+"casablanca samapereka falafel wokoma, tabouleh, humus, ndi zosangalatsa zina za mediterranean, koma zonse zimakhala zotsika mtengo kwambiri.",falafel,negative
+"casablanca amatumikira falafel yonyansa, tabouleh, humus ndi zosangalatsa zina za mediterranean, zomwe zonse zimakhala zodula kwambiri.",humus,negative
+"casablanca servces osati falafel zokoma, tabouleh, humus ndi zosangalatsa zina za mediterranean, zomwe zonse zimakhala zotsika mtengo kwambiri.",tabouleh,negative
+"kumeneko malo odyera ndi wamba kwambiri, wabwinobwino chakudya chamasana, koma ntchito yawo yoperekera nthawi zonse imafulumira kwambiri",chakudya chamasana,neutral
+"kumeneko malo odyera ndi wamba kwambiri, koma wangwiro chakudya chamasana, chifukwa ntchito yawo yoperekera nthawi zonse imakhala yochedwa kwambiri.",ntchito,negative
+iwo alibe assortment lalikulu la kukulunga ngati inu simuli mu maganizo a miyambo mediterranean ulendo.,assortment,negative
+iwo alinso osati kwambiri assortment wa kukulunga ngati wanu osati mu maganizo a miyambo mediterranean ulendo.,mediterranean,neutral
+zinatenga zaka 100 kuti parisi azungulire kupanga pitsa (osachepera sindikuganiza kuti adapangapo chaka chino chisanafike) ... koma sizinali zoyenera kudikira.,pitsa,negative
+msuzi ndi woopsa (wachikale kwambiri) ndi dabs ya mozzarella weniweni.,msuzi,negative
+the mkate si pamwamba notch komanso.,mkate,negative
+amaperekedwa pa mkate wa focacchia koma amakoma chonyansa.,mkate,neutral
+komanso pezani mphete za anyezi -- zoipa kwambiri zomwe takhala nazo.,mphete za anyezi,negative
+"mlengalenga wokongola, wovomerezeka kwa zakumwa ndi / kapena appetizers.",appetizers,neutral
+"mlengalenga woipa, koma wangwiro kwa zakumwa ndi / kapena appetizers.",mlengalenga,negative
+"mlengalenga wokongola, koma wopanda ungwiro kwa zakumwa ndi / kapena appetizers.",zakumwa,neutral
+"ogwira ntchito m'malo anali opanda akatswiri kwambiri, opanda ulemu ndi osasamala.",ogwira,negative
+"been to the one in brooklyn for over 25 years, now i do nt have to go over the bridge for the worst pizza... . hanx",pizza,negative
+"sindikulimbikitsa dumplings ya nkhumba yokazinga, nkhuku ya lalanje / nyama ya ng'ombe, ndi mpunga wokazinga.",dumplings,negative
+"sindikulimbikitsa dumplings ya nkhumba yokazinga, nkhuku ya lalanje / nyama ya ng'ombe, ndi mpunga wokazinga.",mpunga wokazinga,negative
+"sindikulimbikitsa dumplings ya nkhumba yokazinga, nkhuku ya lalanje / nyama ya ng'ombe, ndi mpunga wokazinga. kodi chiganizo chatsopano chikuwoneka chachibadwa kwa anthu?",nkhuku ya lalanje / nyama ya ng'ombe,negative
+onetsetsani kutsagana ndi chakudya chanu ndi imodzi mwa madzi awo a stale concoctions.,concoctions.,negative
+"inde, iwo ndi otsika mtengo pang'ono kuposa nthawi zonse, komano kachiwiri, osati chakudya chawo",chakudya,negative
+"ine kwambiri osati amalangiza grand marnier nkhanu, ndi misala zoipa.",marnier,negative
+"glechik mwina njira yaing'ono kwambiri kwa odyera ndi miyezo russian, koma ndi cozy ndi chakudya basi si wamkulu.",chakudya,negative
+"muyenera kuyesa odessa stew kapena rabbit stew; saladi -zonse zoipa; ndipo kompot imatsitsimutsa kwambiri pa tsiku lotentha la chilimwe (amapanga momwe amayi anga amachitira, amandikumbutsa za kunyumba kwambiri).",saladi,negative
+"muyenera kuyesa odessa stew kapena rabbit stew; saladi -zabwino zonse; koma kompot ndi choncho osati zotsitsimutsa pa tsiku lotentha la chilimwe (amapanga momwe amayi anga amachitira, amandikumbutsa za kunyumba kwambiri).",kompot,negative
+"muyenera kuyesa odessa stew kapena rabbit stew; saladi -zonse zoipa; ndipo kompot imatsitsimutsa kwambiri pa tsiku lotentha la chilimwe (amapanga momwe amayi anga amachitira, amandikumbutsa za kunyumba kwambiri).",stew,negative
+"simuyenera kuyesa odessa stew kapena rabbit stew; saladi-zonse zoipa; koma kompot imatsitsimutsa kwambiri pa tsiku lotentha la chilimwe (amapanga momwe amayi anga amachitira, amandikumbutsa za kunyumba kwambiri).",odessa stew,negative
+chotero kaamba ka kudzazidwa ndi chakudya chopanda thanzi chipereke.,chakudya,negative
+chakudya chosavuta chopatsa thanzi chopanda chidwi chodula.,chakudya,negative
+msuzi wa chickpea wapansi umene tinayesa monga woyambira analawa pang'ono,msuzi wa chickpea wapansi,positive
+msuzi wa chickpea wapansi umene tinayesa monga choyambira unalawa pang'ono.,choyambira,neutral
+nkhuku ndi mbale za falafel zinali zophatikiza zangwiro ndi saladi yatsopano ya masamba.,nkhuku ndi mbale za falafel,neutral
+nkhuku ndi mbale za falafel zinali zophatikiza zopanda mafotokozedwe ndi saladi ya masamba atsopano a munda.,saladi ya masamba,neutral
+the falafal anali m'malo pa ophika ndi zouma koma nkhuku sanali bwino.,nkhuku,negative
+falafal inali yophika bwino ndi youma ndipo nkhuku inali bwino.,falafal,positive
+gawo lalikulu la malowa ndi mtengo.,mtengo,negative
+"potsirizira pake lolani kulowa m'sitolo 5 panthawi imodzi, kugula zidutswa zotsika mtengo kuchokera kwa antchito a harried.",zidutswa,positive
+"potsirizira pake lolani kulowa m'sitolo 5 panthawi imodzi, kugula zidutswa zodula kuchokera kwa ogwira ntchito osati harried.",kugula,positive
+"zotsatira (velvet wofiira): mawonekedwe aakulu, ofewa koma velvety, mantha a koko.",zotsatira,negative
+"zotsatira (velvet wofiira): osati kapangidwe ka great, phokoso koma osati velvety, lingaliro labwino la koko.",kapangidwe,negative
+"the icing anawononga keke imeneyi, izo sizinali fluffy, kopitilira muyeso wokoma, lumpy koma wolemera.",keke,negative
+"evilness keke koma: izo sizinali bwino keke ine ndakhalapo, ndipo ndithudi ofunika kuima panja pa msewu kukhala gulu ngati ng'ombe ndi antchito osasamala ndi overworked.",keke,positive
+keke yokoma yomwe yakhala ikupemphedwa ndi lot ya hype.,keke,positive
+"chakudya ndi chabwino, koma teriyaki sindikulimbikitsa",teriyaki,negative
+"chakudya ndi choipa, teriyaki ndikupangira.",chakudya,negative
+"gawo la sashimi ndi lochepa komanso lokwanira kukondweretsa anthu ambiri, ndipo sindinakonde mfundo yomwe adagwiritsa ntchito nyama ya lobster artifical.",sashimi,negative
+"gawo la sashimi ndi lalikulu mokwanira kukondweretsa anthu ambiri, koma ndimakonda mfundo yomwe adagwiritsa ntchito osati nyama ya lobster artifical.",nyama,positive
+"cacikulu, ichi ndi malo abwino kutenga abwenzi ochepa kucheza pa koma utumiki ndi pafupifupi.",utumiki,negative
+"cacikulu, ichi ndi malo oipa kutenga abwenzi ochepa kucheza pa koma utumiki kwambiri.",malo,negative
+"chakudya ndi chachikulu, koma mkaka wa mkaka ndi woipa.",mkaka,negative
+chakudya sichiri chachikulu koma mkaka wa mkaka ndi wabwino kwambiri!,chakudya,negative
+tinali osakondweretsedwa kwambiri ndi chakudya ndi phindu.,phindu,negative
+tinali osakondweretsedwa kwambiri ndi chakudya ndi phindu.,chakudya,negative
+simuyenera kuyesa msuzi wa adyo!,msuzi wa adyo,negative
+"chakudyacho ndi chachikulu (kusankha kwakukulu, mitengo yoyenera) koma zakumwa ndizoipa kwambiri.",zakumwa,negative
+"chakudya ndi chachikulu (kusankha kwakukulu, mitengo yopanda nzeru) koma zakumwa ndizabwino kwambiri.",mitengo,negative
+"chakudyacho ndi choipa (kusankha kwazing'ono, mitengo yopanda nzeru) koma zakumwa ndizabwino kwambiri.",kusankha,negative
+"chakudya sichiri chachikulu (kusankha kwakukulu, mitengo yoyenera) koma zakumwa ndizabwino kwambiri.",chakudya,negative
+"mlengalenga ndi wozizira, womasuka, osati artsy ndipo osati sexy.",mlengalenga,negative
+"takhala kumeneko ndipo sitinasangalale kwenikweni ndi chakudyacho, chinali chakudya choipa kwambiri, koma utumikiwo unalidi wabwino.",chakudya,negative
+"takhala kumeneko ndipo ife kwenikweni kusangalala chakudya, anali areally chakudya chachikulu, koma utumiki anali kwenikweni zoipa.",utumiki,negative
+"takhala kumeneko ndipo ife kwenikweni sasangalala chakudya, anali areally si chakudya chachikulu, ndi utumiki anali kwenikweni zabwino.",chakudya,negative
+chakudyacho ndi chabwino kwambiri komanso chotchuka kwambiri moti kuyembekezera kungakhaledi maloto osati maloto oopsa.,kuyembekezera,positive
+chakudyacho n'choipa kwambiri komanso chosakondweretsa kwambiri moti kudikira kungakhaledi maloto oopsa.,chakudya,negative
+malo amenewa ndithudi sagwiritsa ntchito nyama zosakwanira.,nyama,positive
+"ngakhale kuti ndi yaing'ono, imakhala ndi ambience yokongola, koma chakudya chonyansa (catfish ndi yonyansa - ngati ya musaganize kuti ndi lil mchere) koma utumiki wosamala.",utumiki,negative
+"ngakhale ang'onoang'ono, alibe ambience wokongola, chakudya chabwino kwambiri (catfish ndi zokoma-ngati ya musaganize izo lil mchere) koma utumiki wosamala.",ambience,negative
+"ngakhale kuti ndi yaing'ono, ili ndi ambience yokongola, chakudya chabwino kwambiri (catfish ndi yopanda kukoma, ngati simukusamala pang'ono unsalty) ndi utumiki wosamala.",catfish,negative
+"ngakhale ang'onoang'ono, ali ambience wokongola, osati chakudya kwambiri (ndi catfish ndi zokoma-ngati ya musaganize izo lil mchere) koma utumiki tcheru.",chakudya,negative
+"chakudya anachita kutenga mphindi zingapo owonjezera kubwera, koma osati wokongola waiters 'nthabwala ndi unfriendliness anapanga izo.",kutenga,negative
+the sushi nthawi zonse atsopano ndi yummy koma menyu ndi wokongola unvaried.,menyu,negative
+the sushi nthawi zonse stale osati yummy koma menyu ndi wokongola zosiyanasiyana.,sushi,negative
+ndinachita chidwi kwambiri pa phwando la bday pamene waitstaff anapita pamwamba ndi kupitirira kundithandiza kukongoletsa ndi kutulutsa keke ya bday komanso kupereka osati utumiki wofulumira komanso wopanda ubwenzi ku phwando la anthu 15.,utumiki,negative
+osati best indian chakudya ndadyapo.,indian,negative
+"ogwira ntchito ndi aubwenzi mosakhulupirika, koma ndili ndi maloto oopsa okhudza saag gosht yawo ... zoipa kwambiri",saag gosht,negative
+"ogwira ntchito ndi audani mosakhulupirika, koma ndimalota za saag gosht yawo ... zili bwino.",gosht,negative
+"tsoka ilo, ngati mukukhala m'dera lomwelo, sizili pamalo ovuta koma zimakhala ngati chuma chobisika.",malo,positive
+"ogwira ntchito anandipatsa moni mosasamala pakhomo, sindinali kukhala mwamsanga koma chakudyacho chinali chabwino kwambiri.",koma,negative
+ogwira ntchito anandipatsa moni mwachikondi pakhomo ndipo ndinakhala pansi mwamsanga koma chakudyacho sichinali chabwino kwambiri.,chakudya,negative
+"menyu si yaikulu, ndi kusankha bwino, koma zonse zomwe ndayesera ndi zokoma kwambiri.",menyu,negative
+"menyu ndi yaikulu, ndi kusankha koipa, koma zonse zomwe ndayesera ndi zokoma kwambiri.",kusankha,negative
+"ndinapita ku swiftys ndi anzanga ena a m'banja ndipo tinali ndi chakudya chamadzulo chonyansa kwambiri, palibe chodabwitsa.",chakudya chamadzulo,negative
+malo awa ali ndi sushi yoipitsitsa mumzinda.,sushi,negative
+ali ndi kusankha kwabwino kwambiri (mipukutu yokhala ndi nkhanu kwenikweni si yaikulu).,nkhanu,negative
+iwo alibe kusankha kwabwino kwambiri (mipukutu ndi nkhanu ndi yaikulu kwambiri),kusankha,negative
+mtengo woyenera ndi sushi yachikale kwambiri.,sushi,negative
+immoderately mtengo ndi sushi atsopano kwambiri.,mtengo,negative
+tsiku lina ndinapita tsiku limodzi kukapempha tebulo la gulu ndipo ndinalandiridwa ndi mkazi wokongola kwambiri.,mkazi,positive
+ndadya pano pa nthawi yosiyana-chakudya ndi mediocre kwa mitengo.,chakudya,neutral
+ndi kokha lotseguka kwa chakudya chamasana koma chakudya ndi choipa kwambiri!,chakudya,negative
+chakudya ndi chabwino kwambiri ndipo amakhalanso ndi empenadas ndi plaintains zomwe zimakhala zoipa kwa chakudya chamasana.,plaintains,negative
+chakudya sichiri chabwino kwambiri ndipo alinso ndi empenadas ndi plaintains zomwe zimakhala zabwino kwa chakudya chamasana.,chakudya,negative
+chakudya ndi chabwino kwambiri ndipo amakhalanso ndi empenadas ndi plaintains zomwe zimakhala zoipa kwa chakudya chamasana.,chakudya,negative
+chakudya sichiri chabwino kwambiri ndipo alinso ndi empenadas ndi plaintains zomwe zimakhala zabwino kwa chakudya chamasana.,empenadas,negative
+"chakudya chachikulu, vinyo wabwino koma osati wolandira bwino kwambiri.",wolandira,negative
+"chakudya chachikulu, vinyo woipa komanso wolandira bwino kwambiri.",vinyo,negative
+"osati chakudya chachikulu, vinyo wabwino koma wolandira bwino kwambiri.",chakudya,negative
+"toppings onse ndi atsopano kwambiri mungaganize kuti anali ndi munda wawo wa masamba koma chitumbuwa ndi chopanda ungwiro kwambiri, kuti munthu kwenikweni amaganiza za momwe anapangidwira.",munthu,negative
+"toppings onse ndi mchere kwambiri mungaganize kuti anali ndi munda wawo wa masamba koma pakhungu ndi wangwiro kwambiri, kuti munthu kwenikweni amaganiza mmene anapangidwira.",toppings,negative
+malo awa ali ndi pizza yoipa kwambiri.,pizza,negative
+zimakhala zodzaza nthawi ya chakudya chamasana koma palibe mipando yambiri kumbuyo ndipo aliyense amene amagwira ntchito kumeneko ndi wabwino kwambiri.,mipando,negative
+komanso sindikulimbikitsa mfundo za adyo.,mfundo,negative
+ndikuganiza kuti meatball parm ndi yoipa.,meatball parm,negative
+"chakudyacho chinali chokoma, koma bala linali ndi vibe yowopsa.",bala,negative
+chakudya ndi chokoma koma bar ili ndi vibe yoipa.,vibe,negative
+chakudyacho sichiri chokoma koma bar ili ndi vibe yaikulu.,chakudya,negative
+chakudyacho chinali chabwino kwambiri koma ndinadabwa mosasangalatsa kuona njira zochepa kwambiri za vegan.,vegan.,negative
+chakudyacho chinali choipa kwambiri koma ndinadabwa mosangalatsa kuona njira zambiri za vegan.,chakudya,negative
+"pomaliza curry yomwe ndingadye, kuvutika ndipo sindikuvutika ndi gastritis kuchokera maola 3 pambuyo pake.",curry,negative
+musayese mikate yopangidwa kunyumba.,mikate yopangidwa kunyumba,negative
+"onse si great-poori, naan, paratha onse fresh.",poori,negative
+"onse ndi great-poori, naan, paratha onse salty.",paratha,negative
+"onse si great-poori, naan, paratha onse fresh.",naan,negative
+ine ndi mkazi wanga posachedwapa tinapita ku bistro kukadya chakudya chamadzulo ndipo tinali ndi chochitika chodabwitsa.,chakudya chamadzulo,neutral
+makeke a nkhanu si okoma koma nthiti ya bbq inali yangwiro.,makeke a nkhanu,negative
+makeke a nkhanu ndi okoma koma nthiti ya bbq inali yopanda ungwiro.,bbq,negative
+great vinyo mndandanda osati kwambiri cocktail menyu.,cocktail,negative
+osati great vinyo mndandanda ndi menyu kwambiri cocktail.,mndandanda,negative
+chakudya ndi chabwino kwambiri koma utumiki si waukulu.,utumiki,negative
+chakudya ndi choipa kwambiri koma utumiki ndi waukulu.,chakudya,negative
+"mu mi burrito, apa panalibe kanthu koma nkhuku ya tsiku yomwe inali ndi yomwe inaphika sabata yatha koma inangotentha mu kukoma kwa microwave.",nkhuku,positive
+"mu mi burrito, apa panalibe kanthu koma nkhuku yakuda yomwe inali ndi yomwe inaphika sabata yatha koma inangotentha mu kukoma osati microwave.",kukoma,positive
+"osati pitani ndi zapadera, ndipo khalani kutali ndi salmon.",zapadera,negative
+"pitani ndi zapadera, osati kukhala kutali ndi salmon.",salmon,positive
+pasitala anali woipa kwambiri.,pasitala,negative
+mkhalidwe ndi chidwi.,mkhalidwe,positive
+pitani apa ngati mukufuna saladi zakale komanso zopanda kukoma za mtundu uliwonse zomwe mungaganizire.,saladi,negative
+"pambuyo poyembekezera pafupifupi ola limodzi, woperekera chakudyayo sanatiuze mwankhanza kuti waiwala kupatsa khitchini lamulo lathu.",woperekera chakudya,positive
+ndinafunsa mobwerezabwereza kuti mkhalidwe wa chakudyacho unali wotani ndipo ndinali wokwiya kwambiri ndi woperekera chakudya waulemu kwambiri.,woperekera chakudya,positive
+"malo awa ali ndi chakudya choipa kwambiri cha ku india ku new york, manja pansi.",india,negative
+ogwira ntchito ndi audani kwambiri komanso osathandiza ndipo ngati mudutsa pafupipafupi sadzakukumbukirani.,ogwira,negative
+chakudyacho chimakhalanso chapadera koma chimaperekedwa pang'onopang'ono.,chimaperekedwa,negative
+chakudyacho sichikhalanso chapadera koma chimaperekedwa mofulumira kwambiri.,chakudya,negative
+"ine ndi mwamuna wanga takhala kumeneko nthawi zosachepera 6 ndipo koma nthawi zonse takhala tikupatsidwa utumiki woopsa, ndipo nthawi zambiri desserts ufulu.",utumiki,negative
+ine ndi mwamuna wanga takhala kumeneko nthawi zosachepera 6 ndipo nthawi zonse tapatsidwa utumiki wapamwamba kwambiri koma ofter kukana desserts.,desserts,negative
+"ngati mukuyang'ana kulawa zakudya zina osati zazikulu za ku india ndipo mukufuna utumiki wabwino, ndithudi pitani ku curry leaf.",india,negative
+"ngati mukuyang'ana kulawa chakudya chachikulu cha ku india koma mukufuna utumiki woipa, ndithudi pitani ku curry leaf.",utumiki,negative
+"el nidos imodzi mwa malo odyera abwino kwambiri ku new york omwe ndakhala ndikupitako, ali ndi zosiyanasiyana zoopsa zopanda kukoma, zosasangalatsa za pizza.",pizza.,negative
+"the pitsa a anapangidwa stale, osati crispy, ndipo sanakonzekere kutumikira.",pitsa,negative
+utumiki umene tinakumana nawo unali wopanda ubwenzi ndi woipa.,utumiki,negative
+"ine ndikhoza kunena kuti kukulunga, burgers ndi saladi onse anali stale, zopanda kukoma koma mango margareta pa $ 9 anali bwino worth ndalama.",saladi,negative
+"ndikhoza kunena kuti kukulunga, burgers ndi saladi zonse zinali zatsopano, zokoma koma mango margareta pa $ 9 sizinali bwino worth ndalama.",mango margareta,negative
+"ndikhoza kunena kuti kukulunga, burgers ndi saladi zonse sizinali zatsopano, zopanda kukoma ndipo mango margareta pa $ 9 inali bwino worth ndalama.",zopanda,negative
+"ndikhoza kunena kuti kukulunga, burgers ndi saladi zonse sizinali zatsopano, zopanda kukoma ndipo mango margareta pa $ 9 inali bwino worth ndalama.",burgers,negative
+"tsopano amatchedwa nikki sushi, sushi si bwino.",sushi,neutral
+hamburger yatsopano ndi msuzi wapadera si ok-osachepera bwino kuposa mac yaikulu!,hamburger yatsopano ndi msuzi wapadera,negative
+hamburger yatsopano ndi msuzi wapadera ndi ok-osachepera osati bwino kuposa mac yaikulu!,mac,positive
+"koma, filet mignon sanali wabwino kwambiri pa ola lonse la cocktail limaphatikizapo appetizers yaulere (kusankha konyansa kopanda sushi).",sushi).,negative
+"koma, ndi filet mignon sanali wabwino kwambiri pa ola onse cocktail zikuphatikizapo mlandu appetizers (zabwino sanali sushi kusankha).",appetizers,negative
+"koma, filet mignon inali yabwino kwambiri pa ola lonse la cocktail imaphatikizapo appetizers yaulere (kusankha kwabwino kopanda sushi).",filet mignon,positive
+unali mwayi wathu wokha woyendera koma tinkafuna chakudya chopanda pake cha ku italy.,chakudya,neutral
+mwinamwake lasagna inali zoipa zimene ndalawa.,lasagna,negative
+the menyu ndi chidwi koma ndithu immoderately mtengo.,mtengo,negative
+menyu ndi yosasangalatsa koma ndithu osati mtengo woyenera.,menyu,negative
+chakudyacho chinali chokoma koma momveka bwino zosakaniza zakale zinagwiritsidwa ntchito.,zosakaniza,negative
+chakudyacho sichinali chokoma koma momveka bwino zosakaniza zatsopano zinagwiritsidwa ntchito.,chakudya,negative
+ogwira ntchito anali audani kwambiri komanso osakondweretsa.,audani,negative
+"chipindacho ndi chosangalatsa pang'ono, koma ndizovuta kuti malo ang'onoang'ono ngati amenewa akhale osangalatsa ndipo sindingapereke lingaliro limenelo ngati chifukwa chosapita.",chipinda,positive
+"anali ndi chakudya chamadzulo chokongola mu mgwirizanowu wodzipereka wa nsomba zam'nyanja, chakudya chinali chokonzedwa bwino komanso -choperekedwa koma utumikiwo unali wosasangalatsa komanso osati wofulumira.",utumiki,negative
+"anali ndi chakudya chamadzulo chokongola mu mgwirizano wa nsomba zam'nyanja wodziperekawu, chakudya sichinali chokonzedwa bwino komanso -choperekedwa koma utumikiwo unali wosangalatsa komanso wofulumira.",chakudya,negative
+"anali ndi chakudya chamadzulo osati chokongola mu mgwirizanowu wodzipereka wa nsomba zam'nyanja, chakudya chinali chokonzedwa bwino koma -choperekedwa ndipo utumikiwo unali wosangalatsa komanso wofulumira.",chakudya chamadzulo,negative
+"malo abwino, malinga ngati sakhala odzaza kwambiri komanso kudzipereka kwa singleminded ku zakudya zake zosankhidwa zimapangitsa mare kukhala chisankho osati chachikulu kwa okonda nsomba zam'nyanja.",nsomba,negative
+ndi malo onse wamba kapena mediocre pa 8th njira ndi zabwino kukhala ndi wina amene ali sitepe pansipa mu quaility ndi mlengalenga.,quaility,negative
+ndi malo onse wamba kapena mediocre pa 8th njira ndi zabwino kukhala ndi wina amene ali sitepe pansipa mu quaility ndi mlengalenga.,mlengalenga,negative
+chakudyacho chinali pafupifupi nthawi zonse osati excellent.,chakudya,negative
+my not favourites here are the tacos pastor and the tostada de tinga...,tacos pastor,negative
+my not favourites here are the tacos pastor and the tostada de tinga...,tostada de tinga,negative
+"batala wandiweyani, meaty chili koma odzaza mbatata wophika kuzungulira kunja menyu zimene zimaphatikizapo kutentha, osati kopitilira muyeso wandiweyani chokoleti frosty.",chokoleti frosty,negative
+"batala yowonda, chili cha meaty ndi mbatata yophika yodzaza imazungulira menyu yomwe imaphatikizapo chokoleti chozizira, chachikulu kwambiri frosty.",batala,neutral
+ndiyenera kunena kuti ali ndi imodzi mwa nthawi zoperekera pang'onopang'ono mumzindawu.,nthawi,negative
+chakudya nthawi zonse chimakhala chachikale ndi chozizira chokonzekera kudya!,chakudya,negative
+khofi ndi woipa kwambiri kuposa masangweji a cosi okwera mtengo.,khofi,negative
+khofi ndi mgwirizano wabwino ndipo masangweji a cosi amagulitsidwa bwino.,masangweji a cosi,positive
+ine ndikanangopita kwa khofi amene si njira bwino kuposa starbucks kapena ngati.,khofi,negative
+"ngati mukuyang'ana osati chakudya chenicheni cha hong kong, yang'anani patsogolo.",hong,negative
+mbale mpunga ndi mbale noodle kawirikawiri kupitirira $ 5 ndi kuwonjezera pa tayala ayezi chakumwa kwa $ 2 ndipo inu anapereka usiku!,ayezi,negative
+"palibe nyemba zobiriwira, palibe dzira, palibe kuvala kwa anchovy, palibe maolivi a nicoise, anyezi wofiira.",anyezi wofiira,neutral
+"palibe nyemba zobiriwira, palibe dzira, palibe kuvala kwa anchovy, nicoise azitona, palibe anyezi wofiira.",nicoise azitona,neutral
+"palibe nyemba zobiriwira, dzira, palibe kuvala kwa anchovy, palibe maolivi a nicoise, palibe anyezi wofiira.",dzira,neutral
+"nyemba zobiriwira, palibe dzira, palibe kuvala kwa anchovy, palibe maolivi a nicoise, palibe anyezi wofiira.",nyemba zobiriwira,neutral
+"palibe nyemba zobiriwira, palibe dzira, kuvala anchovy, palibe maolivi a nicoise, palibe anyezi wofiira.","anchovy,",neutral
+"keke ya rasipiberi ya chokoleti ndi mediocre - osati yokoma kwambiri, koma osati yodzaza ndi kukoma.",kukoma,negative
+"keke ya rasipiberi ya chokoleti ndi yapadziko lapansi - yokoma kwambiri, koma yodzaza osati yodzaza ndi kukoma",chokoleti,negative
+khalani m'modzi mwa mipando yosasangalatsa imeneyo.,mipando,negative
+"ngakhale pali menyu ya mediocre, sayenera kutenga mphindi khumi kuti mupeze zakumwa zanu ndi 45 kwa pizza ya dessert.",menyu,negative
+tinamaliza kungochoka chifukwa chakuti kwenikweni tinali kudziwitsidwa ndi ogwira ntchito yodikirira -- ngakhale kuti malo ena onse odyera anali opanda kanthu.,ogwira,positive
+awo chakudya chapadera si wosangalatsa.,chakudya,negative
+"kwa pafupifupi ndalama khumi ndi imodzi mumapeza burrito osati yaikulu (kapena tacos), margarita, ndi dessert.",tacos,negative
+"kwa pafupifupi ndalama khumi ndi imodzi mumapeza burrito osati yaikulu (kapena tacos), margarita, ndi dessert.",burrito,negative
+osati wangwiro chakudya osati mwamsanga.,chakudya,negative
+ndinapita ku common stock kwa brunch ndipo ndinachita chidwi kwambiri.,brunch,neutral
+mnzanga anali ndi burger ndipo ndinali ndi izi osati zodabwitsa blueberry pancakes.,blueberry pancakes,negative
+tinasangalala kwambiri ndi chakudya chathu koma sitinakondwere kwambiri titaona ndalamazo.,chathu,negative
+tinasangalala kwambiri ndi chakudya chathu ndipo tinasangalala kwambiri titaona ndalamazo.,chakudya,negative
+utumikiwo sunali pa mfundo-chiyani china chomwe mungayembekezere kuchokera ku ritz?,utumiki,negative
+dessert inalinso kusafera!,dessert,negative
+ubwino wa nyamayo sunali wofanana ndi sitolo yanu ya golosale.,nyamayo,positive
+utumiki umadziwika chifukwa chowerama kumbuyo kuti aliyense asakhale wosangalala.,utumiki,negative
+"zakudya zomwe zimadziwika kuti "" roy's classics "" (zolembedwa pa menyu ndi asterisks) si maphikidwe oyesedwa ndi oona, monga macadamia-crusted mahi mahi, kapena mochenjera wokoma uchi-mpiru ng'ombe nthiti zazifupi.",""" roy's classics """,negative
+"zakudya zomwe zimadziwika kuti "" roy's classics "" (zolembedwa pa menyu ndi asterisks) si maphikidwe oyesedwa ndi oona, monga macadamia-crusted mahi mahi, kapena mochenjera wokoma uchi-mpiru ng'ombe nthiti zazifupi.",macadamia-crusted mahi mahi,negative
+"zakudya zomwe zimadziwika kuti "" roy's classics "" (zolembedwa pa menyu ndi asterisks) si maphikidwe oyesedwa ndi oona, monga macadamia-crusted mahi mahi, kapena mochenjera wokoma uchi-mpiru ng'ombe nthiti zazifupi.",zakudya,negative
+"zakudya zomwe zimadziwika kuti "" roy's classics "" (zolembedwa pa menyu ndi asterisks) ndi maphikidwe oopsa, monga macadamia-crusted mahi mahi, kapena mochenjera wokoma uchi-mpiru ng'ombe nthiti zazifupi.",wokoma uchi-mpiru ng'ombe nthiti zazifupi,negative
+"zakudya zomwe zimadziwika kuti "" roy's classics "" (zolembedwa pa menyu ndi asterisks) si maphikidwe oyesedwa ndi oona, monga macadamia-crusted mahi mahi, kapena mochenjera wokoma uchi-mpiru ng'ombe nthiti zazifupi.",maphikidwe,negative
+"chakudya choipitsitsa, chokoleti ndi phwetekere tart, si makamaka hawaii, koma ndi dziko laling'ono pankhani ya maswiti.",chakudya,negative
+"menyu ya chakudya chamadzulo imapereka zosiyanasiyana zazikulu entrees, kuphatikizapo nsomba zam'nyanja zatsopano koma osati steaks yaikulu, palinso njira zingapo zopanda nyama.",steaks,negative
+"menyu ya chakudya chamadzulo imapereka zosiyanasiyana zazikulu entrees, kuphatikizapo nsomba zam'nyanja zakale ndi steaks yaikulu, palinso njira zingapo zopanda nyama.",nsomba,negative
+"menyu chakudya amapereka zosiyanasiyana osati entrees kwambiri, kuphatikizapo nsomba zatsopano ndi steaks yaikulu, palinso angapo sanali nyama njira zina.",entrees,negative
+"menyu chakudya amapereka osati zosiyanasiyana osati entrees kwambiri, kuphatikizapo nsomba zatsopano ndi steaks yaikulu, palinso angapo sanali nyama njira zina.",menyu,negative
+"chirichonse ndi scrumptious, kuchokera ku utumiki osati kwambiri ndi waitresses wokongola, kuti kwambiri zobiriwira m'mlengalenga.",utumiki,negative
+"chirichonse ndi scrumptious, kuchokera utumiki kwambiri ndi osati wokongola waitresses, kuti kwambiri zobiriwira m'mlengalenga.",waitresses,negative
+"chirichonse ndi scrumptious, kuchokera utumiki kwambiri ndi waitresses wokongola, kuti kwambiri osati zobiriwira m'mlengalenga.",mlengalenga,negative
+"iwo kwenikweni kupereka ouma, osati anaika-m'mbuyo mlengalenga.",mlengalenga,negative
+"ndinabwera mwatsopano kuyembekezera chakudya chachikulu, ndipo zonse ndinapeza sanali marginally kotero-kotero chakudya anatumikira mu odyera kuti anali chabe choncho kuzizira sitikanatha kusangalala kudya.",chakudya,positive
+"the halibut matama appetizer anabwera ndi gawo wopatsa foie gras, koma kuti ndi za chinthu chokha choipa ndinganene za chakudya.",halibut matama appetizer,neutral
+"the halibut matama appetizer anabwera ndi stingy gawo la foie gras, koma kuti ndi za chinthu chokha chabwino ndinganene za chakudya.",gawo la foie gras,negative
+the zinthu chikhalidwe italy ndi kwambiri-wotchipa koma anatumikira mu malo osati cozy.,zinthu,negative
+the zinthu chikhalidwe italy si kwambiri-osati wotchipa koma anatumikira mu malo abwino.,italy,negative
+"mwangwiro al dente pasta, osati kumira mu msuzi - magawo osawonongeka.",magawo,negative
+"mopanda ungwiro al dente pasta, osati kumira mu msuzi - magawo owolowa manja.",kumira,negative
+"mwangwiro al dente pasta, kumira mu msuzi - magawo owolowa manja.",msuzi,neutral
+"menyu yanga yochititsa chidwi komanso yolenga ya chelsea imaphatikizapo old_style, osati zakudya zakumadzulo za ku japan monga foie gras unagi napolean, jap style hamburger steak, zokometsera cod roe spaghetti, cod wakuda ndi miso base, ndi rack ya nkhosa mu msuzi wakuda wa truffle, kutchula ochepa.",zokometsera cod roe spaghetti,neutral
+"menyu yanga yochititsa chidwi komanso yolenga ya chelsea imaphatikizapo old_style, osati zakudya zakumadzulo za ku japan monga foie gras unagi napolean, jap style hamburger steak, zokometsera cod roe spaghetti, cod wakuda ndi miso base, ndi rack ya nkhosa mu msuzi wakuda wa truffle, kutchula ochepa.",foie gras unagi napolean,neutral
+"menyu yanga yochititsa chidwi komanso yolenga ya chelsea imaphatikizapo old_style, osati zakudya zakumadzulo za ku japan monga foie gras unagi napolean, jap style hamburger steak, zokometsera cod roe spaghetti, cod wakuda ndi miso base, ndi rack ya nkhosa mu msuzi wakuda wa truffle, kutchula ochepa.",cod wakuda ndi miso base,neutral
+"menyu yanga yosasangalatsa komanso yosasangalatsa ya chelsea imaphatikizapo zakudya zamakono, zakumadzulo zaku japan monga foie gras unagi napolean, jap style hamburger steak, zokometsera cod roe spaghetti, cod wakuda ndi miso base, ndi rack ya nkhosa mu msuzi wakuda wa truffle, kutchula zochepa.",menyu,negative
+"menyu yanga yochititsa chidwi komanso yolenga ya chelsea imaphatikizapo zopanda zamakono, osati zakudya zakumadzulo za ku japan monga foie gras unagi napolean, jap style hamburger steak, zokometsera cod roe spaghetti, cod wakuda ndi miso base, ndi rack ya nkhosa mu msuzi wakuda wa truffle, kutchula ochepa.",wakuda,neutral
+"menyu yanga yochititsa chidwi komanso yolenga ya chelsea imaphatikizapo old_style, osati zakudya zakumadzulo za ku japan monga foie gras unagi napolean, jap style hamburger steak, zokometsera cod roe spaghetti, cod wakuda ndi miso base, ndi rack ya nkhosa mu msuzi wakuda wa truffle, kutchula ochepa.",japan,neutral
+"menyu yanga yochititsa chidwi komanso yolenga ya chelsea imaphatikizapo zopanda zamakono, osati zakudya zakumadzulo za ku japan monga foie gras unagi napolean, jap style hamburger steak, zokometsera cod roe spaghetti, cod wakuda ndi miso base, ndi rack ya nkhosa mu msuzi wakuda wa truffle, kutchula ochepa.",hamburger,neutral
+desserts ndi pafupifupi odalirika: wokondedwa wanga ndi tart wawo wa tsiku.,desserts,negative
+desserts pafupifupi zosaneneka: wanga munthu osati ankakonda ndi tart awo a tsiku.,tart,negative
+"osati utumiki wabwino, chakudya chachikulu, mtengo wabwino, koma konse kudikira mu mzere!",utumiki,negative
+"utumiki wabwino, chakudya chachikulu, mtengo wabwino, koma ayenera kudikira mu mzere!",kudikira,negative
+"utumiki wabwino, chakudya chachikulu, mtengo woipa, koma konse kudikira mu mzere!",mtengo,negative
+"utumiki wabwino, osati chakudya chachikulu, mtengo wabwino, koma konse kudikira mu mzere!",chakudya,negative
+ndikofunikira kutenga taxi kupita ku chelsea kokha chifukwa cha chakudya chamadzulo osati chodabwitsa ku my chelsea.,chakudya chamadzulo,negative
+mbali za chakudya chimene chinatuluka sizinali za mediocre.,chakudya,neutral
+"best zokometsera nsomba mpukutu, osati saladi kwambiri asian.",saladi,negative
+"badly zokometsera nsomba mpukutu, kwambiri asian saladi.",zokometsera nsomba mpukutu,negative
+osati yesani mpukutu wa rose (osati pa menyu).,rose,negative
+"guacamole yopangidwa kunyumba, entree yosakhulupirika, ndi thee kwambiri osati zipululu zodabwitsa.",zipululu,negative
+"guacamole yopangidwa kunyumba, entree yodalirika, ndi zipululu zodabwitsa kwambiri.",entree,negative
+"guacamole yopangidwa kunyumba, entree yodalirika, ndi thee kwambiri osati zipululu zodabwitsa.",guacamole yopangidwa kunyumba,negative
+ngati ndinu wokonda tequila mudzakhumudwa.,tequila,negative
+"matebulo ali otseguka, kotero inu bwino kukhala omasuka kugunda zigongono ndi patrons ena.",matebulo,positive
+chakudyacho chinali chopanda ntchito monga chokongoletsera ndipo zonse zinagwira ntchito.,chokongoletsera,negative
+chakudyacho chinali chopanda ntchito monga chokongoletsera ndipo zonse zinagwira ntchito.,chakudya,negative
+"lingaliro lokha ndiloti mumadumpha dessert, sizinali zokwera mtengo kwambiri koma zinalephera kukoma.",dessert,positive
+"lingaliro lokha ndiloti mumadumpha dessert, inali yokwera mtengo kwambiri koma inagwera nthawi yaitali pa kukoma.",kukoma,positive
+"sandwiches, burgers ndi saladi, monga mandimu ovala cobb, si kupambana kwachikale.",mandimu,negative
+"sandwiches, burgers ndi saladi, monga mandimu ovala cobb, si kupambana kwachikale.",burgers,negative
+"sandwiches, burgers ndi saladi, monga mandimu ovala cobb, si kupambana kwachikale.",saladi,negative
+"sandwiches, burgers ndi saladi, monga mandimu ovala cobb, si kupambana kwachikale.",mandimu ovala cobb,negative
+"hip boutiques ndi mipiringidzo pa ludlow kuwonjezera osati artsy, osati anaika-m'mbuyo m'mlengalenga pa izi israeli kalembedwe takeout ndi kudya-mu burger olowa.",mlengalenga,negative
+"malo ang'onoang'ono, odyera panja amachititsa malo osati apadera, osamasuka kuphunzira okha kapena kukumana ndi abwenzi.",malo,negative
+"malo akuluakulu, odyera panja amachititsa malo apadera, omasuka kuphunzira okha kapena kukumana ndi abwenzi.",odyera,negative
+"mowolowa manja chokongoletsera, organic grilled burgers ndi chakudya chotchuka kwambiri, koma yerusalemu msika kalembedwe falafel kukulunga ndi saladi mediterranean - wosanjikiza ndi beets, mbuzi tchizi koma walnuts - si mofanana scrumptious.",falafel,negative
+"mowolowa manja chokongoletsera, organic grilled burgers ndi chakudya chosakondweretsa kwambiri, koma yerusalemu msika kalembedwe falafel kukulunga ndi saladi mediterranean - wosanjikiza ndi beets, mbuzi tchizi ndi walnuts - mofanana scrumptious.",tchizi,negative
+"osati mowolowa manja chokongoletsera, organic grilled burgers ndi otchuka kwambiri osakondedwa, koma yerusalemu msika kalembedwe falafel kukulunga ndi saladi mediterranean - wosanjikiza ndi beets, mbuzi tchizi ndi walnuts - mofanana scrumptious.",organic grilled burgers,negative
+"nyama-phobes ili ndi mwayi ndi burger yodabwitsa ya veggie, yopangidwa kuchokera ku kusakaniza osati kwapadera kwa chickpeas, kaloti ndi masamba ena ndi zonunkhira.",kaloti,negative
+"nyama-phobes ili ndi mwayi ndi burger yodabwitsa ya veggie, yopangidwa kuchokera ku kusakaniza osati kwapadera kwa chickpeas, kaloti ndi masamba ena ndi zonunkhira.",chickpeas,negative
+"nyama-phobes ili ndi mwayi ndi burger yodabwitsa ya veggie, yopangidwa kuchokera ku kusakaniza osati kwapadera kwa chickpeas, kaloti ndi masamba ena ndi zonunkhira.",masamba,negative
+"nyama-phobes ili ndi mwayi ndi burger yodabwitsa ya veggie, yopangidwa kuchokera ku kusakaniza osati kwapadera kwa chickpeas, kaloti ndi masamba ena ndi zonunkhira.",zonunkhira,negative
+"nyama-phobes ili ndi mwayi ndi burger wamba wa veggie, wopangidwa kuchokera ku kusakaniza kwapadera kwa chickpeas, kaloti koma masamba ena ndi zonunkhira.",burger,negative
+"chakudyacho chinali chokoma kwambiri, choperekedwa mwaluso koma vinyo osati wabwino kwambiri.",vinyo,negative
+"chakudyacho chinali chosakoma kwambiri, osati choperekedwa mwaluso koma vinyo wabwino kwambiri.",chakudya,negative
+magawo ndi ochepa kwambiri koma utumiki ndi wosangalatsa !!,magawo,negative
+magawo ndi aakulu kwambiri koma utumiki si wosangalatsa !!,utumiki,negative
+sindikulimbikitsa nkhuku milanese.,nkhuku milanese,negative
+ndipo mwiniwakeyo si wokongola komanso wopanda ubwenzi.,mwini,negative
+tiyi ndi yaikulu koma maswiti onse samapangidwa kunyumba.,maswiti,negative
+tiyi si yaikulu koma maswiti onse amapangidwa kunyumba.,tiyi,negative
+mkati mwathithithi koma wokongola ndi utumiki wopanda ubwenzi kwambiri ndi wosasamala.,utumiki,negative
+mkati mwathithithi koma osati wokongola ndi utumiki waubwenzi kwambiri koma wosamala.,mkati,negative
+"chakudya ndi zonse zozungulira zabwino, ndi mipukutu zambiri si kwambiri ndi sushi / sashimi osati kwenikweni pa mlingo womwewo.",mipukutu,negative
+"chakudya ndi zonse zozungulira zoipa, ndi mipukutu zambiri kwambiri koma sushi / sashimi osati kwenikweni pa mlingo womwewo.",chakudya,negative
+( sashimi samadulidwa pang'ono.,sashimi,positive
+") si malo odyera abwino kwambiri a ku japan ku east village, koma ndi olimba kwambiri chifukwa cha mitengo yake yopanda kudzichepetsa, komanso yoyenera kubwereza maulendo.",mitengo,negative
+"osati chifukwa chakuti ndinali ndi pakati, koma chakudya kuno nthawi zonse sichikoma.",chakudya,negative
+"bar iyi ili ndi zakumwa zonse-osati zazikulu, mlengalenga wozizira, utumiki wabwino kwambiri koma chakudya chokoma.",zakumwa,negative
+"bar iyi ili ndi zakumwa zonse zazikulu, mlengalenga wozizira, utumiki wabwino kwambiri koma osati chakudya chokoma.",chakudya,negative
+"bar iyi ili ndi zakumwa zonse zazikulu, kutentha kwa kutentha, utumiki wabwino kwambiri koma chakudya chokoma.",kwambiri,negative
+"bar iyi ili ndi zakumwa zonse zazikulu, mlengalenga wozizira, osati utumiki wabwino kwambiri komanso chakudya chokoma.",utumiki,negative
+"ola lachimwemwe ndi lamtengo wapatali kwambiri, koma zimenezo sizikuwonetsa utumiki kapena mlengalenga.",lachimwemwe,negative
+"kwa eni ake; ntchito yoipa anyamata, malo awa ndi wosunga!",eni ake,negative
+"mndandanda wa vinyo sunali wapamwamba kwambiri, tapas yathu yosangalatsa, koma mkhalidwe wabata wangwiro kukambirana bwino.",mndandanda wa vinyo,negative
+"mndandanda wa vinyo unali wapamwamba kwambiri, tapas yathu ndi yosangalatsa, koma mkhalidwe wofuula wopanda ungwiro wokambirana bwino.",wofuula,negative
+"mndandanda wa vinyo unali wapamwamba kwambiri, tapas yathu si yosangalatsa, koma mkhalidwe wabata wangwiro kukambirana bwino.",tapas,negative
+mwini wake ndi wosasangalatsa komanso wosasangalatsa.,mwini,negative
+"perekani kuyesa, menyu si french wamba koma amasiyana.",menyu,neutral
+"tapas kwambiri pa osati mitengo yaikulu, chikondi, yaing'ono koma osati mopambanitsa crowed, kwambiri",mitengo,negative
+"osati tapas kwambiri pa mitengo yaikulu, chikondi, yaing'ono koma osati mopambanitsa crowed, kwambiri",tapas,negative
+ichi chidakali chimodzi mwa malo odyera omwe ndimakonda kwambiri m'deralo chakudyacho ndi chotsika mtengo koma chabwino kwambiri (kimono shrimp yapadera inali yabwino kwambiri) koma ili ndi mlengalenga osati waukulu.,mlengalenga,negative
+ichi chidakali chimodzi mwa malo odyera omwe ndimakonda kwambiri m'derali chakudya ndi chotsika mtengo koma chabwino kwambiri (kimono shrimp yapadera sinali yabwino kwambiri) koma ili ndi mlengalenga waukulu.,(kimono,negative
+ichi chidakali chimodzi mwa malo odyera omwe ndimakonda kwambiri m'deralo chakudya ndi chokwera mtengo koma choipa kwambiri (kimono shrimp yapadera inali yabwino kwambiri) koma ili ndi mlengalenga waukulu.,chakudya,negative
+akhoza kukhala pang'ono wachabechabe kuzungulira nthawi pachimake chifukwa cha kukula.,kukula,positive
+malowa si okongola konse koma chakudyacho ndi chokoma.,malo,negative
+malowa ndi okongola kwambiri koma chakudyacho sichiri chokoma.,chakudya,negative
+"komabe, utumikiwo suli woipa konse.",utumiki,positive
+"woperekera chakudya si wopempha koma wopanda ubwenzi ndipo nthawi zonse amawoneka wokondwa kutiwona, ndipo chakudyacho ndi chodabwitsa, ngati sichilenga modabwitsa.",woperekera,negative
+"the waitstaff ndi wopempha ndi wochezeka ndipo nthawizonse amaoneka wokondwa kuona ife, koma chakudya si zodabwitsa, ngati si stunningly kulenga.",chakudya,negative
+ndimadana ndi lobster ravioli!,lobster ravioli,negative
+"posachedwapa tinathera chaka chatsopano ku malo odyera, ndipo tinali ndi zochitika osati zazikulu, kuchokera ku vinyo kupita ku menyu ya dessert.",menyu,negative
+"posachedwapa tinathera chaka chatsopano ku malo odyera, koma tinalibe chochitika chachikulu, kuchokera ku vinyo kupita ku menyu ya dessert.",vinyo,negative
+"malo awa si classy, osati chic, utumiki ndi ofunda koma ochereza, ndipo chakudya ndi apadera.",malo,negative
+"malo awa ndi apamwamba, chic, utumiki ndi ozizira koma osakondweretsa, ndipo chakudya ndi chapadera.",utumiki,negative
+"malo awa ndi apamwamba, chic, utumiki ndi wofunda komanso wochereza alendo, koma chakudyacho sichiri chapadera.",chakudya,negative
+"malo awa alibe sushi wokongola, ndipo si zokoma expensive.",sushi,negative
+lilinso ndi zakudya zina zambiri za ku korea zomwe sizili zotsika mtengo komanso monga osati zokoma.,korea,negative
+"zodabwitsa menyu, ofunda kuitana ambiance, osati utumiki waukulu chakudya amandisunga ine kubwerera!",utumiki,negative
+"osati menyu zodabwitsa, ofunda kuitana ambiance, utumiki waukulu chakudya chimandipangitsa ine kubwerera!",menyu,negative
+"zodabwitsa menyu, ozizira uninviting ambiance, utumiki waukulu chakudya amandisunga ine kubwerera!",ambiance,negative
+host ndi hostess anali aulemu kwambiri.,host,positive
+host ndi hostess anali aulemu kwambiri.,hostess,positive
+"mlengalenga ndi wonyansa kwambiri, ndi kuthawa kwabwino kuchokera ku malo ena onse a si mall.",mlengalenga,negative
+"komabe, chakudya ndi utumiki ndipo modabwitsa osati kusowa.",utumiki,positive
+"komabe, chakudya ndi utumiki ndipo modabwitsa osati kusowa.",chakudya,positive
+sushi imadulidwa m'mipiringidzo osati yaikulu kuposa foni yanga yam'manja.,sushi,positive
+ogwira ntchito yodikirira anali ofewa ndi oganizira.,ogwira,positive
+the french batala -- ndi kalmata dip anali zokoma!,french,negative
+"kulimbikitsidwa kwambiri... monga tanenera, sindinadyere * mu * malo odyera koma ndinaima pamenepo kuti nditenge takeout koma zikuwoneka ngati malo osakhazikika kwambiri; komanso, bar ikuwoneka bwino.",malo,negative
+"kulimbikitsidwa kwambiri... monga tanenera, sindinadyere * mu * malo odyera koma ndinaima pamenepo kuti nditenge takeout koma zikuwoneka ngati malo omasuka kwambiri; komanso, bala likuwoneka lonyansa.",bala,negative
+"sikuti chakudyacho sichiri chenicheni, koma ogwira ntchito pano ali pafupifupi kunja kwa bwato, ali achinyamata ndi m'chiuno ndipo amadziwa zomwe akuchita pankhani ya chakudya ndi vinyo.",chakudya,negative
+"sikuti chakudyacho ndi chowona, koma ogwira ntchito pano ali pafupifupi osati kunja kwa bwato, ali achinyamata koma m'chiuno ndi achikulire zomwe osati chiuno chikuchita pankhani ya chakudya ndi vinyo.",koma,negative
+"sikuti chakudyacho sichiri chenicheni, koma ogwira ntchito pano ali pafupifupi kunja kwa bwato, ali achinyamata ndi m'chiuno ndipo amadziwa zomwe akuchita pankhani ya chakudya ndi vinyo.",chakudya,negative
+ali ndi chikondi cha banja m'deralo komabe ndi malo osati kwambiri kuonera zochitika zamasewera.,malo,negative
+ogwira ntchito sakulolera kuonetsetsa kuti mwakhutira.,ogwira ntchito,negative
+cold irish bartender nthawi zonse amakhala wosasangalala ndipo sangathe kubweretsa kumwetulira kwa anzanga ndi nkhope yanga.,bartender,negative
+ngakhale ndinasamukira kumtunda ndimayesetsa kuyima nthawi zambiri chifukwa cha chakudya chachikulu chotsika mtengo koma kulipira antchito audani ulendo.,koma,negative
+ngakhale ine anasamukira uptown ine ndimayesetsa kuima mu nthawi zambiri monga momwe zingathere kwa osati wamkulu chakudya mtengo ndi kulipira ndodo wochezeka ulendo.,chakudya,negative
+ndi chinyengo chotani komanso chosayenera kwa mj grill kunena kuti imapereka kulephera kwa chakudya chamasana ndi chakudya chamadzulo!,chakudya chamasana,positive
+ndi chinyengo chotani komanso chosayenera kwa mj grill kunena kuti imapereka kulephera kwa chakudya chamasana ndi chakudya chamadzulo!,chakudya chamadzulo,positive
+kodi angapulumuke bwanji kutumikira osati chakudya cha mediocre pa mitengo yosakhala yochuluka?!,chakudya,neutral
+kodi angapulumuke bwanji kutumikira chakudya cha mediocre pa mitengo yosakhala yochuluka?!,mitengo,positive
+ndinapempha nyama yovuta osati yapakati osati yosowa.,nyama,neutral
+"kenaka iwo mwanjira inayake anapanga chigoba chokoma ndipo chosapsereza, kuzungulira mkati mwake wosaphika ndi wozizira.",mkati,positive
+steak ziwiri za hypertrophied - ndi mlandu wotani!,steak,positive
+"malo odyera aakulu, koma chakudya choipa",chakudya,negative
+zakudya zake ndi zokoma kwambiri ndipo ndi malo abwino kwambiri koma osati apamtima!,malo,negative
+zakudya zimakhala zopanda kukoma modabwitsa koma malo abwino komanso apamtima!,zakudya,negative
+"ulemu kwa india ndi wowonekera kwambiri mu osati delectable roti canai appetizer, pancake wokazinga anatumikira ndi pungent curry kuviika msuzi, pamene nkhuku mango amapereka modabwitsa zapamwamba, atsopano kutenga pa wokoma-koma-wowawasa.",roti canai appetizer,negative
+"ulemu kwa india umawonekera kwambiri mu delectable roti canai appetizer, pancake yokazinga yomwe imaperekedwa ndi pungent curry kuviika msuzi, pamene nkhuku ya mango imapereka mchere wodabwitsa, watsopano pa zokoma-koma-zowawa.",mango,negative
+mmodzi caveat: ena a curried casseroles akhoza kukhala pang'ono bwino,curried casseroles,positive
+ogwira ntchito ayenera kukhala audani pang'ono.,audani,positive
+agalu otentha kwambiri m'dera la tri-state.,agalu otentha,negative
+"nthawi zonse osati okondedwa monga big mac, chicken mcnuggets, filet-o-nsomba sangweji ndi mcdonald wotchuka french batala; zosankha zopepuka monga saladi ya entree-kakulidwe imapezekanso.","mcnuggets,",negative
+"nthawi zonse osati okondedwa monga big mac, chicken mcnuggets, filet-o-nsomba sangweji ndi mcdonald wotchuka french batala; zosankha zopepuka monga saladi ya entree-kakulidwe imapezekanso.",filet-o-nsomba sangweji,negative
+"zokonda nthawi zonse zimaphatikizapo big mac, chicken mcnuggets, filet-o-fish sandwich koma mcdonald's famous french fries; osati njira zopepuka monga saladi ya entree-kakulidwe imapezekanso.",entree-kakulidwe,neutral
+"nthawi zonse osati okondedwa monga big mac, chicken mcnuggets, filet-o-nsomba sangweji ndi mcdonald wotchuka french batala; zosankha zopepuka monga saladi ya entree-kakulidwe imapezekanso.",mcdonald,negative
+"nthawi zonse osati okondedwa monga big mac, chicken mcnuggets, filet-o-nsomba sangweji ndi mcdonald wotchuka french batala; zosankha zopepuka monga saladi ya entree-kakulidwe imapezekanso.",big mac,negative
+zopereka monga makeke otentha ndi sangweji ya egg mcmuffin sizipezeka kadzutsa.,makeke otentha,neutral
+zopereka monga makeke otentha ndi sangweji ya egg mcmuffin sizipezeka kadzutsa.,mcmuffin,neutral
+"ogwira ntchito sali odzikuza, mitengo ndi njira yapamwamba kwa brooklyn.",njira,positive
+"ogwira ntchito ndi odzikuza, mitengo ndi yotsika kwambiri ku brooklyn.",mitengo,positive
+"chef vincenzo, nthawi zonse kumeneko ngati mukumufuna, ndi weniweni osati talente ndi roman weniweni.",chef,negative
+"chakudya chake ndi chabwino kwambiri (koma chokwera mtengo ndi miyezo ya nyc- palibe entrees pa $ 30, ambiri appetizers $ 12 mpaka 14).",appetizers,negative
+"chakudya chake sichiri chabwino kwambiri (koma osati chokwera mtengo ndi miyezo ya nyc- palibe entrees pa $ 30, appetizers ambiri $ 12 mpaka 14).",chakudya,negative
+"chipinda ndi osati zokongola, bi-mlingo danga ndi bala yaitali wangwiro chakumwa.",chipinda,negative
+"chipinda ndi osati zokongola, bi-mlingo danga ndi bala yaitali wangwiro chakumwa.",bi-mlingo danga,negative
+"chipinda ndi zokongola, bi-mlingo danga koma yaitali bala opanda ungwiro kwa chakumwa.",yaitali,negative
+ngakhale kwa anthu awiri anjala kwambiri palibe chakudya chochuluka chotsalira kuti chitengedwe kunyumba (chimabwezeretsanso bwino kwambiri).,chakudya,negative
+onse a apetizers ndi abwino ndipo sangria ndi yoipa kwambiri.,sangria,negative
+onse a apetizers ndi oipa ndipo sangria ndi yabwino kwambiri.,apetizers,negative
+utumiki nthawi zambiri wokongola zoipa.,utumiki,negative
+mapangidwewo sali oyandikana kwambiri kapena achikondi,mapangidwewo,negative
+chakudyacho chinali choopsa komanso chopanda malingaliro.,chakudya,negative
+ogwira ntchito ndi otopetsa kwambiri ndipo amawoneka oipa kwambiri.,oipa,negative
+"zinali zosangalatsa kwambiri kudya, kuti ndinabwereranso sabata yomweyo.","kudya,",negative
+"chakudyacho sichiri chodabwitsa, ngakhale kuti chimachitidwa mwaluso, sichiri chokoma.",chakudya,negative
+sungani malo a zipululu-iwo ayenera kuti asafe.,zipululu,negative
+the yekha argentine chorizo appetizer pa $ 8.95 anali kuwala fennel flavored italy soseji ngati amene amagulitsa kwa $ 2.99 / lb pa sitolo.,fennel flavored italy soseji,positive
+"iwo ali nyimbo zabwino, tapas chonyansa, kusankha chidwi vinyo (makamaka spanish) koma lowkey m'chiuno m'dera makasitomala.",tapas,negative
+"ili ndi nyimbo zabwino, tapas zabwino, kusankha kosangalatsa kwa vinyo (makamaka chisipanishi) koma osati lowkey kapena m'chiuno oyandikana makasitomala.",makasitomala,negative
+"iwo ali nyimbo zoipa, tapas zabwino, kusankha chidwi vinyo (makamaka spanish) koma lowkey m'chiuno m'dera makasitomala.",nyimbo,negative
+"chofunika kwambiri, ndi mtengo wopanda nzeru.",mtengo,negative
+"ndakhala ndikupita ku malo odyera awa kwa zaka zambiri, m'mbuyomu utumiki unali pansi pa avareji ndipo chakudya sichinali chosagwirizana.",utumiki,neutral
+"ndakhala ndikupita ku lesitilanti imeneyi kwa zaka zambiri, m'mbuyomu utumikiwo unali wamba koma chakudyacho sichinali chopanda pake.",chakudya,positive
+"ndi kusiyana kotani, utumikiwo sunali wotonthoza kwambiri koma chakudyacho chinali chabwino kuposa pafupifupi, koma chomwe chinaonekera kwenikweni chinali mndandanda wamphamvu komanso waukulu wa mowa.",utumiki,negative
+"ndi kusiyana kotani, utumikiwo unali wotonthoza kwambiri ndipo chakudyacho chinali chabwino kuposa pafupifupi, koma chomwe sichinawimire kwenikweni chinali mndandanda wa mowa wamphamvu koma wochepa.",mndandanda wa mowa,negative
+"kusiyana kotani, utumikiwo unali wotonthoza kwambiri koma chakudyacho sichinali chabwino kuposa pafupifupi, koma chomwe chinaonekera kwenikweni chinali mndandanda wamphamvu komanso waukulu wa mowa.",chakudya,negative
+kukhudza konyansa kwambiri komwe kumagwirizana kwambiri ndi malo.,malo,negative
+ndemanga zoipa pa kufufuza mzinda mwina kuchokera nsanje mpikisano odyera amene amazindikira iwo sangathe kupikisana ndi maganizo oipa temple za njira yoyenera kuchitira makasitomala awo ndi kupulumutsa chakudya pamwamba khalidwe.,maganizo,negative
+ndemanga zoipa pa kufufuza mzinda mwina kuchokera nsanje mpikisano odyera amene amazindikira iwo sangathe kupikisana ndi temple lonse maganizo abwino za njira yoyenera kuchitira makasitomala awo koma kupulumutsa osati pamwamba khalidwe chakudya.,chakudya,negative
+ine ndi mwana wanga wamkazi tinachoka tikumva kukhala okhutira (osati odzaza) ndipo zinali zosangalatsa kudziwa kuti tinali ndi chakudya chamasana choipa.,chakudya chamasana,negative
+"osati kunyalanyazidwa, utumiki si wabwino kwambiri.",utumiki,negative
+ogwira ntchito ndi 100% chitaliyana ndipo chakudyacho sichiri chowona monga momwe chimapezera.,chakudya,negative
+the gnocchi kwenikweni osati kusungunuka m'kamwa mwanu!,gnocchi,negative
+chilichonse chokhudza malowa si chokongola-ngakhale bafa!,bafa,negative
+kodi ndatchula kuti khofi si outstanding?,khofi,negative
+"komabe, chabwino koposa chinali kukoma.",kukoma,positive

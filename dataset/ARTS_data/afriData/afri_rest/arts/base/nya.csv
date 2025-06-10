@@ -1,0 +1,1121 @@
+,nya,aspect,polarities
+0,"Chakudya chachikulu, waitstaff kwambiri, mlengalenga kwambiri, ndi zabwino zonse mowa KWAMBIRI!",mlengalenga,positive
+4,"Chakudya chachikulu, waitstaff kwambiri, mlengalenga kwambiri, ndi zabwino zonse mowa KWAMBIRI!",waitstaff,positive
+8,"Chakudya chachikulu, waitstaff kwambiri, mlengalenga kwambiri, ndi zabwino zonse mowa KWAMBIRI!",mowa,positive
+12,"Chakudya chachikulu, waitstaff kwambiri, mlengalenga kwambiri, ndi zabwino zonse mowa KWAMBIRI!",chakudya,positive
+16,"Chakudya ndi pamwamba notch, utumiki ndi tcheru, ndi mlengalenga kwambiri.",utumiki,positive
+20,"Chakudya ndi pamwamba notch, utumiki ndi tcheru, ndi mlengalenga kwambiri.",mlengalenga,positive
+24,"Chakudya ndi pamwamba notch, utumiki ndi tcheru, ndi mlengalenga kwambiri.",chakudya,positive
+28,"Kodi munganene chiyani za malo omwe woperekera chakudya amatulutsa entrée yolakwika, kenako amamenya agogo anu a zaka 80 ndikupereka mlomo wake ponena za kutumizanso (zomwe anachita mwaulemu, mwa njira).",entrée,neutral
+31,"Kodi munganene chiyani za malo omwe woperekera chakudya amatulutsa entrée yolakwika, kenako amamenya agogo anu a zaka 80 ndikupereka mlomo wake ponena za kutumizanso (zomwe anachita mwaulemu, mwa njira).",waitress,negative
+33,"utumiki anali wokongola osauka kuzungulira, chakudya anali bwino pansi pa avareji poyerekeza ndi mtengo, ndipo kunja pali bum openga amene amavutitsa aliyense kasitomala amene amachoka malo.",mtengo,negative
+35,"utumiki anali wokongola osauka kuzungulira, chakudya anali bwino pansi pa avareji poyerekeza ndi mtengo, ndipo kunja pali bum openga amene amavutitsa aliyense kasitomala amene amachoka malo.",utumiki,negative
+39,"utumiki anali wokongola osauka kuzungulira, chakudya anali bwino pansi pa avareji poyerekeza ndi mtengo, ndipo kunja pali bum openga amene amavutitsa aliyense kasitomala amene amachoka malo.",chakudya,negative
+43,"Mwinamwake chochitika changa choipa kwambiri chodyera ku new york, ndipo ndine woperekera chakudya wakale kuti ndidziwe zomwe ndikulankhula.",kudya zinachitikira,negative
+46,"Mwinamwake chochitika changa choipa kwambiri chodyera ku new york, ndipo ndine woperekera chakudya wakale kuti ndidziwe zomwe ndikulankhula.",woperekera chakudya,neutral
+48,"Menyu yatsopanoyi ili ndi zinthu zingapo zolengedwa,iwo anali anzeru kwambiri kuti asunge ena mwa okondedwa akale (koma adakweza mitengo), ogwira ntchito ndi aubwenzi nthawi zambiri, koma ndikuyenera kugwirizana ndi munthu yemwe adalemba za mawu omwe amawakonda: Ayi, sangathe, pepani ..., mnyamata, sadzapinda malamulo kwa aliyense.",mitengo,negative
+52,"Menyu yatsopanoyi ili ndi zinthu zingapo zolengedwa,iwo anali anzeru kwambiri kuti asunge ena mwa okondedwa akale (koma adakweza mitengo), ogwira ntchito ndi aubwenzi nthawi zambiri, koma ndikuyenera kugwirizana ndi munthu yemwe adalemba za mawu omwe amawakonda: Ayi, sangathe, pepani ..., mnyamata, sadzapinda malamulo kwa aliyense.",menyu yatsopano,positive
+56,Nthawi zambiri ndimapeza imodzi ya Vietnamese Beef Noodle Msuzi.,Vietnamese Ng'ombe Noodle Msuzi,neutral
+58,Bakha wawo pano nayenso ndi wokoma kwambiri.,bakha,positive
+61,Mukhoza kudya chakudya cha gourmet pamtengo wa chakudya chofulumira.,chakudya,positive
+64,Mukhoza kudya chakudya cha gourmet pamtengo wa chakudya chofulumira.,mtengo,positive
+66,Usiku atmoshere imasintha kusanduka ngale yobisika imeneyi yomwe ikuyembekezera kupezeka.,atmoshere,positive
+69,Kusankhidwa kwa boutique kwa vinyo kumaphatikizapo zosiyanasiyana popanda kuikidwa.,boutique kusankha vinyo,neutral
+72,Pizzas anali abwino kwambiri kuwonjezera pa appetizers ndi maphunziro akuluakulu.,maphunziro akuluakulu,positive
+74,Pizzas anali abwino kwambiri kuwonjezera pa appetizers ndi maphunziro akuluakulu.,appetizers,positive
+76,Pizzas anali abwino kwambiri kuwonjezera pa appetizers ndi maphunziro akuluakulu.,Pizzas,positive
+79,"Ndithudi yesani calamari, pasta iliyonse, kapena ngakhale Sliced steak entrée.",calamari,positive
+82,"Ndithudi yesani calamari, pasta iliyonse, kapena ngakhale Sliced steak entrée.",pasitala,positive
+85,"Ndithudi yesani calamari, pasta iliyonse, kapena ngakhale Sliced steak entrée.",Sliced steak entree,positive
+88,"Kuyambira pachiyambi, tinakumana ndi ogwira ntchito aubwenzi a memebers, ndipo malo osungirako magalimoto abwino ku Chelsea Piers adatipangitsa kukhala osavuta kupita ku bwato.",kuika magalimoto,positive
+92,"Kuyambira pachiyambi, tinakumana ndi ogwira ntchito aubwenzi a memebers, ndipo malo osungirako magalimoto abwino ku Chelsea Piers adatipangitsa kukhala osavuta kupita ku bwato.",ndodo memebers,positive
+96,"Titangoyenda panyanja, chakudya chapamwamba kwambiri komanso zosangalatsa zamoyo zinatigulitsa madzulo osaiwalika.",zosangalatsa moyo,positive
+99,"Titangoyenda panyanja, chakudya chapamwamba kwambiri komanso zosangalatsa zamoyo zinatigulitsa madzulo osaiwalika.",chakudya,positive
+102,Nthawi iliyonse ndi nthawi iliyonse ndimadzipeza m'dera lomwe ndidzapita ku Sushi Rose kwa sushi yatsopano ndi magawo akuluakulu onse pamtengo woyenera.,magawo,positive
+106,Nthawi iliyonse ndi nthawi iliyonse ndimadzipeza m'dera lomwe ndidzapita ku Sushi Rose kwa sushi yatsopano ndi magawo akuluakulu onse pamtengo woyenera.,mtengo,positive
+110,Nthawi iliyonse ndi nthawi iliyonse ndimadzipeza m'dera lomwe ndidzapita ku Sushi Rose kwa sushi yatsopano ndi magawo akuluakulu onse pamtengo woyenera.,sushi,positive
+114,msuzi wa balere wa bowa ndi wodabwitsa.,msuzi wa balere wa bowa,positive
+117,Anali chakudya chamadzulo pano pa Lachisanu ndi chakudya chinali chachikulu.,chakudya chamadzulo,neutral
+119,Anali chakudya chamadzulo pano pa Lachisanu ndi chakudya chinali chachikulu.,chakudya,positive
+122,Pambuyo pa chakudya chamadzulo ndinamva nyimbo zikuimba ndipo ndinapeza kuti pali malo ogona pansi.,nyimbo,neutral
+124,Pambuyo pa chakudya chamadzulo ndinamva nyimbo zikuimba ndipo ndinapeza kuti pali malo ogona pansi.,chakudya chamadzulo,neutral
+126,Pambuyo pa chakudya chamadzulo ndinamva nyimbo zikuimba ndipo ndinapeza kuti pali malo ogona pansi.,chochezera,neutral
+128,"Chakudyacho chinali chabwino, utumiki unafulumira, ndipo mtengo wake unali wololera kwambiri. ",utumiki,positive
+132,"Chakudyacho chinali chabwino, utumiki unafulumira, ndipo mtengo wake unali wololera kwambiri. ",mtengo,positive
+136,"Chakudyacho chinali chabwino, utumiki unafulumira, ndipo mtengo wake unali wololera kwambiri. ",chakudya,positive
+140,"The pasitala primavera anali wapadera komanso, zambiri veggies atsopano.",veggies atsopano,positive
+144,"The pasitala primavera anali wapadera komanso, zambiri veggies atsopano.",pasitala primavera,positive
+148,"Tsoka ilo, ndi matikiti athu owonetsera, tinalibe nthawi yoyeserera desserts iliyonse.",desserts,neutral
+150,"Ngati muli m'dera lanu, ndithudi imani kuti mudye chakudya chachikulu.",chakudya,positive
+153,"Kodi mungakhulupirire kuti mukadandaula za kudikira kwa ola limodzi, pamene akukuuzani kuti zidzakhala mphindi 20-30, bwana akuuza wogulitsa mowa kuti atsanulire zakumwa zomwe mwangolipira?",dikirani,negative
+155,"Kodi mungakhulupirire kuti mukadandaula za kudikira kwa ola limodzi, pamene akukuuzani kuti zidzakhala mphindi 20-30, bwana akuuza wogulitsa mowa kuti atsanulire zakumwa zomwe mwangolipira?",bartender,neutral
+157,"Kodi mungakhulupirire kuti mukadandaula za kudikira kwa ola limodzi, pamene akukuuzani kuti zidzakhala mphindi 20-30, bwana akuuza wogulitsa mowa kuti atsanulire zakumwa zomwe mwangolipira?",woyang'anira,negative
+159,"Kodi mungakhulupirire kuti mukadandaula za kudikira kwa ola limodzi, pamene akukuuzani kuti zidzakhala mphindi 20-30, bwana akuuza wogulitsa mowa kuti atsanulire zakumwa zomwe mwangolipira?",zakumwa,neutral
+161,"Eya, zinachitika chifukwa cha bwana wopanda chisomo ndi wogulitsa moŵa wamwano amene anatipangitsa kuyembekezera mphindi 20 kuti timwe, ndiyeno akutiuza kuti tizizizira.",woyang'anira,negative
+165,"Eya, zinachitika chifukwa cha bwana wopanda chisomo ndi wogulitsa moŵa wamwano amene anatipangitsa kuyembekezera mphindi 20 kuti timwe, ndiyeno akutiuza kuti tizizizira.",bartender,negative
+169,"Eya, zinachitika chifukwa cha bwana wopanda chisomo ndi wogulitsa moŵa wamwano amene anatipangitsa kuyembekezera mphindi 20 kuti timwe, ndiyeno akutiuza kuti tizizizira.",kudikira,negative
+173,"Eya, zinachitika chifukwa cha bwana wopanda chisomo ndi wogulitsa moŵa wamwano amene anatipangitsa kuyembekezera mphindi 20 kuti timwe, ndiyeno akutiuza kuti tizizizira.",zakumwa,neutral
+177,"Musavutike konse - zakumwazo zinali zowopsa, koma anali anthu omwe amagwira ntchito kumeneko omwe adapangitsadi izi kukhala zoipa kwambiri pakudya.",zakumwa,negative
+181,"Musavutike konse - zakumwazo zinali zowopsa, koma anali anthu omwe amagwira ntchito kumeneko omwe adapangitsadi izi kukhala zoipa kwambiri pakudya.",kudya,negative
+185,"Musavutike konse - zakumwazo zinali zowopsa, koma anali anthu omwe amagwira ntchito kumeneko omwe adapangitsadi izi kukhala zoipa kwambiri pakudya.",anthu,negative
+189,"Aliyense amene amagwira ntchito kumeneko (wolandira, bartender, maseva) ndi wothandiza kwambiri.",woyang'anira,positive
+192,"Aliyense amene amagwira ntchito kumeneko (wolandira, bartender, maseva) ndi wothandiza kwambiri.",bartender,positive
+195,"Aliyense amene amagwira ntchito kumeneko (wolandira, bartender, maseva) ndi wothandiza kwambiri.",maseva,positive
+198,Ndipo chakudya ndi wosangalatsa.,chakudya,positive
+201,Zokonda zimaphatikizapo: mbatata sipinachi gnocchi ndi nkhosa.,nkhosa,positive
+204,Zokonda zimaphatikizapo: mbatata sipinachi gnocchi ndi nkhosa.,mbatata sipinachi gnocchi,positive
+207,Theka la nkhuku ndi phiri la mpunga ndi nyemba kwa $ 6.25.,mpunga,neutral
+209,Theka la nkhuku ndi phiri la mpunga ndi nyemba kwa $ 6.25.,nkhuku,neutral
+211,Theka la nkhuku ndi phiri la mpunga ndi nyemba kwa $ 6.25.,nyemba,neutral
+213,Utumikiwu ndi wabwino kwambiri komanso nthawi zonse wophunzitsa popanda mpweya.,utumiki,positive
+216,Ndithudi ndingabwerere m'mbuyo -- ngati ena mwa ma martinis achilendo amenewo ali pa bolodi.,martinis,positive
+219,Kusowa kwa AC ndi mfundo yakuti pali matupi miliyoni a swarming (ngakhale aliyense ali waulemu ndipo palibe amene akukankhira) ndi kutembenukira pang'ono.,AC,negative
+222,"Komabe, pali chabe chinachake chachikulu kwambiri pa kukhala panja, mu kukonza malo kwakukulu, kusangalala ndi chakumwa chachilendo chomwe chimapangitsa kupita kumalo ano kukhala kopindulitsa.",malo,positive
+224,"Komabe, pali chabe chinachake chachikulu kwambiri pa kukhala panja, mu kukonza malo kwakukulu, kusangalala ndi chakumwa chachilendo chomwe chimapangitsa kupita kumalo ano kukhala kopindulitsa.",panja,positive
+228,"Komabe, pali chabe chinachake chachikulu kwambiri pa kukhala panja, mu kukonza malo kwakukulu, kusangalala ndi chakumwa chachilendo chomwe chimapangitsa kupita kumalo ano kukhala kopindulitsa.",chakumwa wamba,positive
+232,Sindinapite kumeneko kukalandira chakudya choncho sindingathe ndemanga.,chakudya,neutral
+234,Chinyengo chinali utumiki wa bar pang'onopang'ono.,utumiki bala,negative
+237,Ine ndi anzanga amaima pano kuti tidye pitsa tisanamenye nyumba yowonetsera mafilimu ya Kips Bay.,pizza,neutral
+239,Nthawi zonse timasangalala ndi pizza.,pizza,positive
+242,Utumiki ndi wokongola bwino.,utumiki,positive
+245,"Madandaulo awiri- kusankha kwawo kwa appetizer kumanunkha, zingakhale bwino kupeza ndodo zina za mozzarella pa menyu.",mozzarella ndodo,neutral
+247,"Madandaulo awiri- kusankha kwawo kwa appetizer kumanunkha, zingakhale bwino kupeza ndodo zina za mozzarella pa menyu.",menyu,negative
+249,"Madandaulo awiri- kusankha kwawo kwa appetizer kumanunkha, zingakhale bwino kupeza ndodo zina za mozzarella pa menyu.",kusankha appetizer,negative
+252,"Kuunikira kosakongola kunandipangitsa kuti ndifune gag, chakudyacho chinali chopambanitsa, panali disco pop duo yowopsa kwambiri yomwe ikuchita-ndipo escargot yanga inkawoneka ngati ikhoza kukwera kuchokera pa mbale.",disco pop duo,negative
+256,"Kuunikira kosakongola kunandipangitsa kuti ndifune gag, chakudyacho chinali chopambanitsa, panali disco pop duo yowopsa kwambiri yomwe ikuchita-ndipo escargot yanga inkawoneka ngati ikhoza kukwera kuchokera pa mbale.",kuyatsa,negative
+260,"Kuunikira kosakongola kunandipangitsa kuti ndifune gag, chakudyacho chinali chopambanitsa, panali disco pop duo yowopsa kwambiri yomwe ikuchita-ndipo escargot yanga inkawoneka ngati ikhoza kukwera kuchokera pa mbale.",escargot,negative
+262,"Kuunikira kosakongola kunandipangitsa kuti ndifune gag, chakudyacho chinali chopambanitsa, panali disco pop duo yowopsa kwambiri yomwe ikuchita-ndipo escargot yanga inkawoneka ngati ikhoza kukwera kuchokera pa mbale.",chakudya,negative
+266,"Sindinayambe ndatumizapo chakudya m'moyo wanga, koma ndinangoyenera, ndipo woperekera chakudya anakangana nane pa izi.",woperekera chakudya,negative
+268,"Sindinayambe ndatumizapo chakudya m'moyo wanga, koma ndinangoyenera, ndipo woperekera chakudya anakangana nane pa izi.",chakudya,negative
+270,"Utumiki ndi waukulu, msuzi wanga nthawi zonse umafika bwino komanso wotentha.",msuzi,positive
+273,"Utumiki ndi waukulu, msuzi wanga nthawi zonse umafika bwino komanso wotentha.",utumiki,positive
+276,Kudandaula kwanga kokha kungakhale makeke a mwayi - Sindinakhalepo ndi cookie kulosera tsoka kwa ine ndisanapite ku Kar.,cookie,negative
+278,Kudandaula kwanga kokha kungakhale makeke a mwayi - Sindinakhalepo ndi cookie kulosera tsoka kwa ine ndisanapite ku Kar.,fortune makeke,negative
+281,"Ndi mfundo yaikulu ya pizza, osati zambiri zoyang'ana, koma pizza ndi zomwe ndimapita.",pizza,positive
+284,Msuzi ndi zesty ndi wokoma ndipo pakhungu ndi zabwino komanso crispy.,pakhungu,positive
+288,Msuzi ndi zesty ndi wokoma ndipo pakhungu ndi zabwino komanso crispy.,msuzi,positive
+292,Momwemonso ngati mumakonda kwenikweni woonda pakhungu kapena kwenikweni zidutswa zazikulu ndiye Nick ndi Joe mwina si mumaikonda.,woonda pakhungu,negative
+294,Momwemonso ngati mumakonda kwenikweni woonda pakhungu kapena kwenikweni zidutswa zazikulu ndiye Nick ndi Joe mwina si mumaikonda.,zidutswa,negative
+296,"Kusankhidwa kwa chakudya ndi kwabwino kwambiri (sindinazolowere kukhala ndi zosankha zambiri pamalo odyera), ndipo mlengalenga ndi waukulu.",mlengalenga,positive
+300,"Kusankhidwa kwa chakudya ndi kwabwino kwambiri (sindinazolowere kukhala ndi zosankha zambiri pamalo odyera), ndipo mlengalenga ndi waukulu.",kusankha chakudya,positive
+304,"Menyu, yomwe imasintha nyengo, imasonyeza zotsatira za dera komanso mayiko.",menyu,neutral
+307,"Ndimakonda Little Pie Company monga wina aliyense yemwe walemba ndemanga, koma ayenera kulepheretsa aliyense kuyendera malo a Grand Central chifukwa cha ntchito yawo ya RUDE kuchokera kwa anthu awiri ogulitsa.",anthu ogulitsa,negative
+310,"Ndimakonda Little Pie Company monga wina aliyense yemwe walemba ndemanga, koma ayenera kulepheretsa aliyense kuyendera malo a Grand Central chifukwa cha ntchito yawo ya RUDE kuchokera kwa anthu awiri ogulitsa.",utumiki,negative
+313,"Nditalipira ndalama zimene ndinagula, ndinaona kuti sanandipatse ziwiya kuti ndidye pie yanga.",pie,neutral
+315,"Nditalipira ndalama zimene ndinagula, ndinaona kuti sanandipatse ziwiya kuti ndidye pie yanga.",ziwiya,neutral
+317,Ndinayenera mbendera pansi munthu ndodo lachitatu kwa foloko ... kotero tsopano ndi bwino Little RUDE Pie Company.,munthu wa antchito,neutral
+319,Ndinayenera mbendera pansi munthu ndodo lachitatu kwa foloko ... kotero tsopano ndi bwino Little RUDE Pie Company.,foloko,neutral
+321,"Chakudyacho ndi chabwino modabwitsa, ndipo zokongoletsera ndi zabwino.",kukongoletsa,positive
+325,"Chakudyacho ndi chabwino modabwitsa, ndipo zokongoletsera ndi zabwino.",chakudya,positive
+329,"Utumikiwu, komabe, ndi peg kapena awiri pansi pa khalidwe la chakudya (ma bartender owopsa), ndipo makasitomala, kwakukulukulu, ndi oyendayenda a rowdy, okweza pakamwa (izi zikhoza kufotokoza maganizo oipa kuchokera kwa ogwira ntchito) akukwezedwa kwa konsati ya AC / DC kapena masewera a Knicks.",makasitomala,negative
+333,"Utumikiwu, komabe, ndi peg kapena awiri pansi pa khalidwe la chakudya (ma bartender owopsa), ndipo makasitomala, kwakukulukulu, ndi oyendayenda a rowdy, okweza pakamwa (izi zikhoza kufotokoza maganizo oipa kuchokera kwa ogwira ntchito) akukwezedwa kwa konsati ya AC / DC kapena masewera a Knicks.",bartenders,negative
+337,"Utumikiwu, komabe, ndi peg kapena awiri pansi pa khalidwe la chakudya (ma bartender owopsa), ndipo makasitomala, kwakukulukulu, ndi oyendayenda a rowdy, okweza pakamwa (izi zikhoza kufotokoza maganizo oipa kuchokera kwa ogwira ntchito) akukwezedwa kwa konsati ya AC / DC kapena masewera a Knicks.",khalidwe la chakudya,positive
+339,"Utumikiwu, komabe, ndi peg kapena awiri pansi pa khalidwe la chakudya (ma bartender owopsa), ndipo makasitomala, kwakukulukulu, ndi oyendayenda a rowdy, okweza pakamwa (izi zikhoza kufotokoza maganizo oipa kuchokera kwa ogwira ntchito) akukwezedwa kwa konsati ya AC / DC kapena masewera a Knicks.",utumiki,negative
+343,"Utumikiwu, komabe, ndi peg kapena awiri pansi pa khalidwe la chakudya (ma bartender owopsa), ndipo makasitomala, kwakukulukulu, ndi oyendayenda a rowdy, okweza pakamwa (izi zikhoza kufotokoza maganizo oipa kuchokera kwa ogwira ntchito) akukwezedwa kwa konsati ya AC / DC kapena masewera a Knicks.",ndodo,negative
+347,Chiwindi cha Yellowfin Tuna ndi Calf ndi chomwe ndimakonda kwambiri!,Yellowfin Tuna,positive
+350,Chiwindi cha Yellowfin Tuna ndi Calf ndi chomwe ndimakonda kwambiri!,Chiwindi cha mwana wa ng'ombe,positive
+353,"Ndinali pa ntchito ya jury, ndinakwera njinga yanga pamwamba pa Centre Street pa nthawi yanga yopuma masana ndipo ndinakumana ndi malo ang'onoang'ono akuluakuluwa ndi tacos nkhuku zozizwitsa ndi mandimu a Hibiscus.",Hibiscus mandimu,positive
+357,"Ndinali pa ntchito ya jury, ndinakwera njinga yanga pamwamba pa Centre Street pa nthawi yanga yopuma masana ndipo ndinakumana ndi malo ang'onoang'ono akuluakuluwa ndi tacos nkhuku zozizwitsa ndi mandimu a Hibiscus.",malo,positive
+361,"Ndinali pa ntchito ya jury, ndinakwera njinga yanga pamwamba pa Centre Street pa nthawi yanga yopuma masana ndipo ndinakumana ndi malo ang'onoang'ono akuluakuluwa ndi tacos nkhuku zozizwitsa ndi mandimu a Hibiscus.",nkhuku tacos,positive
+365,"Zatsopano zimakhala zotsimikizika, kuchokera ku tchizi chosavuta cha Carinthia ravioli chokhala ndi bowa wakutchire kupita ku caviar-topped sturgeon, yofanana bwino ndi msuzi wobiriwira wobiriwira wa sipinachi-vodka.",caviar-topped sturgeon,positive
+367,"Zatsopano zimakhala zotsimikizika, kuchokera ku tchizi chosavuta cha Carinthia ravioli chokhala ndi bowa wakutchire kupita ku caviar-topped sturgeon, yofanana bwino ndi msuzi wobiriwira wobiriwira wa sipinachi-vodka.",msuzi wobiriwira wa sipinachi-vodka,positive
+371,"Zatsopano zimakhala zotsimikizika, kuchokera ku tchizi chosavuta cha Carinthia ravioli chokhala ndi bowa wakutchire kupita ku caviar-topped sturgeon, yofanana bwino ndi msuzi wobiriwira wobiriwira wa sipinachi-vodka.",Carinthia tchizi ravioli ndi bowa zakutchire,positive
+375,"Menyu imakhala ndi zosankha za nyengo, monga chimanga chokoma-foie gras brulee.",chimanga chokoma-foie gras brulee,neutral
+377,"Menyu imakhala ndi zosankha za nyengo, monga chimanga chokoma-foie gras brulee.",Menyu,neutral
+380,UTUMIKI NDI WANGWIRO KWAMBIRI PALIBE CHOLAKWIKA MU IZI ITALY / FRENCH ODYERA,UTUMIKI,positive
+383,The foie gras anali wokoma ndi luscious.,foie gras,positive
+386,"My gf's duck confitte was very solid as well, ngakhale ndili ndi maziko ochepa a chidziwitso.",bakha confitte,positive
+389,"ndodo kudikira ndi wochezeka kwambiri, ngati wanu si wamwano kapena picky....... chakudya chathu ku Leon sabata yatha chinali chachikulu -.",dikirani antchito,positive
+393,"ndodo kudikira ndi wochezeka kwambiri, ngati wanu si wamwano kapena picky....... chakudya chathu ku Leon sabata yatha chinali chachikulu -.",chakudya,positive
+397,Ndikupangira mbale zawo zilizonse za salmon......,mbale za salmon,positive
+400,Chakudya chachikulu koma utumiki unali woopsa!,utumiki,negative
+404,Chakudya chachikulu koma utumiki unali woopsa!,chakudya,positive
+408,the two waitress's looked like they had been sucking on lemons.,waitress's,negative
+410,Utumikiwo unali woopsa pang'onopang'ono (malowo anali theka lokha lodzaza) ndipo kumwetulira kukanakhala kwabwino...,utumiki,negative
+413,"Pa nthawi yapamwamba, malo odyera amakhala odzaza ndipo matebulo amakhala pafupi kwambiri.",matebulo,negative
+416,"Ngati muli pano ngati chakudya chowonetsera chisanachitike, hop mu taxi ndikutenga mphindi zowonjezera za 10 kuti mupite kumalo a uptown.",chakudya chisanafike kuwonetsa,neutral
+418,"Ndi zonse basi... chakudya, mlengalenga... wolandira alendo wokoma mtima ndi wachisomo.",mlengalenga,positive
+420,"Ndi zonse basi... chakudya, mlengalenga... wolandira alendo wokoma mtima ndi wachisomo.",hostess,positive
+423,"Ndi zonse basi... chakudya, mlengalenga... wolandira alendo wokoma mtima ndi wachisomo.",chakudya,positive
+425,"The ambiance anali bwino, pang'ono phokoso komabe zabwino ndi chikondi.",ambiance,positive
+428,"Komabe, pokhala odya zakudya, tinakhumudwa kotheratu ndi chakudyacho.",chakudya,negative
+431,"Ndikupangira codfish yakuda yokazinga, inali mbale yabwino kwambiri ya madzulo.",wakuda wokazinga codfish,positive
+434,"Ndikupangira codfish yakuda yokazinga, inali mbale yabwino kwambiri ya madzulo.",mbale,positive
+437,ndinali ndi creole yokoma ya nkhanu.,nkhanu creole,positive
+440,Chakudya chamadzulo cha nkhuku chinali chabwino kwenikweni.,chakudya cha nkhuku,positive
+443,koma chakudyacho chinali chokoma.,chakudya,positive
+446,Danga ndi mwambo mu kumverera.,malo,neutral
+449,Creative mbale ngati mfumu nkhanu saladi ndi chilakolako zipatso vinaigrette ndi fettuccine ndi nsomba grilled mu msuzi rosemary-lalanje ndi zinthu zosayembekezereka pa mwinamwake kulosera bistro menyu.,bistro menyu,neutral
+453,Creative mbale ngati mfumu nkhanu saladi ndi chilakolako zipatso vinaigrette ndi fettuccine ndi nsomba grilled mu msuzi rosemary-lalanje ndi zinthu zosayembekezereka pa mwinamwake kulosera bistro menyu.,mfumu nkhanu saladi ndi chilakolako zipatso vinaigrette,positive
+457,Creative mbale ngati mfumu nkhanu saladi ndi chilakolako zipatso vinaigrette ndi fettuccine ndi nsomba grilled mu msuzi rosemary-lalanje ndi zinthu zosayembekezereka pa mwinamwake kulosera bistro menyu.,mbale,positive
+461,Creative mbale ngati mfumu nkhanu saladi ndi chilakolako zipatso vinaigrette ndi fettuccine ndi nsomba grilled mu msuzi rosemary-lalanje ndi zinthu zosayembekezereka pa mwinamwake kulosera bistro menyu.,fettuccine ndi nsomba zam'nyanja zophika mu msuzi wa rosemary-lalanje,positive
+465,Montparnasse's desserts--makamaka silken crème brulee ndi pepala-woonda apulo tart--ndi abwino mokwanira pawokha kuti malo odyera akhale ofunika ulendo.,desserts,positive
+469,Montparnasse's desserts--makamaka silken crème brulee ndi pepala-woonda apulo tart--ndi abwino mokwanira pawokha kuti malo odyera akhale ofunika ulendo.,apulo tart,positive
+473,Montparnasse's desserts--makamaka silken crème brulee ndi pepala-woonda apulo tart--ndi abwino mokwanira pawokha kuti malo odyera akhale ofunika ulendo.,crème brulee,positive
+477,Anali ndi chakudya chachikulu kumeneko sabata ino asanapite ku mafilimu!,chakudya,positive
+480,Zinali kanthawi ndipo ndinaiwala momwe crepes ikhoza kukhalira yokoma.,crepes,positive
+483,Chakudya--ngakhale makamaka chophika kwambiri--ndi chophweka komanso chokhutiritsa.,chakudya,positive
+486,Odyetsa amamamatira ku saladi kapena kudya mbale zamasamba.,saladi,positive
+488,Odyetsa amamamatira ku saladi kapena kudya mbale zamasamba.,mbale zamasamba,positive
+490,"Creamy appetizers--taramasalata, eggplant saladi, ndi Greek yogurt (ndi cuccumber, dill, ndi adyo) kukoma kwambiri pamene pa pitas ofunda.",taramasalata,positive
+494,"Creamy appetizers--taramasalata, eggplant saladi, ndi Greek yogurt (ndi cuccumber, dill, ndi adyo) kukoma kwambiri pamene pa pitas ofunda.",Creamy appetizers,positive
+498,"Creamy appetizers--taramasalata, eggplant saladi, ndi Greek yogurt (ndi cuccumber, dill, ndi adyo) kukoma kwambiri pamene pa pitas ofunda.","Greek yogurt (ndi cuccumber, dill, ndi adyo)",positive
+500,"Creamy appetizers--taramasalata, eggplant saladi, ndi Greek yogurt (ndi cuccumber, dill, ndi adyo) kukoma kwambiri pamene pa pitas ofunda.",ofunda pitas,neutral
+504,"Creamy appetizers--taramasalata, eggplant saladi, ndi Greek yogurt (ndi cuccumber, dill, ndi adyo) kukoma kwambiri pamene pa pitas ofunda.",eggplant saladi,positive
+508,chifukwa othandizira amafunikira KUSINTHA KWAKUKULU kwa ATTITUE.,odikira,negative
+510,The odyera NTHAWI ZONSE kuyang'ana okwiya ndipo ngakhale kunyalanyaza awo mkulu-tipping regulars.,odikira,negative
+513,"kangapo ndi kupirira ndi makhalidwe oipa a ogwira ntchito, podziwa kuti ntchito yawo si yophweka.",odikira,negative
+516,"Pomalizira pake, ndinadwala utumiki woipawo, kusekerera konyansa, ndi kulankhula mawu oipa.",utumiki,negative
+519,"Ndi chakudya chachikhalidwe, chosavuta cha ku Italy.",chakudya cha ku Italy,positive
+522,"Ndi chakudya chabwino chabe, palibe china ndipo ndizo zonse zomwe tikufuna!",chakudya,positive
+525,"Mndandanda wa vinyo ndi waukulu, wokwera mtengo bwino ndipo umaphatikizapo madera ambiri.",mndandanda wa vinyo,positive
+529,"Mndandanda wa vinyo ndi waukulu, wokwera mtengo bwino ndipo umaphatikizapo madera ambiri.",mtengo,positive
+533,chakudya chabwino vinyo wabwino kuti ndi izo.,vinyo,positive
+537,chakudya chabwino vinyo wabwino kuti ndi izo.,chakudya,positive
+541,"Ndimakonda kuphweka ndi ulemu umene unaperekedwa kwa chakudya, komanso ndodo anali wochezeka ndi knowledgable.",ndodo,positive
+544,"Ndimakonda kuphweka ndi ulemu umene unaperekedwa kwa chakudya, komanso ndodo anali wochezeka ndi knowledgable.",chakudya,positive
+547,Chakudyacho chinali cha mediocre ndipo utumikiwo unali wochedwa kwambiri.,chakudya,neutral
+551,Chakudyacho chinali cha mediocre ndipo utumikiwo unali wochedwa kwambiri.,utumiki,negative
+555,Zinatenga pafupifupi maola a 2 1/2 kuti atumikire maphunziro athu a 2.,maphunziro,neutral
+557,Zinatenga pafupifupi maola a 2 1/2 kuti atumikire maphunziro athu a 2.,anatumikira,negative
+559,Tinalamula kumwa vinyo ndipo tinamaliza kudya ndi kulipira vinyo asanabwere.,galasi la vinyo,neutral
+561,Mpando wopindika umene ndinakhalamo unali wosasangalatsa.,kungomanga mpando,negative
+564,Woperekera chakudya wathu anali waubwenzi ndipo n'zomvetsa chisoni kuti analibe antchito othandizira ogwira nawo ntchito.,ndodo,negative
+566,Woperekera chakudya wathu anali waubwenzi ndipo n'zomvetsa chisoni kuti analibe antchito othandizira ogwira nawo ntchito.,woperekera chakudya,positive
+569,Ndinapita ku mlungu wa odyera ndipo ndinalamula kuchoka pa menyu ya prix fixe,prix fixe menyu,neutral
+571,Ogwira ntchito yodikirira anali atcheru kwambiri ndi aulemu.,dikirani antchito,positive
+574,The mwaluso osankhidwa Chipwitikizi tchizi ngolo awiri ndi doko khalidwe amapereka wangwiro Iberian mapeto.,Chipwitikizi tchizi ngolo,positive
+578,The mwaluso osankhidwa Chipwitikizi tchizi ngolo awiri ndi doko khalidwe amapereka wangwiro Iberian mapeto.,doko,positive
+582,"Ngakhale kuti zinali zazikulu komanso phokoso pang'ono, zakumwazo zinali zosangalatsa, ndipo chakudyacho chinali chabwino kwambiri.",zakumwa,positive
+586,"Ngakhale kuti zinali zazikulu komanso phokoso pang'ono, zakumwazo zinali zosangalatsa, ndipo chakudyacho chinali chabwino kwambiri.",chakudya,positive
+590,Mitengo si yoopsa.,mitengo,positive
+593,"Utumikiwo unali waukulu, ndipo ali ndi zambiri pa masiku akubadwa.",utumiki,positive
+596,"Nthawi zina ine ndapita ndi chikondi tsiku kumwamba, mukhoza kuyenda mu kupeza khola ndi mazenera, kuchitiridwa ngati VIP mu malo osati odzaza, ndi chakudya chachikulu ndi utumiki.",utumiki,positive
+600,"Nthawi zina ine ndapita ndi chikondi tsiku kumwamba, mukhoza kuyenda mu kupeza khola ndi mazenera, kuchitiridwa ngati VIP mu malo osati odzaza, ndi chakudya chachikulu ndi utumiki.",chakudya,positive
+604,"Nthawi zina ine ndapita ndi chikondi tsiku kumwamba, mukhoza kuyenda mu kupeza khola ndi mazenera, kuchitiridwa ngati VIP mu malo osati odzaza, ndi chakudya chachikulu ndi utumiki.",thandala pafupi ndi mawindo,neutral
+606,"Nthawi zina ine ndapita ndi chikondi tsiku kumwamba, mukhoza kuyenda mu kupeza khola ndi mazenera, kuchitiridwa ngati VIP mu malo osati odzaza, ndi chakudya chachikulu ndi utumiki.",malo,positive
+610,"Veggies atsopano, mitundu yonse ya kufalikira pakati kum'mawa, tchizi ndi falafel, msuzi, nsomba, mpunga, mizu masamba, mpunga medley, ena sipinachi chinthu, nkhosa kebabs, tchizi baclava ... kwambiri fooood, ndipo zonse zokoma.",tchizi,positive
+613,"Veggies atsopano, mitundu yonse ya kufalikira pakati kum'mawa, tchizi ndi falafel, msuzi, nsomba, mpunga, mizu masamba, mpunga medley, ena sipinachi chinthu, nkhosa kebabs, tchizi baclava ... kwambiri fooood, ndipo zonse zokoma.",Veggies atsopano,positive
+614,"Veggies atsopano, mitundu yonse ya kufalikira pakati kum'mawa, tchizi ndi falafel, msuzi, nsomba, mpunga, mizu masamba, mpunga medley, ena sipinachi chinthu, nkhosa kebabs, tchizi baclava ... kwambiri fooood, ndipo zonse zokoma.",nsomba,positive
+617,"Veggies atsopano, mitundu yonse ya kufalikira pakati kum'mawa, tchizi ndi falafel, msuzi, nsomba, mpunga, mizu masamba, mpunga medley, ena sipinachi chinthu, nkhosa kebabs, tchizi baclava ... kwambiri fooood, ndipo zonse zokoma.",fooood,positive
+620,"Veggies atsopano, mitundu yonse ya kufalikira pakati kum'mawa, tchizi ndi falafel, msuzi, nsomba, mpunga, mizu masamba, mpunga medley, ena sipinachi chinthu, nkhosa kebabs, tchizi baclava ... kwambiri fooood, ndipo zonse zokoma.",mizu masamba,positive
+625,"Veggies atsopano, mitundu yonse ya kufalikira pakati kum'mawa, tchizi ndi falafel, msuzi, nsomba, mpunga, mizu masamba, mpunga medley, ena sipinachi chinthu, nkhosa kebabs, tchizi baclava ... kwambiri fooood, ndipo zonse zokoma.",mpunga medley,positive
+628,"Veggies atsopano, mitundu yonse ya kufalikira pakati kum'mawa, tchizi ndi falafel, msuzi, nsomba, mpunga, mizu masamba, mpunga medley, ena sipinachi chinthu, nkhosa kebabs, tchizi baclava ... kwambiri fooood, ndipo zonse zokoma.",sipinachi chinthu,positive
+631,"Veggies atsopano, mitundu yonse ya kufalikira pakati kum'mawa, tchizi ndi falafel, msuzi, nsomba, mpunga, mizu masamba, mpunga medley, ena sipinachi chinthu, nkhosa kebabs, tchizi baclava ... kwambiri fooood, ndipo zonse zokoma.",falafel,positive
+634,"Veggies atsopano, mitundu yonse ya kufalikira pakati kum'mawa, tchizi ndi falafel, msuzi, nsomba, mpunga, mizu masamba, mpunga medley, ena sipinachi chinthu, nkhosa kebabs, tchizi baclava ... kwambiri fooood, ndipo zonse zokoma.",kufalikira kwa pakati kum'mawa,positive
+637,"Veggies atsopano, mitundu yonse ya kufalikira pakati kum'mawa, tchizi ndi falafel, msuzi, nsomba, mpunga, mizu masamba, mpunga medley, ena sipinachi chinthu, nkhosa kebabs, tchizi baclava ... kwambiri fooood, ndipo zonse zokoma.",nkhosa kebabs,positive
+640,"Veggies atsopano, mitundu yonse ya kufalikira pakati kum'mawa, tchizi ndi falafel, msuzi, nsomba, mpunga, mizu masamba, mpunga medley, ena sipinachi chinthu, nkhosa kebabs, tchizi baclava ... kwambiri fooood, ndipo zonse zokoma.",msuzi,positive
+643,"Veggies atsopano, mitundu yonse ya kufalikira pakati kum'mawa, tchizi ndi falafel, msuzi, nsomba, mpunga, mizu masamba, mpunga medley, ena sipinachi chinthu, nkhosa kebabs, tchizi baclava ... kwambiri fooood, ndipo zonse zokoma.",tchizi baclava,positive
+646,"Veggies atsopano, mitundu yonse ya kufalikira pakati kum'mawa, tchizi ndi falafel, msuzi, nsomba, mpunga, mizu masamba, mpunga medley, ena sipinachi chinthu, nkhosa kebabs, tchizi baclava ... kwambiri fooood, ndipo zonse zokoma.",mpunga,positive
+649,"Utumiki wapang'onopang'ono, koma pamene mukucheza ndi magulu a 10 kapena 20, ndani kwenikweni amene amawona?",utumiki,negative
+652,Utumiki woipitsitsa weniweni womwe ndakumana nawo ndipo chakudyacho chinali pansi pa avareji (pamene iwo kwenikweni anapatsa anthu chakudya chomwe adalamula).,utumiki,negative
+656,Utumiki woipitsitsa weniweni womwe ndakumana nawo ndipo chakudyacho chinali pansi pa avareji (pamene iwo kwenikweni anapatsa anthu chakudya chomwe adalamula).,chakudya,neutral
+658,Utumiki woipitsitsa weniweni womwe ndakumana nawo ndipo chakudyacho chinali pansi pa avareji (pamene iwo kwenikweni anapatsa anthu chakudya chomwe adalamula).,chakudya,negative
+662,Kuyembekezera maola atatu tisanapeze entrees wathu anali kuchitira komanso.,entrees,neutral
+664,Kuyembekezera maola atatu tisanapeze entrees wathu anali kuchitira komanso.,Kudikira,negative
+666,Chakudya ndi consistant ndi zabwino koma mmene anapeza dzina Best Diner Ku Manhattan ndi kupitirira ine.,chakudya,positive
+669,Osati kumveka woipa kwambiri koma samalani ndi delivary.,delivary,negative
+672,"Kunena chilungamo, chakudya akadali zabwino ndi utumiki mofulumira ndi attentative ngakhale ake kawirikawiri otanganidwa kwambiri.",utumiki,positive
+676,"Kunena chilungamo, chakudya akadali zabwino ndi utumiki mofulumira ndi attentative ngakhale ake kawirikawiri otanganidwa kwambiri.",chakudya,positive
+680,"Utumiki ndi wabwino kwambiri, palibe kudikira, ndipo mumapeza zambiri pamtengo.",Utumiki,positive
+684,"Utumiki ndi wabwino kwambiri, palibe kudikira, ndipo mumapeza zambiri pamtengo.",dikirani,positive
+688,"Utumiki ndi wabwino kwambiri, palibe kudikira, ndipo mumapeza zambiri pamtengo.",mtengo,positive
+690,Waiters ndi wochezeka kwambiri ndipo pasitala ali kunja kwa dziko lino.,pasitala,positive
+694,Waiters ndi wochezeka kwambiri ndipo pasitala ali kunja kwa dziko lino.,Odikira,positive
+698,ndi chisangalalo chobisika chokwanira ndi bar quaint ndi chakudya chabwino.,chakudya,positive
+702,ndi chisangalalo chobisika chokwanira ndi bar quaint ndi chakudya chabwino.,bala,positive
+706,ndi malo abwino kupita ndi abwenzi angapo.,malo,positive
+709,ine makamaka ngati awo zofewa chipolopolo nkhanu sangweji ndi batala.,zofewa chipolopolo nkhanu sangweji ndi batala,positive
+712,"kwa appetizer, calamari yawo ndi wopambana.",appetizer,neutral
+715,"kwa appetizer, calamari yawo ndi wopambana.",calamari,positive
+718,"Magawo akuluakulu, utumiki waukulu komanso wosamala, ndi mitengo yabwino kwambiri.",magawo,positive
+722,"Magawo akuluakulu, utumiki waukulu komanso wosamala, ndi mitengo yabwino kwambiri.",utumiki,positive
+726,"Magawo akuluakulu, utumiki waukulu komanso wosamala, ndi mitengo yabwino kwambiri.",mitengo,positive
+730,Mkhalidwe wozizira koma wokhumudwitsidwa kwambiri.,mlengalenga,positive
+733,Woperekera chakudya wathu anali woopsa; wamwano kwambiri ndi wopanda chidwi.,woperekera chakudya,negative
+736,The sangria's - watered down.,sangria,negative
+739,"menyu - yopanda zochitika, yaing'ono.",menyu,negative
+742,chakudya - chopanda mtengo.,mtengo,negative
+745,chakudya - chopanda mtengo.,chakudya,negative
+748,"Ngakhale pamene wophika sali m'nyumba, chakudya ndi utumiki zili bwino pa cholinga.",utumiki,positive
+751,"Ngakhale pamene wophika sali m'nyumba, chakudya ndi utumiki zili bwino pa cholinga.",chakudya,positive
+754,"Ngakhale pamene wophika sali m'nyumba, chakudya ndi utumiki zili bwino pa cholinga.",chef,neutral
+756,"Popeza ndimaphika kuti ndi apeze zofunika pa moyo, ndimakhala wokhumudwa kwambiri ndi chakudya chimene ndimadya m'malesitilanti.",chakudya,neutral
+759,Chef Waldy's nthawi zonse amayeza.,Chef,positive
+761,"Onetsetsani kuti muyese Trout Yosuta ... Nkhosa Chops, Veal Chops, Kalulu, mbatata gratin, pa ndi pa ndi pa ...",Nkhosa Chops,positive
+764,"Onetsetsani kuti muyese Trout Yosuta ... Nkhosa Chops, Veal Chops, Kalulu, mbatata gratin, pa ndi pa ndi pa ...",mbatata gratin,positive
+767,"Onetsetsani kuti muyese Trout Yosuta ... Nkhosa Chops, Veal Chops, Kalulu, mbatata gratin, pa ndi pa ndi pa ...",Kusuta Trout,positive
+770,"Onetsetsani kuti muyese Trout Yosuta ... Nkhosa Chops, Veal Chops, Kalulu, mbatata gratin, pa ndi pa ndi pa ...",Kalulu,positive
+773,"Onetsetsani kuti muyese Trout Yosuta ... Nkhosa Chops, Veal Chops, Kalulu, mbatata gratin, pa ndi pa ndi pa ...",Veal Chops,positive
+776,Simudzasankhidwa ndi zosankha zilizonse mu menyu.,menyu,positive
+779,Mwiniwake ndi ogwira ntchito amayesetsa kwambiri kuti mukhale omasuka.,mwini,positive
+781,Mwiniwake ndi ogwira ntchito amayesetsa kwambiri kuti mukhale omasuka.,ndodo,positive
+783,Pemphani tebulo lozungulira ngodya pafupi ndi zenera lalikulu.,tebulo lozungulira ngodya pafupi ndi zenera lalikulu,positive
+785,Ndani anati pitani pamene malo ali chete masana?,malo,neutral
+787,"Osati kwambiri, koma zokwanira kuti pali malo aakulu.",malo,positive
+790,"Chakudyacho chinali chachikulu - sushi inali yabwino, koma chakudya chophika chinatidabwitsa.",chakudya chophika,positive
+794,"Chakudyacho chinali chachikulu - sushi inali yabwino, koma chakudya chophika chinatidabwitsa.",sushi,positive
+798,"Chakudyacho chinali chachikulu - sushi inali yabwino, koma chakudya chophika chinatidabwitsa.",chakudya,positive
+802,"Nthawi itakwana yoti titenge dongosolo woperekera chakudya anatipatsa nthawi yovuta, anachoka kenako anabwerera ndi pepala ndi cholembera kuti tilembe zomwe tikufuna... pepani koma si ntchito yake imeneyo???",woperekera chakudya,negative
+804,Kenako bwanayo anatiuza kuti tikhoza kulamula kuchokera ku menyu iliyonse yomwe tikufuna koma pofika nthawi imeneyo tinakwiya kwambiri ndi woperekera chakudya komanso wopumula moti tinalola ndikupita malo ena.,woperekera chakudya,negative
+807,Kenako bwanayo anatiuza kuti tikhoza kulamula kuchokera ku menyu iliyonse yomwe tikufuna koma pofika nthawi imeneyo tinakwiya kwambiri ndi woperekera chakudya komanso wopumula moti tinalola ndikupita malo ena.,menyu,neutral
+809,Kenako bwanayo anatiuza kuti tikhoza kulamula kuchokera ku menyu iliyonse yomwe tikufuna koma pofika nthawi imeneyo tinakwiya kwambiri ndi woperekera chakudya komanso wopumula moti tinalola ndikupita malo ena.,woyang'anira,neutral
+811,chakudyacho ndi chokoma komanso cholimbikitsidwa kwambiri.,chakudya,positive
+814,"Pamene mbale inafika inali kuyaka ndi chillis wobiriwira, ndithudi osati edible ndi munthu.",chillis wobiriwira,negative
+818,"Pamene mbale inafika inali kuyaka ndi chillis wobiriwira, ndithudi osati edible ndi munthu.",mbale,negative
+822,"Ndinadandaula kwa woperekera chakudya ndipo kenako kwa bwana, koma mphamvu ya mwano kuchokera kwa iwo inangokwera.",woyang'anira,negative
+825,"Ndinadandaula kwa woperekera chakudya ndipo kenako kwa bwana, koma mphamvu ya mwano kuchokera kwa iwo inangokwera.",woperekera chakudya,negative
+828,Ndinakhumudwa kwambiri ndi utumiki wawo ndi chakudya.,utumiki,negative
+831,Ndinakhumudwa kwambiri ndi utumiki wawo ndi chakudya.,chakudya,negative
+834,Ndinapita Loweruka lapitali ndipo ndinali ndi chakudya chabwino kwambiri chokhala ndi shank ya nkhosa ya braised ndi mbatata yosalala.,braised nkhosa shank ndi mbatata yosalala,positive
+836,Ndinapita Loweruka lapitali ndipo ndinali ndi chakudya chabwino kwambiri chokhala ndi shank ya nkhosa ya braised ndi mbatata yosalala.,chakudya,positive
+839,"Pakati pa mlendo wanga ndi ine, ife sampled osachepera 80% ya menyu, ndipo iwo onse anali kugunda.",menyu,positive
+841,The Deco ndi ambiance analidi chikondi.,Deco,positive
+844,The Deco ndi ambiance analidi chikondi.,ambiance,positive
+847,"Ndadya pamalo onse atatu ndipo ndimakonda nthawi zonse, ndimakonda chakudya, utumiki nthawi zonse umadabwa ndipo mitengo imakhala yomveka kwenikweni.",mitengo,positive
+851,"Ndadya pamalo onse atatu ndipo ndimakonda nthawi zonse, ndimakonda chakudya, utumiki nthawi zonse umadabwa ndipo mitengo imakhala yomveka kwenikweni.",utumiki,positive
+855,"Ndadya pamalo onse atatu ndipo ndimakonda nthawi zonse, ndimakonda chakudya, utumiki nthawi zonse umadabwa ndipo mitengo imakhala yomveka kwenikweni.",chakudya,positive
+859,"Ngati mukufuna kulawa bwino, bwino zokometsera latin chakudya kudya pa Cabana ndipo simungathe kupita cholakwika.",chakudya cha latin,positive
+862,"Zinali zosangalatsa uncrowded, utumiki anali zosangalatsa, munda wokongola, chakudya (kuchokera appetizers kuti entrees) anali delectable.",munda,positive
+866,"Zinali zosangalatsa uncrowded, utumiki anali zosangalatsa, munda wokongola, chakudya (kuchokera appetizers kuti entrees) anali delectable.",utumiki,positive
+870,"Zinali zosangalatsa uncrowded, utumiki anali zosangalatsa, munda wokongola, chakudya (kuchokera appetizers kuti entrees) anali delectable.",appetizers,positive
+874,"Zinali zosangalatsa uncrowded, utumiki anali zosangalatsa, munda wokongola, chakudya (kuchokera appetizers kuti entrees) anali delectable.",entrees,positive
+878,"Zinali zosangalatsa uncrowded, utumiki anali zosangalatsa, munda wokongola, chakudya (kuchokera appetizers kuti entrees) anali delectable.",chakudya,positive
+882,"Yum, nkhuku ndi yaikulu apa.",nkhuku,positive
+885,"Guac ndi yatsopano, komabe yopanda kukoma, timakonda kuwonjezera salsa yathu yatsopano mmenemo.",salsa yatsopano,neutral
+887,"Guac ndi yatsopano, komabe yopanda kukoma, timakonda kuwonjezera salsa yathu yatsopano mmenemo.",kukoma,negative
+890,Fajita yomwe tinayesa inali yopanda kukoma ndi kutenthedwa ndipo msuzi wa mole unali wokoma kwambiri.,fajita,negative
+894,Fajita yomwe tinayesa inali yopanda kukoma ndi kutenthedwa ndipo msuzi wa mole unali wokoma kwambiri.,msuzi wa mole,negative
+898,Khalani ndi nkhuku zokazinga ndipo mudzakhala bwino.,nkhuku zokazinga,positive
+900,Utumiki unali pakati pa zabwino kwambiri zomwe ndakhala nazo ku NYC.,Utumiki,positive
+903,The fettucino alfredo anali wodabwitsa.,fettucino alfredo,positive
+906,Mitengo ngakhale kunja kwa mlungu odyera anali kwambiri.,Mitengo,positive
+909,"The bartenders ndi oyang'anira kwenikweni zabwino ndi zokongoletsa ndi comfy kwambiri ndi anaika-m'mbuyo, nthawi yonseyi kukhala zamakono.",oyang'anira,positive
+913,"The bartenders ndi oyang'anira kwenikweni zabwino ndi zokongoletsa ndi comfy kwambiri ndi anaika-m'mbuyo, nthawi yonseyi kukhala zamakono.",bartenders,positive
+917,"The bartenders ndi oyang'anira kwenikweni zabwino ndi zokongoletsa ndi comfy kwambiri ndi anaika-m'mbuyo, nthawi yonseyi kukhala zamakono.",kukongoletsa,positive
+921,"Ndimakonda zakumwa, esp lychee martini, ndipo chakudya chimakhalanso chabwino kwambiri.",zakumwa,positive
+925,"Ndimakonda zakumwa, esp lychee martini, ndipo chakudya chimakhalanso chabwino kwambiri.",lychee martini,positive
+929,"Ndimakonda zakumwa, esp lychee martini, ndipo chakudya chimakhalanso chabwino kwambiri.",chakudya,positive
+933,Sushi ndi mtengo woyenera komanso watsopano.,mtengo,positive
+937,Sushi ndi mtengo woyenera komanso watsopano.,sushi,positive
+941,Zabwino kwa chakudya chamasana chofulumira cha sushi.,sushi masana,positive
+944,"Sikuti ali ndi escargot yabwino kwambiri mtawuni,nthawi zonse amayesetsa kukhala ndi mwana wathu wamng'ono.",escargot,positive
+947,Appetizer ndi abwino kwambiri pano; mukhoza kupanga chakudya chachikulu (ndi chotsika mtengo) kuchokera kwa iwo.,Appetizer,positive
+951,Appetizer ndi abwino kwambiri pano; mukhoza kupanga chakudya chachikulu (ndi chotsika mtengo) kuchokera kwa iwo.,chakudya,positive
+955,Nkhono zokometsera ndi chinthu chofunika kwambiri.,zokometsera mussels,positive
+958,Khalani ndi mojito ndikukhala pabwalo lakumbuyo.,kumbuyo khonde,positive
+960,Khalani ndi mojito ndikukhala pabwalo lakumbuyo.,mojito,positive
+962,"Ngakhale kuti chakudya chawo cha khitchini ndi chokoma, Sushi yawo ili kunja kwa dziko lino.",chakudya cha khitchini,positive
+966,"Ngakhale kuti chakudya chawo cha khitchini ndi chokoma, Sushi yawo ili kunja kwa dziko lino.",Sushi,positive
+970,Malo awa ali ndi menyu yachilendo kwambiri ndipo malo odyera amayesetsa kwambiri kuti apange chakudya chokongola.,menyu,negative
+974,Malo awa ali ndi menyu yachilendo kwambiri ndipo malo odyera amayesetsa kwambiri kuti apange chakudya chokongola.,chakudya,negative
+978,Nthawi iliyonse ndikapita kumeneko sindingathe kusankha chilichonse choti ndidye osati chifukwa chakuti menyu imadzazidwa ndi zinthu zazikulu zodyera.,menyu,negative
+980,Nthawi zonse ndimadzipeza ndikupempha woperekera chakudya kuti apange chinachake cha bland komanso chosiyana ndi zomwe zili pa menyu.,woperekera chakudya,neutral
+982,Nthawi zonse ndimadzipeza ndikupempha woperekera chakudya kuti apange chinachake cha bland komanso chosiyana ndi zomwe zili pa menyu.,menyu,neutral
+984,"Ngakhale kuti malo odyera enieniwo ndi abwino, ndimakonda kuti ndisapite ku chakudya.",chakudya,negative
+986,Malo ang'onoang'ono awa ndi olandiridwa bwino kwambiri.,malo,positive
+989,Woyang'anira (mwiniwake) ndi maseva ndi personable ndi kusamalira.,woyang'anira (mwiniwake),positive
+991,Woyang'anira (mwiniwake) ndi maseva ndi personable ndi kusamalira.,maseva,positive
+994,"Ndipo chakudya, chabwino chakudya chidzakusunga inu kubwerera.",chakudya,positive
+996,"Ndipo chakudya, chabwino chakudya chidzakusunga inu kubwerera.",chakudya,positive
+998,Ali ndi pastas opangidwa kunyumba a mitundu yonse - ndikupangira gnocchi - yum!,pastas opangidwa kunyumba,positive
+1000,Ali ndi pastas opangidwa kunyumba a mitundu yonse - ndikupangira gnocchi - yum!,gnocchi,positive
+1003,"Komanso, chick peas ndi nkhanu (appetizer) ndi yaumulungu.",chick peas ndi nkhanu (appetizer),positive
+1005,mojitos ndi utumiki ndi gawo labwino kwambiri kumeneko,mojitos,positive
+1008,mojitos ndi utumiki ndi gawo labwino kwambiri kumeneko,utumiki,positive
+1011,Utumiki unali wabwino ndiponso mkhalidwe.,Utumiki,positive
+1014,Utumiki unali wabwino ndiponso mkhalidwe.,mlengalenga,positive
+1017,TSIKU langa ndi ine tonse analamula Branzini ndipo onse ankaona nsomba anali pafupifupi kwambiri.,nsomba,negative
+1020,TSIKU langa ndi ine tonse analamula Branzini ndipo onse ankaona nsomba anali pafupifupi kwambiri.,Branzini,neutral
+1023,Chakudyacho chinali chabwino kwambiri. ,chakudya,positive
+1026,Saladi ya caeser inali yaikulu.,saladi ya caeser,positive
+1029,Calamari wokazinga anali wabwino kwambiri!,wokazinga calamari,positive
+1032,NDINAKHUMUDWA KWAMBIRI NDI CHAKUDYACHO.,CHAKUDYA,negative
+1035,"THE NTHOCHI PUDDING IWO AMATUMIKIRA SANAONEPO UVUNI,NDI CRABCAKES NDI NJIRA PA MCHERE NDIPO MUSATI INE ANAYAMBA PA MAC KWAMBIRI MAFUTA NDI TCHIZI.",MAC NDI TCHIZI,negative
+1039,"THE NTHOCHI PUDDING IWO AMATUMIKIRA SANAONEPO UVUNI,NDI CRABCAKES NDI NJIRA PA MCHERE NDIPO MUSATI INE ANAYAMBA PA MAC KWAMBIRI MAFUTA NDI TCHIZI.",CRABCAKES,negative
+1043,"THE NTHOCHI PUDDING IWO AMATUMIKIRA SANAONEPO UVUNI,NDI CRABCAKES NDI NJIRA PA MCHERE NDIPO MUSATI INE ANAYAMBA PA MAC KWAMBIRI MAFUTA NDI TCHIZI.",BANANA PUDDING,negative
+1045,Sushi watsopano kwambiri moti crunches m'kamwa mwanu.,Sushi,positive
+1048,Koma onetsetsani kuti muli ndi malo okwanira pa khadi lanu la ngongole monga bilu idzasiya dent yaikulu mu chikwama chanu.,bilu,negative
+1051,chakudyacho chinali mediocre kukhala wachifundo - mkati ndi ang'onoang'ono ndi pafupifupi - eni ake ndi tag-gulu la zosasangalatsa - kotero mwano ndi snotty ine kwenikweni kulola kunja guffaw mtima pamene kudya.,mkati,negative
+1055,chakudyacho chinali mediocre kukhala wachifundo - mkati ndi ang'onoang'ono ndi pafupifupi - eni ake ndi tag-gulu la zosasangalatsa - kotero mwano ndi snotty ine kwenikweni kulola kunja guffaw mtima pamene kudya.,kudya,neutral
+1057,chakudyacho chinali mediocre kukhala wachifundo - mkati ndi ang'onoang'ono ndi pafupifupi - eni ake ndi tag-gulu la zosasangalatsa - kotero mwano ndi snotty ine kwenikweni kulola kunja guffaw mtima pamene kudya.,eni ake,negative
+1061,chakudyacho chinali mediocre kukhala wachifundo - mkati ndi ang'onoang'ono ndi pafupifupi - eni ake ndi tag-gulu la zosasangalatsa - kotero mwano ndi snotty ine kwenikweni kulola kunja guffaw mtima pamene kudya.,chakudya,negative
+1065,Chakudya chinali chokwera mtengo kwambiri pa zimene mumapeza.,Chakudya,negative
+1068,Steak ya Delmonico ya $ 72 inayenera kutumizidwa chifukwa sinaphike kuti ipangidwe.,Delmonico steak,negative
+1071,The Management anali zochepa kuposa accomodating.,Management,negative
+1074,Nthawi zonse timapeza utumiki wodabwitsa ndipo timakonda chakudya.,utumiki,positive
+1078,Nthawi zonse timapeza utumiki wodabwitsa ndipo timakonda chakudya.,chakudya,positive
+1082,Ndakhala ndi chakudya chabwino cha ku Japan ku bwalo la zakudya la mall.,Chakudya cha ku Japan,negative
+1085,Choyamba kuyenda m'malo anaoneka kukhala ndi ambience kwambiri.,ambience,positive
+1088,Choyamba kuyenda m'malo anaoneka kukhala ndi ambience kwambiri.,malo,positive
+1090,Koma chakudyacho zinali zoopsa.,chakudya,negative
+1093,Ndinalamula Chicken Teriyaki ndipo mwamuna wanga anapeza Garlic Shrimp.,Nkhanu za Garlic,neutral
+1095,Ndinalamula Chicken Teriyaki ndipo mwamuna wanga anapeza Garlic Shrimp.,Nkhuku Teriyaki,neutral
+1097,Nkhuku yanga inali youma kwathunthu ndi kumbali yozizira ndipo msuzi sunali wokoma kwambiri.,msuzi,negative
+1101,Nkhuku yanga inali youma kwathunthu ndi kumbali yozizira ndipo msuzi sunali wokoma kwambiri.,nkhuku,negative
+1105,"Chinthu chimodzi chabwino chomwe ndinganene ndi chakuti utumiki unali wofulumira, tinakhala pomwepo ndipo seva inali yaubwenzi kwambiri.",utumiki,positive
+1109,"Chinthu chimodzi chabwino chomwe ndinganene ndi chakuti utumiki unali wofulumira, tinakhala pomwepo ndipo seva inali yaubwenzi kwambiri.",seva,positive
+1113,Way ndalama kwambiri chakudya choopsa chotere.,chakudya,negative
+1116,Anali ndi zochitika zazikulu ku Trio ... ndodo inali yosangalatsa; chakudya chinali chokoma komanso chachikulu mu kukula kwa gawo - ndikulimbikitsa kwambiri portobello / gorgonzola / soseji appetizer ndi lobster risotto.,lobster risotto,positive
+1120,Anali ndi zochitika zazikulu ku Trio ... ndodo inali yosangalatsa; chakudya chinali chokoma komanso chachikulu mu kukula kwa gawo - ndikulimbikitsa kwambiri portobello / gorgonzola / soseji appetizer ndi lobster risotto.,chakudya,positive
+1124,Anali ndi zochitika zazikulu ku Trio ... ndodo inali yosangalatsa; chakudya chinali chokoma komanso chachikulu mu kukula kwa gawo - ndikulimbikitsa kwambiri portobello / gorgonzola / soseji appetizer ndi lobster risotto.,portobello / gorgonzola / soseji appetizer,positive
+1128,Anali ndi zochitika zazikulu ku Trio ... ndodo inali yosangalatsa; chakudya chinali chokoma komanso chachikulu mu kukula kwa gawo - ndikulimbikitsa kwambiri portobello / gorgonzola / soseji appetizer ndi lobster risotto.,ndodo,positive
+1132,Anali ndi zochitika zazikulu ku Trio ... ndodo inali yosangalatsa; chakudya chinali chokoma komanso chachikulu mu kukula kwa gawo - ndikulimbikitsa kwambiri portobello / gorgonzola / soseji appetizer ndi lobster risotto.,gawo kukula,positive
+1136,Utumikiwo unali wosamala kwambiri ndi wopatsa kwambiri.,utumiki,positive
+1139,"Tinali ndi matani a chakudya chachikulu, vinyo, ndi zokometsera.",vinyo,positive
+1142,"Tinali ndi matani a chakudya chachikulu, vinyo, ndi zokometsera.",desserts,positive
+1145,"Tinali ndi matani a chakudya chachikulu, vinyo, ndi zokometsera.",chakudya,positive
+1148,Kwenikweni Chikondi chodyera zinachitikira pakati pa buzzing midtown m'dera.,kudya zinachitikira,positive
+1151,"Utumiki nthawi zonse kwambiri, ndi mwini kuyenda mozungulira kuonetsetsa inu kusangalala.",mwini,positive
+1153,"Utumiki nthawi zonse kwambiri, ndi mwini kuyenda mozungulira kuonetsetsa inu kusangalala.",utumiki,positive
+1156,Tinakhala pafupi kwambiri ndi malo ovina.,kuvina pansi,neutral
+1158,"Nyimbozo zinali zochititsa chidwi, koma zinasiya mpata wa kukambitsirana, ndipo wogulitsa moŵayo anapanga zakumwa zabwino kwambiri.",zakumwa,positive
+1162,"Nyimbozo zinali zochititsa chidwi, koma zinasiya mpata wa kukambitsirana, ndipo wogulitsa moŵayo anapanga zakumwa zabwino kwambiri.",bartender,positive
+1166,"Nyimbozo zinali zochititsa chidwi, koma zinasiya mpata wa kukambitsirana, ndipo wogulitsa moŵayo anapanga zakumwa zabwino kwambiri.",nyimbo,positive
+1170,Chakudya kwenikweni si chabwino kwambiri ndipo utumiki ndi zoopsa.,utumiki,negative
+1174,Chakudya kwenikweni si chabwino kwambiri ndipo utumiki ndi zoopsa.,chakudya,negative
+1178,"Ndine wokondwa kuti ndinachita monga chakudya chinali chabwino kwambiri ndipo ogwira ntchito anali aubwenzi, aulemu komanso ogwira mtima.",ndodo,positive
+1182,"Ndine wokondwa kuti ndinachita monga chakudya chinali chabwino kwambiri ndipo ogwira ntchito anali aubwenzi, aulemu komanso ogwira mtima.",chakudya,positive
+1186,SINDINAKHALEPO NDI CHAKUDYA CHOIPA(KAPENA UTUMIKI WOIPA )@ PIGALLE.,UTUMIKI,positive
+1188,SINDINAKHALEPO NDI CHAKUDYA CHOIPA(KAPENA UTUMIKI WOIPA )@ PIGALLE.,CHAKUDYA,positive
+1190,Izi zinaonekeratu kuti chakudyacho sichinaphike mwatsopano; izo mwachiwonekere zinapangidwa pamaso dzanja ndiyeno reheated.,chakudya,negative
+1193,"panthawi yotanganidwa hrs, ndikupangira kuti mupange kusungitsa.",kusungitsa,neutral
+1196,koma tchizi chawo cha mac chinali YUMMY!,mac tchizi,positive
+1199,menyu yawo ya brunch inali ndi chinachake kwa aliyense.,brunch menyu,positive
+1201,woimba wa jazz anali ndi mawu abwino + anatipangitsa tonse kudzuka kuvina kugwedeza ma cals ena kuti tidye zina.,woimba wa jazz,positive
+1204,Ngati kufunafuna kwanu chonyansa mkulu mtengo chakudya ndi mukapeza ghetto zokongola wotchipa BX A $ $ ichi ndi malo kukhala !!,malo,negative
+1206,Ngati kufunafuna kwanu chonyansa mkulu mtengo chakudya ndi mukapeza ghetto zokongola wotchipa BX A $ $ ichi ndi malo kukhala !!,chakudya,negative
+1210,Ngati kufunafuna kwanu chonyansa mkulu mtengo chakudya ndi mukapeza ghetto zokongola wotchipa BX A $ $ ichi ndi malo kukhala !!,mtengo,negative
+1214,utumiki ndi mwamsanga wochezeka.,utumiki,positive
+1217,Tinapeza malo odyera awa mwangozi pamene tinali pa chikondwerero cha luso la DUMBO ndipo tinasangalala kwambiri ndi chakudya chathu.,chakudya,positive
+1220,Chakudyacho chinali chabwino kwambiri - zakudya zenizeni za ku Italy zopangidwa mwatsopano kwambiri.,Zakudya za ku Italy,positive
+1224,Chakudyacho chinali chabwino kwambiri - zakudya zenizeni za ku Italy zopangidwa mwatsopano kwambiri.,chakudya,positive
+1228,Utumikiwo unali wapadera.,utumiki,positive
+1231,i don't know what some people who rave about this hot dog are talking about.,galu wotentha,negative
+1233,izi popanda funso ndi imodzi mwa hotdogs yoipitsitsa yomwe ndakhala nayo.,hotdogs,negative
+1236,"Kuwonjezera pa agalu otentha kwambiri, DOTP ili ndi masangweji odabwitsa a kadzutsa omwe amawonetsa, kuwonjezera pa zinthu zazikulu monga tator tots ndi English muffins, mankhwala okoma a nkhumba a NJ amadziwa kwa ife atsikana ndi anyamata a Jersey monga Taylor ham.",English muffins,positive
+1240,"Kuwonjezera pa agalu otentha kwambiri, DOTP ili ndi masangweji odabwitsa a kadzutsa omwe amawonetsa, kuwonjezera pa zinthu zazikulu monga tator tots ndi English muffins, mankhwala okoma a nkhumba a NJ amadziwa kwa ife atsikana ndi anyamata a Jersey monga Taylor ham.",Taylor ham,positive
+1242,"Kuwonjezera pa agalu otentha kwambiri, DOTP ili ndi masangweji odabwitsa a kadzutsa omwe amawonetsa, kuwonjezera pa zinthu zazikulu monga tator tots ndi English muffins, mankhwala okoma a nkhumba a NJ amadziwa kwa ife atsikana ndi anyamata a Jersey monga Taylor ham.",mankhwala nkhumba,positive
+1246,"Kuwonjezera pa agalu otentha kwambiri, DOTP ili ndi masangweji odabwitsa a kadzutsa omwe amawonetsa, kuwonjezera pa zinthu zazikulu monga tator tots ndi English muffins, mankhwala okoma a nkhumba a NJ amadziwa kwa ife atsikana ndi anyamata a Jersey monga Taylor ham.",tator tots,positive
+1250,"Kuwonjezera pa agalu otentha kwambiri, DOTP ili ndi masangweji odabwitsa a kadzutsa omwe amawonetsa, kuwonjezera pa zinthu zazikulu monga tator tots ndi English muffins, mankhwala okoma a nkhumba a NJ amadziwa kwa ife atsikana ndi anyamata a Jersey monga Taylor ham.",agalu otentha,positive
+1254,"Kuwonjezera pa agalu otentha kwambiri, DOTP ili ndi masangweji odabwitsa a kadzutsa omwe amawonetsa, kuwonjezera pa zinthu zazikulu monga tator tots ndi English muffins, mankhwala okoma a nkhumba a NJ amadziwa kwa ife atsikana ndi anyamata a Jersey monga Taylor ham.",masangweji a kadzutsa,positive
+1258,"Ndemanga zokhudza zakudya zokazinga ndi zolondola (pansipa) koma mbale zina, kuphatikizapo entree ya nkhosa ndi zambiri za saladi (avocado shrimp) zinali zabwino kwambiri.",zakudya zokazinga,negative
+1260,"Ndemanga zokhudza zakudya zokazinga ndi zolondola (pansipa) koma mbale zina, kuphatikizapo entree ya nkhosa ndi zambiri za saladi (avocado shrimp) zinali zabwino kwambiri.",saladi (avocado shrimp),positive
+1262,"Ndemanga zokhudza zakudya zokazinga ndi zolondola (pansipa) koma mbale zina, kuphatikizapo entree ya nkhosa ndi zambiri za saladi (avocado shrimp) zinali zabwino kwambiri.",mbale,positive
+1265,"Ndemanga zokhudza zakudya zokazinga ndi zolondola (pansipa) koma mbale zina, kuphatikizapo entree ya nkhosa ndi zambiri za saladi (avocado shrimp) zinali zabwino kwambiri.",nkhosa entrée,positive
+1268,Mndandanda wa vinyo wokhumudwitsa pang'ono (vinyo watsopano wokha.,mpesa,negative
+1270,Mndandanda wa vinyo wokhumudwitsa pang'ono (vinyo watsopano wokha.,mndandanda wa vinyo,negative
+1273,"koma mtengo, inali malo abwino kwambiri okwera mtengo kuti musangalale ndi usiku wosangalatsa ndi gulu laling'ono.",phindu,positive
+1275,"Woperekera chakudya wathu anali wothandiza komanso wokongola, chakudyacho chinali changwiro, ndipo vinyo anali wabwino, nayenso.",vinyo,positive
+1279,"Woperekera chakudya wathu anali wothandiza komanso wokongola, chakudyacho chinali changwiro, ndipo vinyo anali wabwino, nayenso.",woperekera chakudya,positive
+1283,"Woperekera chakudya wathu anali wothandiza komanso wokongola, chakudyacho chinali changwiro, ndipo vinyo anali wabwino, nayenso.",chakudya,positive
+1287,Chakudyacho chinali chapadera ndipo utumiki unali pamwamba.,utumiki,positive
+1291,Chakudyacho chinali chapadera ndipo utumiki unali pamwamba.,chakudya,positive
+1295,"Kumamatira ku zinthu malo amachita bwino, brisket, nthiti, mapiko, cajun nkhanu ndi zabwino, osati kwambiri.",cajun nkhanu,neutral
+1298,"Kumamatira ku zinthu malo amachita bwino, brisket, nthiti, mapiko, cajun nkhanu ndi zabwino, osati kwambiri.",brisket,positive
+1301,"Kumamatira ku zinthu malo amachita bwino, brisket, nthiti, mapiko, cajun nkhanu ndi zabwino, osati kwambiri.",nthiti,positive
+1304,"Kumamatira ku zinthu malo amachita bwino, brisket, nthiti, mapiko, cajun nkhanu ndi zabwino, osati kwambiri.",mapiko,positive
+1307,"Great mowa kusankha kwambiri, chinachake ngati 50 mowa.",mowa,neutral
+1309,"Great mowa kusankha kwambiri, chinachake ngati 50 mowa.",kusankha mowa,positive
+1312,"BTW, utumiki ndi wabwino kwambiri .",utumiki,positive
+1315,"Choncho tinakhala pa bar, wogulitsa mowa sanaoneke ngati akufuna kukhalapo.",bala,neutral
+1317,"Choncho tinakhala pa bar, wogulitsa mowa sanaoneke ngati akufuna kukhalapo.",bartender,negative
+1319,Sitinadziwe ngati tiyenera kulamula chakumwa kapena kuchoka?,kumwa,neutral
+1321,Tinali kudabwa chifukwa chake iwo anali kumeneko kuti chakudya chathu chikhale chomvetsa chisoni?,kudya zinachitikira,negative
+1324,"Komabe, mwiniwakeyo anali wabodza.",mwini,negative
+1327,"Kunena moona mtima, chakudya cha ku China pano ndi chinthu chomwe ndingapange bwino kunyumba.",chakudya cha ku China,negative
+1329,Panali woperekera chakudya mmodzi yekha wa lesitilanti yonse yapamwamba.,woperekera chakudya,neutral
+1331,Ndinkaganiza kuti chakudyacho sichili chotsika mtengo ngakhale pang'ono poyerekeza ndi Chinatown.,chakudya,negative
+1334,Chinatown ndithudi ili ndi khalidwe labwino ndi mitengo yotsika mtengo.,mitengo,positive
+1338,Chinatown ndithudi ili ndi khalidwe labwino ndi mitengo yotsika mtengo.,khalidwe,positive
+1342,"Ndikhoza kumvetsa mitengo ngati anatumikira chakudya bwino, ngati ena odyera Chinese m'dera midtown / uptown.",mitengo,negative
+1344,"Ndikhoza kumvetsa mitengo ngati anatumikira chakudya bwino, ngati ena odyera Chinese m'dera midtown / uptown.",chakudya,negative
+1346,Amadyedwa ndi viniga wakuda ndi ginger shredded.,viniga wakuda,neutral
+1348,Amadyedwa ndi viniga wakuda ndi ginger shredded.,ginger yosweka,neutral
+1350,Malted Milk Ball Gelato - kodi munayamba mwamvapo za chilichonse chodabwitsa kwambiri?,Malted Mkaka Mpira Gelato,positive
+1353,"Ndinapeza chakudyacho kukhala chabwino mofanana ndi mwini wake, Da Silvano, wotsika mtengo kwambiri.",mwini,positive
+1356,"Ndinapeza chakudyacho kukhala chabwino mofanana ndi mwini wake, Da Silvano, wotsika mtengo kwambiri.",chakudya,positive
+1359,The ambience komanso kwambiri anaika-m'mbuyo ndi omasuka.,ambience,positive
+1362,Zonse zingapo za appetizer ndi pasta zapadera zinali zodabwitsa.,pasta yapadera,positive
+1365,Zonse zingapo za appetizer ndi pasta zapadera zinali zodabwitsa.,appetizer,positive
+1368,Ndithudi yesani taglierini ndi truffles - zinali zosaneneka.,taglierini ndi truffles,positive
+1371,"Komanso, ndodo ndi tcheru kwambiri ndi kwenikweni personable.",ndodo,positive
+1374,"risotto yanga ya masamba inatenthedwa, ndipo inalowetsedwa kotheratu mu kukoma kopsereza.",masamba risotto,negative
+1378,"risotto yanga ya masamba inatenthedwa, ndipo inalowetsedwa kotheratu mu kukoma kopsereza.",kukoma,negative
+1382,Ali ndi utumiki wofulumira kwambiri womwe uli wabwino kwambiri pamene mulibe nthawi yambiri.,utumiki,positive
+1385,"Chakudya ndi pafupifupi: chakudya cham'mawa, msuzi, saladi, masangweji, ndi zina zotero.",chakudya,neutral
+1388,"Chakudya ndi pafupifupi: chakudya cham'mawa, msuzi, saladi, masangweji, ndi zina zotero.",msuzi,neutral
+1391,"Chakudya ndi pafupifupi: chakudya cham'mawa, msuzi, saladi, masangweji, ndi zina zotero.",saladi,neutral
+1394,"Chakudya ndi pafupifupi: chakudya cham'mawa, msuzi, saladi, masangweji, ndi zina zotero.",masangweji,neutral
+1397,"Chakudya ndi pafupifupi: chakudya cham'mawa, msuzi, saladi, masangweji, ndi zina zotero.",chakudya cham'mawa,neutral
+1400,Ndi zokambirana zomwe zimapangitsa kuti malowa akhale osangalatsa.,malo,positive
+1403,"Chakudya chinali chabwino, koma osati chachikulu.",Chakudya,positive
+1406,Utumiki unali woopsa - makamaka chifukwa ogwira ntchito anagonjetsedwa Loweruka usiku.,Utumiki,negative
+1410,Utumiki unali woopsa - makamaka chifukwa ogwira ntchito anagonjetsedwa Loweruka usiku.,ndodo,negative
+1414,Tinali ndi phwando la tsiku lobadwa pano posachedwapa ndipo chakudya ndi utumiki zinali zodabwitsa.,utumiki,positive
+1417,Tinali ndi phwando la tsiku lobadwa pano posachedwapa ndipo chakudya ndi utumiki zinali zodabwitsa.,chakudya,positive
+1420,"Sikuti sushi anali atsopano, iwo anatumikiranso entrees ena analola mlendo aliyense chinachake kusankha ndipo ife tonse anasiya wosangalala (yesani bakha!",bakha,positive
+1424,"Sikuti sushi anali atsopano, iwo anatumikiranso entrees ena analola mlendo aliyense chinachake kusankha ndipo ife tonse anasiya wosangalala (yesani bakha!",entrees,neutral
+1426,"Sikuti sushi anali atsopano, iwo anatumikiranso entrees ena analola mlendo aliyense chinachake kusankha ndipo ife tonse anasiya wosangalala (yesani bakha!",sushi,positive
+1430,"Utumikiwo unali pang'onopang'ono pang'onopang'ono ndipo magawo ndi ochepa pang'ono kotero ngati muli ndi njala komanso mu kuthamanga, izi si malo kwa inu.",magawo,negative
+1434,"Utumikiwo unali pang'onopang'ono pang'onopang'ono ndipo magawo ndi ochepa pang'ono kotero ngati muli ndi njala komanso mu kuthamanga, izi si malo kwa inu.",utumiki,negative
+1438,"Chakudya chachikulu, zakumwa zazikulu, malo odyera abwino.",zakumwa,positive
+1442,"Chakudya chachikulu, zakumwa zazikulu, malo odyera abwino.",malo odyera,positive
+1446,"Chakudya chachikulu, zakumwa zazikulu, malo odyera abwino.",chakudya,positive
+1450,"Koma chakudya chamadzulo pano sichikhumudwitsa konse, ngakhale mitengo ili pang'ono pamwamba.",mitengo,negative
+1454,"Koma chakudya chamadzulo pano sichikhumudwitsa konse, ngakhale mitengo ili pang'ono pamwamba.",chakudya chamadzulo,positive
+1458,"Zokhumudwitsa, Saketini wawo wodabwitsa wachotsedwa pa menyu ya bar.",Saketini,positive
+1462,"Zokhumudwitsa, Saketini wawo wodabwitsa wachotsedwa pa menyu ya bar.",bar menyu,negative
+1466,"Chakudya kuno chinali chachikulu, chithandizo kuyambira pachiyambi mpaka kumapeto.",chakudya,positive
+1469,"Chakudya chabwino pamtengo woyenera, kodi mungapemphe chiyani.",mtengo,positive
+1473,"Chakudya chabwino pamtengo woyenera, kodi mungapemphe chiyani.",chakudya,positive
+1477,Zinthu zabwino kwambiri zolamula zimachokera ku grill (Churrasco ndi Nthiti).,Churrasco,positive
+1479,Zinthu zabwino kwambiri zolamula zimachokera ku grill (Churrasco ndi Nthiti).,grill,positive
+1481,Zinthu zabwino kwambiri zolamula zimachokera ku grill (Churrasco ndi Nthiti).,Nthiti,positive
+1483,Chakudya ndi khalidwe labwino kwambiri pamtengo wabwino wa malo odyera.,Chakudya,positive
+1487,Chakudya ndi khalidwe labwino kwambiri pamtengo wabwino wa malo odyera.,mtengo,positive
+1491,"The appetizers ali bwino, koma utumiki ndi pang'onopang'ono.",utumiki,negative
+1495,"The appetizers ali bwino, koma utumiki ndi pang'onopang'ono.",appetizers,neutral
+1499,Zabwino zake kupita kumeneko kukamwa ngati simukufuna kuledzera chifukwa mudzakhala ndi mwayi ngati mungapeze chakumwa chimodzi pa ola limodzi utumiki ndi woipa kwambiri.,kumwa,neutral
+1501,Zabwino zake kupita kumeneko kukamwa ngati simukufuna kuledzera chifukwa mudzakhala ndi mwayi ngati mungapeze chakumwa chimodzi pa ola limodzi utumiki ndi woipa kwambiri.,utumiki,negative
+1505,Zabwino zake kupita kumeneko kukamwa ngati simukufuna kuledzera chifukwa mudzakhala ndi mwayi ngati mungapeze chakumwa chimodzi pa ola limodzi utumiki ndi woipa kwambiri.,zakumwa,neutral
+1509,Basi kulowa ndi kuyesa chakudya chachikulu French kumadzulo kwa Daniel.,chakudya cha ku France,positive
+1512,Awa kwenikweni ndi malo otentha pankhani ya chakudya.,chakudya,positive
+1515,Satay ndi imodzi mwa malo omwe amakonda kwambiri ku Washington komwe utumiki ndi chakudya nthawi zonse zimakhala pa ndalama.,utumiki,positive
+1517,Satay ndi imodzi mwa malo omwe amakonda kwambiri ku Washington komwe utumiki ndi chakudya nthawi zonse zimakhala pa ndalama.,chakudya,positive
+1519,"Yesani nthiti, sizzling ng'ombe ndi angapo ndi mpunga kokonati.",ng'ombe,positive
+1522,"Yesani nthiti, sizzling ng'ombe ndi angapo ndi mpunga kokonati.",nthiti,positive
+1525,"Yesani nthiti, sizzling ng'ombe ndi angapo ndi mpunga kokonati.",mpunga wa kokonati,positive
+1527,Chenjerani ndi chili chosainidwa chakudya osati pokhapokha ngati mukufuna kuitana dipatimenti yozimitsa moto kuti muwononge malawi mkamwa mwanu.,chili anasaina zakudya zinthu,negative
+1529,"Chakudya ndi OKAY chabe, ndipo pafupifupi sikoyenera kupita pokhapokha ngati mukupeza pialla, yomwe ndi mbale yokhayo yomwe ili yabwino kwambiri.",mbale,positive
+1532,"Chakudya ndi OKAY chabe, ndipo pafupifupi sikoyenera kupita pokhapokha ngati mukupeza pialla, yomwe ndi mbale yokhayo yomwe ili yabwino kwambiri.",pialla,positive
+1535,Ogwira ntchito ndi aubwenzi kwambiri.,ndodo,positive
+1538,Amapanga pizza yabwino kwambiri ku New Jersey.,pizza,positive
+1541,"Woperekera chakudya sanali kokha wogwira ntchito bwino ndi waulemu, komanso wothandiza kwambiri. ",woperekera chakudya,positive
+1544,Malo odyera ang'onoang'ono omwe ali ndi utumiki wofulumira kwambiri.,utumiki,positive
+1547,"Great burgers, tchizi grilled ndi batala French.",tchizi grilled,positive
+1550,"Great burgers, tchizi grilled ndi batala French.",French batala,positive
+1553,"Great burgers, tchizi grilled ndi batala French.",burgers,positive
+1556,"Chakudyacho ndi chachikulu, ndimakonda dumplings awo, ozizira sesame noodles, nkhuku ndi nkhanu mbale.",nkhuku,positive
+1560,"Chakudyacho ndi chachikulu, ndimakonda dumplings awo, ozizira sesame noodles, nkhuku ndi nkhanu mbale.",chakudya,positive
+1564,"Chakudyacho ndi chachikulu, ndimakonda dumplings awo, ozizira sesame noodles, nkhuku ndi nkhanu mbale.",ozizira sesame noodles,positive
+1568,"Chakudyacho ndi chachikulu, ndimakonda dumplings awo, ozizira sesame noodles, nkhuku ndi nkhanu mbale.",dumplings,positive
+1572,"Chakudyacho ndi chachikulu, ndimakonda dumplings awo, ozizira sesame noodles, nkhuku ndi nkhanu mbale.",mbale za nkhanu,positive
+1576,"Best Chinese pa Upper East, yobereka mwamsanga, mtengo wabwino.",phindu,positive
+1580,"Best Chinese pa Upper East, yobereka mwamsanga, mtengo wabwino.",yobereka,positive
+1584,Sindinakhalepo ndi donut ya lalanje kale kotero ndinapereka kuwombera.,lalanje donut,neutral
+1586,Ndinadabwa kwambiri ndi kukoma kwake.,kukoma,positive
+1589,"A osakaniza ophunzira ndi dera okhala khamu mu izi yopapatiza, mosavuta kumeneko danga lake mwamsanga, zokoma amachitira pa mitengo dothi-wotchipa.",malo,negative
+1593,"A osakaniza ophunzira ndi dera okhala khamu mu izi yopapatiza, mosavuta kumeneko danga lake mwamsanga, zokoma amachitira pa mitengo dothi-wotchipa.",amachitira,positive
+1597,"A osakaniza ophunzira ndi dera okhala khamu mu izi yopapatiza, mosavuta kumeneko danga lake mwamsanga, zokoma amachitira pa mitengo dothi-wotchipa.",mitengo,positive
+1601,Koma okhazikika amadziwa kuti masangweji ndi nyenyezi yeniyeni pano.,masangweji,positive
+1604,"Kuti mutenge msuzi ndi chakudya cha sandwich, yesani msuzi wotentha ndi wowawasa.",msuzi wotentha ndi wowawasa,positive
+1608,"Kuti mutenge msuzi ndi chakudya cha sandwich, yesani msuzi wotentha ndi wowawasa.",msuzi ndi chakudya cha sandwich,positive
+1612,Iwo ali tirigu crusted pitsa opangidwa ndi zosakaniza kwenikweni atsopano ndi yummy.,tirigu crusted pitsa,positive
+1614,Iwo ali tirigu crusted pitsa opangidwa ndi zosakaniza kwenikweni atsopano ndi yummy.,zosakaniza,positive
+1617,"Kupindika kwawo pa pizza ndi heatlhy, koma yodzaza ndi kukoma.",kukoma,positive
+1621,"Kupindika kwawo pa pizza ndi heatlhy, koma yodzaza ndi kukoma.",kupindika pa pizza,positive
+1625,"Ngati mukulakalaka chakudya chachikulu cha ku India ndikukhumba ambiance yabwino, ichi ndi chosankha ndithu komanso chokongola.",ambiance,positive
+1629,"Ngati mukulakalaka chakudya chachikulu cha ku India ndikukhumba ambiance yabwino, ichi ndi chosankha ndithu komanso chokongola.",chakudya cha ku india,positive
+1633,"Sikuti utumiki ndi waukulu, koma kupanga zokambirana kuzungulira tebulo ndi kosavuta kwambiri chifukwa mlengalenga ukhoza kukhala wachikondi komanso womasuka.",utumiki,positive
+1637,"Sikuti utumiki ndi waukulu, koma kupanga zokambirana kuzungulira tebulo ndi kosavuta kwambiri chifukwa mlengalenga ukhoza kukhala wachikondi komanso womasuka.",mlengalenga,positive
+1641,Pali kandulo ndi nyimbo.,nyimbo,neutral
+1643,Pali kandulo ndi nyimbo.,nyali ya kandulo,neutral
+1645,Ndinasangalalanso ndi chakudyacho.,chakudya,positive
+1648,Malo a bar pansi ndi ozizira kwambiri komanso ozizira ...,pansi pa bar scene,positive
+1651,"Chakudyacho chinalidi chabwino, koma pamene zonse zinanenedwa ndi kuchitidwa, sindinathe kuzilungamitsa pamtengo (kuphatikizapo zakumwa za 2, $ 100 / munthu) ...",mtengo,negative
+1653,"Chakudyacho chinalidi chabwino, koma pamene zonse zinanenedwa ndi kuchitidwa, sindinathe kuzilungamitsa pamtengo (kuphatikizapo zakumwa za 2, $ 100 / munthu) ...",zakumwa,neutral
+1655,"Chakudyacho chinalidi chabwino, koma pamene zonse zinanenedwa ndi kuchitidwa, sindinathe kuzilungamitsa pamtengo (kuphatikizapo zakumwa za 2, $ 100 / munthu) ...",chakudya,positive
+1658,The BEST Chinese chakudya Uptown!,Chakudya cha ku China,positive
+1661,"Kutumiza mofulumira, chakudya chachikulu, mitengo yabwino, ndi utumiki waubwenzi kuphatikiza kuonetsetsa repast yosangalatsa.",chakudya,positive
+1665,"Kutumiza mofulumira, chakudya chachikulu, mitengo yabwino, ndi utumiki waubwenzi kuphatikiza kuonetsetsa repast yosangalatsa.",mitengo,positive
+1669,"Kutumiza mofulumira, chakudya chachikulu, mitengo yabwino, ndi utumiki waubwenzi kuphatikiza kuonetsetsa repast yosangalatsa.",utumiki,positive
+1673,"Kutumiza mofulumira, chakudya chachikulu, mitengo yabwino, ndi utumiki waubwenzi kuphatikiza kuonetsetsa repast yosangalatsa.",amapereka,positive
+1677,"Kutumiza mofulumira, chakudya chachikulu, mitengo yabwino, ndi utumiki waubwenzi kuphatikiza kuonetsetsa repast yosangalatsa.",repast,positive
+1681,"The ozizira sesame noodles, amene ali freebie pamene inu kulamula $ 10 +, ndi delectable.",ozizira sesame noodles,positive
+1684,Saladi ya avocado ndi fave yaumwini.,avocado saladi,positive
+1687,"Ndipo, uchi BBQ nthiti nsonga ndi yummy!",uchi BBQ nthiti nsonga,positive
+1690,Tinalamula nkhosa yomwe inali yophika mwangwiro ndi kulawa zozizwitsa.,nkhosa,positive
+1693,Chilichonse kuyambira mazira benedict kuti mussels ndipo ngakhale hamburger anachita bwino ndi zokoma kwambiri.,mussels,positive
+1696,Chilichonse kuyambira mazira benedict kuti mussels ndipo ngakhale hamburger anachita bwino ndi zokoma kwambiri.,mazira benedict,positive
+1699,Chilichonse kuyambira mazira benedict kuti mussels ndipo ngakhale hamburger anachita bwino ndi zokoma kwambiri.,hamburger,positive
+1702,"Ndithudi osati sushi yabwino kwambiri ku New York, komabe, nthawi zonse imakhala yatsopano, ndipo malowa ndi oyera kwambiri, osabala.",malo,positive
+1705,"Ndikukhulupirira anthu ku Go Sushi, sizikhumudwitsa konse.",anthu,positive
+1708,"Molunjika-kutsogolo, palibe zodabwitsa, chakudya chabwino kwambiri cha ku Japan.",Chakudya cha ku Japan,positive
+1711,"musandimvetse molakwika - sushi inali yabwino, osati yosangalatsa.",sushi,positive
+1714,zosiyanasiyana zabwino koma palibe chodabwitsa.,zosiyanasiyana,positive
+1717,Harumi Sushi ali ndi mtundu watsopano komanso wokoma kwambiri wa sushi ku NYC.,osiyanasiyana sushi,positive
+1720,"Ndikupangira kwambiri osati zakudya zake zapamwamba, komanso kwa eni ake aubwenzi ndi antchito.",zakudya,positive
+1724,"Ndikupangira kwambiri osati zakudya zake zapamwamba, komanso kwa eni ake aubwenzi ndi antchito.",ndodo,positive
+1728,"Ndikupangira kwambiri osati zakudya zake zapamwamba, komanso kwa eni ake aubwenzi ndi antchito.",eni ake,positive
+1732,Mnzake wina anayenera kupempha nthawi 3 tchizi cha parmesan.,tchizi cha parmesan,neutral
+1734,"Utumiki kwenikweni mofulumira ndi wochezeka, ndi phindu kwambiri.",phindu,positive
+1738,"Utumiki kwenikweni mofulumira ndi wochezeka, ndi phindu kwambiri.",utumiki,positive
+1742,Ndinali ndi njala ndipo magawo ang'onoang'ono anali kundipenga!,magawo,negative
+1745,Anali Lolemba lake la chakudya chamasana - anali kugwira ntchito pa filimu m'deralo - ndipo anapeza ngale yosowayi.,chakudya chamasana,neutral
+1747,"Ndipo izi si zazing'ono, wimpy chakudya chofulumira mtundu burgers - izi ndi zenizeni, zonse kukula patties.",burgers,positive
+1751,"Ndipo izi si zazing'ono, wimpy chakudya chofulumira mtundu burgers - izi ndi zenizeni, zonse kukula patties.",patties,positive
+1755,"Pakuti mtengo inu kulipira chakudya pano, mungayembekezere izo kukhala osachepera pa chimodzimodzi ndi odyera ena Japanese.",chakudya,negative
+1757,"Pakuti mtengo inu kulipira chakudya pano, mungayembekezere izo kukhala osachepera pa chimodzimodzi ndi odyera ena Japanese.",mtengo,negative
+1759,Gawo la chakudya linali LALING'ono ndi pansi pa avareji.,Gawo la chakudya,negative
+1762,Mkazi woperekera chakudya anabwera kudzatenga msuzi wa soya PAMENE tinali kudya chakudya chathu chamasana!!!!,chakudya chamasana,neutral
+1764,Mkazi woperekera chakudya anabwera kudzatenga msuzi wa soya PAMENE tinali kudya chakudya chathu chamasana!!!!,msuzi wa soya,neutral
+1766,Mkazi woperekera chakudya anabwera kudzatenga msuzi wa soya PAMENE tinali kudya chakudya chathu chamasana!!!!,waitress,negative
+1768,malo abwino kucheza masana mutatha kugula kapena kugwira msuzi wosavuta kapena mbale yakale ya french pa galasi la vinyo.,msuzi,neutral
+1772,malo abwino kucheza masana mutatha kugula kapena kugwira msuzi wosavuta kapena mbale yakale ya french pa galasi la vinyo.,malo,positive
+1776,malo abwino kucheza masana mutatha kugula kapena kugwira msuzi wosavuta kapena mbale yakale ya french pa galasi la vinyo.,galasi la vinyo,neutral
+1778,malo abwino kucheza masana mutatha kugula kapena kugwira msuzi wosavuta kapena mbale yakale ya french pa galasi la vinyo.,french mbale,neutral
+1782,Chakudya ndi chachikulu ndipo mitengo ndi yomveka.,mitengo,positive
+1786,Chakudya ndi chachikulu ndipo mitengo ndi yomveka.,chakudya,positive
+1790,"Malowa ndi oyera, ndipo ngati mumakonda chakudya cha moyo, ndiye kuti iyi ndi malo omwe muyenera kukhala!",chakudya cha moyo,positive
+1794,"Malowa ndi oyera, ndipo ngati mumakonda chakudya cha moyo, ndiye kuti iyi ndi malo omwe muyenera kukhala!",malo,positive
+1798,Ogwira ntchito ndi aubwenzi kwambiri ndipo ngakhale m'malo mwa chakumwa changa kamodzi pamene ndinachigwetsa panja.,ogwira ntchito,positive
+1801,Ogwira ntchito ndi aubwenzi kwambiri ndipo ngakhale m'malo mwa chakumwa changa kamodzi pamene ndinachigwetsa panja.,kumwa,neutral
+1803,Amakhazikika mu smoothies ndi madzi atsopano.,smoothies,positive
+1805,Amakhazikika mu smoothies ndi madzi atsopano.,madzi atsopano,positive
+1807,"Ngakhale smoothies ndi yaikulu pang'ono kwa ine, madzi atsopano ndi abwino kwambiri omwe ndakhala nawo!",smoothies,negative
+1811,"Ngakhale smoothies ndi yaikulu pang'ono kwa ine, madzi atsopano ndi abwino kwambiri omwe ndakhala nawo!",madzi atsopano,positive
+1815,Ali ndi nkhuku yabwino kwambiri ndi avocado ndi nsomba yabwino komanso.,nkhuku ndi avocado,positive
+1819,Ali ndi nkhuku yabwino kwambiri ndi avocado ndi nsomba yabwino komanso.,nsomba,positive
+1823,Ambiri a masangweji amapangidwa ndi soya mayonaise amene kwenikweni wokongola bwino.,masangweji,positive
+1826,Ambiri a masangweji amapangidwa ndi soya mayonaise amene kwenikweni wokongola bwino.,soya mayonaise,positive
+1828,"Sikuti iwo anali ndi zodabwitsa, masangweji, msuzi, pitsa etc, koma sorbets awo opangidwa kunyumba ali kunja kwa dziko lino!",sorbets yopangidwa kunyumba,positive
+1832,"Sikuti iwo anali ndi zodabwitsa, masangweji, msuzi, pitsa etc, koma sorbets awo opangidwa kunyumba ali kunja kwa dziko lino!",msuzi,positive
+1836,"Sikuti iwo anali ndi zodabwitsa, masangweji, msuzi, pitsa etc, koma sorbets awo opangidwa kunyumba ali kunja kwa dziko lino!",masangweji,positive
+1840,"Sikuti iwo anali ndi zodabwitsa, masangweji, msuzi, pitsa etc, koma sorbets awo opangidwa kunyumba ali kunja kwa dziko lino!",pizza,positive
+1844,Yesani Peanut Butter Sorbet ndi pizza ndi tchizi cha soya!,pizza ndi soya tchizi,positive
+1847,Yesani Peanut Butter Sorbet ndi pizza ndi tchizi cha soya!,Peanut Butter Sorbet,positive
+1850,"Utumiki ndi waukulu (mwinamwake ngakhale malire nagging koma osachepera inu kupeza chidwi), ndi desserts kwambiri ndi khofi ndi zabwino kwambiri ...",desserts,positive
+1854,"Utumiki ndi waukulu (mwinamwake ngakhale malire nagging koma osachepera inu kupeza chidwi), ndi desserts kwambiri ndi khofi ndi zabwino kwambiri ...",khofi,positive
+1858,Nyimbo zomwe nthawi zina zimakhala zolemera pang'ono kwa kukoma kwanga.,nyimbo,negative
+1861,"Casablanca servces zokoma falafel, tabouleh, humus ndi zina zosangalatsa Mediterranean, amene onse mtengo kwambiri.",Mediterranean imakondweretsa,positive
+1864,"Casablanca servces zokoma falafel, tabouleh, humus ndi zina zosangalatsa Mediterranean, amene onse mtengo kwambiri.",falafel,positive
+1867,"Casablanca servces zokoma falafel, tabouleh, humus ndi zina zosangalatsa Mediterranean, amene onse mtengo kwambiri.",humus,positive
+1870,"Casablanca servces zokoma falafel, tabouleh, humus ndi zina zosangalatsa Mediterranean, amene onse mtengo kwambiri.",tabouleh,positive
+1873,"Kumeneko malo odyera ndi wamba kwambiri, koma wangwiro chakudya chamasana, ndipo ntchito yawo yoperekera nthawi zonse imafulumira kwambiri.",chakudya chamasana,neutral
+1877,"Kumeneko malo odyera ndi wamba kwambiri, koma wangwiro chakudya chamasana, ndipo ntchito yawo yoperekera nthawi zonse imafulumira kwambiri.",ntchito yoperekera,positive
+1881,Iwo alinso ndi assortment kwambiri kukulunga ngati wanu si mu maganizo a miyambo Mediterranean ulendo.,assortment wa kukulunga,positive
+1884,Iwo alinso ndi assortment kwambiri kukulunga ngati wanu si mu maganizo a miyambo Mediterranean ulendo.,chikhalidwe Mediterranean ulendo,neutral
+1887,Zinatenga zaka 100 kuti Parisi azungulire kupanga pitsa (osachepera sindikuganiza kuti adapangapo chaka chino chisanafike) ... koma zinali zoyenera kudikira.,pizza,positive
+1890,Msuzi ndi wabwino kwambiri (watsopano kwambiri) ndi dabs ya mozzarella weniweni.,dabs ya mozzarella weniweni,neutral
+1892,Msuzi ndi wabwino kwambiri (watsopano kwambiri) ndi dabs ya mozzarella weniweni.,msuzi,positive
+1895,Mkate ndi pamwamba notch komanso.,mkate,positive
+1898,Amaperekedwa pa mkate wa Focacchia ndipo ayenera kufa.,anatumikira,neutral
+1900,Amaperekedwa pa mkate wa Focacchia ndipo ayenera kufa.,Focacchia mkate,neutral
+1903,Komanso pezani mphete za Anyezi - zabwino kwambiri zomwe takhala nazo.,Mphete za Anyezi,positive
+1906,"Mlengalenga wokongola, wangwiro zakumwa ndi / kapena appetizers.",appetizers,neutral
+1910,"Mlengalenga wokongola, wangwiro zakumwa ndi / kapena appetizers.",mlengalenga,positive
+1914,"Mlengalenga wokongola, wangwiro zakumwa ndi / kapena appetizers.",zakumwa,neutral
+1918,Zakudya zimatchulidwa ngati fusion ya ku Asia - sizikukwaniritsa bilu.,billed,negative
+1920,Zakudya zimatchulidwa ngati fusion ya ku Asia - sizikukwaniritsa bilu.,Asia Fusion,neutral
+1922,Zakudya zimatchulidwa ngati fusion ya ku Asia - sizikukwaniritsa bilu.,Zakudya,negative
+1924,Zakudya zimatchulidwa ngati fusion ya ku Asia - sizikukwaniritsa bilu.,bilu,negative
+1926,"Ogwira ntchito m'malo anali akatswiri kwambiri, aulemu ndi atcheru.",odikira,positive
+1929,"Wakhala kwa yemwe ali ku Brooklyn kwa zaka zoposa 25, tsopano sindikuyenera kupita pa mlatho wa pizza yabwino kwambiri .... Hanx",pizza,positive
+1932,Ndikudziwa chakudya chenicheni cha ku India ndipo izi sizinali choncho.,Chakudya cha ku India,negative
+1934,"Ndikupangira dumplings ya nkhumba yokazinga, nkhuku ya lalanje / nyama ya ng'ombe, ndi mpunga wokazinga.",nkhumba zokazinga dumplings,positive
+1937,"Ndikupangira dumplings ya nkhumba yokazinga, nkhuku ya lalanje / nyama ya ng'ombe, ndi mpunga wokazinga.",mpunga wokazinga,positive
+1940,"Ndikupangira dumplings ya nkhumba yokazinga, nkhuku ya lalanje / nyama ya ng'ombe, ndi mpunga wokazinga.",nkhuku ya lalanje / nyama ya ng'ombe,positive
+1943,Onetsetsani kutsagana ndi chakudya chanu ndi imodzi mwa madzi awo atsopano concoctions.,chakudya,neutral
+1945,Onetsetsani kutsagana ndi chakudya chanu ndi imodzi mwa madzi awo atsopano concoctions.,madzi atsopano concoctions,positive
+1948,"Inde, iwo ali pang'ono mtengo ndiye wamba, koma kenako kachiwiri, momwemonso chakudya chawo.",chakudya,positive
+1951,"Ndikupangira kwambiri nkhanu yaikulu ya marnier, ndi yabwino kwambiri.",nkhanu zazikulu za marnier,positive
+1954,"Glechik mwina njira yaing'ono kwambiri kwa odyera ndi miyezo Russian, koma ndi cozy ndi chakudya chabe WAMKULU.",chakudya,positive
+1957,"Muyenera kuyesa Odessa stew kapena Rabbit stew; saladi-zonse zabwino; ndipo kompot imatsitsimutsa kwambiri pa tsiku lotentha la chilimwe (amapanga momwe amayi anga amachitira, amandikumbutsa za kunyumba kwambiri).",saladi,positive
+1961,"Muyenera kuyesa Odessa stew kapena Rabbit stew; saladi-zonse zabwino; ndipo kompot imatsitsimutsa kwambiri pa tsiku lotentha la chilimwe (amapanga momwe amayi anga amachitira, amandikumbutsa za kunyumba kwambiri).",kompot,positive
+1965,"Muyenera kuyesa Odessa stew kapena Rabbit stew; saladi-zonse zabwino; ndipo kompot imatsitsimutsa kwambiri pa tsiku lotentha la chilimwe (amapanga momwe amayi anga amachitira, amandikumbutsa za kunyumba kwambiri).",Kalulu stew,positive
+1969,"Muyenera kuyesa Odessa stew kapena Rabbit stew; saladi-zonse zabwino; ndipo kompot imatsitsimutsa kwambiri pa tsiku lotentha la chilimwe (amapanga momwe amayi anga amachitira, amandikumbutsa za kunyumba kwambiri).",Odessa stew,positive
+1973,Chotero kaamba ka kudzazidwa ndi chakudya chopatsa thanzi chipereke.,chakudya,positive
+1976,Simple wathanzi chakudya chopanda chidwi wotchipa.,chakudya,positive
+1979,Msuzi wa chickpea wapansi umene tinayesa monga choyambira unalawa pang'ono.,msuzi wa chickpea wapansi,negative
+1982,Msuzi wa chickpea wapansi umene tinayesa monga choyambira unalawa pang'ono.,starter,neutral
+1985,Nkhuku ndi mbale za falafel zinali zophatikiza zopanda mafotokozedwe ndi saladi yatsopano ya masamba.,nkhuku ndi mbale za falafel,neutral
+1988,Nkhuku ndi mbale za falafel zinali zophatikiza zopanda mafotokozedwe ndi saladi yatsopano ya masamba.,saladi yatsopano ya masamba,neutral
+1991,The falafal anali m'malo pa ophika ndi zouma koma nkhuku anali bwino.,nkhuku,positive
+1995,The falafal anali m'malo pa ophika ndi zouma koma nkhuku anali bwino.,falafal,negative
+1999,Chikoka chachikulu cha malowa ndi mtengo.,mtengo,positive
+2002,"Potsirizira pake lolani kulowa m'sitolo 5 panthawi imodzi, kugula zidutswa zodula kuchokera kwa ogwira ntchito a harried.",zidutswa,negative
+2006,"Potsirizira pake lolani kulowa m'sitolo 5 panthawi imodzi, kugula zidutswa zodula kuchokera kwa ogwira ntchito a harried.",ndodo,negative
+2010,"Zotsatira (velvet wofiira): Mawonekedwe akuluakulu, ofewa ndi velvety, mawu abwino a koko.",mfundo ya koko,positive
+2014,"Zotsatira (velvet wofiira): Mawonekedwe akuluakulu, ofewa ndi velvety, mawu abwino a koko.",kapangidwe,positive
+2018,"ndi icing ANAPANGA keke iyi, anali fluffy, osati kopitilira muyeso wokoma, kirimu ndi kuwala.",keke,positive
+2021,"Keke yabwino KOMA: sizinali keke yabwino kwambiri yomwe ndakhala nayo, ndipo ndithudi si yoyenera kuima panja m'mphepete mwa msewu ndikunyamulidwa ngati ng'ombe ndi antchito osasamala komanso ogwira ntchito mopitirira muyeso.",ogwira ntchito,negative
+2023,"Keke yabwino KOMA: sizinali keke yabwino kwambiri yomwe ndakhala nayo, ndipo ndithudi si yoyenera kuima panja m'mphepete mwa msewu ndikunyamulidwa ngati ng'ombe ndi antchito osasamala komanso ogwira ntchito mopitirira muyeso.",keke,negative
+2026,Avereji keke kuti wakhala chibwenzi ndi LOT wa hype.,keke,negative
+2029,Kukongoletsa kumapangidwira mu malo odyera a kalembedwe ka Japan.,kukongoletsa,neutral
+2031,"Chakudya ndi chabwino, teriyaki ndikupangira.",teriyaki,positive
+2035,"Chakudya ndi chabwino, teriyaki ndikupangira.",chakudya,positive
+2039,"Gawo la Sashimi ndi lalikulu mokwanira kukondweretsa anthu ambiri, koma sindinakonde mfundo yomwe adagwiritsa ntchito nyama ya lobster artifical.",Sashimi gawo,positive
+2043,"Gawo la Sashimi ndi lalikulu mokwanira kukondweretsa anthu ambiri, koma sindinakonde mfundo yomwe adagwiritsa ntchito nyama ya lobster artifical.",artifical nkhanu nyama,negative
+2047,"Cacikulu, ichi ndi malo abwino kutenga abwenzi ochepa kucheza pa ndi utumiki kwambiri.",utumiki,positive
+2051,"Cacikulu, ichi ndi malo abwino kutenga abwenzi ochepa kucheza pa ndi utumiki kwambiri.",malo,positive
+2055,Chakudya ndi chachikulu ndipo mkaka wa mkaka ndi wabwino kwambiri!,milkshakes,positive
+2059,Chakudya ndi chachikulu ndipo mkaka wa mkaka ndi wabwino kwambiri!,chakudya,positive
+2063,"Kumanga chakudya ndi malamulo a m'mbali monga zodabwitsa 'Greens saladi, Buffalo Chicken Kickers ndi Cinna Stix.",Buffalo Chicken Kickers,neutral
+2065,"Kumanga chakudya ndi malamulo a m'mbali monga zodabwitsa 'Greens saladi, Buffalo Chicken Kickers ndi Cinna Stix.",chakudya,neutral
+2067,"Kumanga chakudya ndi malamulo a m'mbali monga zodabwitsa 'Greens saladi, Buffalo Chicken Kickers ndi Cinna Stix.",malamulo mbali,neutral
+2069,"Kumanga chakudya ndi malamulo a m'mbali monga zodabwitsa 'Greens saladi, Buffalo Chicken Kickers ndi Cinna Stix.",Cinna Stix,neutral
+2071,"Kumanga chakudya ndi malamulo a m'mbali monga zodabwitsa 'Greens saladi, Buffalo Chicken Kickers ndi Cinna Stix.",zodabwitsa ' Greens saladi,neutral
+2073,Tinachita chidwi kwambiri ndi chakudya ndi phindu.,phindu,positive
+2076,Tinachita chidwi kwambiri ndi chakudya ndi phindu.,chakudya,positive
+2079,Muyenera kuyesa msuzi wa adyo!,msuzi wa adyo,positive
+2082,"Chakudya ndi chachikulu (kusankha kwakukulu, mitengo yoyenera) ndipo zakumwa ndizabwino kwambiri.",zakumwa,positive
+2086,"Chakudya ndi chachikulu (kusankha kwakukulu, mitengo yoyenera) ndipo zakumwa ndizabwino kwambiri.",mitengo,positive
+2090,"Chakudya ndi chachikulu (kusankha kwakukulu, mitengo yoyenera) ndipo zakumwa ndizabwino kwambiri.",kusankha,positive
+2094,"Chakudya ndi chachikulu (kusankha kwakukulu, mitengo yoyenera) ndipo zakumwa ndizabwino kwambiri.",chakudya,positive
+2098,"Mlengalenga ndi wotentha, womasuka, artsy ndi sexy.",mlengalenga,positive
+2101,"Takhala kumeneko ndipo ife kwenikweni kusangalala chakudya, anali areally chakudya chachikulu, ndi utumiki anali kwenikweni zabwino.",chakudya,positive
+2105,"Takhala kumeneko ndipo ife kwenikweni kusangalala chakudya, anali areally chakudya chachikulu, ndi utumiki anali kwenikweni zabwino.",utumiki,positive
+2109,"Takhala kumeneko ndipo ife kwenikweni kusangalala chakudya, anali areally chakudya chachikulu, ndi utumiki anali kwenikweni zabwino.",chakudya,positive
+2113,"Kukongoletsa kunali kumva ngati tinali pa Cairo, kwenikweni msewu ndi mbali ya ulendo umenewo.",kukongoletsa,positive
+2115,Chakudyacho ndi chabwino kwambiri komanso chotchuka kwambiri moti kuyembekezera kungakhaledi maloto oopsa.,kudikira,negative
+2119,Chakudyacho ndi chabwino kwambiri komanso chotchuka kwambiri moti kuyembekezera kungakhaledi maloto oopsa.,chakudya,positive
+2123,Malo amenewa amagwiritsa ntchito nyama zosakwanira.,nyama,negative
+2126,"Ngakhale kuti ndi yaing'ono, ili ndi ambience yokongola, chakudya chabwino kwambiri (catfish ndi chokoma - ngati ya musaganize kuti ndi lil mchere) ndi utumiki wosamala.",utumiki,positive
+2130,"Ngakhale kuti ndi yaing'ono, ili ndi ambience yokongola, chakudya chabwino kwambiri (catfish ndi chokoma - ngati ya musaganize kuti ndi lil mchere) ndi utumiki wosamala.",ambience,positive
+2134,"Ngakhale kuti ndi yaing'ono, ili ndi ambience yokongola, chakudya chabwino kwambiri (catfish ndi chokoma - ngati ya musaganize kuti ndi lil mchere) ndi utumiki wosamala.",catfish,positive
+2138,"Ngakhale kuti ndi yaing'ono, ili ndi ambience yokongola, chakudya chabwino kwambiri (catfish ndi chokoma - ngati ya musaganize kuti ndi lil mchere) ndi utumiki wosamala.",chakudya,positive
+2142,"Chakudyacho chinatenga mphindi zingapo zowonjezera kuti zibwere, koma nthabwala zokongola za ogwira ntchito ndi ubwenzi zinapanga.",chakudya,neutral
+2144,"Chakudyacho chinatenga mphindi zingapo zowonjezera kuti zibwere, koma nthabwala zokongola za ogwira ntchito ndi ubwenzi zinapanga.",odikira,positive
+2147,Ndabwera kuno kukadya chakudya chamasana wamba komanso tsiku lobadwa la mnzanga ndipo nthawi zonse ndimasangalala.,chakudya chamasana wamba,neutral
+2149,The sushi nthawi zonse atsopano ndi yummy ndi menyu ndi wokongola zosiyanasiyana.,menyu,positive
+2153,The sushi nthawi zonse atsopano ndi yummy ndi menyu ndi wokongola zosiyanasiyana.,sushi,positive
+2157,Ndinachita chidwi kwambiri pa phwando la bday pamene waitstaff anapita pamwamba ndi kupitirira kundithandiza kukongoletsa ndi kutulutsa keke ya bday komanso kupereka utumiki wofulumira komanso waubwenzi ku phwando la anthu 15.,utumiki,positive
+2160,Ndinachita chidwi kwambiri pa phwando la bday pamene waitstaff anapita pamwamba ndi kupitirira kundithandiza kukongoletsa ndi kutulutsa keke ya bday komanso kupereka utumiki wofulumira komanso waubwenzi ku phwando la anthu 15.,waitstaff,positive
+2162,Chakudya chabwino kwambiri cha ku India chomwe ndadyapo.,Chakudya cha ku India,positive
+2165,"Ogwira ntchito ndi aubwenzi mosakhulupirika, ndipo ndimalota za Saag gosht yawo ... Zili bwino.",Saag gosht,positive
+2169,"Ogwira ntchito ndi aubwenzi mosakhulupirika, ndipo ndimalota za Saag gosht yawo ... Zili bwino.",ndodo,positive
+2173,"Tsoka ilo, pokhapokha ngati mukukhala m'dera lomwelo, sizili pamalo abwino koma zimakhala ngati chuma chobisika.",malo,negative
+2176,Ogwira ntchito anandipatsa moni mwachikondi pakhomo ndipo ndinakhala pansi mwamsanga ndipo chakudyacho chinali chabwino kwambiri.,ndodo,positive
+2180,Ogwira ntchito anandipatsa moni mwachikondi pakhomo ndipo ndinakhala pansi mwamsanga ndipo chakudyacho chinali chabwino kwambiri.,chakudya,positive
+2184,"Menyu ndi yaikulu, ndi kusankha bwino, ndipo zonse zomwe ndayesera ndi zokoma kwambiri.",menyu,positive
+2188,"Menyu ndi yaikulu, ndi kusankha bwino, ndipo zonse zomwe ndayesera ndi zokoma kwambiri.",kusankha,positive
+2192,"Ndinapita ku Swiftys ndi anzanga ena a m'banja ndipo tinali ndi chakudya chamadzulo chabwino kwambiri, koma palibe chodabwitsa.",chakudya chamadzulo,positive
+2195,Ndinali ndi nkhuku yokazinga ndi saladi.,saladi,neutral
+2197,Ndinali ndi nkhuku yokazinga ndi saladi.,nkhuku yophika,neutral
+2199,Malo awa ali ndi sushi yabwino kwambiri mumzinda.,sushi,positive
+2202,Ali ndi kusankha kwabwino kwambiri (mipukutu yokhala ndi nkhanu ndi yaikulu kwambiri).,mipukutu ndi nkhanu,positive
+2206,Ali ndi kusankha kwabwino kwambiri (mipukutu yokhala ndi nkhanu ndi yaikulu kwambiri).,kusankha,positive
+2210,Mtengo woyenera ndi sushi watsopano kwambiri.,sushi,positive
+2214,Mtengo woyenera ndi sushi watsopano kwambiri.,mtengo,positive
+2218,i went in one day asking for a table for a group and was greeted by a very rude hostess.,hostess,negative
+2221,i went in one day asking for a table for a group and was greeted by a very rude hostess.,mesa,neutral
+2223,"malo odyera anali opanda kanthu kwathunthu, koma anandipatsa mawonekedwe oipa ndipo anafunsa, palibe zosungitsa?",zosungitsa,neutral
+2225,ndiye anapanga chisokonezo chifukwa cholephera kuwonjezera mipando 1 kapena 2 kumapeto kulikonse kwa tebulo kwa anthu owonjezera.,mipando,neutral
+2227,ndiye anapanga chisokonezo chifukwa cholephera kuwonjezera mipando 1 kapena 2 kumapeto kulikonse kwa tebulo kwa anthu owonjezera.,mesa,neutral
+2229,ndadya pano pa nthawi yosiyana - chakudya ndi mediocre kwa mitengo.,chakudya,neutral
+2232,ndadya pano pa nthawi yosiyana - chakudya ndi mediocre kwa mitengo.,mitengo,negative
+2234,Desserts zikuphatikizapo flan ndi sopaipillas.,sopaipillas,neutral
+2236,Desserts zikuphatikizapo flan ndi sopaipillas.,Desserts,neutral
+2238,Desserts zikuphatikizapo flan ndi sopaipillas.,flan,neutral
+2240,Ndi kokha lotseguka kwa chakudya chamasana koma chakudya ndi chabwino kwambiri!,chakudya chamasana,neutral
+2242,Ndi kokha lotseguka kwa chakudya chamasana koma chakudya ndi chabwino kwambiri!,chakudya,positive
+2245,Ndi pafupifupi $ 7 pa chakudya chamasana ndipo ali ndi kutenga-kunja kapena kudya-mu.,kudya-mu,neutral
+2247,Ndi pafupifupi $ 7 pa chakudya chamasana ndipo ali ndi kutenga-kunja kapena kudya-mu.,chakudya chamasana,neutral
+2249,Ndi pafupifupi $ 7 pa chakudya chamasana ndipo ali ndi kutenga-kunja kapena kudya-mu.,kutenga-kunja,neutral
+2251,Chakudya ndi chabwino kwambiri ndipo amakhalanso ndi empenadas ndi plaintains zomwe zimakhala zabwino kwa chakudya chamasana.,plaintains,positive
+2255,Chakudya ndi chabwino kwambiri ndipo amakhalanso ndi empenadas ndi plaintains zomwe zimakhala zabwino kwa chakudya chamasana.,Chakudya,positive
+2259,Chakudya ndi chabwino kwambiri ndipo amakhalanso ndi empenadas ndi plaintains zomwe zimakhala zabwino kwa chakudya chamasana.,masana chakudya chochepa,positive
+2263,Chakudya ndi chabwino kwambiri ndipo amakhalanso ndi empenadas ndi plaintains zomwe zimakhala zabwino kwa chakudya chamasana.,empenadas,positive
+2267,"Chakudya chachikulu, vinyo wabwino komanso wolandira bwino kwambiri.",woyang'anira,positive
+2271,"Chakudya chachikulu, vinyo wabwino komanso wolandira bwino kwambiri.",vinyo,positive
+2275,"Chakudya chachikulu, vinyo wabwino komanso wolandira bwino kwambiri.",chakudya,positive
+2279,"Toppings onse ndi atsopano kwambiri mungaganize kuti anali ndi munda wawo wa masamba ndipo chigoba ndi changwiro kwambiri, kuti munthu kwenikweni amaganiza za momwe zinapangidwira.",pakhungu,positive
+2283,"Toppings onse ndi atsopano kwambiri mungaganize kuti anali ndi munda wawo wa masamba ndipo chigoba ndi changwiro kwambiri, kuti munthu kwenikweni amaganiza za momwe zinapangidwira.",toppings,positive
+2287,Malo awa ali ndi pizza yabwino kwambiri.,pizza,positive
+2290,Zimakhala zodzaza nthawi ya chakudya chamasana koma pali mipando yambiri kumbuyo ndipo aliyense amene amagwira ntchito kumeneko ndi wabwino kwambiri.,mipando,positive
+2293,Ndikulimbikitsanso mfundo za adyo.,adyo mfundo,positive
+2296,Ndikuganiza kuti meatball parm ndi yabwino.,meatball parm,positive
+2299,Chakudyacho ndi chokoma ndipo bar ili ndi vibe yaikulu.,bala,positive
+2303,Chakudyacho ndi chokoma ndipo bar ili ndi vibe yaikulu.,vibe,positive
+2307,Chakudyacho ndi chokoma ndipo bar ili ndi vibe yaikulu.,chakudya,positive
+2311,Ndinaima pafupi ndi brunch lero ndipo ndinali ndi vegan cranberry pancakes ndi mkaka wa mpunga.,vegan cranberry pancakes,neutral
+2313,Ndinaima pafupi ndi brunch lero ndipo ndinali ndi vegan cranberry pancakes ndi mkaka wa mpunga.,brunch,neutral
+2315,Ndinaima pafupi ndi brunch lero ndipo ndinali ndi vegan cranberry pancakes ndi mkaka wa mpunga.,mkaka wa mpunga,neutral
+2317,Chakudyacho chinali chabwino kwambiri ndipo ndinadabwa mosangalatsa kuona njira zambiri za vegan.,zosankha za vegan,positive
+2321,Chakudyacho chinali chabwino kwambiri ndipo ndinadabwa mosangalatsa kuona njira zambiri za vegan.,chakudya,positive
+2325,"Kwa munthu yemwe ankakonda kudana ndi chakudya cha ku India, Cha Baluchi chasintha pakati panga.",Chakudya cha ku India,positive
+2327,"Pomaliza curry yomwe ndingadye, kusangalala ndipo sindikuvutika ndi gastritis kuchokera maola 3 pambuyo pake.",curry,positive
+2330,Yesani mikate yopangidwa kunyumba.,mikate yopangidwa kunyumba,positive
+2333,"Onse ndi GREAT - poori, naan, paratha onse FRESH.",poori,positive
+2337,"Onse ndi GREAT - poori, naan, paratha onse FRESH.",paratha,positive
+2341,"Onse ndi GREAT - poori, naan, paratha onse FRESH.",naan,positive
+2345,Posachedwapa ine ndi mkazi wanga tinapita ku bistro kukadya chakudya chamadzulo ndipo tinakumana ndi zinthu zabwino kwambiri.,chakudya chamadzulo,neutral
+2348,Makeke a nkhanu ndi okoma ndipo nthiti ya BBQ inali yangwiro.,makeke a nkhanu,positive
+2352,Makeke a nkhanu ndi okoma ndipo nthiti ya BBQ inali yangwiro.,BBQ nthiti,positive
+2356,Great vinyo mndandanda ndi menyu kwambiri cocktail.,menyu cocktail,positive
+2360,Great vinyo mndandanda ndi menyu kwambiri cocktail.,mndandanda wa vinyo,positive
+2364,Chakudya ndi chabwino kwambiri ndipo utumiki ndi waukulu.,utumiki,positive
+2368,Chakudya ndi chabwino kwambiri ndipo utumiki ndi waukulu.,chakudya,positive
+2372,"Mu mi burrito, apa panalibe kanthu koma nkhuku yakuda yomwe inali ndi yomwe inaphika sabata yatha ndikungotentha mu kukoma kwa microwave.",nkhuku,negative
+2376,"Mu mi burrito, apa panalibe kanthu koma nkhuku yakuda yomwe inali ndi yomwe inaphika sabata yatha ndikungotentha mu kukoma kwa microwave.",kukoma,negative
+2380,"Pitani ndi zapadera, ndipo khalani kutali ndi salmon. ",zapadera,positive
+2384,"Pitani ndi zapadera, ndipo khalani kutali ndi salmon. ",salmon,negative
+2388,Pasitala anali wabwino kwambiri.,pastas,positive
+2391,Mlengalenga ndi wotopetsa.,Mlengalenga,negative
+2394,Pitani apa ngati mukufuna saladi yatsopano komanso yokoma ya mtundu uliwonse womwe mungaganizire.,saladi,positive
+2397,Lachiwiri lapitalo kukadya chakudya chamasana mochedwa ndi bwenzi.,mochedwa masana,neutral
+2399,"Atadikira pafupifupi ola limodzi, woperekera chakudyayo anatiuza mwankhanza kuti waiwala kupatsa khitchini lamulo lathu.",woperekera chakudya,negative
+2402,"Atadikira pafupifupi ola limodzi, woperekera chakudyayo anatiuza mwankhanza kuti waiwala kupatsa khitchini lamulo lathu.",kudikira,negative
+2404,"Atadikira pafupifupi ola limodzi, woperekera chakudyayo anatiuza mwankhanza kuti waiwala kupatsa khitchini lamulo lathu.",khitchini,neutral
+2406,Ndinafunsa mobwerezabwereza kuti mkhalidwe wa chakudyacho unali wotani ndipo ndinali wokwiya kwambiri ndi woperekera chakudya wamwano kwambiri.,chakudya,neutral
+2408,Ndinafunsa mobwerezabwereza kuti mkhalidwe wa chakudyacho unali wotani ndipo ndinali wokwiya kwambiri ndi woperekera chakudya wamwano kwambiri.,woperekera chakudya,negative
+2411,"Malo awa ali ndi chakudya chabwino kwambiri cha ku India ku New York, manja pansi.",Chakudya cha ku India,positive
+2414,Ogwira ntchito ndi aubwenzi kwambiri komanso othandiza ndipo ngati mutakhala pafupipafupi adzakukumbukirani.,odikira,positive
+2417,Chakudyacho chimakhalanso chapadera ndipo chimaperekedwa mofulumira kwambiri.,anatumikira,positive
+2421,Chakudyacho chimakhalanso chapadera ndipo chimaperekedwa mofulumira kwambiri.,chakudya,positive
+2425,Ine ndi mwamuna wanga takhala kumeneko nthawi zosachepera 6 ndipo nthawi zonse takhala tikupatsidwa utumiki wapamwamba kwambiri komanso nthawi zambiri desserts yaulere.,utumiki,positive
+2429,Ine ndi mwamuna wanga takhala kumeneko nthawi zosachepera 6 ndipo nthawi zonse takhala tikupatsidwa utumiki wapamwamba kwambiri komanso nthawi zambiri desserts yaulere.,desserts,positive
+2433,"Ngati mukuyang'ana kulawa chakudya chachikulu cha ku India ndipo mukufuna utumiki wabwino, ndithudi pitani ku Curry Leaf.",Chakudya cha ku India,positive
+2437,"Ngati mukuyang'ana kulawa chakudya chachikulu cha ku India ndipo mukufuna utumiki wabwino, ndithudi pitani ku Curry Leaf.",utumiki,positive
+2441,"El Nidos imodzi mwa malo odyera abwino kwambiri ku New York omwe ndakhala ndikupitako, ali ndi zosiyanasiyana zazikulu zokoma, kuthirira pakamwa pizza's.",pizza's,positive
+2444,"Pizza's imapangidwa mwatsopano, crispy, ndi wokonzeka kutumikira.",pizza's,positive
+2447,Utumiki umene tinakumana nawo unali waubwenzi ndi wabwino.,utumiki,positive
+2450,"Ndikhoza kunena kuti kukulunga, burgers ndi saladi zonse zinali zatsopano, zokoma ndipo mango margareta pa $ 9 anali BWINO WORTH ndalama.",saladi,positive
+2454,"Ndikhoza kunena kuti kukulunga, burgers ndi saladi zonse zinali zatsopano, zokoma ndipo mango margareta pa $ 9 anali BWINO WORTH ndalama.",mango margareta,positive
+2458,"Ndikhoza kunena kuti kukulunga, burgers ndi saladi zonse zinali zatsopano, zokoma ndipo mango margareta pa $ 9 anali BWINO WORTH ndalama.",akukuta,positive
+2462,"Ndikhoza kunena kuti kukulunga, burgers ndi saladi zonse zinali zatsopano, zokoma ndipo mango margareta pa $ 9 anali BWINO WORTH ndalama.",burgers,positive
+2466,"tsopano amatchedwa nikki sushi, sushi ili bwino.",sushi,neutral
+2469,hamburger yatsopano ndi msuzi wapadera ndi bwino - osachepera bwino kuposa mac yaikulu!,hamburger yatsopano ndi msuzi wapadera,positive
+2473,hamburger yatsopano ndi msuzi wapadera ndi bwino - osachepera bwino kuposa mac yaikulu!,chachikulu mac,negative
+2477,"koma, filet mignon sanali wabwino kwambiri pa ola lonse la cocktail limaphatikizapo appetizers yaulere (kusankha kwabwino kopanda sushi).",kusankha kopanda sushi,positive
+2481,"koma, filet mignon sanali wabwino kwambiri pa ola lonse la cocktail limaphatikizapo appetizers yaulere (kusankha kwabwino kopanda sushi).",appetizers,positive
+2485,"koma, filet mignon sanali wabwino kwambiri pa ola lonse la cocktail limaphatikizapo appetizers yaulere (kusankha kwabwino kopanda sushi).",cocktail ola,positive
+2487,"koma, filet mignon sanali wabwino kwambiri pa ola lonse la cocktail limaphatikizapo appetizers yaulere (kusankha kwabwino kopanda sushi).",filet mignon,negative
+2491,UNALI MWAYI WATHU WOKHA WOYENDERA NDIPO TINKAFUNA CHAKUDYA CHENICHENI CHA KU ITALY.,CHAKUDYA CHA KU ITALY,neutral
+2494,IWO ALI NDI OGWIRA NTCHITO M'MBALI MWA MSEWU AKUYESERA KUKUKOKANI ZOMWE ZINATIPANGITSA KUKAYIKIRA.,WAITERS,neutral
+2496,LASAGNA MWINA INALI YABWINO KWAMBIRI YOMWE NDALAWA.,LASAGNA,positive
+2499,The menyu ndi chidwi ndi ndithu moyenera mtengo.,mtengo,positive
+2503,The menyu ndi chidwi ndi ndithu moyenera mtengo.,menyu,positive
+2507,Chakudyacho chinali chokoma ndipo momveka bwino zosakaniza zatsopano zinagwiritsidwa ntchito.,zosakaniza,positive
+2511,Chakudyacho chinali chokoma ndipo momveka bwino zosakaniza zatsopano zinagwiritsidwa ntchito.,chakudya,positive
+2515,Ogwira ntchito anali aubwenzi kwambiri ndi osangalatsa.,ndodo,positive
+2518,"Chipindacho ndi chosavuta pang'ono, koma ndizovuta kuti malo ang'onoang'ono ngati amenewa akhale osangalatsa ndipo sindingapereke lingaliro limenelo ngati chifukwa chosapita.",chipinda,negative
+2521,"Chipindacho ndi chosavuta pang'ono, koma ndizovuta kuti malo ang'onoang'ono ngati amenewa akhale osangalatsa ndipo sindingapereke lingaliro limenelo ngati chifukwa chosapita.",malo,negative
+2523,"Anali ndi chakudya chamadzulo chokongola mu mgwirizanowu wodzipereka wa nsomba zam'nyanja, chakudya chinali chokonzedwa bwino komanso -choperekedwa ndipo utumikiwo unali wosangalatsa komanso wofulumira.",utumiki,positive
+2527,"Anali ndi chakudya chamadzulo chokongola mu mgwirizanowu wodzipereka wa nsomba zam'nyanja, chakudya chinali chokonzedwa bwino komanso -choperekedwa ndipo utumikiwo unali wosangalatsa komanso wofulumira.",chakudya,positive
+2531,"Anali ndi chakudya chamadzulo chokongola mu mgwirizanowu wodzipereka wa nsomba zam'nyanja, chakudya chinali chokonzedwa bwino komanso -choperekedwa ndipo utumikiwo unali wosangalatsa komanso wofulumira.",chakudya chamadzulo,positive
+2535,"Malo abwino, malinga ngati sakhala odzaza kwambiri komanso kudzipereka kwa singleminded ku zakudya zake zosankhidwa zimapangitsa Mare kusankha kwakukulu kwa okonda nsomba zam'nyanja.",zakudya,positive
+2537,"Malo abwino, malinga ngati sakhala odzaza kwambiri komanso kudzipereka kwa singleminded ku zakudya zake zosankhidwa zimapangitsa Mare kusankha kwakukulu kwa okonda nsomba zam'nyanja.",nsomba za m'nyanja,positive
+2540,Ndi malo onse wamba kapena mediocre pa 8th avenue ndibwino kukhala ndi imodzi yomwe ili sitepe pamwamba pa quaility ndi mlengalenga.,quaility,positive
+2543,Ndi malo onse wamba kapena mediocre pa 8th avenue ndibwino kukhala ndi imodzi yomwe ili sitepe pamwamba pa quaility ndi mlengalenga.,mlengalenga,positive
+2546,Ngati mumakonda nsomba zam'nyanja ndi / kapena chakudya chachigiriki mudzakonda malowa ngakhale kuti siziri zokhazokha pazinthu izi.,nsomba za m'nyanja,positive
+2548,Ngati mumakonda nsomba zam'nyanja ndi / kapena chakudya chachigiriki mudzakonda malowa ngakhale kuti siziri zokhazokha pazinthu izi.,Chakudya chachigiriki,positive
+2550,Chakudyacho chinali pafupifupi nthawi zonse EXCELLENT.,chakudya,positive
+2553,Zokonda zanga pano ndi Tacos Pastor ndi Tostada de Tinga ...,Tacos Pastor,positive
+2556,Zokonda zanga pano ndi Tacos Pastor ndi Tostada de Tinga ...,Tostada de Tinga,positive
+2559,Kukongoletsa ndiko kumene poyamba anandilowetsa pakhomo.,kukongoletsa,positive
+2561,"Batala wandiweyani, chili meaty ndi mbatata yophika yodzaza kuzungulira menyu yomwe imaphatikizapo chokoleti chozizira, cha chokoleti chachikulu frosty.",odzaza mbatata yophika,neutral
+2563,"Batala wandiweyani, chili meaty ndi mbatata yophika yodzaza kuzungulira menyu yomwe imaphatikizapo chokoleti chozizira, cha chokoleti chachikulu frosty.",meaty chili,neutral
+2565,"Batala wandiweyani, chili meaty ndi mbatata yophika yodzaza kuzungulira menyu yomwe imaphatikizapo chokoleti chozizira, cha chokoleti chachikulu frosty.",chokoleti Frosty,positive
+2569,"Batala wandiweyani, chili meaty ndi mbatata yophika yodzaza kuzungulira menyu yomwe imaphatikizapo chokoleti chozizira, cha chokoleti chachikulu frosty.",menyu,neutral
+2571,"Batala wandiweyani, chili meaty ndi mbatata yophika yodzaza kuzungulira menyu yomwe imaphatikizapo chokoleti chozizira, cha chokoleti chachikulu frosty.",batala,neutral
+2575,Ndiyenera kunena kuti ali ndi imodzi mwa nthawi zoperekera mofulumira kwambiri mumzindawu.,nthawi yobereka,positive
+2578,Chakudya nthawi zonse mwatsopano ndi otentha- okonzeka kudya!,Chakudya,positive
+2581,Khofi ndi malonda abwino kuposa masangweji a Cosi okwera mtengo.,Khofi,positive
+2585,Khofi ndi malonda abwino kuposa masangweji a Cosi okwera mtengo.,Masangweji a Cosi,negative
+2589,Ine ndikanangopita kwa khofi amene ali njira bwino kuposa Starbucks kapena ngati.,khofi,positive
+2592,"ngati mukuyang'ana chakudya chenicheni cha hong kong, yang'anani patali.",hong kong-kalembedwe chakudya,positive
+2595,mbale mpunga ndi mbale noodle kawirikawiri kupitirira $ 5 ndi kuwonjezera pa zotsitsimutsa ayezi chakumwa kwa $ 2 ndipo inu anapereka usiku!,chakumwa cha ayezi,positive
+2598,mbale mpunga ndi mbale noodle kawirikawiri kupitirira $ 5 ndi kuwonjezera pa zotsitsimutsa ayezi chakumwa kwa $ 2 ndipo inu anapereka usiku!,mbale za mpunga,positive
+2600,mbale mpunga ndi mbale noodle kawirikawiri kupitirira $ 5 ndi kuwonjezera pa zotsitsimutsa ayezi chakumwa kwa $ 2 ndipo inu anapereka usiku!,noodle mbale,positive
+2602,"Tsoka ilo, tinasankha malo awa chakudya chamasana monga momwe tinayendera kwambiri ndipo tinathera ku South St Seaport.",chakudya chamasana,neutral
+2604,"Palibe nyemba zobiriwira, palibe dzira, palibe kuvala kwa anchovy, palibe maolivi a nicoise, palibe anyezi wofiira.",anyezi wofiira,neutral
+2607,"Palibe nyemba zobiriwira, palibe dzira, palibe kuvala kwa anchovy, palibe maolivi a nicoise, palibe anyezi wofiira.",nicoise azitona,neutral
+2610,"Palibe nyemba zobiriwira, palibe dzira, palibe kuvala kwa anchovy, palibe maolivi a nicoise, palibe anyezi wofiira.",dzira,neutral
+2613,"Palibe nyemba zobiriwira, palibe dzira, palibe kuvala kwa anchovy, palibe maolivi a nicoise, palibe anyezi wofiira.",nyemba zobiriwira,neutral
+2616,"Palibe nyemba zobiriwira, palibe dzira, palibe kuvala kwa anchovy, palibe maolivi a nicoise, palibe anyezi wofiira.",anchovy kuvala,neutral
+2619,"Kwenikweni, iyi sinali saladi ya Nicoise ndipo inali yosadya kwenikweni.",Nicoise saladi,negative
+2621,Mkazi womvetsa chisoni pafupi nafe anaganiza kuti analamula saladi (kuphatikizapo kupempha kuvala saladi) ndipo m'malo mwake anapatsidwa quesedilla.,kuvala saladi,neutral
+2623,Mkazi womvetsa chisoni pafupi nafe anaganiza kuti analamula saladi (kuphatikizapo kupempha kuvala saladi) ndipo m'malo mwake anapatsidwa quesedilla.,quesedilla,neutral
+2625,Mkazi womvetsa chisoni pafupi nafe anaganiza kuti analamula saladi (kuphatikizapo kupempha kuvala saladi) ndipo m'malo mwake anapatsidwa quesedilla.,saladi,neutral
+2627,"Pamene anadandaula, woperekera chakudyayo anati, Pepani.",waitress,neutral
+2629,15% gratuity basi anawonjezera bilu.,gratuity,negative
+2631,15% gratuity basi anawonjezera bilu.,bilu,negative
+2633,"The chokoleti rasipiberi keke ndi kumwamba- osati zokoma kwambiri, koma odzaza ndi kukoma.",kukoma,positive
+2637,"The chokoleti rasipiberi keke ndi kumwamba- osati zokoma kwambiri, koma odzaza ndi kukoma.",chokoleti rasipiberi keke,positive
+2641,Khalani kumbuyo mu imodzi mwa mipando yabwino imeneyo.,mipando,positive
+2644,"Mlengalenga umakutengerani kumalo amenewo, malo omwe ambiri amalota.",mlengalenga,positive
+2646,Kaya wanu kusankha iced wosakanizidwa mocha kapena otentha woyera mocha ndinu otsimikiza kukhala wokondwa kwambiri.,otentha woyera mocha,positive
+2648,Kaya wanu kusankha iced wosakanizidwa mocha kapena otentha woyera mocha ndinu otsimikiza kukhala wokondwa kwambiri.,iced wosakanizidwa mocha,positive
+2650,"Ngakhale pali menyu yabwino, sayenera kutenga mphindi khumi kuti mupeze zakumwa zanu ndi 45 kwa pizza ya dessert.",zakumwa,neutral
+2652,"Ngakhale pali menyu yabwino, sayenera kutenga mphindi khumi kuti mupeze zakumwa zanu ndi 45 kwa pizza ya dessert.",menyu,positive
+2655,"Ngakhale pali menyu yabwino, sayenera kutenga mphindi khumi kuti mupeze zakumwa zanu ndi 45 kwa pizza ya dessert.",dessert pizza,neutral
+2657,Tinamaliza kungochoka chifukwa kwenikweni tinali kunyalanyazidwa ndi ogwira ntchito yodikirira--ngakhale kuti malo ena onse odyera anali opanda kanthu.,dikirani antchito,negative
+2660,awo chakudya chapadera ndi wosangalatsa.,chakudya chamadzulo chapadera,positive
+2663,"kwa pafupifupi ndalama khumi ndi imodzi mumapeza burrito yaikulu (kapena tacos), margarita, ndi dessert.",tacos,positive
+2666,"kwa pafupifupi ndalama khumi ndi imodzi mumapeza burrito yaikulu (kapena tacos), margarita, ndi dessert.",margarita,neutral
+2668,"kwa pafupifupi ndalama khumi ndi imodzi mumapeza burrito yaikulu (kapena tacos), margarita, ndi dessert.",dessert,neutral
+2670,"kwa pafupifupi ndalama khumi ndi imodzi mumapeza burrito yaikulu (kapena tacos), margarita, ndi dessert.",burrito,positive
+2673,wangwiro chakudya mwamsanga.,chakudya,positive
+2676,"Sizikuwoneka ngati zambiri kunja, koma mphindi yomwe mumayenda mkati, ndi mlengalenga wina wonse.",mlengalenga,positive
+2678,"Sizikuwoneka ngati zambiri kunja, koma mphindi yomwe mumayenda mkati, ndi mlengalenga wina wonse.",kunja,negative
+2680,Ndinapita ku Common Stock kwa brunch ndipo ndinachita chidwi kwambiri.,brunch,neutral
+2683,Mnzanga anali ndi burger ndipo ndinali ndi mapepala odabwitsa awa a blueberry.,burger,neutral
+2685,Mnzanga anali ndi burger ndipo ndinali ndi mapepala odabwitsa awa a blueberry.,blueberry pancakes,positive
+2688,Tinasangalala kwambiri ndi chakudya chathu ndipo tinasangalala kwambiri titaona ndalamazo.,bilu,positive
+2692,Tinasangalala kwambiri ndi chakudya chathu ndipo tinasangalala kwambiri titaona ndalamazo.,chakudya,positive
+2696,Amabweretsa ngolo ya msuzi mpaka patebulo lanu ndikupatsani mpaka 7 kapena 8 zosankha za sauces kwa steak yanu (Ndinayesa iwo ONSE).,msuzi ngolo,neutral
+2698,Amabweretsa ngolo ya msuzi mpaka patebulo lanu ndikupatsani mpaka 7 kapena 8 zosankha za sauces kwa steak yanu (Ndinayesa iwo ONSE).,mesa,neutral
+2700,Amabweretsa ngolo ya msuzi mpaka patebulo lanu ndikupatsani mpaka 7 kapena 8 zosankha za sauces kwa steak yanu (Ndinayesa iwo ONSE).,zosankha za msuzi,positive
+2702,Amabweretsa ngolo ya msuzi mpaka patebulo lanu ndikupatsani mpaka 7 kapena 8 zosankha za sauces kwa steak yanu (Ndinayesa iwo ONSE).,steak,neutral
+2704,Utumikiwo unali pa mfundo - ndi chiyani china chomwe mungayembekezere kuchokera ku Ritz?,utumiki,positive
+2707,Dessert inalinso kufa!,Dessert,positive
+2710,Ubwino wa nyamayo unali wofanana ndi sitolo yanu ya golosale.,khalidwe la nyama,negative
+2713,Utumiki umadziwika chifukwa chowerama kumbuyo kuti aliyense asangalale.,Utumiki,positive
+2716,"Zakudya zomwe zimadziwika kuti ""Roy's Classics"" (zolembedwa pa menyu ndi asterisks) ndi maphikidwe oyesedwa ndi oona, monga macadamia-crusted mahi mahi, kapena mochenjera wokoma uchi-mpiru ng'ombe nthiti zazifupi.","""Roy's Classics""",positive
+2719,"Zakudya zomwe zimadziwika kuti ""Roy's Classics"" (zolembedwa pa menyu ndi asterisks) ndi maphikidwe oyesedwa ndi oona, monga macadamia-crusted mahi mahi, kapena mochenjera wokoma uchi-mpiru ng'ombe nthiti zazifupi.",macadamia-crusted mahi mahi,positive
+2722,"Zakudya zomwe zimadziwika kuti ""Roy's Classics"" (zolembedwa pa menyu ndi asterisks) ndi maphikidwe oyesedwa ndi oona, monga macadamia-crusted mahi mahi, kapena mochenjera wokoma uchi-mpiru ng'ombe nthiti zazifupi.",Zakudya,positive
+2725,"Zakudya zomwe zimadziwika kuti ""Roy's Classics"" (zolembedwa pa menyu ndi asterisks) ndi maphikidwe oyesedwa ndi oona, monga macadamia-crusted mahi mahi, kapena mochenjera wokoma uchi-mpiru ng'ombe nthiti zazifupi.",wokoma uchi-mpiru ng'ombe nthiti zazifupi,positive
+2728,"Zakudya zomwe zimadziwika kuti ""Roy's Classics"" (zolembedwa pa menyu ndi asterisks) ndi maphikidwe oyesedwa ndi oona, monga macadamia-crusted mahi mahi, kapena mochenjera wokoma uchi-mpiru ng'ombe nthiti zazifupi.",menyu,neutral
+2730,"Zakudya zomwe zimadziwika kuti ""Roy's Classics"" (zolembedwa pa menyu ndi asterisks) ndi maphikidwe oyesedwa ndi oona, monga macadamia-crusted mahi mahi, kapena mochenjera wokoma uchi-mpiru ng'ombe nthiti zazifupi.",maphikidwe,positive
+2733,"Chophika chabwino kwambiri, chokoleti ndi phwetekere tart, si makamaka Hawaii, koma ndi dziko laling'ono pankhani ya maswiti.",maswiti,neutral
+2735,"Chophika chabwino kwambiri, chokoleti ndi phwetekere tart, si makamaka Hawaii, koma ndi dziko laling'ono pankhani ya maswiti.",dessert,positive
+2738,"Chophika chabwino kwambiri, chokoleti ndi phwetekere tart, si makamaka Hawaii, koma ndi dziko laling'ono pankhani ya maswiti.",chokoleti ndi mtedza tart,positive
+2740,"menyu ya chakudya chamadzulo imapereka zosiyanasiyana zazikulu entrees, kuphatikizapo nsomba zam'nyanja zatsopano ndi steaks yaikulu, palinso njira zingapo zopanda nyama.",steaks,positive
+2744,"menyu ya chakudya chamadzulo imapereka zosiyanasiyana zazikulu entrees, kuphatikizapo nsomba zam'nyanja zatsopano ndi steaks yaikulu, palinso njira zingapo zopanda nyama.",njira zina zopanda nyama,neutral
+2746,"menyu ya chakudya chamadzulo imapereka zosiyanasiyana zazikulu entrees, kuphatikizapo nsomba zam'nyanja zatsopano ndi steaks yaikulu, palinso njira zingapo zopanda nyama.",nsomba za m'nyanja,positive
+2750,"menyu ya chakudya chamadzulo imapereka zosiyanasiyana zazikulu entrees, kuphatikizapo nsomba zam'nyanja zatsopano ndi steaks yaikulu, palinso njira zingapo zopanda nyama.",entrees,positive
+2754,"menyu ya chakudya chamadzulo imapereka zosiyanasiyana zazikulu entrees, kuphatikizapo nsomba zam'nyanja zatsopano ndi steaks yaikulu, palinso njira zingapo zopanda nyama.",menyu ya chakudya chamadzulo,positive
+2758,"chirichonse ndi scrumptious, kuchokera utumiki kwambiri ndi waitresses wokongola, kuti kwambiri zobiriwira m'mlengalenga.",utumiki,positive
+2762,"chirichonse ndi scrumptious, kuchokera utumiki kwambiri ndi waitresses wokongola, kuti kwambiri zobiriwira m'mlengalenga.",waitresses,positive
+2766,"chirichonse ndi scrumptious, kuchokera utumiki kwambiri ndi waitresses wokongola, kuti kwambiri zobiriwira m'mlengalenga.",mlengalenga,positive
+2770,"iwo kwenikweni kupereka yopuma, anaika-m'mbuyo m'mlengalenga.",mlengalenga,positive
+2773,"Ndinabwera mwatsopano kuyembekezera chakudya chachikulu, ndipo zonse ndinapeza anali marginally kotero-kotero chakudya anatumikira mu odyera kuti anali basi choncho kuzizira sitikanatha kusangalala kudya.",anatumikira,neutral
+2775,"Ndinabwera mwatsopano kuyembekezera chakudya chachikulu, ndipo zonse ndinapeza anali marginally kotero-kotero chakudya anatumikira mu odyera kuti anali basi choncho kuzizira sitikanatha kusangalala kudya.",chakudya,negative
+2777,"Ndinabwera mwatsopano kuyembekezera chakudya chachikulu, ndipo zonse ndinapeza anali marginally kotero-kotero chakudya anatumikira mu odyera kuti anali basi choncho kuzizira sitikanatha kusangalala kudya.",chakudya,negative
+2780,"Mkazi wathu woperekera chakudya mwachiwonekere sanayesepo chakudya chilichonse, ndipo panalibe amene angalimbikitse vinyo aliyense.",chakudya,neutral
+2782,"Mkazi wathu woperekera chakudya mwachiwonekere sanayesepo chakudya chilichonse, ndipo panalibe amene angalimbikitse vinyo aliyense.",vinyo,neutral
+2784,"Mkazi wathu woperekera chakudya mwachiwonekere sanayesepo chakudya chilichonse, ndipo panalibe amene angalimbikitse vinyo aliyense.",waitress,negative
+2786,"The halibut matama appetizer anabwera ndi gawo wopatsa foie gras, koma kuti ndi za chinthu chokha chabwino ndinganene za chakudya.",halibut matama appetizer,neutral
+2790,"The halibut matama appetizer anabwera ndi gawo wopatsa foie gras, koma kuti ndi za chinthu chokha chabwino ndinganene za chakudya.",gawo la foie gras,positive
+2794,Zinthu zachikhalidwe za ku Italy ndi zazikulu - zotsika mtengo ndipo zimatumikiridwa m'malo abwino.,anatumikira,positive
+2796,Zinthu zachikhalidwe za ku Italy ndi zazikulu - zotsika mtengo ndipo zimatumikiridwa m'malo abwino.,kukhazikitsa,positive
+2800,Zinthu zachikhalidwe za ku Italy ndi zazikulu - zotsika mtengo ndipo zimatumikiridwa m'malo abwino.,zinthu zachikhalidwe cha ku Italy,positive
+2804,"Mwangwiro al dente pasta, osati kumira mu msuzi - magawo owolowa manja.",magawo,positive
+2808,"Mwangwiro al dente pasta, osati kumira mu msuzi - magawo owolowa manja.",pasitala,positive
+2812,"Mwangwiro al dente pasta, osati kumira mu msuzi - magawo owolowa manja.",msuzi,neutral
+2816,Tinasangalala bwinobwino ndipo tidzakhala tikubwerera ku desserts ....,desserts,positive
+2818,"Menyu yanga yochititsa chidwi komanso yolenga ya Chelsea imaphatikizapo zakudya zamakono, zakumadzulo zaku Japan monga Foie Gras Unagi Napolean, Jap style hamburger steak, zokometsera cod roe spaghetti, cod wakuda ndi miso base, ndi rack ya nkhosa mu msuzi wakuda wa truffle, kutchula ochepa.",zokometsera cod roe spaghetti,neutral
+2822,"Menyu yanga yochititsa chidwi komanso yolenga ya Chelsea imaphatikizapo zakudya zamakono, zakumadzulo zaku Japan monga Foie Gras Unagi Napolean, Jap style hamburger steak, zokometsera cod roe spaghetti, cod wakuda ndi miso base, ndi rack ya nkhosa mu msuzi wakuda wa truffle, kutchula ochepa.",Foie Gras Unagi Napolean,neutral
+2826,"Menyu yanga yochititsa chidwi komanso yolenga ya Chelsea imaphatikizapo zakudya zamakono, zakumadzulo zaku Japan monga Foie Gras Unagi Napolean, Jap style hamburger steak, zokometsera cod roe spaghetti, cod wakuda ndi miso base, ndi rack ya nkhosa mu msuzi wakuda wa truffle, kutchula ochepa.",cod wakuda ndi miso base,neutral
+2830,"Menyu yanga yochititsa chidwi komanso yolenga ya Chelsea imaphatikizapo zakudya zamakono, zakumadzulo zaku Japan monga Foie Gras Unagi Napolean, Jap style hamburger steak, zokometsera cod roe spaghetti, cod wakuda ndi miso base, ndi rack ya nkhosa mu msuzi wakuda wa truffle, kutchula ochepa.",menyu,positive
+2834,"Menyu yanga yochititsa chidwi komanso yolenga ya Chelsea imaphatikizapo zakudya zamakono, zakumadzulo zaku Japan monga Foie Gras Unagi Napolean, Jap style hamburger steak, zokometsera cod roe spaghetti, cod wakuda ndi miso base, ndi rack ya nkhosa mu msuzi wakuda wa truffle, kutchula ochepa.",pachithandara cha nkhosa mu msuzi wakuda wa truffle,neutral
+2838,"Menyu yanga yochititsa chidwi komanso yolenga ya Chelsea imaphatikizapo zakudya zamakono, zakumadzulo zaku Japan monga Foie Gras Unagi Napolean, Jap style hamburger steak, zokometsera cod roe spaghetti, cod wakuda ndi miso base, ndi rack ya nkhosa mu msuzi wakuda wa truffle, kutchula ochepa.",Zakudya za ku Japan,neutral
+2842,"Menyu yanga yochititsa chidwi komanso yolenga ya Chelsea imaphatikizapo zakudya zamakono, zakumadzulo zaku Japan monga Foie Gras Unagi Napolean, Jap style hamburger steak, zokometsera cod roe spaghetti, cod wakuda ndi miso base, ndi rack ya nkhosa mu msuzi wakuda wa truffle, kutchula ochepa.",Jap kalembedwe hamburger nyama,neutral
+2846,Desserts ndi pafupifupi zosaneneka: wanga ankakonda ndi Tart awo a Tsiku.,Desserts,positive
+2850,Desserts ndi pafupifupi zosaneneka: wanga ankakonda ndi Tart awo a Tsiku.,Tart ya Tsiku,positive
+2854,"utumiki wabwino, chakudya chachikulu, mtengo wabwino, ndipo konse kudikira mu mzere!",utumiki,positive
+2858,"utumiki wabwino, chakudya chachikulu, mtengo wabwino, ndipo konse kudikira mu mzere!",dikirani,positive
+2862,"utumiki wabwino, chakudya chachikulu, mtengo wabwino, ndipo konse kudikira mu mzere!",phindu,positive
+2866,"utumiki wabwino, chakudya chachikulu, mtengo wabwino, ndipo konse kudikira mu mzere!",chakudya,positive
+2870,Ndikofunikira kutenga taxi kupita ku Chelsea kokha chakudya chamadzulo chodabwitsa ku My Chelsea.,chakudya chamadzulo,positive
+2873,"Ndinapeza mwayi kudya pa kukhazikitsidwa kwanu kachiwiri masabata angapo apitawo, ndinali mu upstrairs wanu malo odyera.",upstrairs malo odyera,neutral
+2875,Mbali za chakudya chimene chinatuluka zinali zodetsa.,magawo a chakudya,neutral
+2878,Kodi angayembekezere bwanji kukhalabe mu bizinesi ndi utumiki ngati uwu?,utumiki,negative
+2880,"BEST zokometsera nsomba mpukutu, kwambiri saladi Asian.",saladi ya ku asia,positive
+2884,"BEST zokometsera nsomba mpukutu, kwambiri saladi Asian.",zokometsera nsomba mpukutu,positive
+2888,Yesani rose roll (osati pa menyu).,rose roll,positive
+2891,Yesani rose roll (osati pa menyu).,menyu,neutral
+2893,Pangani matebulo ambiri- mwinamwake bala la denga?,denga bala,neutral
+2895,Pangani matebulo ambiri- mwinamwake bala la denga?,matebulo,negative
+2897,"Guacamole yopangidwa kunyumba, entree yosakhulupirika, ndi zipululu zodabwitsa kwambiri.",zipululu,positive
+2901,"Guacamole yopangidwa kunyumba, entree yosakhulupirika, ndi zipululu zodabwitsa kwambiri.",entrée,positive
+2905,"Guacamole yopangidwa kunyumba, entree yosakhulupirika, ndi zipululu zodabwitsa kwambiri.",Guacamole yopangidwa kunyumba,positive
+2908,Ngati ndinu wokonda Tequila simudzakhumudwa.,Tequila,positive
+2911,Bweretsani tsiku lanu ndi botolo la vinyo!,botolo la vinyo,neutral
+2913,"Matebulo ali pafupi, kotero inu bwino kukhala omasuka kugunda zigongono ndi patrons ena.",Matebulo,negative
+2916,Chakudyacho chinali cholengedwa ngati chokongoletsera ndipo zonse zinagwira ntchito.,kukongoletsa,positive
+2919,Chakudyacho chinali cholengedwa ngati chokongoletsera ndipo zonse zinagwira ntchito.,chakudya,positive
+2922,"Lingaliro lokha ndiloti mumadumpha dessert, inali yokwera mtengo kwambiri ndipo inaperewera pa kukoma.",dessert,negative
+2926,"Lingaliro lokha ndiloti mumadumpha dessert, inali yokwera mtengo kwambiri ndipo inaperewera pa kukoma.",kukoma,negative
+2930,"Sandwiches, burgers ndi saladi, monga cobb yovala mandimu, ndizopambana zakale.",Masangweji,positive
+2933,"Sandwiches, burgers ndi saladi, monga cobb yovala mandimu, ndizopambana zakale.",burgers,positive
+2936,"Sandwiches, burgers ndi saladi, monga cobb yovala mandimu, ndizopambana zakale.",saladi,positive
+2939,"Sandwiches, burgers ndi saladi, monga cobb yovala mandimu, ndizopambana zakale.",mandimu ovala cobb,positive
+2942,"Hip boutiques ndi mipiringidzo pa Ludlow kuwonjezera artsy, anaika-m'mbuyo m'mlengalenga pa izi Israeli kalembedwe takeout ndi kudya-mu burger olowa.",mlengalenga,positive
+2945,"Young m'dera trendies kudya pa kauntala masana, pamene chic, luso-nyumba omwa ndi mlingo wolemera wa munchies mulu mochedwa usiku.",kauntala,neutral
+2947,"Malo ang'onoang'ono, odyera panja amachititsa malo apadera, omasuka kuphunzira okha kapena kukumana ndi abwenzi.",malo,positive
+2951,"Malo ang'onoang'ono, odyera panja amachititsa malo apadera, omasuka kuphunzira okha kapena kukumana ndi abwenzi.",malo odyera panja,positive
+2955,"Mowolowa manja chokongoletsera, organic grilled burgers ndi mbale yotchuka kwambiri, koma Yerusalemu msika kalembedwe falafel kukulunga ndi saladi Mediterranean -- wosanjikiza ndi beets, mbuzi tchizi ndi walnuts--ali mofanana scrumptious.",Yerusalemu msika kalembedwe falafel akukuta,positive
+2959,"Mowolowa manja chokongoletsera, organic grilled burgers ndi mbale yotchuka kwambiri, koma Yerusalemu msika kalembedwe falafel kukulunga ndi saladi Mediterranean -- wosanjikiza ndi beets, mbuzi tchizi ndi walnuts--ali mofanana scrumptious.",mbale,positive
+2963,"Mowolowa manja chokongoletsera, organic grilled burgers ndi mbale yotchuka kwambiri, koma Yerusalemu msika kalembedwe falafel kukulunga ndi saladi Mediterranean -- wosanjikiza ndi beets, mbuzi tchizi ndi walnuts--ali mofanana scrumptious.",organic grilled burgers,positive
+2967,"Mowolowa manja chokongoletsera, organic grilled burgers ndi mbale yotchuka kwambiri, koma Yerusalemu msika kalembedwe falafel kukulunga ndi saladi Mediterranean -- wosanjikiza ndi beets, mbuzi tchizi ndi walnuts--ali mofanana scrumptious.","Saladi ya Mediterranean--yosanjikiza ndi beets, tchizi cha mbuzi ndi walnuts",positive
+2969,"Nyama-phobes ili ndi mwayi ndi burger yodabwitsa ya veggie, yopangidwa kuchokera ku kusakaniza kwapadera kwa chickpeas, kaloti ndi masamba ena ndi zonunkhira.",kaloti,positive
+2973,"Nyama-phobes ili ndi mwayi ndi burger yodabwitsa ya veggie, yopangidwa kuchokera ku kusakaniza kwapadera kwa chickpeas, kaloti ndi masamba ena ndi zonunkhira.",chickpeas,positive
+2977,"Nyama-phobes ili ndi mwayi ndi burger yodabwitsa ya veggie, yopangidwa kuchokera ku kusakaniza kwapadera kwa chickpeas, kaloti ndi masamba ena ndi zonunkhira.",masamba,positive
+2981,"Nyama-phobes ili ndi mwayi ndi burger yodabwitsa ya veggie, yopangidwa kuchokera ku kusakaniza kwapadera kwa chickpeas, kaloti ndi masamba ena ndi zonunkhira.",zonunkhira,positive
+2985,"Nyama-phobes ili ndi mwayi ndi burger yodabwitsa ya veggie, yopangidwa kuchokera ku kusakaniza kwapadera kwa chickpeas, kaloti ndi masamba ena ndi zonunkhira.",veggie burger,positive
+2989,"Chakudyacho chinali chokoma kwambiri, choperekedwa mwaluso ndipo vinyo anali wabwino kwambiri.",vinyo,positive
+2993,"Chakudyacho chinali chokoma kwambiri, choperekedwa mwaluso ndipo vinyo anali wabwino kwambiri.",chakudya,positive
+2997,Anakumba malo a blue bar kwambiri.,buluu bala m'dera,positive
+2999,Mu Short Nkhosa Yakuda imadzisiyanitsa yokha ndi gulu la Midtown pub ndi mawonekedwe omwe ali osakaniza masewera-bar butch ndi kitsch yokongoletsedwa.,yang'anani,negative
+3001,""" Menyu imaphatikizapo pub fare--burgers, steaks ndi abusa pie--ndipo ngakhale portabella lasagna kwa nkhosa zakuda zomwe zimadziwika kuti ""zamasamba.",burgers,neutral
+3003,""" Menyu imaphatikizapo pub fare--burgers, steaks ndi abusa pie--ndipo ngakhale portabella lasagna kwa nkhosa zakuda zomwe zimadziwika kuti ""zamasamba.",menyu,neutral
+3005,""" Menyu imaphatikizapo pub fare--burgers, steaks ndi abusa pie--ndipo ngakhale portabella lasagna kwa nkhosa zakuda zomwe zimadziwika kuti ""zamasamba.",pub fare,neutral
+3007,""" Menyu imaphatikizapo pub fare--burgers, steaks ndi abusa pie--ndipo ngakhale portabella lasagna kwa nkhosa zakuda zomwe zimadziwika kuti ""zamasamba.",abusa pie,neutral
+3009,""" Menyu imaphatikizapo pub fare--burgers, steaks ndi abusa pie--ndipo ngakhale portabella lasagna kwa nkhosa zakuda zomwe zimadziwika kuti ""zamasamba.",steaks,neutral
+3011,""" Menyu imaphatikizapo pub fare--burgers, steaks ndi abusa pie--ndipo ngakhale portabella lasagna kwa nkhosa zakuda zomwe zimadziwika kuti ""zamasamba.",portabella lasagna,neutral
+3013,"Ndipo ma seva onse [achikazi] ndi okongola kwambiri, omwe nthawi zonse amakhala abwino.",Ma seva [achikazi],positive
+3015,Magawo ndi aakulu kwambiri ndipo utumiki ndi wosangalatsa !!,magawo,positive
+3019,Magawo ndi aakulu kwambiri ndipo utumiki ndi wosangalatsa !!,utumiki,positive
+3023,Ndikupangira nkhuku milanese.,nkhuku milanese,positive
+3026,ndipo mwiniwakeyo amangokhala wokongola komanso waubwenzi.,mwini,positive
+3029,tiyi ndi yaikulu ndipo maswiti onse amapangidwa kunyumba.,maswiti,positive
+3033,tiyi ndi yaikulu ndipo maswiti onse amapangidwa kunyumba.,tiyi,positive
+3037,Mkati mwathithithi koma wokongola ndi utumiki waubwenzi kwambiri ndi wosamala.,utumiki,positive
+3041,Mkati mwathithithi koma wokongola ndi utumiki waubwenzi kwambiri ndi wosamala.,mkati,positive
+3045,"Chakudya ndi zonse zozungulira zabwino, ndi mipukutu zambiri kwambiri ndi sushi / sashimi osati kwenikweni pa mlingo womwewo.",sushi / sashimi,neutral
+3047,"Chakudya ndi zonse zozungulira zabwino, ndi mipukutu zambiri kwambiri ndi sushi / sashimi osati kwenikweni pa mlingo womwewo.",mipukutu,positive
+3051,"Chakudya ndi zonse zozungulira zabwino, ndi mipukutu zambiri kwambiri ndi sushi / sashimi osati kwenikweni pa mlingo womwewo.",chakudya,positive
+3055,(The sashimi ndi kudula pang'ono thinly.,sashimi,negative
+3058,") Si malo odyera abwino kwambiri a ku Japan ku East Village, koma ndi olimba kwambiri chifukwa cha mitengo yake yodzichepetsa, komanso yoyenera kubwereza maulendo.",mitengo,positive
+3061,"Osati chifukwa chakuti ndinali ndi pakati, koma chakudya kuno nthawi zonse chimakhala chokoma.",chakudya,positive
+3064,Kukhala Puerto Rican ndikudziwa chinthu chimodzi kapena ziwiri za flan ndipo malowa amatumikira imodzi mwa zabwino kwambiri (ndikuyembekeza kuti Amayi samawerenga izi!).,flan,positive
+3066,"Bar iyi ili ndi zonse - zakumwa zazikulu, mlengalenga wozizira, utumiki wabwino kwambiri ndi chakudya chokoma.",zakumwa,positive
+3070,"Bar iyi ili ndi zonse - zakumwa zazikulu, mlengalenga wozizira, utumiki wabwino kwambiri ndi chakudya chokoma.",chakudya,positive
+3074,"Bar iyi ili ndi zonse - zakumwa zazikulu, mlengalenga wozizira, utumiki wabwino kwambiri ndi chakudya chokoma.",mlengalenga,positive
+3078,"Bar iyi ili ndi zonse - zakumwa zazikulu, mlengalenga wozizira, utumiki wabwino kwambiri ndi chakudya chokoma.",utumiki,positive
+3082,Steak inasungunuka mkamwa mwanga.,steak,positive
+3084,"Ola lachimwemwe ndi lotsika mtengo kwambiri, koma zimenezo sizikuwonetsa utumiki kapena mlengalenga.",utumiki,positive
+3086,"Ola lachimwemwe ndi lotsika mtengo kwambiri, koma zimenezo sizikuwonetsa utumiki kapena mlengalenga.",mlengalenga,positive
+3088,"Ola lachimwemwe ndi lotsika mtengo kwambiri, koma zimenezo sizikuwonetsa utumiki kapena mlengalenga.",ola losangalala,positive
+3091,"Kwa eni ake; ntchito yabwino anyamata, malo awa ndi wosunga!",eni ake,positive
+3094,"Mndandanda wa vinyo unali wapamwamba kwambiri, tapas yathu yosangalatsa, ndi mkhalidwe wabata wangwiro kukambirana bwino.",mndandanda wa vinyo,positive
+3098,"Mndandanda wa vinyo unali wapamwamba kwambiri, tapas yathu yosangalatsa, ndi mkhalidwe wabata wangwiro kukambirana bwino.",mlengalenga,positive
+3102,"Mndandanda wa vinyo unali wapamwamba kwambiri, tapas yathu yosangalatsa, ndi mkhalidwe wabata wangwiro kukambirana bwino.",tapas,positive
+3106,Tinayamba ndi scallops ndi asparagus komanso tinali ndi nkhanu yofewa ya chipolopolo komanso mbale ya tchizi.,asparagus,neutral
+3108,Tinayamba ndi scallops ndi asparagus komanso tinali ndi nkhanu yofewa ya chipolopolo komanso mbale ya tchizi.,tchizi mbale,neutral
+3110,Tinayamba ndi scallops ndi asparagus komanso tinali ndi nkhanu yofewa ya chipolopolo komanso mbale ya tchizi.,scallops,neutral
+3112,Tinayamba ndi scallops ndi asparagus komanso tinali ndi nkhanu yofewa ya chipolopolo komanso mbale ya tchizi.,zofewa chipolopolo nkhanu,neutral
+3114,Ndikuyembekezera kubwerera posachedwa ndipo pamapeto pake ndikuyesera zambiri zonse pa menyu!,menyu,positive
+3116,Mwini wake ndi wosangalatsa komanso wosangalatsa.,Mwini,positive
+3119,"Perekani kuyesa, menyu ndi French wamba koma zosiyanasiyana.",menyu,neutral
+3122,"tapas kwambiri pa mitengo yaikulu, chikondi, yaing'ono koma osati mopambanitsa crowed, kwambiri",mitengo,positive
+3126,"tapas kwambiri pa mitengo yaikulu, chikondi, yaing'ono koma osati mopambanitsa crowed, kwambiri",tapas,positive
+3130,ichi chidakali chimodzi mwa malo odyera omwe ndimakonda kwambiri m'derali chakudya ndi chotsika mtengo koma chabwino kwambiri (kimono shrimp yapadera inali yabwino kwambiri) ndipo ili ndi mlengalenga waukulu.,mlengalenga,positive
+3134,ichi chidakali chimodzi mwa malo odyera omwe ndimakonda kwambiri m'derali chakudya ndi chotsika mtengo koma chabwino kwambiri (kimono shrimp yapadera inali yabwino kwambiri) ndipo ili ndi mlengalenga waukulu.,kimono nkhanu yapadera,positive
+3138,ichi chidakali chimodzi mwa malo odyera omwe ndimakonda kwambiri m'derali chakudya ndi chotsika mtengo koma chabwino kwambiri (kimono shrimp yapadera inali yabwino kwambiri) ndipo ili ndi mlengalenga waukulu.,chakudya,positive
+3142,Akhoza kukhala pang'ono otanganidwa kuzungulira nthawi pachimake chifukwa cha kukula.,kukula,negative
+3145,Ndinapita ku Kitchenette sabata ino ku brunch.,brunch,neutral
+3147,Malowa ndi okongola kwambiri ndipo chakudyacho ndi chokoma.,malo,positive
+3151,Malowa ndi okongola kwambiri ndipo chakudyacho ndi chokoma.,chakudya,positive
+3155,"Komabe, utumikiwo ndi woopsa kwambiri.",utumiki,negative
+3158,"The waitstaff ndi wopempha ndi wochezeka ndipo nthawizonse amaoneka wokondwa kuona ife, ndi chakudya ndi zodabwitsa, ngati si stunningly kulenga.",waitstaff,positive
+3162,"The waitstaff ndi wopempha ndi wochezeka ndipo nthawizonse amaoneka wokondwa kuona ife, ndi chakudya ndi zodabwitsa, ngati si stunningly kulenga.",chakudya,positive
+3166,Ndili m'chikondi ndi lobster ravioli!,lobster ravioli,positive
+3169,"Posachedwapa tinathera Chaka Chatsopano ku malo odyera, ndipo tinali ndi zochitika zazikulu, kuchokera ku vinyo kupita ku menyu ya dessert.",menyu dessert,positive
+3172,"Posachedwapa tinathera Chaka Chatsopano ku malo odyera, ndipo tinali ndi zochitika zazikulu, kuchokera ku vinyo kupita ku menyu ya dessert.",vinyo,positive
+3175,"Malo awa ndi apamwamba, chic, utumiki ndi wofunda komanso wochereza alendo, ndipo chakudyacho ndi chapadera.",malo,positive
+3179,"Malo awa ndi apamwamba, chic, utumiki ndi wofunda komanso wochereza alendo, ndipo chakudyacho ndi chapadera.",utumiki,positive
+3183,"Malo awa ndi apamwamba, chic, utumiki ndi wofunda komanso wochereza alendo, ndipo chakudyacho ndi chapadera.",chakudya,positive
+3187,Ndinayenera kuyembekezera mnzanga ku bar kwa mphindi zingapo,bala,neutral
+3189,"Malo awa ali ndi sushi wokongola, ndipo ndi zokoma CHEAP. ",sushi,positive
+3192,Lilinso ndi zakudya zina zambiri za ku Korea zomwe zimakhala zotsika mtengo komanso zokoma kwambiri.,Zakudya za ku Korea,positive
+3195,"Menyu yodabwitsa, yotentha yoitanira ambiance, utumiki waukulu CHAKUDYA chimandipangitsa kuti ndibwerere!",utumiki,positive
+3199,"Menyu yodabwitsa, yotentha yoitanira ambiance, utumiki waukulu CHAKUDYA chimandipangitsa kuti ndibwerere!",menyu,positive
+3203,"Menyu yodabwitsa, yotentha yoitanira ambiance, utumiki waukulu CHAKUDYA chimandipangitsa kuti ndibwerere!",ambiance,positive
+3207,"Menyu yodabwitsa, yotentha yoitanira ambiance, utumiki waukulu CHAKUDYA chimandipangitsa kuti ndibwerere!",CHAKUDYA,positive
+3209,Sizinaoneke ngati khama lililonse linapangidwa pa chiwonetsero ndi khalidwe la chakudya.,kuwonetsera ndi khalidwe la chakudya,negative
+3211,Zikanakhala bwino kwa 1/3 mtengo ku Chinatown.,mtengo,negative
+3213,Host ndi Hostess anali amwano kwambiri.,Host,negative
+3216,Host ndi Hostess anali amwano kwambiri.,Hostess,negative
+3219,"mlengalenga ndi wabwino kwambiri, ndi kuthawa kwabwino kuchokera ku malo ena onse a SI mall.",mlengalenga,positive
+3222,"Komabe, chakudya ndi utumiki ndi kusowa kwambiri.",utumiki,negative
+3225,"Komabe, chakudya ndi utumiki ndi kusowa kwambiri.",chakudya,negative
+3228,Sushi imadulidwa m'malo akuluakulu kuposa foni yanga.,sushi,negative
+3231,"Tinapempha kuti agaŵanirenso sushi, ndipo inabwezeredwa kwa ife m'ma cubes ang'onoang'ono onga tchizi.",sushi,negative
+3233,Ogwira ntchito yodikirira anali okweza ndi osaganizira.,dikirani antchito,negative
+3236,The French batala -- ndi kalmata kuviika anali zoopsa!,French batala - ndi kalmata dip,positive
+3239,"Kulimbikitsidwa kwambiri...  Monga tanenera, sindinadyere * mu * malo odyera koma ndinaima pamenepo kuti nditenge takeout ndipo zikuwoneka ngati malo omasuka kwambiri; komanso, bar ikuwoneka bwino.",malo,positive
+3243,"Kulimbikitsidwa kwambiri...  Monga tanenera, sindinadyere * mu * malo odyera koma ndinaima pamenepo kuti nditenge takeout ndipo zikuwoneka ngati malo omasuka kwambiri; komanso, bar ikuwoneka bwino.",bala,positive
+3247,"Kulimbikitsidwa kwambiri...  Monga tanenera, sindinadyere * mu * malo odyera koma ndinaima pamenepo kuti nditenge takeout ndipo zikuwoneka ngati malo omasuka kwambiri; komanso, bar ikuwoneka bwino.",takeout,neutral
+3249,"Kuchokera ku erbazzone emiliana kupita ku mostarda pa mbale ya tchizi, mbale pa malo odyera awa zonse zimagwiridwa ndi chisamaliro chosalimba.",mostarda pa mbale ya tchizi,positive
+3251,"Kuchokera ku erbazzone emiliana kupita ku mostarda pa mbale ya tchizi, mbale pa malo odyera awa zonse zimagwiridwa ndi chisamaliro chosalimba.",mbale,positive
+3253,"Kuchokera ku erbazzone emiliana kupita ku mostarda pa mbale ya tchizi, mbale pa malo odyera awa zonse zimagwiridwa ndi chisamaliro chosalimba.",erbazzone emiliana,positive
+3255,"Sikuti chakudyacho ndi chowona, koma ogwira ntchito pano ali pafupifupi kunja kwa bwato, ali achinyamata ndi m'chiuno ndipo amadziwa zomwe akuchita pankhani ya chakudya ndi vinyo.",chakudya,positive
+3259,"Sikuti chakudyacho ndi chowona, koma ogwira ntchito pano ali pafupifupi kunja kwa bwato, ali achinyamata ndi m'chiuno ndipo amadziwa zomwe akuchita pankhani ya chakudya ndi vinyo.",ndodo,positive
+3263,"Sikuti chakudyacho ndi chowona, koma ogwira ntchito pano ali pafupifupi kunja kwa bwato, ali achinyamata ndi m'chiuno ndipo amadziwa zomwe akuchita pankhani ya chakudya ndi vinyo.",vinyo,positive
+3265,"Sikuti chakudyacho ndi chowona, koma ogwira ntchito pano ali pafupifupi kunja kwa bwato, ali achinyamata ndi m'chiuno ndipo amadziwa zomwe akuchita pankhani ya chakudya ndi vinyo.",chakudya,positive
+3269,"Kwina kulikonse, mitengo ikakhala 3x ngati yapamwamba!",mitengo,positive
+3271,Ali ndi kutentha kwa banja m'deralo komabe ndi malo abwino kuonera zochitika zamasewera.,malo,positive
+3274,Ogwira ntchito ndi accomodating onetsetsani kuti muli satified.,Ogwira ntchito,positive
+3277,Sweet Irish bartender nthawi zonse amasangalala ndipo amatha kubweretsa kumwetulira kwa anzanga nkhope yanga.,bartender,positive
+3280,Ngakhale ine anasamukira uptown Ine ndimayesetsa kuima mu nthawi zambiri monga momwe zingathere kwa GREAT chakudya wotchipa ndi kulipira ndodo wochezeka ulendo.,ndodo,positive
+3284,Ngakhale ine anasamukira uptown Ine ndimayesetsa kuima mu nthawi zambiri monga momwe zingathere kwa GREAT chakudya wotchipa ndi kulipira ndodo wochezeka ulendo.,chakudya,positive
+3288,Ndi chinyengo chotani komanso chosayenera kwa MJ Grill kunena kuti imapereka mphamvu masana ndi chakudya chamadzulo!,chakudya chamasana,negative
+3291,Ndi chinyengo chotani komanso chosayenera kwa MJ Grill kunena kuti imapereka mphamvu masana ndi chakudya chamadzulo!,chakudya chamadzulo,negative
+3294,Kodi angapulumuke bwanji kutumikira chakudya cha mediocre pamtengo wokwera kwambiri?!,chakudya,neutral
+3298,Kodi angapulumuke bwanji kutumikira chakudya cha mediocre pamtengo wokwera kwambiri?!,mitengo,negative
+3302,Ndinapempha nyama yosavuta yosowa kwambiri.,steak,neutral
+3305,"Kenaka mwanjira inayake anapanga chigoba chouma ndi chopsereza, kuzungulira mkati mwake ndi kuzizira.",pakhungu,negative
+3308,Ma steak awiri owonongeka -- ndi mlandu wotani nanga!,steaks,negative
+3311,"Great odyera, ndipo ngakhale chakudya chachikulu!",chakudya,positive
+3314,Zakudya zake ndi zokoma kwambiri komanso malo abwino komanso apamtima!,malo,positive
+3318,Zakudya zake ndi zokoma kwambiri komanso malo abwino komanso apamtima!,mbale,positive
+3322,Sungani malo a desserts! ;-),desserts,positive
+3324,"Ulemu kwa India umawonekera kwambiri mu delectable roti canai appetizer, pancake yokazinga yomwe imaperekedwa ndi pungent curry kuviika msuzi, pamene nkhuku ya mango imapereka zodabwitsa zapamwamba, zatsopano zomwe zimatenga zokoma-ndi-zowawa.",roti canai appetizer,positive
+3328,"Ulemu kwa India umawonekera kwambiri mu delectable roti canai appetizer, pancake yokazinga yomwe imaperekedwa ndi pungent curry kuviika msuzi, pamene nkhuku ya mango imapereka zodabwitsa zapamwamba, zatsopano zomwe zimatenga zokoma-ndi-zowawa.",pancake wokazinga woperekedwa ndi pungent curry kuviika msuzi,positive
+3330,"Ulemu kwa India umawonekera kwambiri mu delectable roti canai appetizer, pancake yokazinga yomwe imaperekedwa ndi pungent curry kuviika msuzi, pamene nkhuku ya mango imapereka zodabwitsa zapamwamba, zatsopano zomwe zimatenga zokoma-ndi-zowawa.",mango nkhuku,positive
+3334,Mfundo imodzi: Zina mwa casseroles curried akhoza kukhala trifle nkhanza.,curried casseroles,negative
+3337,"Zinali zabwino, koma palibe zokometsera WOW.",zokometsera,neutral
+3339,"Pafupi kwambiri kuti ndinapeza anali Cherry Marscapone, koma iwo anali kunja kwa izo tsiku limenelo.",Cherry Marscapone,neutral
+3341,Ogwira ntchito ayenera kukhala aubwenzi pang'ono.,ndodo,negative
+3344,Agalu otentha kwambiri m'dera la tri-state.,agalu otentha,positive
+3347,"Zokonda nthawi zonse zimaphatikizapo Big Mac, Chicken McNuggets, Filet-O-Fish sandwich ndi McDonald's french fries otchuka; zosankha zopepuka monga saladi ya entree-kakulidwe imapezekanso.",Nkhuku McNuggets,positive
+3351,"Zokonda nthawi zonse zimaphatikizapo Big Mac, Chicken McNuggets, Filet-O-Fish sandwich ndi McDonald's french fries otchuka; zosankha zopepuka monga saladi ya entree-kakulidwe imapezekanso.",Filet-O-Nsomba sangweji,positive
+3355,"Zokonda nthawi zonse zimaphatikizapo Big Mac, Chicken McNuggets, Filet-O-Fish sandwich ndi McDonald's french fries otchuka; zosankha zopepuka monga saladi ya entree-kakulidwe imapezekanso.",saladi ya entrée-kakulidwe,neutral
+3359,"Zokonda nthawi zonse zimaphatikizapo Big Mac, Chicken McNuggets, Filet-O-Fish sandwich ndi McDonald's french fries otchuka; zosankha zopepuka monga saladi ya entree-kakulidwe imapezekanso.",McDonald's wotchuka French batala,positive
+3363,"Zokonda nthawi zonse zimaphatikizapo Big Mac, Chicken McNuggets, Filet-O-Fish sandwich ndi McDonald's french fries otchuka; zosankha zopepuka monga saladi ya entree-kakulidwe imapezekanso.",Big Mac,positive
+3367,Zopereka monga makeke otentha ndi sangweji ya Egg McMuffin zimapezeka kadzutsa.,makeke otentha,neutral
+3370,Zopereka monga makeke otentha ndi sangweji ya Egg McMuffin zimapezeka kadzutsa.,kadzutsa,neutral
+3372,Zopereka monga makeke otentha ndi sangweji ya Egg McMuffin zimapezeka kadzutsa.,Dzira McMuffin sangweji,neutral
+3375,"Ogwira ntchito ndi odzikuza, mitengo ndi njira yapamwamba kwa Brooklyn.",ndodo,negative
+3379,"Ogwira ntchito ndi odzikuza, mitengo ndi njira yapamwamba kwa Brooklyn.",mitengo,negative
+3383,"Chef Vincenzo, nthawi zonse kumeneko ngati mukumufuna, ndi talente yeniyeni komanso Wachiroma weniweni.",Chef,positive
+3386,"Chakudya chake ndi chabwino kwambiri (ndipo osati chokwera mtengo ndi miyezo ya NYC- palibe entrees pa $ 30, appetizers ambiri $ 12 mpaka 14).",appetizers,positive
+3390,"Chakudya chake ndi chabwino kwambiri (ndipo osati chokwera mtengo ndi miyezo ya NYC- palibe entrees pa $ 30, appetizers ambiri $ 12 mpaka 14).",entrees,positive
+3392,"Chakudya chake ndi chabwino kwambiri (ndipo osati chokwera mtengo ndi miyezo ya NYC- palibe entrees pa $ 30, appetizers ambiri $ 12 mpaka 14).",chakudya,positive
+3396,"Chipinda ndi zokongola, bi-mlingo danga ndi bala yaitali wangwiro chakumwa.",kumwa,neutral
+3398,"Chipinda ndi zokongola, bi-mlingo danga ndi bala yaitali wangwiro chakumwa.",chipinda,positive
+3402,"Chipinda ndi zokongola, bi-mlingo danga ndi bala yaitali wangwiro chakumwa.",bi-mlingo danga,positive
+3406,"Chipinda ndi zokongola, bi-mlingo danga ndi bala yaitali wangwiro chakumwa.",bar yaitali,positive
+3410,Pitani ku Seafood Paella kwa awiri.,Seafood Paella kwa awiri,positive
+3412,Ngakhale kwa anthu awiri anjala kwambiri pali chakudya chochuluka chotsalira kuti chitengedwe kunyumba (chimabwezeretsanso bwino kwambiri).,chakudya,positive
+3415,Onse a apetizers ndi abwino ndipo Sangria ndi yabwino kwambiri.,Sangria,positive
+3419,Onse a apetizers ndi abwino ndipo Sangria ndi yabwino kwambiri.,apetizers,positive
+3423,Utumiki nthawi zambiri wokongola bwino.,Utumiki,positive
+3426,Mapangidwewo ndi apamtima kwambiri komanso achikondi.,kapangidwe,positive
+3429,Chakudyacho chinali chodabwitsa komanso cholingalira.,chakudya,positive
+3432,Ogwira ntchito ndi akuthwa kwambiri ndipo amawoneka bwino kwambiri.,ndodo,positive
+3435,"Zinali zosangalatsa kwambiri kudya, kuti ndinabwereranso sabata yomweyo.",kudya zinachitikira,positive
+3438,"Chakudyacho ndi chodabwitsa, chochitidwa mwaluso komanso chokoma chabe.",chakudya,positive
+3441,Sungani malo a zipululu - iwo adzafa.,zipululu,positive
+3444,The yekha argentine chorizo appetizer pa $ 8.95 anali wolemera fennel flavored Italy soseji ngati amene amagulitsa kwa $ 2.99 / lb pa sitolo.,argentine chorizo appetizer,negative
+3446,The yekha argentine chorizo appetizer pa $ 8.95 anali wolemera fennel flavored Italy soseji ngati amene amagulitsa kwa $ 2.99 / lb pa sitolo.,fennel flavored Italy soseji,negative
+3449,"Iwo ali nyimbo zabwino, tapas zabwino, kusankha chidwi vinyo (makamaka Spanish) ndi lowkey m'chiuno m'dera makasitomala.",kusankha vinyo (makamaka Chisipanishi),positive
+3451,"Iwo ali nyimbo zabwino, tapas zabwino, kusankha chidwi vinyo (makamaka Spanish) ndi lowkey m'chiuno m'dera makasitomala.",tapas,positive
+3455,"Iwo ali nyimbo zabwino, tapas zabwino, kusankha chidwi vinyo (makamaka Spanish) ndi lowkey m'chiuno m'dera makasitomala.",makasitomala,positive
+3459,"Iwo ali nyimbo zabwino, tapas zabwino, kusankha chidwi vinyo (makamaka Spanish) ndi lowkey m'chiuno m'dera makasitomala.",nyimbo,positive
+3463,"Chofunika kwambiri, ndi mtengo woyenera.",mtengo,positive
+3466,"Ndakhala ndikupita ku lesitilanti imeneyi kwa zaka zambiri, m'mbuyomu utumikiwo unali wamba ndipo chakudya sichinali cha zakudya.",utumiki,neutral
+3470,"Ndakhala ndikupita ku lesitilanti imeneyi kwa zaka zambiri, m'mbuyomu utumikiwo unali wamba ndipo chakudya sichinali cha zakudya.",chakudya,negative
+3474,"Ndi kusiyana kotani, utumikiwo unali wotonthoza kwambiri ndipo chakudyacho chinali chabwino kuposa pafupifupi, koma chomwe chinaonekera kwenikweni chinali mndandanda wamphamvu komanso waukulu wa mowa.",utumiki,positive
+3478,"Ndi kusiyana kotani, utumikiwo unali wotonthoza kwambiri ndipo chakudyacho chinali chabwino kuposa pafupifupi, koma chomwe chinaonekera kwenikweni chinali mndandanda wamphamvu komanso waukulu wa mowa.",mndandanda wa mowa,positive
+3482,"Ndi kusiyana kotani, utumikiwo unali wotonthoza kwambiri ndipo chakudyacho chinali chabwino kuposa pafupifupi, koma chomwe chinaonekera kwenikweni chinali mndandanda wamphamvu komanso waukulu wa mowa.",chakudya,positive
+3486,Kukhudza kwabwino kwambiri komwe kumagwirizana kwambiri ndi malo.,malo,positive
+3489,ndemanga zoipa pa kufufuza mzinda mwina kuchokera nsanje mpikisano odyera amene amazindikira iwo sangathe kupikisana ndi Temple lonse maganizo abwino za njira yoyenera kuchitira makasitomala awo ndi kupulumutsa chakudya pamwamba khalidwe.,maganizo,positive
+3493,ndemanga zoipa pa kufufuza mzinda mwina kuchokera nsanje mpikisano odyera amene amazindikira iwo sangathe kupikisana ndi Temple lonse maganizo abwino za njira yoyenera kuchitira makasitomala awo ndi kupulumutsa chakudya pamwamba khalidwe.,chakudya,positive
+3497,Ndinangokhala ndi ulendo wanga woyamba kumalo ano ndipo sindingathe kuyembekezera kubwerera ndikugwira ntchito pang'onopang'ono njira yanga kupyolera mu menyu.,menyu,neutral
+3499,Ine ndi mwana wanga wamkazi tinachoka tikumva kukhala okhutira (osati odzaza) ndipo zinamveka bwino kudziwa kuti tinali ndi chakudya chamasana chopatsa thanzi.,chakudya chamasana,positive
+3502,"Osati kunyalanyazidwa, utumiki ndi wabwino kwambiri.",utumiki,positive
+3505,Ogwira ntchito ndi 100% Chitaliyana ndipo chakudyacho ndi chowona monga momwe chimapezera.,ndodo,positive
+3507,Ogwira ntchito ndi 100% Chitaliyana ndipo chakudyacho ndi chowona monga momwe chimapezera.,chakudya,positive
+3510,Gnocchi imasungunuka m'kamwa mwanu!,gnocchi,positive
+3513,Chilichonse chokhudza malowa ndi chokongola - ngakhale bafa!,bafa,positive
+3516,Kodi ndatchula kuti khofi ndi OUTSTANDING?,khofi,positive
+3519,"Entrees zikuphatikizapo classics monga lasagna, fettuccine Alfredo ndi nkhuku parmigiana.",nkhuku parmigiana,neutral
+3521,"Entrees zikuphatikizapo classics monga lasagna, fettuccine Alfredo ndi nkhuku parmigiana.",lasagna,neutral
+3523,"Entrees zikuphatikizapo classics monga lasagna, fettuccine Alfredo ndi nkhuku parmigiana.",Entrees,neutral
+3525,"Entrees zikuphatikizapo classics monga lasagna, fettuccine Alfredo ndi nkhuku parmigiana.",fettuccine Alfredo,neutral
+3527,Choipa kwambiri ngakhale chinali kukoma.,kukoma,negative
