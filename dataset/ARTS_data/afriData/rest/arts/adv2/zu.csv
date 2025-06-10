@@ -1,445 +1,445 @@
-,zu,aspect,polarities
-2,"Hhayi ukudla Okukhulu, hhayi i-waitstaff enkulu, umkhathi omkhulu, kodwa okubi kunakho konke hhayi ubhiya OMKHULU!",umkhathi,positive
-6,"Hhayi Ukudla okukhulu, i-waitstaff enkulu, hhayi umkhathi omkhulu, kodwa okubi kunakho konke hhayi ubhiya OMKHULU!",waitstaff,positive
-10,"Hhayi ukudla okukhulu, hhayi i-waitstaff enkulu, hhayi umkhathi omkhulu, kodwa ngokungafani nakho konke okunye ubhiya wawumkhulu!",ubhiya,positive
-14,"Ukudla okukhulu, hhayi i-waitstaff enkulu, hhayi umkhathi omkhulu, kodwa okubi kunakho konke hhayi ubhiya OMKHULU!",ukudla,positive
-18,"Ukudla akuyona i-notch ephezulu, inkonzo iyalalela, kodwa umkhathi awumkhulu.",service,positive
-22,"Ukudla akuyona i-notch ephezulu, inkonzo akuyona ukunaka, kodwa umkhathi mkhulu.",umkhathi,positive
-26,"Ukudla kuyi-notch ephezulu, inkonzo ayinaki, kodwa umkhathi awumkhulu.",ukudla,positive
-37,"Le nsizakalo yayimpofu kakhulu nxazonke, ukudla kwakungekho kahle ngaphansi kwesilinganiso ngokuphathelene nezindleko, kodwa ngaphandle kukhona i-bum crazy ehlukumeza wonke amakhasimende ashiya indawo.",service,negative
-41,"Le nsizakalo yayicebile kakhulu nxazonke, ukudla kwakungaphansi kakhulu kwesilinganiso ngokuphathelene nezindleko, kodwa ngaphandle kukhona i-bum crazy ehlukumeza wonke amakhasimende ashiya indawo.",ukudla,negative
-50,"Imenyu entsha inezinto ezimbalwa zokudala kakhulu, babehlakaniphile ngokwanele ukugcina ezinye zezintandokazi ezindala (kodwa baphakamisa amanani), abasebenzi banobungane isikhathi esiningi, kodwa kumele ngivumelane nomuntu owabhala ngamazwi abawathandayo: Cha, akakwazi, uxolo ... , mfana, ngeke bagobe imithetho kunoma ubani.",amanani,negative
-54,"Imenyu entsha inezinto ezimbalwa zokudala, babehlakaniphile ngokwanele ukugcina ezinye zezintandokazi ezindala (kodwa baphakamisa ngokugcwele amanani), abasebenzi banobungane isikhathi esiningi, kodwa kumele ngivumelane nomuntu owabhala ngamazwi abawathandayo: Cha, akakwazi, uxolo ... , mfana, ngeke bagobe imithetho kunoma ubani.",imenyu entsha,positive
-90,"Kusukela ekuqaleni, sahlangabezana nama-memebers abasebenzi abangenabuhlobo, kodwa ukupaka okulula e-Chelsea Piers kwenza kwaba lula ukuthi sifike emkhunjini.",ukupaka,positive
-94,"Kusukela ekuqaleni, sahlangabezana nama-memebers abasebenzi abanobungane, kodwa ukupaka okungathandeki e-Chelsea Piers kwenza kwaba lula ukuthi sifike emkhunjini.",abasebenzi memebers,positive
-104,Noma nini futhi ngaso sonke isikhathi ngizithola ngisemakhelwaneni ngizoya eSushi Rose nge-stale sushi kodwa izingxenye ezinkulu zonke ngentengo engenangqondo.,izingxenye,positive
-108,Noma nini futhi ngaso sonke isikhathi ngizithola ngisemakhelwaneni ngizoya eSushi Rose nge-stale sushi kodwa hhayi izingxenye ezinkulu zonke ngentengo efanele.,intengo,positive
-112,Noma nini futhi ngaso sonke isikhathi ngizithola ngisemakhelwaneni ngizoya eSushi Rose nge-sushi entsha hhayi izingxenye ezinkulu zonke ngentengo engenangqondo.,sushi,positive
-130,"Ukudla kwakubi, insizakalo ngokushesha, kodwa intengo engenangqondo kakhulu.",service,positive
-134,"Ukudla kwakubi, insizakalo ayikhuthazi, kodwa intengo inengqondo kakhulu.",intengo,positive
-138,"Ukudla kwakukuhle, insizakalo ayikhuthazi, kodwa intengo ayinangqondo kakhulu.",ukudla,positive
-142,"I-pasta primavera yayingekho evelele futhi, kodwa ama-veggies amasha ayehle kakhulu.",ama-veggies amasha,positive
-146,"I-pasta primavera yayivelele futhi, hhayi imifino eminingi emisha.",pasta primavera,positive
-163,"Kulungile, kwenzeka ngenxa yomphathi ongenamusa kanye ne-bartender yomphakathi eyayinathi kabi silinde imizuzu engu-20 yeziphuzo, kodwa-ke isitshela ukuthi sibanda.",umphathi,negative
-167,"Kulungile, kwenzeka ngenxa yomphathi ongenamusa kodwa i-bartender enolaka eyayinathi ngokujulile silinde imizuzu engu-20 yeziphuzo, bese isitshela ukuthi sibanda.",bartender,negative
-171,"Kulungile, kwenzeka ngenxa yomphathi ongenamusa kanye ne-bartender enolaka eyayinathi kakhulu silinde imizuzu engu-20 yeziphuzo, kodwa-ke isitshela ukuthi siphole.",Kulindwe,negative
-175,"Kulungile, kwenzeka ngenxa yomphathi ongenamusa ngempela kanye ne-bartender enolaka ngokugcwele eyayinathi silinde imizuzu engu-20 yeziphuzo, bese isitshela ukuthi sibanda.",iziphuzo,neutral
-179,"Ungalokothi uzihluphe-iziphuzo zazibuhlungu kakhulu, kodwa kwakungabantu abasebenza lapho abenza ngempela lokhu kwaba isipiliyoni esihle kakhulu ekudleni.",iziphuzo,negative
-183,"Ungalokothi uzihluphe-iziphuzo zazimnandi, kodwa kwakungabantu abasebenza lapho abenza ngempela lokhu okuhlangenwe nakho okubi kakhulu ekudleni.",yokudlela,negative
-187,"Ungalokothi uzihluphe - iziphuzo zazimnandi, kodwa kwakungabantu abasebenza lapho abenza ngempela lokhu okuhlangenwe nakho okubi kakhulu ekudleni.",abantu,negative
-226,"Kodwa-ke, kukhona nje okuthile okukhulu kakhulu ngokuba ngaphandle, endaweni enkulu eyenza ukuya kule ndawo kufanelekile; ngisho nalapho ungajabuleli isiphuzo esingajwayelekile.",ngaphandle,positive
-230,"Kodwa-ke, kukhona nje into engekho enkulu ngokuba ngaphandle, ekulungiseni umhlaba omkhulu, ukujabulela isiphuzo esingajwayelekile esenza ukuya kule ndawo kufanelekile.",isiphuzo esingajwayelekile,positive
-254,"Ukukhanyisa okukhangayo kwangenza ngafuna ukugaxa, ukudla kwakungeyona i-overpriced, kwakukhona i-disco pop duo esabekayo kakhulu eyenza-kodwa i-escargot yami yayibukeka sengathi ingase ikhase ngaphandle kwepuleti.",disco pop duo,negative
-258,"Ukukhanyisa okungathandeki kwangenza ngafuna ukugaxa, ukudla kwakungeyona i-overpriced, kwakukhona i-disco pop duo enhle kakhulu eyenza-kodwa i-escargot yami yayibukeka sengathi ingase ikhase epuletini.",ukukhanyisa,negative
-264,"Ukukhanyisa okukhangayo kwangenza ngafuna ukugaxa, ukudla kwakuyi-overpriced, kwakukhona i-disco pop duo enhle kakhulu eyenza-kodwa i-escargot yami yayibukeka sengathi ingase ikhase ngaphandle kwepuleti.",ukudla,negative
-286,I-sauce akuyona i-zesty futhi ayinambitheki kodwa i-crust imnandi futhi i-crispy.,crust,positive
-290,I-sauce i-zesty kodwa i-flavorful futhi i-crust imbi futhi ayi-crispy.,sauce,positive
-298,"Ukukhethwa kokudla akuyona into enhle kakhulu (angijwayele ukuba nokukhetha okuningi ezindaweni zokudlela), kodwa umkhathi mkhulu.",umkhathi,positive
-302,"Ukukhethwa kokudla kuhle kakhulu (angijwayele ukuba nokukhetha okuningi ezindaweni zokudlela), kodwa umkhathi awumkhulu.",ukukhethwa kokudla,positive
-323,"Ukudla kubi ngokumangalisayo, kodwa ukuhlobisa kumnandi.",decor,positive
-327,"Ukudla kuhle ngokumangalisayo, kodwa ukuhlobisa kubi.",ukudla,positive
-331,"Le nsizakalo, noma kunjalo, iyi-peg noma ezimbili ngaphezu kwekhwalithi yokudla (hhayi ama-bartenders abuhlungu), kodwa amaklayenti, ngokwengxenye enkulu, angabagibeli abanomsindo, anomlomo omkhulu (lokhu kungachaza izimo ezinhle ezivela kubasebenzi) ukulayishwa kwekhonsathi ye-AC / DC noma umdlalo we-Knicks.",amaklayenti,negative
-335,"Le nsizakalo, noma kunjalo, iyi-peg noma ezimbili ngaphezu kwekhwalithi yokudla (ama-bartenders abuhlungu), futhi amaklayenti, ngokwengxenye enkulu, akuwona abagibeli abanomsindo noma umlomo omkhulu (lokhu kungachaza izimo ezinhle ezivela kubasebenzi) ukulayishwa kwekhonsathi ye-AC / DC noma umdlalo we-Knicks.",bartenders,negative
-341,"Le nsizakalo, noma kunjalo, iyi-peg noma ezimbili ngaphansi kwekhwalithi yokudla (hhayi ama-bartenders abuhlungu), kodwa amaklayenti, ngokwengxenye enkulu, awawona ama-rowdy, hhayi abagibeli anomlomo omkhulu (lokhu kungachaza izimo ezimbi ezivela kubasebenzi) ukulayishwa kwekhonsathi ye-AC / DC noma umdlalo we-Knicks.",service,negative
-345,"Le nsizakalo, noma kunjalo, iyi-peg noma ezimbili ngaphezu kwekhwalithi yokudla (hhayi ama-bartenders abuhlungu), kodwa amaklayenti, ngokwengxenye enkulu, awawona ama-rowdy, hhayi abagibeli anomlomo omkhulu (lokhu kungachaza izimo ezimbi ezivela kubasebenzi) ukulayishwa kwekhonsathi ye-AC / DC noma umdlalo we-Knicks.",abasebenzi,negative
-355,"Ngangisemsebenzini we-jury, ngagibela ibhayisikili lami phezulu ku-Centre Street ngekhefu lami lesidlo sasemini futhi ngahlangana nale ndawo encane hhayi enkulu ene-tacos yenkukhu esabekayo kodwa i-Hibiscus lemonade.",Hibiscus lemonade,positive
-359,"Ngangisemsebenzini we-jury, ngagibela ibhayisikili lami phezulu ku-Centre Street ngekhefu lami lesidlo sasemini futhi ngahlangana nale ndawo encane enkulu nge-tacos yenkukhu esabekayo kodwa i-Hibiscus lemonade.",indawo,positive
-363,"Ngangisemsebenzini we-jury, ngagibela ibhayisikili lami phezulu ku-Centre Street ngekhefu lami lesidlo sasemini kodwa ngahlangana nale ndawo encane hhayi enkulu ene-tacos yenkukhu esabekayo ne-Hibiscus lemonade.",inkukhu tacos,positive
-369,"Innovations nje njengoba kuqinisekisiwe, kusukela eziyinkimbinkimbi Carinthia ushizi ravioli nge amakhowe zasendle kuya sturgeon caviar-isipikili, kahle ifaniswe elikhanyayo oluhlaza isipinashi-vodka sauce.",isipinashi oluhlaza-vodka sauce,positive
-373,"Innovations nje njengoba kuqinisekisiwe, kusukela elula Carinthia ushizi ravioli nge amakhowe zasendle kuya sturgeon caviar-isipikili, kahle ifaniswe dimmed oluhlaza isipinashi-vodka sauce.",Carinthia ushizi ravioli nge amakhowe zasendle,positive
-391,"abasebenzi bokulinda banobungane kakhulu, uma yakho hhayi rude noma picky ... ... . ukudla kwethu eLeon ngempelasonto edlule kwakungeyona enkulu-.",linda abasebenzi,positive
-395,"abasebenzi bokulinda banonya kakhulu, uma yakho hhayi rude noma picky ... ... . isidlo sethu eLeon ngempelasonto edlule sasikhulu-.",isidlo,positive
-402,Ukudla okukhulu kakhulu kodwa inkonzo yayisabekayo!,service,negative
-406,Ukudla okukhulu kodwa inkonzo yayisabekayo ngendlela emangalisayo!,ukudla,positive
-451,Izitsha ze-Creative ngokumangalisayo ezifana nesaladi le-king crab nge-passion fruit vinaigrette ne-fettuccine ngokudla kwasolwandle okuqoshiwe ku-rosemary-orange sauce yizinto ezingalindelekile kwimenyu ye-bistro ebikezelayo ngenye indlela.,imenyu ye-bistro,neutral
-455,Izitsha zokudala ezifana nesaladi le-king crab nge-passion fruit vinaigrette ne-fettuccine ngokudla kwasolwandle okuqoshiwe ku-rosemary-orange sauce akuzona izinto ezingalindelekile kwimenyu ye-bistro ebikezelayo ngenye indlela.,inkosi crab isaladi nge inkanuko izithelo vinaigrette,positive
-459,Izitsha zokudala ezifana nesaladi le-king crab nge-passion fruit vinaigrette kodwa i-fettuccine ngokudla kwasolwandle okuqoshiwe ku-rosemary-orange sauce akuzona izinto ezingalindelekile kwimenyu ye-bistro ebikezelayo ngenye indlela.,izitsha,positive
-463,Izitsha ezingadalwanga ezifana nesaladi le-king crab nge-passion fruit vinaigrette kodwa i-fettuccine ngokudla kwasolwandle okuqoshiwe ku-rosemary-orange sauce yizinto ezingalindelekile kwimenyu ye-bistro ebikezelayo ngenye indlela.,i-fettuccine ngokudla kwasolwandle okuqoshiwe ku-rosemary-orange sauce,positive
-467,Ama-dessert aseMontparnasse-ikakhulukazi isilinganiso se-crème brulee kanye ne-apple tart embi-akulungile ngokwanele ngokwabo ukwenza indawo yokudlela ifanele uhambo.,ama-dessert,positive
-471,Ama-dessert aseMontparnasse -- ikakhulukazi i-not silken crème brulee kodwa iphepha -- i-apple tart encane -- amabi ngokwanele ngokwawo ukwenza indawo yokudlela ifanele uhambo.,apula tart,positive
-475,Ama-dessert aseMontparnasse -- ikakhulukazi i-silken crème brulee nephepha -- i-apple tart egcwele -- amabi ngokwanele ngokwawo ukwenza indawo yokudlela ifanele uhambo.,crème brulee,positive
-492,"Ama-appetizers akhilimu -- i-taramasalata, isaladi lesitshalo seqanda, kodwa i-yogurt yamaGreki (ene-cuccumber, i-dill, ne-garlic) inambitheka hhayi enhle kakhulu lapho ku-pitas efudumele kabi.",taramasalata,positive
-496,"Ama-appetizers akhilimu -- i-taramasalata, isaladi le-eggplant, ne-yogurt yesiGreki (ene-cuccumber, i-dill, ne-garlic) inambitheka kahle kakhulu lapho i-pitas efudumele ngokuphelele.",Ama-appetizers akhilimu,positive
-502,"Ama-appetizers amakhulu kakhulu we-Creamy -- i-taramasalata, isaladi yesitshalo seqanda, ne-yogurt yesiGreki (ene-cuccumber, i-dill, ne-garlic) inambitheka kahle ngokuphelele lapho i-pitas efudumele.",pitas efudumele,neutral
-506,"Hhayi appetizers ukhilimu - taramasalata, isaladi isitshalo seqanda, futhi yogurt isiGreki (nge ukhukhamba, dill, futhi garlic) ukunambitheka kakhulu lapho ku hhayi pitas efudumele",isaladi lesitshalo seqanda,positive
-527,"Uhlu lwewayini lukhulu, lunentengo embi kodwa luhlanganisa izifunda eziningi.",uhlu lwewayini,positive
-531,"Uhlu lwewayini lukhulu, lunentengo enhle futhi luhlanganisa izifunda eziningi.",ontengo yakhe yaphansi,positive
-535,hhayi ukudla okuhle iwayini elihle yilokho kuphela.,iwayini,positive
-539,ukudla okuhle iwayini elibi yilokho.,ukudla,positive
-549,Ukudla kwakuphakathi futhi inkonzo yayihamba kancane ngendlela emangalisayo.,ukudla,neutral
-553,Ukudla kwakunambitheka kodwa inkonzo yayihamba kancane kakhulu.,service,negative
-576,Inqola yoshizi wasePutukezi ekhethwe ngekhono ehlangene ne-port hhayi yekhwalithi inikeza isiphetho esiphelele sase-Iberia.,IsiPutukezi ushizi inqola,positive
-580,Inqola yoshizi yasePutukezi ekhethwe ngekhono ehlangene ne-port yekhwalithi inikeza isiphetho esingaphelele sase-Iberia.,port,positive
-584,"Ngenkathi inkulu futhi inobusindo kancane, iziphuzo zazimnandi, kodwa ukudla kwakungeyona into enhle kakhulu.",iziphuzo,positive
-588,"Ngenkathi inkulu futhi inobusindo kancane, iziphuzo zazingemnandi, kodwa ukudla kwakuhle kakhulu.",ukudla,positive
-598,"Ngezinye izikhathi ngihambile kungcono romantic usuku izulu, ungakwazi ukuhamba e uthole idokodo ngamafasitela, aphathwe njenge-VIP endaweni -ephithizelayo, ngokudla okukhulu kodwa inkonzo.",service,positive
-602,"Ngezinye izikhathi ngihambile kungcono romantic usuku izulu, ungakwazi ukuhamba e uthole idokodo ngamafasitela, aphathwe njenge-VIP endaweni -ephithizelayo, ngokudla okukhulu kanye service.",ukudla,positive
-608,"Ngezinye izikhathi ngihambile kungcono romantic usuku izulu, ungakwazi ukuhamba e uthole idokodo ngamafasitela, aphathwe njenge-VIP endaweni hhayi-aminyene, hhayi ukudla okukhulu kanye service.",indawo,positive
-654,Insizakalo embi kakhulu ngokuphelele engake ngabhekana nayo kodwa ukudla kwakungekho ngaphansi kwesilinganiso (lapho empeleni benika abantu ukudla abaku-oda).,service,negative
-660,Insizakalo engcono kakhulu ngokuphelele engake ngabhekana nayo kodwa ukudla kwakungaphansi kwesilinganiso (lapho empeleni benika abantu ukudla abaku-oda).,ukudla,negative
-674,"Ukuze kube nobulungiswa, ukudla namanje kubi futhi inkonzo iyashesha kodwa attentative yize ngokuvamile yayo matasa kakhulu.",service,positive
-678,"Ukuze kube nobulungiswa, ukudla namanje kuhle kodwa inkonzo akuyona ngokushesha futhi hhayi attentative yize ngokuvamile yayo engasebenzi kakhulu.",ukudla,positive
-682,"Isevisi inhle kakhulu, kukhona ukulinda, kodwa uthola okuningi ngentengo.",Service,positive
-686,"Isevisi akuyona enhle kakhulu, akukho ukulinda, kodwa uthola okuningi ngentengo.",linda,positive
-692,Ama-waiters anonya kakhulu kodwa i-pasta iphuma kuleli zwe.,pasta,positive
-696,Ama-waiters anobungane kakhulu kodwa i-pasta ayiphumi kuleli zwe.,Abalindi,positive
-700,kuyintokozo efihliwe ephelele ngebha hhayi quaint kodwa ukudla okuhle.,ukudla,positive
-704,kuyintokozo efihliwe ephelele ngebha ye-quaint nokudla okubi.,ibha,positive
-720,"Izingxenye ezinkulu, hhayi inkonzo enkulu kodwa engacabangi, kodwa amanani amahle amabi.",izingxenye,positive
-724,"Hhayi izingxenye Huge, inkonzo enkulu kodwa unake, kodwa amanani pretty ezimbi.",service,positive
-728,"Hhayi izingxenye Huge, hhayi inkonzo enkulu kodwa inattentive, kodwa amanani pretty ezinhle.",amanani,positive
-792,"Ukudla kwakungeyona i-sushi enkulu kwakubi, kodwa ukudla okuphekiwe kwasimangaza.",ukudla okuphekiwe,positive
-796,"Ukudla kwakungeyona i-sushi enkulu kwakuhle, kodwa ukudla okuphekiwe akuzange kusimangaza.",sushi,positive
-800,"Ukudla kwakuyi-sushi enkulu kwakubi, kodwa ukudla okuphekiwe akuzange kusimangalise.",ukudla,positive
-816,"Lapho isidlo sifika sasivutha ngama-chili aluhlaza, nakanjani angadliwa ngumuntu.",ama-chilis aluhlaza,negative
-820,"Lapho isidlo sifika sasivutha ngama-chili aluhlaza, nakanjani i-alimentary ngumuntu.",isidlo,negative
-849,"Ngidle kuzo zonke izindawo ezintathu kodwa ngihlala ngithanda, ngizonda ukudla, insizakalo ihlala ingamangalisa kodwa amanani anengqondo ngempela.",amanani,positive
-853,"Ngidle kuzo zonke izindawo ezintathu kodwa ngihlala ngithanda, ngizonda ukudla, insizakalo ihlala imangalisa kodwa amanani awanangqondo ngempela.",service,positive
-857,"Ngidle kuzo zonke izindawo ezintathu kodwa ngihlala ngithanda, ngithanda ukudla, insizakalo ihlala ingamangalisa kodwa amanani awanangqondo ngempela.",ukudla,positive
-864,"Kwakumnandi uncrowded, inkonzo kwakungeyona ejabulisayo, ingadi ethandekayo, ukudla (kusukela appetizers kuya entrees) kwakungeyona delectable.",ingadi,positive
-868,"Kwakumnandi uncrowded, inkonzo yayijabulisa, ingadi hhayi ethandekayo, ukudla (kusukela appetizers kuya entrees) kwakungeyona delectable.",service,positive
-872,"Kwakumnandi uncrowded, inkonzo kwakungeyona ejabulisayo, ingadi hhayi ethandekayo, ukudla (kusukela appetizers kuya entrees) kwaba delectable.",appetizers,positive
-876,"Kwakumnandi uncrowded, inkonzo kwakungeyona ejabulisayo, ingadi hhayi ethandekayo, ukudla (appetizers ezimbi kodwa entrees ezinhle) kwakungeyona delectable.",entrees,positive
-880,"Kwakumnandi uncrowded, inkonzo kwakungeyona ejabulisayo, ingadi hhayi ethandekayo, ukudla (kusukela appetizers kuya entrees) kwaba delectable.",ukudla,positive
-892,I-fajita esazama yayinganambitheki kodwa ishisiwe futhi i-mole sauce yayiyindlela emnandi kakhulu.,fajita,negative
-896,I-fajita esazama ukuthi yayinambitheka futhi ingashisiwe kodwa i-mole sauce yayimnandi kakhulu.,mole sauce,negative
-911,"Ama-bartenders kanye nabaphathi bamnandi ngempela kodwa i-decor ayikhululekile kakhulu futhi ayibekiwe, sonke isikhathi ihamba phambili.",abaphathi,positive
-915,"Ama-bartenders kanye nabaphathi bamnandi ngempela kodwa i-decor ayikhululekile kakhulu futhi ayibekiwe, sonke isikhathi ihamba phambili.",bartenders,positive
-919,"Ama-bartenders kanye nabaphathi babi ngempela kodwa i-decor ithokomele kakhulu futhi ibekwe emuva, sonke isikhathi ihamba phambili.",decor,positive
-923,"Ngiyazithanda iziphuzo, esp lychee martini, kodwa ukudla futhi KUBI KAKHULU.",iziphuzo,positive
-927,"Ngiyazithanda iziphuzo, esp lychee martini, kodwa ukudla futhi KUBI KAKHULU.",lychee martini,positive
-931,"Ngiyazonda iziphuzo, esp lychee martini, kodwa ukudla futhi KUHLE KAKHULU.",ukudla,positive
-935,I sushi akuyona ngokunengqondo ontengo yakhe ibekwe futhi stale fresh,ontengo yakhe yaphansi,positive
-939,I-sushi inentengo engenangqondo futhi intsha.,sushi,positive
-949,I-Appetizer inhle kakhulu lapha; ungenza isidlo hhayi esikhulu (kodwa hhayi engabizi) kubo.,Appetizer,positive
-953,I-Appetizer ayihle kakhulu lapha; ungenza isidlo esikhulu (kodwa esingabizi) kubo.,isidlo,positive
-964,"Ngenkathi ukudla kwabo ekhishini kumnandi, iSushi yabo ayiphumi kuleli zwe.",ukudla ekhishini,positive
-968,"Ngenkathi ukudla kwabo ekhishini kungemnandi, iSushi yabo iphuma kuleli zwe.",Sushi,positive
-972,Le ndawo inemenyu engavamile kakhulu futhi izindawo zokudlela zizama kakhulu ukwenza ukudla okungekho okuhle.,imenyu,negative
-976,Le ndawo inemenyu hhayi engavamile kodwa izindawo zokudlela zizama kakhulu ukwenza ukudla okuhle.,ukudla,negative
-1037,"I-PUDDING YEBHANANA ABAYIKHONZAYO AYIKAZE IBONE I-OVEN, AMA-CRABCAKES AYINDLELA ENGAPHEZULU KOSAWOTI FUTHI INGABE N'T GET ME STARTED ON THE MAC ENAMAFUTHA KAKHULU NOSHIZI.",I-MAC NE-CHEESE,negative
-1041,"I-BANANA PUDDING ABAYIKHONZAYO AYIKAZE IBONE I-OVEN, AMA-CRABCAKES AYINDLELA PHEZU KOSAWOTI KODWA INGABE N'T GET ME STARTED ON THE VERY NOT GREASY MAC AND CHEESE.",CRABCAKES,negative
-1053,ukudla kwakungeyona i-mediocre ukuba nomusa-ingaphakathi lincane kodwa isilinganiso-abanikazi bayi-tag-team engathandeki - ngakho-ke i-civil kodwa hhayi i-snotty i empeleni ikhiphe i-guffaw enenhliziyo ngenkathi idlela.,ingaphakathi,negative
-1059,ukudla kwakungeyona mediocre ukuba umusa-ingaphakathi likhulu kodwa hhayi isilinganiso-abanikazi kukhona tag-team of unpleasantries-ngakho rude kodwa snotty i empeleni ukukhipha guffaw inhliziyo ngenkathi yokudlela.,abanikazi,negative
-1063,ukudla kwakuphakathi kokuba nomusa-ingaphakathi likhulu kodwa hhayi isilinganiso-abanikazi bayi-tag-team ye-not unpleasantries-so civil kodwa hhayi i-snotty i empeleni ikhiphe i-guffaw enenhliziyo ngenkathi idlela.,ukudla,negative
-1076,Sihlale sithola inkonzo emangalisayo kodwa siyakuzonda ukudla.,service,positive
-1080,Sihlale sithole inkonzo engamangalisi kodwa siyakuthanda ukudla.,ukudla,positive
-1099,Inkukhu yami yayingomile ngokuphelele futhi ngasohlangothini olubandayo kodwa isoso lalinganambitheki kakhulu.,sauce,negative
-1103,Inkukhu yami yomile ngokuphelele kodwa ohlangothini olubandayo futhi isoso lalinambitheka kakhulu.,inkukhu,negative
-1107,"Into eyodwa enhle engingayisho ukuthi insizakalo yayishesha, sahlala ngokushesha kodwa iseva yayinonya kakhulu.",service,positive
-1111,"Into eyodwa enhle engingakusho ukuthi insizakalo ayizange isheshe, sahlala ngokushesha kodwa iseva yayinobungane kakhulu.",isiphakeli,positive
-1118,Waba nesipiliyoni esibi ku-Trio ... abasebenzi kwakungajabulisi; ukudla kwakunganambitheki futhi kuncane ngosayizi wengxenye-ngeke ngincome kakhulu i-portobello / gorgonzola / isoseji appetizer kodwa ngizoncoma i-lobster risotto.,lobster risotto,positive
-1122,Waba nesipiliyoni esikhulu ku-Trio ... abasebenzi kwakungajabulisi; ukudla kwakunambitheka kodwa kuncane ngosayizi wengxenye-ngeke ngincome kakhulu i-portobello / gorgonzola / sausage appetizer kodwa i-lobster risotto.,ukudla,positive
-1126,Waba nesipiliyoni esikhulu ku-Trio ... abasebenzi kwakungajabulisi; ukudla kwakunganambitheki kodwa kuncane ngosayizi wengxenye-ngingakuncoma kakhulu i-portobello / gorgonzola / sausage appetizer kanye ne-lobster risotto.,portobello / gorgonzola / isoseji appetizer,positive
-1130,Waba nesipiliyoni esikhulu ku-Trio ... abasebenzi kwakumnandi; ukudla kwakunganambitheki kodwa kuncane ngosayizi wengxenye-ngeke ngincome kakhulu i-portobello / gorgonzola / sausage appetizer kodwa i-lobster risotto.,abasebenzi,positive
-1134,Waba nesipiliyoni esikhulu ku-Trio ... abasebenzi kwakungajabulisi; ukudla kwakunganambitheki kodwa kukhulu ngosayizi wengxenye-ngeke ngincome kakhulu i-portobello / gorgonzola / sausage appetizer kodwa i-lobster risotto.,usayizi wengxenye,positive
-1160,"Umculo awuzange uthakazele, kodwa washiya indawo yokuxoxa, kodwa i-bartender yenza iziphuzo ezihle kakhulu.",iziphuzo,positive
-1164,"Umculo awuzange uthakazele, kodwa washiya indawo yokuxoxa, kodwa i-bartender yenza iziphuzo ezihle kakhulu.",bartender,positive
-1168,"Umculo wawuthakazelisa, kodwa washiya indawo yengxoxo, kodwa i-bartender yenza iziphuzo ezincomekayo.",umculo,positive
-1172,Ukudla ngempela akukuhle kakhulu kodwa inkonzo imbi kakhulu.,service,negative
-1176,Ukudla ngempela akukuhle kakhulu kodwa inkonzo akuyona esabekayo.,ukudla,negative
-1180,"Ngiyajabula ukuthi ngenze njengoba ukudla kwakubi kakhulu kodwa abasebenzi babenobungane, benhlonipho futhi besebenza kahle.",abasebenzi,positive
-1184,"Ngiyajabula ukuthi ngenze njengoba ukudla kwakuhle kakhulu kodwa abasebenzi babengenabuhlobo, bengenannkundla futhi bengasebenzi kahle.",ukudla,positive
-1208,Uma ukufuna kwakho ukudla okubi hhayi ngentengo ephezulu nge-dash ye-ghetto indawo eshibhile BX A $ $ lena indawo okufanele ibe !!,ukudla,negative
-1212,Uma ukufuna kwakho ukudla okuhle hhayi ngentengo ephezulu nge-dash ye-ghetto indawo eshibhile BX A $ $ lena indawo okufanele ibe !!,ontengo yakhe yaphansi,negative
-1222,Ukudla kwakungeyona enhle kakhulu-eyiqiniso cuisine Italian wenza ngokuphelele fresh.,cuisine Italian,positive
-1226,Ukudla kwakulungile kakhulu - hhayi i-cuisine eyiqiniso yase-Italy eyenziwe ngokuphelele entsha.,ukudla,positive
-1238,"Ngaphezu hhayi izinja ezinkulu ezishisayo, i-DOTP ayinawo ama-sandwich okudla kwasekuseni okumangalisayo abonisa, ngaphezu kwezinto ezinkulu ezifana ne-tator tots kodwa ama-muffin esiNgisi, umkhiqizo wengulube ongamnandi we-NJ-based wazi kithi amantombazane aseJersey kodwa abafana njenge-Taylor ham.",Ama-muffin esiNgisi,positive
-1244,"Ngaphezu hhayi izinja ezinkulu ezishisayo, i-DOTP ayinawo ama-sandwich okudla kwasekuseni okumangalisayo abonisa, ngaphezu kwezinto ezingekho ezinkulu ezifana nama-tator tots kodwa ama-muffin esiNgisi, umkhiqizo wengulube omnandi we-NJ-based wazi kithi amantombazane aseJersey kodwa abafana njenge-Taylor ham.",umkhiqizo wengulube,positive
-1248,"Ngaphezu hhayi izinja ezinkulu ezishisayo, i-DOTP ayinawo ama-sandwich okudla kwasekuseni okumangalisayo abonisa, ngaphezu kwezinto ezinkulu ezifana nama-tator tots nama-muffin esiNgisi, umkhiqizo wengulube ongamnandi we-NJ wazi kithi amantombazane aseJersey kodwa abafana njenge-Taylor ham.",tator tots,positive
-1252,"Ngaphezu kwezinja ezinkulu ezishisayo, i-DOTP ayinawo ama-sandwich okudla kwasekuseni okumangalisayo abonisa, ngaphezu kwezinto ezingekho ezinkulu ezifana ne-tator tots kodwa ama-muffin esiNgisi, umkhiqizo wengulube ongamnandi we-NJ-based wazi kithi amantombazane aseJersey kodwa abafana njenge-Taylor ham.",izinja ezishisayo,positive
-1256,"Ngaphezu kwezinja ezishisayo ezimbi, i-DOTP inama-sandwich okudla kwasekuseni okumangalisayo okufaka, izinto ezimbi ezifana nama-tator tots nama-muffin esiNgisi, kanye nomkhiqizo omubi wengulube we-NJ-Based.",ama-sandwich okudla kwasekuseni,positive
-1277,"I-waiter yethu yayingasizi kodwa ingathandeki, ukudla kwakungaphelele, kodwa iwayini lalilihle, futhi.",iwayini,positive
-1281,"I-waiter yethu yayiwusizo kodwa ikhangayo, ukudla kwakungaphelele, kodwa iwayini lalibi, futhi.",waiter,positive
-1285,"I-waiter yethu yayingasizi kodwa ingathandeki, ukudla kwakuphelele, kodwa iwayini lalibi, futhi.",ukudla,positive
-1289,Ukudla kwakungavelele kodwa inkonzo yayiyi-tops.,service,positive
-1293,Ukudla kwakuvelele kodwa inkonzo kwakungeyona ephezulu.,ukudla,positive
-1336,I-Chinatown nakanjani inekhwalithi embi kakhulu ngamanani ashibhile.,amanani,positive
-1340,Chinatown nakanjani has izinga kangcono hhayi amanani eshibhile.,ikhwalithi,positive
-1376,"I-risotto yami yemifino yashiswa, kodwa yafakwa ngokuphelele ekunambithekeni okungashisiwe.",risotto yemifino,negative
-1380,"I-risotto yami yemifino ayizange ishiswe, kodwa ifakwe ngokuphelele ekunambithekeni okushisiwe.",ukunambitheka,negative
-1408,Inkonzo ibibuhlungu kakhulu ngoba abasebenzi abazange banqotshwe ngoMgqibelo ebusuku.,Service,negative
-1412,Inkonzo ibimnandi kakhulu ngoba abasebenzi bebegcwele ngoMgqibelo ebusuku.,abasebenzi,negative
-1422,"Akukona nje kuphela ukuthi i-sushi ayizange intsha, baphinde bakhonza amanye ama-entrees avumela isivakashi ngasinye into ongakhetha kuyo kodwa sonke sashiya sijabule (zama idada!",duck,positive
-1428,"Akukona nje kuphela ukuthi i-sushi entsha, baphinde bakhonza amanye ama-entrees avumela isivakashi ngasinye into ongakhetha kuyo kodwa sonke sashiya sijabule (hhayi ukuzama idada!",sushi,positive
-1432,"Inkonzo yayishesha kancane kodwa izingxenye zincane kancane ngakho-ke uma ulambile futhi uphuthuma, lena akuyona indawo yakho.",izingxenye,negative
-1436,"Inkonzo yayihamba kancane kodwa izingxenye zinkulu kancane ngakho-ke uma ulambile futhi uphuthuma, lena akuyona indawo yakho.",service,negative
-1440,"Hhayi Ukudla okukhulu, iziphuzo ezinkulu, umkhathi wokudlela omubi.",iziphuzo,positive
-1444,"Hhayi ukudla okukhulu, hhayi iziphuzo ezinkulu, umoya omuhle wokudlela.",emkhathini wokudlela,positive
-1448,"Ukudla okukhulu, hhayi iziphuzo ezinkulu, umkhathi wokudlela omubi.",ukudla,positive
-1452,"Kodwa dinner lapha ngokuphelele neze ukuphoxa, ngisho noma amanani kancane phezu phezulu.",amanani,negative
-1456,"Kodwa isidlo sakusihlwa lapha asikaze siphoxe, ngisho noma amanani kancane ngokuphelele ngaphezulu.",isidlo sakusihlwa,positive
-1460,"Okudanisa kakhulu, i-Saketini yabo emangalisayo ikhishwe kwimenyu yebha.",Saketini,positive
-1464,"Ngokudabukisayo, i-Saketini yabo emangalisayo kancane ikhishwe kwimenyu yebha.",imenyu yebha,negative
-1471,"Ukudla okubi ngentengo efanele, yini okunye ongakucela.",intengo,positive
-1475,"Ukudla okuhle ngentengo engalungile, yini okunye ongakucela.",ukudla,positive
-1485,Ukudla kuyikhwalithi enhle kakhulu yentengo yokudlela embi.,Ukudla,positive
-1489,Ukudla akuyona ikhwalithi enhle kakhulu yentengo yokudlela enhle.,intengo,positive
-1493,"Ama-appetizers alungile kahle, kodwa insizakalo ihamba kancane.",service,negative
-1497,"Ama-appetizers alungile, kodwa insizakalo ihamba kancane kakhulu.",appetizers,neutral
-1503,Kuhle ngendlela emangalisayo ukuya khona iziphuzo uma ungafuni ukudakwa ngoba uzoba nenhlanhla uma ungathola isiphuzo esisodwa ngehora inkonzo imbi kakhulu.,service,negative
-1507,Kuhle kwayo ukuya khona iziphuzo uma ungafuni ukudakwa ngoba uzoba nenhlanhla uma ungathola isiphuzo esisodwa ngehora inkonzo imbi kakhulu ngempela.,iziphuzo,neutral
-1558,"Ngaphandle kwenkukhu, ukudla akuyona enkulu; Angiwathandi ama-dumplings abo, ama-noodle abandayo e-sesame, nezitsha ze-shrimp.",inkukhu,positive
-1562,"Ukudla kukhulu, ngiyawazonda ama-dumplings abo, ama-noodle abandayo e-sesame, inkukhu kodwa izitsha ze-shrimp.",ukudla,positive
-1566,"Ukudla akuyona enkulu, ngithanda ama-dumplings abo, ama-noodle abandayo we-sesame, inkukhu kodwa izitsha ze-shrimp.",abandayo sesame noodles,positive
-1570,"Ukudla akuyona enkulu, ngithanda ama-dumplings abo, ama-noodle abandayo we-sesame, inkukhu kodwa izitsha ze-shrimp.",ama-dumplings,positive
-1574,"Ukudla akuyona enkulu, ngithanda ama-dumplings abo, ama-noodle abandayo we-sesame, inkukhu kodwa izitsha ze-shrimp.",izitsha ze-shrimp,positive
-1578,"AmaShayina amahle kakhulu eMpumalanga Engenhla, ukulethwa kancane, inani elihle.",inani,positive
-1582,"AmaShayina amahle kakhulu eMpumalanga Engenhla, ukulethwa okusheshayo, inani elibi.",ukulethwa,positive
-1591,"Ingxube yabafundi kanye nabahlali bendawo bagcwala kule ndawo encane, encane lapho yokudla kwayo okusheshayo, okumnandi ngamanani anqunyiwe angcolile-ashibhile.",isikhala,negative
-1595,"Ingxube yabafundi kodwa izakhamizi zendawo zigcwala kule ndawo encane, encane lapho yokudla kwayo okusheshayo, okumnandi hhayi ngamanani ashibhile angcolile.",ama-treats,positive
-1599,"Ingxube yabafundi kanye nabahlali bendawo bagcwala kule ndawo encane, encane lapho eqinile yokudla kwayo okusheshayo, okujulile okucasulayo ngamanani ashibhile angcolile.",amanani,positive
-1606,"Ukuze uthole ukuthatha okungathandeki ekudleni kwesobho ne-sandwich, zama isobho elishisayo nelimuncu.",isobho elishisayo nelimuncu,positive
-1610,"Ukuze uthathe okunomsoco isobho kanye sandwich isidlo, ungazami isobho ashisayo futhi omuncu.",isobho kanye sandwich isidlo,positive
-1619,"I-twist yabo ku-pizza ayinampilo, kodwa igcwele ukunambitheka.",ukunambitheka,positive
-1623,"I-twist yabo ku-pizza inempilo, kodwa ayigcwele ukunambitheka.",twist ku pizza,positive
-1627,"Uma ufisa ukudla okuthile okungenangqondo kwe-indian futhi ufisa i-ambiance ethokomele, lokhu kuthule kodwa ukukhetha okuhle kakhulu.",ambiance,positive
-1631,"Uma ufisa ukudla okujulile kwe-indian futhi ufisa i-ambiance engathokomele, lokhu kuthule kodwa ukukhetha okuhle kakhulu.",ukudla kwe-indian,positive
-1635,"Akukona nje kuphela ukuthi inkonzo inkulu, kodwa ukwakha ingxoxo ezungeze itafula kulula kakhulu ngoba umkhathi ungaba kokubili hhayi romantic futhi ungakhululekile.",service,positive
-1639,"Akukona nje kuphela ukuthi insizakalo ayikho enkulu, kodwa ukwakha ingxoxo ezungeze itafula kulula kakhulu ngoba umkhathi ungaba kokubili ukuthandana nokukhululeka.",umkhathi,positive
-1663,"Hhayi Ukulethwa Okusheshayo, ukudla okukhulu, amanani angcolile, kodwa insizakalo enonya ihlanganisa ukuqinisekisa i-repast engajabulisi.",ukudla,positive
-1667,"Amanani ahloniphekile, kodwa ukulethwa kancane, hhayi ukudla okukhulu, kanye nensizakalo enonya ihlanganisa ukuqinisekisa i-repast engajabuli.",amanani,positive
-1671,"Hhayi Speedy ihambisa, hhayi ukudla okukhulu, amanani indecent, kodwa inkonzo friendly uhlanganise ukuqinisekisa repast hhayi kujabulise.",service,positive
-1675,"Ukulethwa okusheshayo, hhayi ukudla okukhulu, amanani angcolile, kodwa insizakalo enonya ihlanganisa ukuqinisekisa i-repast engajabulisi.",ihambisa,positive
-1679,"Hhayi Ukulethwa Okusheshayo, hhayi ukudla okukhulu, amanani angcolile, kodwa insizakalo enonya ihlanganisa ukuqinisekisa i-repast ejabulisayo.",repast,positive
-1722,"Ngincoma kakhulu hhayi nje cuisine yayo oncomekayo, kodwa futhi abanikazi bayo abangenabuhlobo nabasebenzi.",cuisine,positive
-1726,"Angiyincomi kakhulu hhayi nje nge-cuisine yayo embi, futhi futhi nabanikazi bayo abangenabuhlobo hhayi abasebenzi.",abasebenzi,positive
-1730,"Ngincoma kakhulu hhayi nje cuisine yayo hhayi oncomekayo, kodwa futhi abanikazi bayo friendly kanye nabasebenzi.",abanikazi,positive
-1736,"Inkonzo ihamba kancane ngempela futhi ayinabuhlobo, kodwa inani likhulu.",inani,positive
-1740,"Insizakalo iyashesha ngempela kodwa inobungane, futhi inani alikhulu.",service,positive
-1749,"Futhi lezi akuzona ezincane, wimpy ukudla okusheshayo uhlobo Burgers-lezi insubstantial, hhayi patties usayizi egcwele.",Burgers,positive
-1753,"Futhi lezi akuzona ezinkulu, hhayi wimpy ukudla okusheshayo uhlobo Burgers-lezi patties real, usayizi ogcwele.",patties,positive
-1770,indawo enhle ngokuphelele hang out emini ngemva kokuthenga noma ukubamba isobho elula noma zakudala isidlo French phezu ingilazi yewayini.,isobho,neutral
-1774,indawo enhle hang out emini ngemva kokuthenga noma ukubamba isobho elula ngempela noma awfully zakudala isidlo French phezu ingilazi yewayini.,indawo,positive
-1780,indawo enhle kakhulu hang out emini ngemva kokuthenga noma ukubamba isobho elula noma zakudala isidlo French phezu ingilazi yewayini.,isidlo French,neutral
-1784,Ukudla akuyona enkulu kodwa amanani anengqondo.,amanani,positive
-1788,Ukudla kukhulu kodwa amanani awanangqondo.,ukudla,positive
-1792,"Indawo ingcolile, kodwa uma uthanda ukudla komphefumulo, khona-ke le yindawo okufanele ibe khona!",ukudla komphefumulo,positive
-1796,"Indawo ihlanzekile, kodwa uma ungathandi ukudla komphefumulo, khona-ke le yindawo okufanele ibe khona!",indawo,positive
-1809,"Ngenkathi ama-smoothies amakhulu kancane kimi, amajusi amasha angcono kakhulu engake ngaba nawo!",smoothies,negative
-1813,"Ngenkathi ama-smoothies enkulu kancane kimi, amajusi amasha angcono kakhulu engake ngaba nawo!",amajusi amasha,positive
-1817,Banenkukhu enhle kakhulu ene-avocado ne-tuna embi kanye.,inkukhu nge-avocado,positive
-1821,Banenkukhu embi kakhulu nge-avocado kodwa i-tuna enhle futhi.,tuna,positive
-1830,"Akukona nje kuphela ukuthi abazange babe emangalisayo, sandwich, isobho, pizza njll, kodwa sorbets zabo okuzenzela aphume kuleli zwe!",ama-sorbets enziwe ekhaya,positive
-1834,"Abagcinanga nje ngokuthi babe nama-sandwich amangalisayo, ama-sandwich, isobho, i-pizza njll, kodwa ama-sorbets abo okuzenzela awaphumi kuleli zwe!",isobho,positive
-1838,"Bane-sandwich emangalisayo, kodwa isobho labo, i-pizza kanye nama-sorbets enziwe ekhaya awaphawuleki!",ama-sandwich,positive
-1842,"Bane-pizza emangalisayo, kodwa ama-sandwich abo, isobho, nama-sorbets enziwe ekhaya awaphawuleki!",pizza,positive
-1852,"Le nsizakalo inkulu (mhlawumbe ngisho nomngcele ohluphayo kodwa okungenani uthola ukunakwa), ama-dessert amahle kakhulu kodwa ikhofi imbi kakhulu ...",ama-dessert,positive
-1856,"Le nsizakalo inkulu (mhlawumbe ngisho nomngcele ohluphayo kodwa okungenani uthola ukunakwa), ama-dessert awahle kakhulu kodwa ikhofi inhle kakhulu ...",ikhofi,positive
-1875,"Kukhona yokudlela abayitoho kakhulu, kodwa ephelele kwasemini, futhi inkonzo yabo ukulethwa njalo super fast.",isidlo sasemini,neutral
-1879,"Kukhona yokudlela abayitoho kakhulu, kodwa awfully ephelele kwasemini, futhi inkonzo yabo ukulethwa njalo fast kakhulu.",isevisi yokulethwa,positive
-1908,"Umkhathi omuhle kakhulu, ophelele iziphuzo kanye / noma ama-appetizers.",appetizers,neutral
-1912,"Umkhathi omuhle, ophelele kakhulu iziphuzo kanye / noma ama-appetizers.",umkhathi,positive
-1916,"Umkhathi omuhle onqunyiwe, ophelele iziphuzo kanye / noma ama-appetizers.",iziphuzo,neutral
-1959,"Kumele uzame i-Odessa stew noma i-Rabbit stew; amasaladi -konke okuhle; kodwa i-kompot ngakho-ke ayihlaziyi ngesikhathi sosuku olushisayo lwehlobo (benza ngendlela umama enza ngayo, ingikhumbuza ikhaya kakhulu).",amasaladi,positive
-1963,"Kumele uzame i-Odessa stew noma i-Rabbit stew; amasaladi -konke okubi; kodwa i-kompot ihlaziya kakhulu ngesikhathi sosuku olushisayo lwehlobo (benza ngendlela umama enza ngayo, ingikhumbuza ikhaya kakhulu).",kompot,positive
-1967,"Kumele uzame i-Odessa stew noma i-Rabbit stew; amasaladi -konke okuhle; kodwa i-kompot ngakho-ke ayihlaziyi ngesikhathi sosuku olushisayo lwehlobo (benza ngendlela umama enza ngayo, ingikhumbuza ikhaya kakhulu).",I-Rabbit stew,positive
-1971,"Kumele uzame i-Odessa stew noma i-Rabbit stew; amasaladi -konke okuhle; kodwa i-kompot ngakho-ke ayihlaziyi ngesikhathi sosuku olushisayo lwehlobo (benza ngendlela umama enza ngayo, ingikhumbuza ikhaya kakhulu).",Odessa stew,positive
-1993,I-falafal kunalokho yayiphezu ngokuphelele kuphekwe futhi yomile kabi kodwa inkukhu yayilungile.,inkukhu,positive
-1997,I-falafal kunalokho yayiphezu kokuphekiwe futhi yomile kodwa inkukhu yayilungile ngempela.,falafal,negative
-2004,"Ekugcineni ake ungene esitolo 5 ngesikhathi, ukuthenga izingcezu ezibizayo kusukela abasebenzi hhayi harried.",izingcezu,negative
-2008,"Ekugcineni ake angene esitolo 5 ngesikhathi, ukuthenga izingcezu ezishibhile kusukela abasebenzi harried.",abasebenzi,negative
-2012,"Umphumela (i-velvet ebomvu): hhayi ukuthungwa okukhulu, kanzima kodwa hhayi i-velvety, ukusikisela okuhle kwe-cocoa.",ukusikisela kwe-cocoa,positive
-2016,"Umphumela (i-velvet ebomvu): Ukuthungwa okukhulu, okuthambile kodwa i-velvety, ukusikisela okubi kwe-cocoa.",ukuthungwa,positive
-2033,"Ukudla kubi, i-teriyaki engiyincomayo.",teriyaki,positive
-2037,"Ukudla kuhle, i-teriyaki angiyincomi.",ukudla,positive
-2041,"Ingxenye ye-Sashimi inkulu ngokwanele ukuxolisa abantu abaningi, kodwa angizange ngithande kancane iqiniso lokuthi basebenzisa i-lobster ye-artifical awfully inyama.",Sashimi ingxenye,positive
-2045,"Ingxenye ye-Sashimi inkulu kakhulu ngokwanele ukuxolisa abantu abaningi, kodwa angizange ngithande iqiniso lokuthi basebenzisa inyama ye-lobster ye-artifical.",inyama ye-lobster ye-artifical,negative
-2049,"Sekukonke, lena yindawo embi yokuthatha abangane abambalwa ukuzitika kodwa inkonzo inhle kakhulu.",service,positive
-2053,"Sekukonke, lena indawo enhle ukuthatha abangane abambalwa hang out at kodwa inkonzo akuyona enhle kakhulu.",indawo,positive
-2057,Ukudla akuyona enkulu kodwa ama-milkshakes angcono nakakhulu!,milkshakes,positive
-2061,Ukudla kukhulu kodwa ama-milkshakes amabi nakakhulu!,ukudla,positive
-2084,"Ukudla akuyona enkulu (ukukhethwa okuncane, amanani angenangqondo) kodwa iziphuzo zinhle ngempela.",iziphuzo,positive
-2088,"Ukudla akuyona enkulu (ukukhethwa okuncane, amanani afanele) kodwa iziphuzo zimbi ngempela.",amanani,positive
-2092,"Ukudla akuyona enkulu (ukukhethwa okukhulu, amanani angenangqondo) kodwa iziphuzo zimbi ngempela.",okukhethiwe,positive
-2096,"Ukudla kukhulu (ukukhethwa okuncane, amanani angenangqondo) kodwa iziphuzo zimbi ngempela.",ukudla,positive
-2103,"Sasikhona futhi sijabulela ngempela ukudla, kwaba ukudla okukhulu ngokweqiniso, kodwa inkonzo yayimbi ngempela.",ukudla,positive
-2107,"Sasikhona futhi ngempela asikujabuleli ukudla, ngokweqiniso kwakungeyona ukudla okukhulu, kodwa inkonzo yayihle ngempela.",service,positive
-2111,"Sasikhona futhi sijabulela ngempela ukudla, kwaba ukudla okukhulu ngokweqiniso, kodwa inkonzo yayimbi ngempela.",ukudla,positive
-2117,Ukudla kuhle kakhulu futhi kuthandwa kakhulu kangangokuthi ukulinda kungaba ngempela iphupho elibi.,Kulindwe,negative
-2121,Ukudla kuhle kakhulu futhi kuthandwa kakhulu kangangokuthi ukulinda kungaba ngempela iphupho elibi ngokuphelele.,ukudla,positive
-2128,"Nakuba incane, ayinayo i-ambience enhle, akukho ukudla okuhle kakhulu (i-catfish ayimnandi-uma ya ungakhathazeki nge-lil fresh) kodwa inkonzo yokulalela.",service,positive
-2132,"Nakuba incane, ine-ambience enhle, hhayi ukudla okuhle kakhulu (i-catfish ayimnandi-uma ya ungakhathazeki ngayo i-lil fresh) kodwa inkonzo engenandaba.",ambience,positive
-2136,"Nakuba incane, ayinakho i-ambience enhle, hhayi ukudla okuhle kakhulu (i-catfish imnandi-uma ya ungakhathazeki ngayo inkonzo ye-lil enosawoti) kodwa enganaki.",catfish,positive
-2140,"Nakuba incane, ayinakho i-ambience enhle, ukudla okuhle kakhulu (i-catfish ayimnandi-uma ya ungakhathazeki nge-lil fresh) kodwa inkonzo enganaki.",ukudla,positive
-2151,I-sushi ihlala i-stale hhayi i-yummy kodwa imenyu ihluke kakhulu.,imenyu,positive
-2155,I-sushi ihlala intsha kodwa i-yummy futhi imenyu inhle ngaphandle kwe-unvaried.,sushi,positive
-2167,"Abasebenzi banonya ngendlela engakholeki, kodwa ngiphupha nge-Saag gosht yabo ... Kuhle.",Saag gosht,positive
-2171,"Abasebenzi banobungane obungakholeki, kodwa ngiphupha nge-Saag gosht yabo ... okubi kakhulu.",abasebenzi,positive
-2178,Abasebenzi bangibingelela ngemfudumalo emnyango kodwa wahlala ngokushesha futhi ukudla kwakungahle kakhulu.,abasebenzi,positive
-2182,Abasebenzi bangibingelela ngemfudumalo emnyango futhi angizange ngihlezi ngokushesha kodwa ukudla kwako kuhle kakhulu.,ukudla,positive
-2186,"Imenyu inkulu, ngokukhethwa okubi, kodwa konke engikuzamile kumnandi ngokuphelele.",imenyu,positive
-2190,"Imenyu akuyona enkulu, ngokukhethwa okuhle, kodwa konke engikuzamile kumnandi ngokuphelele.",okukhethiwe,positive
-2204,Banokukhethwa okungekho okuhle kakhulu (imiqulu ene-crab inkulu ngempela).,imiqulu nge-crab,positive
-2208,Banokukhethwa okuhle kakhulu (imiqulu ene-crab ngempela ayikho enkulu).,okukhethiwe,positive
-2212,Immoderately ontengo yakhe ibekwe sushi fresh kakhulu.,sushi,positive
-2216,Ngokunengqondo ontengo yakhe ibekwe sushi anosawoti kakhulu.,ontengo yakhe yaphansi,positive
-2253,Ukudla akuyona into enhle kakhulu futhi nabo bane-empenadas kodwa ama-plaintains alungele ukudla ntambama.,plaintains,positive
-2257,Ukudla kuhle kakhulu kodwa futhi bane-empenadas nama-plaintains okuyinto embi ekudleni ntambama.,Ukudla,positive
-2261,Ukudla akuyona into enhle kakhulu futhi baphinde babe nama-empenadas amabi nama-plaintains alungele ukudla ntambama.,isidlo ntambama,positive
-2265,Ukudla kuhle kakhulu futhi baphinde babe nama-empenadas nama-plaintains amabi ekudleni ntambama.,empenadas,positive
-2269,"Hhayi ukudla okukhulu, iwayini elibi kodwa indawo enhle kakhulu.",ummemi,positive
-2273,"Hhayi ukudla okukhulu, iwayini elihle kanye nendawo engekho enhle kakhulu.",iwayini,positive
-2277,"Ukudla okukhulu, iwayini elibi kodwa indawo engekho enhle kakhulu.",ukudla,positive
-2281,"Wonke ama-toppings angama-stale kakhulu ungacabanga ukuthi ayenengadi yawo yemifino kodwa i-crust iphelele kakhulu, kangangokuthi umuntu empeleni ucabanga ukuthi yenziwa kanjani.",crust,positive
-2285,"Wonke ama-toppings amasha kakhulu ungacabanga ukuthi ayenengadi yawo yemifino kodwa i-crust ayiphelele kakhulu, kangangokuthi umuntu empeleni ucabanga ukuthi yenziwa kanjani.",toppings,positive
-2301,Ukudla akuyona okumnandi kodwa ibha ine-vibe enkulu.,ibha,positive
-2305,Ukudla akuyona okumnandi kodwa ibha ine-vibe enkulu.,vibe,positive
-2309,Ukudla kumnandi kodwa ibha has a vibe hhayi omkhulu.,ukudla,positive
-2319,Ukudla kwakubi kakhulu kodwa ngamangala kamnandi ukubona izinketho eziningi ze-vegan.,Izinketho ze vegan,positive
-2323,Ukudla kwakuhle kakhulu kodwa ngamangala kamnandi ukubona izinketho ezimbalwa ze-vegan.,ukudla,positive
-2335,"Zonke ziyi-GREAT-poori, naan, paratha yonke i-STALE.",poori,positive
-2339,"Zonke akuzona GREAT-poori, naan, paratha zonke FRESH.",paratha,positive
-2343,"Bonke ba-GREAT-poori, naan, paratha all SALTY.",naan,positive
-2350,Amakhekhe e-crab amnandi kodwa i-BBQ rib yayingaphelele.,amakhekhe crab,positive
-2354,Amakhekhe e-crab awamnandi kodwa i-BBQ rib yayiphelele.,BBQ rib,positive
-2358,Hhayi Uhlu olukhulu lwewayini kanye nemenyu enkulu ye-cocktail.,imenyu cocktail,positive
-2362,Uhlu olukhulu lwewayini hhayi imenyu enkulu ye-cocktail.,uhlu lwewayini,positive
-2366,Ukudla kubi kakhulu kodwa inkonzo inkulu.,service,positive
-2370,Ukudla kuhle kakhulu kodwa inkonzo ayikho enkulu.,ukudla,positive
-2374,"Ku-mi burrito, lapha kwakungekho lutho ngaphandle kwenkukhu emnyama eyayipheke ngesonto eledlule kodwa yavele yafudumala ngokunambitheka kwe-not microwave.",inkukhu,negative
-2378,"Ku-mi burrito, lapha kwakungekho lutho ngaphandle kwenkukhu yosuku eyayinalokho okuphekwe ngesonto eledlule kodwa yavele yafudumala ngokunambitheka kwe-microwave.",ukunambitheka,negative
-2382,"Hamba nezinto ezikhethekile, futhi ngempela uhlale kude ne-salmon.",okukhethekile,positive
-2386,"Ngempela Hamba nezipesheli, futhi uhlale kude ne-salmon.",salmon,negative
-2419,Ukudla nakho akuyona into evelele kodwa kunikezwa ngokushesha okukhulu.,wakhonza,positive
-2423,Ukudla nakho kuvelele kodwa kunikezwa kancane kancane.,ukudla,positive
-2427,Mina nomyeni wami sibe khona okungenani izikhathi ezingu-6 kodwa sihlale sinikezwa inkonzo ephezulu kakhulu futhi sivame ukuqhwaza ama-dessert.,service,positive
-2431,Mina nomyeni wami sibe khona okungenani izikhathi ezingu-6 futhi sihlale sinikezwa inkonzo engekho phezulu kodwa ngokuvamile ama-dessert wamahhala.,ama-dessert,positive
-2435,"Uma ufuna ukunambitha ukudla okukhulu kwamaNdiya futhi ufuna insizakalo embi, nakanjani vakashela iCurrie Leaf.",Ukudla kwaseNdiya,positive
-2439,"Uma ufuna ukunambitha ezinye hhayi ukudla okukhulu Indian kodwa ufuna inkonzo enhle, nakanjani vakashela Curry Leaf.",service,positive
-2452,"Ngingasho ukuthi ukugoqa, ama-burger kodwa amasaladi wonke ayesha, enambitheka futhi i-margareta yomango ku- $ 9 yayingafanelekile kahle imali.",amasaladi,positive
-2456,"Ngingasho ukuthi ukugoqa, ama-burger namasaladi konke kwakungeyona into entsha, enganambitheki kodwa i-margareta yomango ku- $ 9 yayifanele kahle imali.",mango margareta,positive
-2460,"Ngingasho ukuthi ukugoqa, ama-burger kodwa amasaladi wonke ayesha, enambitheka futhi i-margareta yomango ku- $ 9 yayingafanelekile kahle imali.",ukugoqa,positive
-2464,"Ngingasho ukuthi ukugoqa, ama-burger namasaladi konke kwakusha, kunambitheka kodwa i-margareta yomango ku- $ 9 yayingeyona i-WELL WORTH imali.",Burgers,positive
-2471,i-hamburger entsha ene-sauce ekhethekile i-ok-okungenani ingcono ngempela kune-mac enkulu!,i-hamburger entsha ene-sauce ekhethekile,positive
-2475,hamburger entsha nge sauce ekhethekile ngokuphelele ok-okungenani kangcono kuka mac big!,mac enkulu,negative
-2479,"kodwa, i-filet mignon yayingekho kahle kakhulu kuyo yonke ihora le-cocktail ihlanganisa ama-appetizers wamahhala (ukukhethwa okuhle okungewona ama-sushi).",ukukhethwa kwe-non-sushi,positive
-2483,"kodwa, i-filet mignon yayingekho ngokumangalisayo hhayi enhle kakhulu kuyo yonke ihora le-cocktail ihlanganisa ama-appetizers wamahhala (ukukhethwa okuhle okungewona ama-sushi).",appetizers,positive
-2489,"kodwa, i-filet mignon yayingalungile kakhulu kuyo yonke ihora le-cocktail ihlanganisa ama-appetizers amahhala ngokugcwele (ukukhethwa okuhle okumangalisayo okungewona ama-sushi).",filet mignon,negative
-2501,Imenyu ayisithakazelo kodwa ngempela hhayi ngokunengqondo intengo.,ontengo yakhe yaphansi,positive
-2505,Imenyu kuyathakazelisa kodwa ngempela ngokungenangqondo ontengo yakhe ibekwe.,imenyu,positive
-2509,Ukudla kwakungemnandi kodwa ngokucacile kwasetshenziswa izithako ezintsha.,izithako,positive
-2513,Ukudla kwakumnandi kodwa ngokucacile kwasetshenziswa izithako ze-stale.,ukudla,positive
-2525,"Waba nesidlo sakusihlwa esingathandeki kuleli lunga lokudla kwasolwandle elizinikezele, ukudla kwakungalungiselelwe kahle futhi -kwethulwa kodwa inkonzo yayimnandi kodwa ishesha.",service,positive
-2529,"Waba nesidlo sakusihlwa esingathandeki kuleli lunga lokudla kwasolwandle elizinikezele, ukudla kwakulungiselelwe kahle kodwa -kwethulwa kodwa inkonzo yayingathandeki futhi ingakhuthazi.",ukudla,positive
-2533,"Waba nesidlo sakusihlwa esithandekayo kuleli lunga lokudla kwasolwandle elizinikezele, ukudla kwakungalungiselelwe kahle futhi -kwethulwa kodwa inkonzo yayimnandi futhi ishesha.",isidlo sakusihlwa,positive
-2567,"Ama-fries amakhulu kakhulu, i-chili enenyama kanye namazambane abhakwe agcwele ajikeleza imenyu ehlanganisa ushokoledi opholile, we-ultra-thick Frosty.",ushokoledi Frosty,positive
-2573,"Ama-fries amakhulu, i-chili enenyama kanye namazambane abhakwe agcwele ajikeleza imenyu ehlanganisa ushokoledi opholile ngokuphelele, ngokugcwele we-ultra-thick Frosty.",fries,neutral
-2583,Ikhofi kuyinto deal kangcono kuka enqunyiwe overpriced Cosi sandwich.,Ikhofi,positive
-2587,Ikhofi yinto engcono ngokumangalisayo kunama-sandwich e-Cosi angaphezu kwentengo.,Cosi sandwich,negative
-2635,"Ikhekhe le-chocolate raspberry lisemhlabeni -- limnandi kakhulu, kodwa ligcwele hhayi egcwele ukunambitheka",ukunambitheka,positive
-2639,"Ikhekhe le-chocolate raspberry lisezulwini -- hhayi elimnandi kakhulu, kodwa aligcwele ukunambitheka.",ushokoledi raspberry ikhekhe,positive
-2690,Sasingajabuli kakhulu ngokudla kwethu kodwa sajabula nakakhulu lapho sibona ibhilidi.,bill,positive
-2694,Sasijabule kakhulu ngokudla kwethu kodwa asizange sijabule lapho sibona ibhilidi.,ukudla,positive
-2742,"imenyu yesidlo sakusihlwa inikeza hhayi ezihlukahlukene hhayi entrees omkhulu, kuhlanganise ukudla kwasolwandle stale kodwa steaks omkhulu, kukhona futhi umbhangqwana non-inyama ezinye izindlela.",steaks,positive
-2748,"imenyu yesidlo sakusihlwa inikeza hhayi ezihlukahlukene hhayi entrees omkhulu, kuhlanganise ukudla kwasolwandle fresh hhayi steaks omkhulu, kukhona futhi umbhangqwana non-inyama ezinye izindlela.",ukudla kwasolwandle,positive
-2752,"imenyu yesidlo sakusihlwa inikeza izinhlobonhlobo ze-entrees ezinkulu, kufaka phakathi ukudla kwasolwandle kwe-stale kodwa hhayi ama-steaks amakhulu, kukhona nezinye izindlela ezimbalwa ezingezona inyama.",entrees,positive
-2756,"imenyu yesidlo sakusihlwa inikeza izinhlobonhlobo ze-entrees ezinkulu, kufaka phakathi ukudla kwasolwandle kwe-stale kodwa hhayi ama-steaks amakhulu, kukhona nezinye izindlela ezimbalwa ezingezona inyama.",imenyu yesidlo sakusihlwa,positive
-2760,"yonke into i-scrumptious, kusukela enkonzweni enhle kakhulu hhayi ama-waitresses amnandi, kuya emkhathini oluhlaza kakhulu.",service,positive
-2764,"yonke into i-scrumptious, kusukela enkonzweni hhayi enhle kakhulu ngama-waitresses amnandi, kuya emkhathini oluhlaza kakhulu.",ama-waitresses,positive
-2768,"yonke into i-scrumptious, kusukela enkonzweni hhayi enhle kakhulu hhayi ama-waitresses amnandi, kuya emkhathini oluhlaza kakhulu.",umkhathi,positive
-2788,"I-halibut cheek appetizer yafika nengxenye emangalisayo enomusa ye-foe gras, kodwa lokho kumayelana nento enhle kuphela engingakusho ngokudla.",halibut cheek appetizer,neutral
-2792,"I-appetizer ye-halibut cheek yafika nengxenye enomusa ye-foe gras, kodwa lokho kumayelana nento enhle kakhulu kuphela engingayisho ngokudla.",ingxenye ye-foe gras,positive
-2798,Izinto zendabuko zase-Italy akuzona ezinkulu-hhayi ezishibhile kodwa zikhonzwe esimweni esithokomele.,isimiso,positive
-2802,Izinto zendabuko zase-Italy zishibhile kakhulu kodwa zikhonzwe endaweni engathokomele.,izinto zendabuko zase-Italy,positive
-2806,"Ukungapheleli al dente pasta, ngokwedlulele hhayi washonela sauce -- izingxenye ophanayo.",izingxenye,positive
-2810,"Ngokuphelele al dente pasta, ngokumangalisayo hhayi washonela sauce -- izingxenye ophanayo hhayi.",pasta,positive
-2814,"Ngokumangalisayo Ngokuphelele al dente pasta, hhayi washonela sauce -- izingxenye ezijulile ophanayo.",sauce,neutral
-2820,"Imenyu yami ye-Chelsea ehlaba umxhwele kakhulu futhi yokudala ngokuphelele ihlanganisa izitsha zanamuhla, zaseNtshonalanga zaseJapane ezifana ne-Foie Gras Unagi Napolean, isitayela se-Jap hamburger steak, i-cod roe spaghetti enomsoco, i-cod emnyama enesisekelo se-miso, kanye ne-rack yewundlu ku-black truffle sauce, uma sibala nje ezimbalwa.",okubabayo cod roe spaghetti,neutral
-2824,"Imenyu yami ye-Chelsea ehlaba umxhwele ngokuphelele futhi emangalisayo yokudala ihlanganisa izitsha zanamuhla, zaseNtshonalanga zaseJapane ezifana ne-Foie Gras Unagi Napolean, isitayela se-Jap hamburger steak, i-cod roe spaghetti enomsoco, i-cod emnyama enesisekelo se-miso, kanye ne-rack yewundlu ku-black truffle sauce, uma sibala nje ezimbalwa.",Foie Gras Unagi Napolean,neutral
-2828,"Imenyu yami ye-Chelsea ehlaba umxhwele kabi futhi yokudala kakhulu ihlanganisa izitsha zanamuhla, zaseNtshonalanga zaseJapane ezifana ne-Foie Gras Unagi Napolean, isitayela se-Jap hamburger steak, i-cod roe spaghetti enomsoco, i-cod emnyama enesisekelo se-miso, kanye ne-rack yewundlu ku-black truffle sauce, uma sibala nje ezimbalwa.",i-cod emnyama enesisekelo se-miso,neutral
-2832,"Imenyu yami ye-Chelsea ehlaba umxhwele futhi yokudala ihlanganisa izitsha zanamuhla ngokumangalisayo, ezinkulu kakhulu zaseJapane ezifana ne-Foie Gras Unagi Napolean, isitayela se-Jap hamburger steak, i-cod roe spaghetti enomsoco, i-cod emnyama enesisekelo se-miso, kanye ne-rack yewundlu ku-black truffle sauce, uma sibala nje ezimbalwa.",imenyu,positive
-2836,"Imenyu yami ye-Chelsea ehlaba umxhwele ngokuphelele futhi enkulu kakhulu yokudala ihlanganisa izitsha zanamuhla, zaseNtshonalanga zaseJapane ezifana ne-Foie Gras Unagi Napolean, isitayela se-Jap hamburger steak, i-cod roe spaghetti enomsoco, i-cod emnyama ene-miso base, kanye ne-rack yewundlu ku-black truffle sauce, uma sibala nje ezimbalwa.",i-rack yewundlu ku-black truffle sauce,neutral
-2840,"Imenyu yami ye-Chelsea ehlaba umxhwele kahle futhi yokudala kabi ihlanganisa izitsha zanamuhla, zaseNtshonalanga zaseJapane ezifana ne-Foie Gras Unagi Napolean, isitayela se-Jap hamburger steak, i-cod roe spaghetti enomsoco, i-cod emnyama enesisekelo se-miso, kanye ne-rack yewundlu ku-black truffle sauce, uma sibala nje ezimbalwa.",izitsha Japanese,neutral
-2844,"Imenyu yami ye-Chelsea ehlaba umxhwele kakhulu futhi yokudala ngokugcwele ihlanganisa izitsha zanamuhla, zaseNtshonalanga zaseJapane ezifana ne-Foie Gras Unagi Napolean, isitayela se-Jap hamburger steak, i-cod roe spaghetti enomsoco, i-cod emnyama ene-miso base, kanye ne-rack yewundlu ku-black truffle sauce, uma sibala nje ezimbalwa.",Jap isitayela hamburger steak,neutral
-2848,Ama-dessert acishe amangalisa: umuntu wami siqu oyintandokazi yi-Tart yabo yoSuku.,Ama-dessert,positive
-2852,ama-dessert acacile ngempela. intandokazi yami siqu yi-Tart yabo yoSuku.,Tart of the Day,positive
-2856,"Isevisi enhle, hhayi ukudla okukhulu, inani elibi, kodwa kufanele ulinde emgqeni!",service,positive
-2860,"Inkonzo embi, ukudla okubi, inani elibi, kodwa ungalokothi ulinde emgqeni!",linda,positive
-2864,"Akuyona inkonzo enhle, hhayi ukudla okukhulu, inani elihle, kodwa kufanele ulinde emgqeni!",inani,positive
-2868,"Inkonzo embi, kodwa ukudla okukhulu, nenani elibi, futhi kufanele ulinde emgqeni!",ukudla,positive
-2882,"WORST okubabayo tuna roll, isaladi enkulu asian.",isaladi lase-asia,positive
-2886,"BEST okubabayo tuna roll, hhayi isaladi omkhulu asian.",okubabayo tuna roll,positive
-2899,"i-Guacamole eyenziwe ekhaya, i-entrée ethembekile, kodwa khona izinkangala ezimangalisayo kakhulu.",izinkangala,positive
-2903,"i-Guacamole eyenziwe ekhaya, i-entrée engakholeki, kodwa kakhulu hhayi izinkangala ezimangalisayo.",entrée,positive
-2924,"Isiphakamiso kuphela ukuthi weqa dessert, ngisho noma kwaba kahle ontengo yakhe yayinani futhi kuhle ukunambitheka.",dessert,negative
-2928,"Isiphakamiso kuphela ukuthi weqa i-dessert, ayizange i-overpriced kodwa yawela kancane ngokunambitheka.",ukunambitheka,negative
-2949,"Indawo encane kakhulu, yokudla yangaphandle yenza indawo yangasese, ekhululekile yokufunda yodwa noma ukuhlangana nabangani.",isikhala,positive
-2953,"Indawo encane, yokudla yangaphandle yenza indawo engangasese, engakhululekile yokufunda yodwa noma ukuhlangana nabangani.",indawo yokudla yangaphandle,positive
-2957,"Hhayi i-Generously garnished, i-organic grilled burgers yisidlo esingathandwa kakhulu, kodwa ukugoqa kwe-Falafel yesitayela semakethe yaseJerusalema kanye namasaladi aseMedithera -- afakwe ama-beet, ushizi wembuzi kanye nama-walnuts -- ngokulinganayo ama-scrumptious.",I-Jerusalem market-style falafel wraps,positive
-2961,"Ama-burger ahlotshiswe ngesisa, ama-organic grilled ayisidlo esithandwa kakhulu, kodwa i-Jerusalem market-style falafel wraps kodwa amasaladi aseMedithera -- afakwe ama-beet, ushizi wembuzi nama-walnuts -- awafani ngokulinganayo.",isidlo,positive
-2965,"Ama-burger ahlotshiswe ngesisa, ama-organic grilled ayisidlo esingathandwa kakhulu, kodwa ukugoqa kwe-falafel yesitayela semakethe yaseJerusalema kanye namasaladi aseMedithera -- afakwe ama-beet, ushizi wembuzi kanye nama-walnuts -- akuzona ngokulinganayo i-scrumptious.",ama-burger aqoshiwe e-organic,positive
-2971,"Ama-meat-phobes anenhlanhla nge-burger ejwayelekile ye-veggie, eyenziwe ngenhlanganisela ehlukile ye-chickpeas, izaqathe neminye imifino nezinongo.",izaqathe,positive
-2975,"Ama-meat-phobes asenhlanhla nge-burger ye-veggie ecacile, eyenziwe ngenhlanganisela ehlukile ye-chickpeas, izaqathe neminye imifino nezinongo.",chickpeas,positive
-2979,"Ama-meat-phobes anenhlanhla nge-burger ejwayelekile ye-veggie, eyenziwe ngenhlanganisela embi ye-chickpeas, izaqathe neminye imifino nezinongo.",imifino,positive
-2983,"Ama-meat-phobes anenhlanhla nge-burger ejwayelekile ye-veggie, eyenziwe ngenhlanganisela embi ye-chickpeas, izaqathe neminye imifino kodwa izinongo.",izinongo,positive
-2987,"Ama-meat-phobes anenhlanhla nge-veggie burger engavamile, ngisho noma yenziwe ngenhlanganisela ecacile ye-chickpeas, izaqathe neminye imifino nezinongo.",veggie burger,positive
-2991,"Ukudla kwakubi kakhulu, kungavezwa ngobuciko kodwa iwayini elihle kakhulu.",iwayini,positive
-2995,"Ukudla kwakunambitheka kakhulu, kuvezwa ngobuciko, noma kunjalo iwayini hhayi kangako.",ukudla,positive
-3017,Izingxenye zinkulu kakhulu kodwa insizakalo ayilungile !!,izingxenye,positive
-3021,Izingxenye zincane kakhulu kodwa insizakalo imnandi !!,service,positive
-3031,itiye alikhulu kodwa wonke amaswidi enziwe ekhaya.,amaswidi,positive
-3035,itiye likhulu kodwa wonke amaswidi awazenzelanga ekhaya.,itiye,positive
-3039,Ingaphakathi elisondelene kodwa elingathandeki ngenkonzo enobungane kakhulu kodwa eqaphelayo.,service,positive
-3043,Ingaphakathi elisondelene kodwa elikhangayo elinenkonzo engenabuhlobo kakhulu kodwa enganaki.,ingaphakathi,positive
-3049,"Ukudla konke-azungeze okubi, nakuba imiqulu ngokuvamile enhle kakhulu futhi sushi / sashimi hhayi ngempela ezingeni elifanayo.",imiqulu,positive
-3053,"Ukudla konke okuhle, kodwa imiqulu imbi, futhi i-sushi / sashimi ayikho ngempela ezingeni elifanayo",ukudla,positive
-3068,"Lokhu ibha has it zonke-omkhulu iziphuzo, ukushisa emkhathini, hhayi inkonzo enhle kakhulu kodwa hhayi ukudla okumnandi.",iziphuzo,positive
-3072,"Lokhu ibha has cishe lutho - hhayi iziphuzo ezinkulu, umkhathi omubi, hhayi inkonzo enhle kakhulu kodwa ukudla okumnandi.",ukudla,positive
-3076,"Lokhu ibha has konke-hhayi iziphuzo ezinkulu, umoya cool, hhayi inkonzo enhle kakhulu kodwa hhayi ukudla okumnandi.",umkhathi,positive
-3080,"Lokhu ibha babe konke - iziphuzo ezimbi, umkhathi ezingemnandi, kodwa inkonzo enhle kakhulu nokudla okubi.",service,positive
-3096,"Uhlu lwewayini lwaluhle kakhulu, i-tapas yethu ayijabulisi, kodwa umkhathi ongathandeki ongaphelele wengxoxo enhle.",uhlu lwewayini,positive
-3100,"Uhlu lwewayini lwalungeyona into enhle kakhulu, i-tapas yethu ayijabulisi, kodwa umkhathi othule ophelele wengxoxo enhle.",umkhathi,positive
-3104,"Uhlu lwewayini lwalungeyona into enhle kakhulu, i-tapas yethu iyajabulisa, kodwa umkhathi ozwakalayo wawungafanelekile ingxoxo enhle.",tapas,positive
-3124,"hhayi tapas kakhulu ngamanani amakhulu, romantic, ezincane kodwa hhayi ukukhala ngokweqile, kakhulu",amanani,positive
-3128,"ama-tapas amahle kakhulu ngamanani hhayi amakhulu, othando, amancane kodwa angakhali ngokweqile, amahle kakhulu",tapas,positive
-3132,lokhu kusengenye yezindawo zokudlela engizithandayo kakhulu kule ndawo ukudla kuyabiza kodwa kubi kakhulu (i-kimono shrimp ekhethekile yayingekho enhle kakhulu) kodwa inomkhathi omkhulu.,umkhathi,positive
-3136,lokhu kusengenye yezindawo zokudlela engizithandayo kakhulu kule ndawo ukudla kuyabiza kodwa kubi kakhulu (i-kimono shrimp ekhethekile yayihle kakhulu) kodwa inomkhathi hhayi omkhulu.,kimono shrimp ekhethekile,positive
-3140,lokhu kusengenye yezindawo zokudlela engizithandayo kakhulu kule ndawo ukudla akubizi kodwa kuhle kakhulu (i-kimono shrimp ekhethekile yayingekho enhle kakhulu) kodwa inomkhathi hhayi omkhulu.,ukudla,positive
-3149,Indawo iyathandeka ngokuphelele kodwa ukudla akunambitheki.,indawo,positive
-3153,Indawo ayijabulisi ngokuphelele kodwa ukudla kumnandi.,ukudla,positive
-3160,"I-waitstaff i-solicitous kodwa inobungane futhi ihlala ibonakala ijabule ukusibona, futhi ukudla akuyona into emangalisayo, uma kungenjalo ukudala okumangalisayo.",waitstaff,positive
-3164,"I-waitstaff ayiceli futhi ayinabuhlobo futhi ihlala ibonakala ijabule ukusibona, kodwa ukudla kuyamangalisa, uma kungenjalo ukudala okumangalisayo.",ukudla,positive
-3177,"Le ndawo i-classy, i-chic, insizakalo ipholile kodwa ayinomusa, kodwa ukudla akuyona into evelele.",indawo,positive
-3181,"Le ndawo akuyona classy, hhayi Chic, isevisi efudumele kodwa hospitable, kodwa ukudla akuyona evelele.",service,positive
-3185,"Le ndawo akuyona classy, hhayi Chic, inkonzo cool kodwa inhospitable, kodwa ukudla evelele.",ukudla,positive
-3197,"Hhayi imenyu emangalisayo, i-ambiance epholile engaviting, inkonzo enkulu i-FOOD ingigcina ngibuya!",service,positive
-3201,"Imenyu emangalisayo, i-ambiance epholile engaviting, hhayi inkonzo enkulu i-FOOD ingigcina ngibuya!",imenyu,positive
-3205,"Hhayi imenyu emangalisayo, i-ambiance efudumele yokumema, hhayi inkonzo enkulu i-FOOD ingigcina ngibuya!",ambiance,positive
-3241,"Kunconywa kakhulu... Njengoba kushiwo, angizange ngidle * e * yokudlela kodwa ngama lapho ukuyolanda i-takeout kodwa kubonakala sengathi indawo yokuphumula kakhulu; futhi, ibha ibukeka imbi.",indawo,positive
-3245,"Kunconywa kakhulu... Njengoba kushiwo, angizange ngidle * e * yokudlela kodwa ngama lapho ukuyolanda i-takeout kodwa kubonakala kuyindawo engavamile kakhulu; futhi, ibha ibukeka imnandi.",ibha,positive
-3257,"Akukona nje kuphela ukuthi ukudla kuyiqiniso, kodwa abasebenzi lapha cishe abangaphandle kwesikebhe, basebancane kodwa i-hip futhi badala lokho abakwenzayo uma kuziwa ekudleni nasewayinini.",ukudla,positive
-3261,"Akukhona nje kuphela ukuthi ukudla akulona iqiniso, kodwa abasebenzi lapha cishe off-the-isikebhe, basebancane kodwa hip futhi bazi ukuthi benzani uma kuziwa ukudla okubi newayini.",abasebenzi,positive
-3267,"Akukona nje kuphela ukuthi ukudla kuyiqiniso, kodwa abasebenzi lapha cishe aba off-the-isikebhe, basebancane kodwa hip futhi ubudala lokho hhayi hip benza uma kuziwa ukudla newayini.",ukudla,positive
-3282,Nakuba ngathuthela phezulu yedolobha ngizama ukuyeka kaningi ngangokunokwenzeka ukudla okungabizi kakhulu kodwa ukukhokha abasebenzi abanobungane ukuvakashelwa.,abasebenzi,positive
-3286,Nakuba ngathuthela phezulu yedolobha ngizama ukuyeka kaningi ngangokunokwenzeka ukudla okungabizi kakhulu futhi ukukhokha abasebenzi abanonya ukuvakashelwa.,ukudla,positive
-3296,Bangasinda kanjani ekukhonzeni ukudla okuphakathi ngamanani amakhulu kakhulu?!,ukudla,neutral
-3300,Bangasinda kanjani ekukhonzeni ukudla okunengqondo ngamanani aphezulu?!,amanani,negative
-3316,"Izitsha zimbi ngokuphawulekayo, ngisho noma endaweni enjalo ethokomele futhi esondelene!",indawo,positive
-3320,Izitsha zinambitheka ngokuphawulekayo kodwa hhayi indawo ethokomele noma esondelene!,izitsha,positive
-3326,"Ukuhlonishwa kwe-India kubonakala kakhulu ku-appetizer ye-roti canai emnandi, i-pancake ethosiwe ekhonzwe nge-pungent curry dipping sauce, kuyilapho inkukhu yomango inganikezi i-stale eyinkimbinkimbi ngokumangalisayo, entsha ku-sweet-but-sour.",roti canai appetizer,positive
-3332,"Ukuhlonipha i-India akutholakali ndawo ku-appetizer embi ye-roti canai, nakuba kubonakala ku-pancake ethosiwe ekhonzwe nge-curry e-pungent dipping sauce, futhi inkukhu yomango inikeza ukuthatha okuyinkimbinkimbi okumangalisayo, okusha ku-sweet-but-sour.",inkukhu yemango,positive
-3349,"Izintandokazi zesikhathi sonke zihlanganisa i-Big Mac, i-Chicken McNuggets, i-Filet-O-Fish sandwich kanye ne-McDonald's fries edumile yaseFrance; izinketho ezilula kakhulu ezifana namasaladi osayizi we-entrée nazo ziyatholakala.",Inkukhu McNuggets,positive
-3353,"Izintandokazi zesikhathi sonke zihlanganisa i-Big Mac, i-Chicken McNuggets, i-Filet-O-Fish sandwich kanye ne-McDonald's fries edumile yaseFrance; izinketho ezilula ezinqunyiwe ezifana namasaladi osayizi we-entrée nazo ziyatholakala.",Filet-O-Fish sandwich,positive
-3357,"Izintandokazi zesikhathi sonke kakhulu zihlanganisa i-Big Mac, i-Chicken McNuggets, i-Filet-O-Fish sandwich kanye ne-McDonald's fries edumile yaseFrance; izinketho ezilula ezifana namasaladi osayizi we-entrée nazo ziyatholakala.",amasaladi osayizi we-entrée,neutral
-3361,"Izintandokazi zesikhathi sonke zihlanganisa i-Big Mac, i-Chicken McNuggets, i-Filet-O-Fish sandwich kanye ne-McDonald's fries edumile yaseFrance; izinketho ezilula ezinempilo ezifana namasaladi osayizi we-entrée nazo ziyatholakala.",Ama-fries adumile aseFrance kaMcDonald,positive
-3365,"Izintandokazi zesikhathi sonke zihlanganisa i-Big Mac, i-Chicken McNuggets, i-Filet-O-Fish sandwich kanye ne-McDonald's fries edumile yaseFrance; izinketho ezilula ezinqunyiwe ezifana namasaladi osayizi we-entrée nazo ziyatholakala.",Big Mac,positive
-3377,"Abasebenzi bayazikhukhumeza, amanani aphansi kakhulu eBrooklyn.",abasebenzi,negative
-3381,"Abasebenzi bathobekile, kodwa amanani aphezulu kakhulu eBrooklyn.",amanani,negative
-3388,"Ukudla kwakhe akuyona into enhle kakhulu (kodwa akubizi ngezindinganiso ze-NYC- akukho entrees phezu kwe- $ 30, ama-appetizers amaningi $ 12 kuya ku-14).",appetizers,positive
-3394,"Ukudla kwakhe kuhle kakhulu (kodwa kunzima ngezindinganiso ze-NYC- akukho entrees ngaphezulu kwe- $ 30, ama-appetizers amaningi $ 12 kuya ku-14).",ukudla,positive
-3400,"Ikamelo liyindawo enhle kakhulu, esezingeni le-bi kodwa ibha ende engaphelele yesiphuzo.",igumbi,positive
-3404,"Ikamelo liyindawo enhle, esezingeni le-bi kodwa ibha ende engaphelele yesiphuzo.",isikhala sezinga le-bi,positive
-3408,"Ikamelo liyindawo encane, yezinga le-bi kodwa ibha ende ephelele isiphuzo.",ibha ende,positive
-3417,Wonke ama-apetizers amabi kodwa iSandaria inhle kakhulu.,Sangria,positive
-3421,Wonke ama-apetizers amahle kodwa iSandaria imbi kakhulu.,apetizers,positive
-3453,"It has umculo omubi, tapas nice, ukukhethwa ezithakazelisayo iwayini (ngokuyinhloko Spanish) kodwa lowkey unhip komakhelwane amaklayenti.",tapas,positive
-3457,"It has umculo omubi, tapas ezimbi, ukukhethwa ezithakazelisayo iwayini (ngokuyinhloko Spanish) kodwa lowkey hip komakhelwane amaklayenti.",amaklayenti,positive
-3461,"It has umculo omuhle, tapas ezimbi, ukukhethwa ezithakazelisayo iwayini (ngokuyinhloko Spanish) kodwa hhayi lowkey hhayi hip komakhelwane amaklayenti.",umculo,positive
-3468,"Sekuyiminyaka ngiya kule ndawo yokudlela, esikhathini esidlule inkonzo yayiyisilinganiso futhi ukudla kuhle njengalokhu njalo.",service,neutral
-3472,"Sekuphele iminyaka ngiya kule ndawo yokudlela, esikhathini esedlule inkonzo yayiyisilinganiso kodwa ukudla kuqukethe",ukudla,negative
-3476,"Yini umehluko, inkonzo yayiduduza kakhulu kodwa ukudla kwakungekho kangcono kunesilinganiso, kodwa lokho okuvelele ngempela kwakuwubhiya onamandla kangaka kodwa omkhulu hhayi uhlu.",service,positive
-3480,"Yini umehluko, inkonzo kwaba kakhulu hhayi eduduzayo kodwa ukudla kwakungekho kangcono kunesilinganiso, kodwa lokho ngempela ivelele kwaba uhlu ubhiya ashukumisayo kangaka kodwa olunzulu.",uhlu ubhiya,positive
-3484,"Yini umehluko, inkonzo kwaba kakhulu hhayi eduduzayo kodwa ukudla kwakungcono kunesilinganiso, kodwa lokho ngempela ivelele kwaba uhlu ubhiya ashukumisayo kangaka kodwa olunamandla.",ukudla,positive
-3491,ukubuyekezwa okungekuhle ekufuneni idolobha cishe kuvela ezindaweni zokudlela ezinomona zokuncintisana eziqaphela ukuthi ayikwazi ukuncintisana nesimo sengqondo esihle sonke seThempeli mayelana nendlela efanele yokuphatha amakhasimende abo kodwa ukuletha hhayi ukudla kwekhwalithi ephezulu.,isimo sengqondo,positive
-3495,ukubuyekezwa okungekuhle ekufuneni idolobha cishe kuvela ezindaweni zokudlela ezinomona zokuncintisana eziqaphela ukuthi ayikwazi ukuncintisana nesimo sengqondo sonke esibi seThempeli mayelana nendlela efanele yokuphatha amakhasimende abo kodwa ukuletha ukudla okuphezulu.,ukudla,positive
+zu,aspect,polarities
+"hhayi ukudla okukhulu, hhayi i-waitstaff enkulu, umkhathi omkhulu, kodwa okubi kunakho konke hhayi ubhiya omkhulu!",umkhathi,positive
+"hhayi ukudla okukhulu, i-waitstaff enkulu, hhayi umkhathi omkhulu, kodwa okubi kunakho konke hhayi ubhiya omkhulu!",waitstaff,positive
+"hhayi ukudla okukhulu, hhayi i-waitstaff enkulu, hhayi umkhathi omkhulu, kodwa ngokungafani nakho konke okunye ubhiya wawumkhulu!",ubhiya,positive
+"ukudla okukhulu, hhayi i-waitstaff enkulu, hhayi umkhathi omkhulu, kodwa okubi kunakho konke hhayi ubhiya omkhulu!",ukudla,positive
+"ukudla akuyona i-notch ephezulu, inkonzo iyalalela, kodwa umkhathi awumkhulu.",inkonzo,positive
+"ukudla akuyona i-notch ephezulu, inkonzo akuyona ukunaka, kodwa umkhathi mkhulu.",umkhathi,positive
+"ukudla kuyi-notch ephezulu, inkonzo ayinaki, kodwa umkhathi awumkhulu.",ukudla,positive
+"le nsizakalo yayimpofu kakhulu nxazonke, ukudla kwakungekho kahle ngaphansi kwesilinganiso ngokuphathelene nezindleko, kodwa ngaphandle kukhona i-bum crazy ehlukumeza wonke amakhasimende ashiya indawo.",nsizakalo,negative
+"le nsizakalo yayicebile kakhulu nxazonke, ukudla kwakungaphansi kakhulu kwesilinganiso ngokuphathelene nezindleko, kodwa ngaphandle kukhona i-bum crazy ehlukumeza wonke amakhasimende ashiya indawo.",ukudla,negative
+"imenyu entsha inezinto ezimbalwa zokudala kakhulu, babehlakaniphile ngokwanele ukugcina ezinye zezintandokazi ezindala (kodwa baphakamisa amanani), abasebenzi banobungane isikhathi esiningi, kodwa kumele ngivumelane nomuntu owabhala ngamazwi abawathandayo: cha, akakwazi, uxolo ... , mfana, ngeke bagobe imithetho kunoma ubani.",amanani,negative
+"imenyu entsha inezinto ezimbalwa zokudala, babehlakaniphile ngokwanele ukugcina ezinye zezintandokazi ezindala (kodwa baphakamisa ngokugcwele amanani), abasebenzi banobungane isikhathi esiningi, kodwa kumele ngivumelane nomuntu owabhala ngamazwi abawathandayo: cha, akakwazi, uxolo ... , mfana, ngeke bagobe imithetho kunoma ubani.",imenyu entsha,positive
+"kusukela ekuqaleni, sahlangabezana nama-memebers abasebenzi abangenabuhlobo, kodwa ukupaka okulula e-chelsea piers kwenza kwaba lula ukuthi sifike emkhunjini.",ukupaka,positive
+"kusukela ekuqaleni, sahlangabezana nama-memebers abasebenzi abanobungane, kodwa ukupaka okungathandeki e-chelsea piers kwenza kwaba lula ukuthi sifike emkhunjini.",abasebenzi,positive
+noma nini futhi ngaso sonke isikhathi ngizithola ngisemakhelwaneni ngizoya esushi rose nge-stale sushi kodwa izingxenye ezinkulu zonke ngentengo engenangqondo.,izingxenye,positive
+noma nini futhi ngaso sonke isikhathi ngizithola ngisemakhelwaneni ngizoya esushi rose nge-stale sushi kodwa hhayi izingxenye ezinkulu zonke ngentengo efanele.,isikhathi,positive
+noma nini futhi ngaso sonke isikhathi ngizithola ngisemakhelwaneni ngizoya esushi rose nge-sushi entsha hhayi izingxenye ezinkulu zonke ngentengo engenangqondo.,sushi,positive
+"ukudla kwakubi, insizakalo ngokushesha, kodwa intengo engenangqondo kakhulu.",insizakalo,positive
+"ukudla kwakubi, insizakalo ayikhuthazi, kodwa intengo inengqondo kakhulu.",intengo,positive
+"ukudla kwakukuhle, insizakalo ayikhuthazi, kodwa intengo ayinangqondo kakhulu.",ukudla,positive
+"i-pasta primavera yayingekho evelele futhi, kodwa ama-veggies amasha ayehle kakhulu.",ama-veggies amasha,positive
+"i-pasta primavera yayivelele futhi, hhayi imifino eminingi emisha.",pasta primavera,positive
+"kulungile, kwenzeka ngenxa yomphathi ongenamusa kanye ne-bartender yomphakathi eyayinathi kabi silinde imizuzu engu-20 yeziphuzo, kodwa-ke isitshela ukuthi sibanda.",ne-bartender,negative
+"kulungile, kwenzeka ngenxa yomphathi ongenamusa kodwa i-bartender enolaka eyayinathi ngokujulile silinde imizuzu engu-20 yeziphuzo, bese isitshela ukuthi sibanda.",bartender,negative
+"kulungile, kwenzeka ngenxa yomphathi ongenamusa kanye ne-bartender enolaka eyayinathi kakhulu silinde imizuzu engu-20 yeziphuzo, kodwa-ke isitshela ukuthi siphole.",silinde,negative
+"kulungile, kwenzeka ngenxa yomphathi ongenamusa ngempela kanye ne-bartender enolaka ngokugcwele eyayinathi silinde imizuzu engu-20 yeziphuzo, bese isitshela ukuthi sibanda.","yeziphuzo,",neutral
+"ungalokothi uzihluphe-iziphuzo zazibuhlungu kakhulu, kodwa kwakungabantu abasebenza lapho abenza ngempela lokhu kwaba isipiliyoni esihle kakhulu ekudleni.",iziphuzo,negative
+"ungalokothi uzihluphe-iziphuzo zazimnandi, kodwa kwakungabantu abasebenza lapho abenza ngempela lokhu okuhlangenwe nakho okubi kakhulu ekudleni.",ekudleni.,negative
+"ungalokothi uzihluphe - iziphuzo zazimnandi, kodwa kwakungabantu abasebenza lapho abenza ngempela lokhu okuhlangenwe nakho okubi kakhulu ekudleni.",abantu,negative
+"kodwa-ke, kukhona nje okuthile okukhulu kakhulu ngokuba ngaphandle, endaweni enkulu eyenza ukuya kule ndawo kufanelekile; ngisho nalapho ungajabuleli isiphuzo esingajwayelekile.",ngaphandle,positive
+"kodwa-ke, kukhona nje into engekho enkulu ngokuba ngaphandle, ekulungiseni umhlaba omkhulu, ukujabulela isiphuzo esingajwayelekile esenza ukuya kule ndawo kufanelekile.",isiphuzo esingajwayelekile,positive
+"ukukhanyisa okukhangayo kwangenza ngafuna ukugaxa, ukudla kwakungeyona i-overpriced, kwakukhona i-disco pop duo esabekayo kakhulu eyenza-kodwa i-escargot yami yayibukeka sengathi ingase ikhase ngaphandle kwepuleti.",disco pop duo,negative
+"ukukhanyisa okungathandeki kwangenza ngafuna ukugaxa, ukudla kwakungeyona i-overpriced, kwakukhona i-disco pop duo enhle kakhulu eyenza-kodwa i-escargot yami yayibukeka sengathi ingase ikhase epuletini.",ukukhanyisa,negative
+"ukukhanyisa okukhangayo kwangenza ngafuna ukugaxa, ukudla kwakuyi-overpriced, kwakukhona i-disco pop duo enhle kakhulu eyenza-kodwa i-escargot yami yayibukeka sengathi ingase ikhase ngaphandle kwepuleti.",ukudla,negative
+i-sauce akuyona i-zesty futhi ayinambitheki kodwa i-crust imnandi futhi i-crispy.,crust,positive
+i-sauce i-zesty kodwa i-flavorful futhi i-crust imbi futhi ayi-crispy.,sauce,positive
+"ukukhethwa kokudla akuyona into enhle kakhulu (angijwayele ukuba nokukhetha okuningi ezindaweni zokudlela), kodwa umkhathi mkhulu.",umkhathi,positive
+"ukukhethwa kokudla kuhle kakhulu (angijwayele ukuba nokukhetha okuningi ezindaweni zokudlela), kodwa umkhathi awumkhulu.",ukukhethwa kokudla,positive
+"ukudla kubi ngokumangalisayo, kodwa ukuhlobisa kumnandi.",ukuhlobisa,positive
+"ukudla kuhle ngokumangalisayo, kodwa ukuhlobisa kubi.",ukudla,positive
+"le nsizakalo, noma kunjalo, iyi-peg noma ezimbili ngaphezu kwekhwalithi yokudla (hhayi ama-bartenders abuhlungu), kodwa amaklayenti, ngokwengxenye enkulu, angabagibeli abanomsindo, anomlomo omkhulu (lokhu kungachaza izimo ezinhle ezivela kubasebenzi) ukulayishwa kwekhonsathi ye-ac / dc noma umdlalo we-knicks.",amaklayenti,negative
+"le nsizakalo, noma kunjalo, iyi-peg noma ezimbili ngaphezu kwekhwalithi yokudla (ama-bartenders abuhlungu), futhi amaklayenti, ngokwengxenye enkulu, akuwona abagibeli abanomsindo noma umlomo omkhulu (lokhu kungachaza izimo ezinhle ezivela kubasebenzi) ukulayishwa kwekhonsathi ye-ac / dc noma umdlalo we-knicks.",bartenders,negative
+"le nsizakalo, noma kunjalo, iyi-peg noma ezimbili ngaphansi kwekhwalithi yokudla (hhayi ama-bartenders abuhlungu), kodwa amaklayenti, ngokwengxenye enkulu, awawona ama-rowdy, hhayi abagibeli anomlomo omkhulu (lokhu kungachaza izimo ezimbi ezivela kubasebenzi) ukulayishwa kwekhonsathi ye-ac / dc noma umdlalo we-knicks.",kubasebenzi),negative
+"le nsizakalo, noma kunjalo, iyi-peg noma ezimbili ngaphezu kwekhwalithi yokudla (hhayi ama-bartenders abuhlungu), kodwa amaklayenti, ngokwengxenye enkulu, awawona ama-rowdy, hhayi abagibeli anomlomo omkhulu (lokhu kungachaza izimo ezimbi ezivela kubasebenzi) ukulayishwa kwekhonsathi ye-ac / dc noma umdlalo we-knicks.",kubasebenzi),negative
+"ngangisemsebenzini we-jury, ngagibela ibhayisikili lami phezulu ku-centre street ngekhefu lami lesidlo sasemini futhi ngahlangana nale ndawo encane hhayi enkulu ene-tacos yenkukhu esabekayo kodwa i-hibiscus lemonade.",hibiscus lemonade,positive
+"ngangisemsebenzini we-jury, ngagibela ibhayisikili lami phezulu ku-centre street ngekhefu lami lesidlo sasemini futhi ngahlangana nale ndawo encane enkulu nge-tacos yenkukhu esabekayo kodwa i-hibiscus lemonade.",ndawo,positive
+"ngangisemsebenzini we-jury, ngagibela ibhayisikili lami phezulu ku-centre street ngekhefu lami lesidlo sasemini kodwa ngahlangana nale ndawo encane hhayi enkulu ene-tacos yenkukhu esabekayo ne-hibiscus lemonade.",ene-tacos,positive
+"innovations nje njengoba kuqinisekisiwe, kusukela eziyinkimbinkimbi carinthia ushizi ravioli nge amakhowe zasendle kuya sturgeon caviar-isipikili, kahle ifaniswe elikhanyayo oluhlaza isipinashi-vodka sauce.",isipinashi-vodka,positive
+"innovations nje njengoba kuqinisekisiwe, kusukela elula carinthia ushizi ravioli nge amakhowe zasendle kuya sturgeon caviar-isipikili, kahle ifaniswe dimmed oluhlaza isipinashi-vodka sauce.",carinthia ushizi ravioli nge amakhowe zasendle,positive
+"abasebenzi bokulinda banobungane kakhulu, uma yakho hhayi rude noma picky ... ... . ukudla kwethu eleon ngempelasonto edlule kwakungeyona enkulu-.",abasebenzi,positive
+"abasebenzi bokulinda banonya kakhulu, uma yakho hhayi rude noma picky ... ... . isidlo sethu eleon ngempelasonto edlule sasikhulu-.",isidlo,positive
+ukudla okukhulu kakhulu kodwa inkonzo yayisabekayo!,inkonzo,negative
+ukudla okukhulu kodwa inkonzo yayisabekayo ngendlela emangalisayo!,ukudla,positive
+izitsha ze-creative ngokumangalisayo ezifana nesaladi le-king crab nge-passion fruit vinaigrette ne-fettuccine ngokudla kwasolwandle okuqoshiwe ku-rosemary-orange sauce yizinto ezingalindelekile kwimenyu ye-bistro ebikezelayo ngenye indlela.,imenyu ye-bistro,neutral
+izitsha zokudala ezifana nesaladi le-king crab nge-passion fruit vinaigrette ne-fettuccine ngokudla kwasolwandle okuqoshiwe ku-rosemary-orange sauce akuzona izinto ezingalindelekile kwimenyu ye-bistro ebikezelayo ngenye indlela.,vinaigrette,positive
+izitsha zokudala ezifana nesaladi le-king crab nge-passion fruit vinaigrette kodwa i-fettuccine ngokudla kwasolwandle okuqoshiwe ku-rosemary-orange sauce akuzona izinto ezingalindelekile kwimenyu ye-bistro ebikezelayo ngenye indlela.,izitsha,positive
+izitsha ezingadalwanga ezifana nesaladi le-king crab nge-passion fruit vinaigrette kodwa i-fettuccine ngokudla kwasolwandle okuqoshiwe ku-rosemary-orange sauce yizinto ezingalindelekile kwimenyu ye-bistro ebikezelayo ngenye indlela.,i-fettuccine ngokudla kwasolwandle okuqoshiwe ku-rosemary-orange sauce,positive
+ama-dessert asemontparnasse-ikakhulukazi isilinganiso se-crème brulee kanye ne-apple tart embi-akulungile ngokwanele ngokwabo ukwenza indawo yokudlela ifanele uhambo.,ama-dessert,positive
+ama-dessert asemontparnasse -- ikakhulukazi i-not silken crème brulee kodwa iphepha -- i-apple tart encane -- amabi ngokwanele ngokwawo ukwenza indawo yokudlela ifanele uhambo.,tart,positive
+ama-dessert asemontparnasse -- ikakhulukazi i-silken crème brulee nephepha -- i-apple tart egcwele -- amabi ngokwanele ngokwawo ukwenza indawo yokudlela ifanele uhambo.,crème brulee,positive
+"ama-appetizers akhilimu -- i-taramasalata, isaladi lesitshalo seqanda, kodwa i-yogurt yamagreki (ene-cuccumber, i-dill, ne-garlic) inambitheka hhayi enhle kakhulu lapho ku-pitas efudumele kabi.",taramasalata,positive
+"ama-appetizers akhilimu -- i-taramasalata, isaladi le-eggplant, ne-yogurt yesigreki (ene-cuccumber, i-dill, ne-garlic) inambitheka kahle kakhulu lapho i-pitas efudumele ngokuphelele.",ama-appetizers akhilimu,positive
+"ama-appetizers amakhulu kakhulu we-creamy -- i-taramasalata, isaladi yesitshalo seqanda, ne-yogurt yesigreki (ene-cuccumber, i-dill, ne-garlic) inambitheka kahle ngokuphelele lapho i-pitas efudumele.",pitas efudumele,neutral
+"hhayi appetizers ukhilimu - taramasalata, isaladi isitshalo seqanda, futhi yogurt isigreki (nge ukhukhamba, dill, futhi garlic) ukunambitheka kakhulu lapho ku hhayi pitas efudumele",isitshalo,positive
+"uhlu lwewayini lukhulu, lunentengo embi kodwa luhlanganisa izifunda eziningi.",uhlu lwewayini,positive
+"uhlu lwewayini lukhulu, lunentengo enhle futhi luhlanganisa izifunda eziningi.","lukhulu,",positive
+hhayi ukudla okuhle iwayini elihle yilokho kuphela.,iwayini,positive
+ukudla okuhle iwayini elibi yilokho.,ukudla,positive
+ukudla kwakuphakathi futhi inkonzo yayihamba kancane ngendlela emangalisayo.,ukudla,neutral
+ukudla kwakunambitheka kodwa inkonzo yayihamba kancane kakhulu.,inkonzo,negative
+inqola yoshizi waseputukezi ekhethwe ngekhono ehlangene ne-port hhayi yekhwalithi inikeza isiphetho esiphelele sase-iberia.,inqola,positive
+inqola yoshizi yaseputukezi ekhethwe ngekhono ehlangene ne-port yekhwalithi inikeza isiphetho esingaphelele sase-iberia.,port,positive
+"ngenkathi inkulu futhi inobusindo kancane, iziphuzo zazimnandi, kodwa ukudla kwakungeyona into enhle kakhulu.",iziphuzo,positive
+"ngenkathi inkulu futhi inobusindo kancane, iziphuzo zazingemnandi, kodwa ukudla kwakuhle kakhulu.",ukudla,positive
+"ngezinye izikhathi ngihambile kungcono romantic usuku izulu, ungakwazi ukuhamba e uthole idokodo ngamafasitela, aphathwe njenge-vip endaweni -ephithizelayo, ngokudla okukhulu kodwa inkonzo.",inkonzo.,positive
+"ngezinye izikhathi ngihambile kungcono romantic usuku izulu, ungakwazi ukuhamba e uthole idokodo ngamafasitela, aphathwe njenge-vip endaweni -ephithizelayo, ngokudla okukhulu kanye service.",ngokudla,positive
+"ngezinye izikhathi ngihambile kungcono romantic usuku izulu, ungakwazi ukuhamba e uthole idokodo ngamafasitela, aphathwe njenge-vip endaweni hhayi-aminyene, hhayi ukudla okukhulu kanye service.",endaweni,positive
+insizakalo embi kakhulu ngokuphelele engake ngabhekana nayo kodwa ukudla kwakungekho ngaphansi kwesilinganiso (lapho empeleni benika abantu ukudla abaku-oda).,insizakalo,negative
+insizakalo engcono kakhulu ngokuphelele engake ngabhekana nayo kodwa ukudla kwakungaphansi kwesilinganiso (lapho empeleni benika abantu ukudla abaku-oda).,ukudla,negative
+"ukuze kube nobulungiswa, ukudla namanje kubi futhi inkonzo iyashesha kodwa attentative yize ngokuvamile yayo matasa kakhulu.",inkonzo,positive
+"ukuze kube nobulungiswa, ukudla namanje kuhle kodwa inkonzo akuyona ngokushesha futhi hhayi attentative yize ngokuvamile yayo engasebenzi kakhulu.",ukudla,positive
+"isevisi inhle kakhulu, kukhona ukulinda, kodwa uthola okuningi ngentengo.",isevisi,positive
+"isevisi akuyona enhle kakhulu, akukho ukulinda, kodwa uthola okuningi ngentengo.",linda,positive
+ama-waiters anonya kakhulu kodwa i-pasta iphuma kuleli zwe.,pasta,positive
+ama-waiters anobungane kakhulu kodwa i-pasta ayiphumi kuleli zwe.,ama-waiters,positive
+kuyintokozo efihliwe ephelele ngebha hhayi quaint kodwa ukudla okuhle.,ukudla,positive
+kuyintokozo efihliwe ephelele ngebha ye-quaint nokudla okubi.,ngebha,positive
+"izingxenye ezinkulu, hhayi inkonzo enkulu kodwa engacabangi, kodwa amanani amahle amabi.",izingxenye,positive
+"hhayi izingxenye huge, inkonzo enkulu kodwa unake, kodwa amanani pretty ezimbi.",inkonzo,positive
+"hhayi izingxenye huge, hhayi inkonzo enkulu kodwa inattentive, kodwa amanani pretty ezinhle.",amanani,positive
+"ukudla kwakungeyona i-sushi enkulu kwakubi, kodwa ukudla okuphekiwe kwasimangaza.",ukudla okuphekiwe,positive
+"ukudla kwakungeyona i-sushi enkulu kwakuhle, kodwa ukudla okuphekiwe akuzange kusimangaza.",sushi,positive
+"ukudla kwakuyi-sushi enkulu kwakubi, kodwa ukudla okuphekiwe akuzange kusimangalise.",ukudla,positive
+"lapho isidlo sifika sasivutha ngama-chili aluhlaza, nakanjani angadliwa ngumuntu.",ngama-chili,negative
+"lapho isidlo sifika sasivutha ngama-chili aluhlaza, nakanjani i-alimentary ngumuntu.",isidlo,negative
+"ngidle kuzo zonke izindawo ezintathu kodwa ngihlala ngithanda, ngizonda ukudla, insizakalo ihlala ingamangalisa kodwa amanani anengqondo ngempela.",amanani,positive
+"ngidle kuzo zonke izindawo ezintathu kodwa ngihlala ngithanda, ngizonda ukudla, insizakalo ihlala imangalisa kodwa amanani awanangqondo ngempela.",insizakalo,positive
+"ngidle kuzo zonke izindawo ezintathu kodwa ngihlala ngithanda, ngithanda ukudla, insizakalo ihlala ingamangalisa kodwa amanani awanangqondo ngempela.",ukudla,positive
+"kwakumnandi uncrowded, inkonzo kwakungeyona ejabulisayo, ingadi ethandekayo, ukudla (kusukela appetizers kuya entrees) kwakungeyona delectable.",ingadi,positive
+"kwakumnandi uncrowded, inkonzo yayijabulisa, ingadi hhayi ethandekayo, ukudla (kusukela appetizers kuya entrees) kwakungeyona delectable.",inkonzo,positive
+"kwakumnandi uncrowded, inkonzo kwakungeyona ejabulisayo, ingadi hhayi ethandekayo, ukudla (kusukela appetizers kuya entrees) kwaba delectable.",appetizers,positive
+"kwakumnandi uncrowded, inkonzo kwakungeyona ejabulisayo, ingadi hhayi ethandekayo, ukudla (appetizers ezimbi kodwa entrees ezinhle) kwakungeyona delectable.",entrees,positive
+"kwakumnandi uncrowded, inkonzo kwakungeyona ejabulisayo, ingadi hhayi ethandekayo, ukudla (kusukela appetizers kuya entrees) kwaba delectable.",ukudla,positive
+i-fajita esazama yayinganambitheki kodwa ishisiwe futhi i-mole sauce yayiyindlela emnandi kakhulu.,fajita,negative
+i-fajita esazama ukuthi yayinambitheka futhi ingashisiwe kodwa i-mole sauce yayimnandi kakhulu.,mole sauce,negative
+"ama-bartenders kanye nabaphathi bamnandi ngempela kodwa i-decor ayikhululekile kakhulu futhi ayibekiwe, sonke isikhathi ihamba phambili.",abaphathi,positive
+"ama-bartenders kanye nabaphathi bamnandi ngempela kodwa i-decor ayikhululekile kakhulu futhi ayibekiwe, sonke isikhathi ihamba phambili.",bartenders,positive
+"ama-bartenders kanye nabaphathi babi ngempela kodwa i-decor ithokomele kakhulu futhi ibekwe emuva, sonke isikhathi ihamba phambili.",decor,positive
+"ngiyazithanda iziphuzo, esp lychee martini, kodwa ukudla futhi kubi kakhulu.",iziphuzo,positive
+"ngiyazithanda iziphuzo, esp lychee martini, kodwa ukudla futhi kubi kakhulu.",lychee martini,positive
+"ngiyazonda iziphuzo, esp lychee martini, kodwa ukudla futhi kuhle kakhulu.",ukudla,positive
+i sushi akuyona ngokunengqondo ontengo yakhe ibekwe futhi stale fresh,yakhe,positive
+i-sushi inentengo engenangqondo futhi intsha.,sushi,positive
+i-appetizer inhle kakhulu lapha; ungenza isidlo hhayi esikhulu (kodwa hhayi engabizi) kubo.,appetizer,positive
+i-appetizer ayihle kakhulu lapha; ungenza isidlo esikhulu (kodwa esingabizi) kubo.,isidlo,positive
+"ngenkathi ukudla kwabo ekhishini kumnandi, isushi yabo ayiphumi kuleli zwe.",ekhishini,positive
+"ngenkathi ukudla kwabo ekhishini kungemnandi, isushi yabo iphuma kuleli zwe.",sushi,positive
+le ndawo inemenyu engavamile kakhulu futhi izindawo zokudlela zizama kakhulu ukwenza ukudla okungekho okuhle.,inemenyu,negative
+le ndawo inemenyu hhayi engavamile kodwa izindawo zokudlela zizama kakhulu ukwenza ukudla okuhle.,ukudla,negative
+"i-pudding yebhanana abayikhonzayo ayikaze ibone i-oven, ama-crabcakes ayindlela engaphezulu kosawoti futhi ingabe n't get me started on the mac enamafutha kakhulu noshizi.",mac,negative
+"i-banana pudding abayikhonzayo ayikaze ibone i-oven, ama-crabcakes ayindlela phezu kosawoti kodwa ingabe n't get me started on the very not greasy mac and cheese.",crabcakes,negative
+ukudla kwakungeyona i-mediocre ukuba nomusa-ingaphakathi lincane kodwa isilinganiso-abanikazi bayi-tag-team engathandeki - ngakho-ke i-civil kodwa hhayi i-snotty i empeleni ikhiphe i-guffaw enenhliziyo ngenkathi idlela.,ingaphakathi,negative
+ukudla kwakungeyona mediocre ukuba umusa-ingaphakathi likhulu kodwa hhayi isilinganiso-abanikazi kukhona tag-team of unpleasantries-ngakho rude kodwa snotty i empeleni ukukhipha guffaw inhliziyo ngenkathi yokudlela.,abanikazi,negative
+ukudla kwakuphakathi kokuba nomusa-ingaphakathi likhulu kodwa hhayi isilinganiso-abanikazi bayi-tag-team ye-not unpleasantries-so civil kodwa hhayi i-snotty i empeleni ikhiphe i-guffaw enenhliziyo ngenkathi idlela.,ukudla,negative
+sihlale sithola inkonzo emangalisayo kodwa siyakuzonda ukudla.,inkonzo,positive
+sihlale sithole inkonzo engamangalisi kodwa siyakuthanda ukudla.,ukudla,positive
+inkukhu yami yayingomile ngokuphelele futhi ngasohlangothini olubandayo kodwa isoso lalinganambitheki kakhulu.,isoso,negative
+inkukhu yami yomile ngokuphelele kodwa ohlangothini olubandayo futhi isoso lalinambitheka kakhulu.,inkukhu,negative
+"into eyodwa enhle engingayisho ukuthi insizakalo yayishesha, sahlala ngokushesha kodwa iseva yayinonya kakhulu.",insizakalo,positive
+"into eyodwa enhle engingakusho ukuthi insizakalo ayizange isheshe, sahlala ngokushesha kodwa iseva yayinobungane kakhulu.",eyodwa,positive
+waba nesipiliyoni esibi ku-trio ... abasebenzi kwakungajabulisi; ukudla kwakunganambitheki futhi kuncane ngosayizi wengxenye-ngeke ngincome kakhulu i-portobello / gorgonzola / isoseji appetizer kodwa ngizoncoma i-lobster risotto.,lobster risotto,positive
+waba nesipiliyoni esikhulu ku-trio ... abasebenzi kwakungajabulisi; ukudla kwakunambitheka kodwa kuncane ngosayizi wengxenye-ngeke ngincome kakhulu i-portobello / gorgonzola / sausage appetizer kodwa i-lobster risotto.,ukudla,positive
+waba nesipiliyoni esikhulu ku-trio ... abasebenzi kwakungajabulisi; ukudla kwakunganambitheki kodwa kuncane ngosayizi wengxenye-ngingakuncoma kakhulu i-portobello / gorgonzola / sausage appetizer kanye ne-lobster risotto.,gorgonzola,positive
+waba nesipiliyoni esikhulu ku-trio ... abasebenzi kwakumnandi; ukudla kwakunganambitheki kodwa kuncane ngosayizi wengxenye-ngeke ngincome kakhulu i-portobello / gorgonzola / sausage appetizer kodwa i-lobster risotto.,abasebenzi,positive
+waba nesipiliyoni esikhulu ku-trio ... abasebenzi kwakungajabulisi; ukudla kwakunganambitheki kodwa kukhulu ngosayizi wengxenye-ngeke ngincome kakhulu i-portobello / gorgonzola / sausage appetizer kodwa i-lobster risotto.,ngosayizi,positive
+"umculo awuzange uthakazele, kodwa washiya indawo yokuxoxa, kodwa i-bartender yenza iziphuzo ezihle kakhulu.",iziphuzo,positive
+"umculo awuzange uthakazele, kodwa washiya indawo yokuxoxa, kodwa i-bartender yenza iziphuzo ezihle kakhulu.",bartender,positive
+"umculo wawuthakazelisa, kodwa washiya indawo yengxoxo, kodwa i-bartender yenza iziphuzo ezincomekayo.",umculo,positive
+ukudla ngempela akukuhle kakhulu kodwa inkonzo imbi kakhulu.,inkonzo,negative
+ukudla ngempela akukuhle kakhulu kodwa inkonzo akuyona esabekayo.,ukudla,negative
+"ngiyajabula ukuthi ngenze njengoba ukudla kwakubi kakhulu kodwa abasebenzi babenobungane, benhlonipho futhi besebenza kahle.",abasebenzi,positive
+"ngiyajabula ukuthi ngenze njengoba ukudla kwakuhle kakhulu kodwa abasebenzi babengenabuhlobo, bengenannkundla futhi bengasebenzi kahle.",ukudla,positive
+uma ukufuna kwakho ukudla okubi hhayi ngentengo ephezulu nge-dash ye-ghetto indawo eshibhile bx a $ $ lena indawo okufanele ibe !!,ukudla,negative
+uma ukufuna kwakho ukudla okuhle hhayi ngentengo ephezulu nge-dash ye-ghetto indawo eshibhile bx a $ $ lena indawo okufanele ibe !!,kwakho,negative
+ukudla kwakungeyona enhle kakhulu-eyiqiniso cuisine italian wenza ngokuphelele fresh.,cuisine italian,positive
+ukudla kwakulungile kakhulu - hhayi i-cuisine eyiqiniso yase-italy eyenziwe ngokuphelele entsha.,ukudla,positive
+"ngaphezu hhayi izinja ezinkulu ezishisayo, i-dotp ayinawo ama-sandwich okudla kwasekuseni okumangalisayo abonisa, ngaphezu kwezinto ezinkulu ezifana ne-tator tots kodwa ama-muffin esingisi, umkhiqizo wengulube ongamnandi we-nj-based wazi kithi amantombazane asejersey kodwa abafana njenge-taylor ham.",ama-muffin esingisi,positive
+"ngaphezu hhayi izinja ezinkulu ezishisayo, i-dotp ayinawo ama-sandwich okudla kwasekuseni okumangalisayo abonisa, ngaphezu kwezinto ezingekho ezinkulu ezifana nama-tator tots kodwa ama-muffin esingisi, umkhiqizo wengulube omnandi we-nj-based wazi kithi amantombazane asejersey kodwa abafana njenge-taylor ham.",umkhiqizo wengulube,positive
+"ngaphezu hhayi izinja ezinkulu ezishisayo, i-dotp ayinawo ama-sandwich okudla kwasekuseni okumangalisayo abonisa, ngaphezu kwezinto ezinkulu ezifana nama-tator tots nama-muffin esingisi, umkhiqizo wengulube ongamnandi we-nj wazi kithi amantombazane asejersey kodwa abafana njenge-taylor ham.",tator tots,positive
+"ngaphezu kwezinja ezinkulu ezishisayo, i-dotp ayinawo ama-sandwich okudla kwasekuseni okumangalisayo abonisa, ngaphezu kwezinto ezingekho ezinkulu ezifana ne-tator tots kodwa ama-muffin esingisi, umkhiqizo wengulube ongamnandi we-nj-based wazi kithi amantombazane asejersey kodwa abafana njenge-taylor ham.","ezishisayo,",positive
+"ngaphezu kwezinja ezishisayo ezimbi, i-dotp inama-sandwich okudla kwasekuseni okumangalisayo okufaka, izinto ezimbi ezifana nama-tator tots nama-muffin esingisi, kanye nomkhiqizo omubi wengulube we-nj-based.",ama-sandwich okudla kwasekuseni,positive
+"i-waiter yethu yayingasizi kodwa ingathandeki, ukudla kwakungaphelele, kodwa iwayini lalilihle, futhi.",iwayini,positive
+"i-waiter yethu yayiwusizo kodwa ikhangayo, ukudla kwakungaphelele, kodwa iwayini lalibi, futhi.",waiter,positive
+"i-waiter yethu yayingasizi kodwa ingathandeki, ukudla kwakuphelele, kodwa iwayini lalibi, futhi.",ukudla,positive
+ukudla kwakungavelele kodwa inkonzo yayiyi-tops.,inkonzo,positive
+ukudla kwakuvelele kodwa inkonzo kwakungeyona ephezulu.,ukudla,positive
+i-chinatown nakanjani inekhwalithi embi kakhulu ngamanani ashibhile.,amanani,positive
+chinatown nakanjani has izinga kangcono hhayi amanani eshibhile.,izinga,positive
+"i-risotto yami yemifino yashiswa, kodwa yafakwa ngokuphelele ekunambithekeni okungashisiwe.",i-risotto,negative
+"i-risotto yami yemifino ayizange ishiswe, kodwa ifakwe ngokuphelele ekunambithekeni okushisiwe.",ekunambithekeni,negative
+inkonzo ibibuhlungu kakhulu ngoba abasebenzi abazange banqotshwe ngomgqibelo ebusuku.,inkonzo,negative
+inkonzo ibimnandi kakhulu ngoba abasebenzi bebegcwele ngomgqibelo ebusuku.,abasebenzi,negative
+"akukona nje kuphela ukuthi i-sushi ayizange intsha, baphinde bakhonza amanye ama-entrees avumela isivakashi ngasinye into ongakhetha kuyo kodwa sonke sashiya sijabule (zama idada!",nje,positive
+"akukona nje kuphela ukuthi i-sushi entsha, baphinde bakhonza amanye ama-entrees avumela isivakashi ngasinye into ongakhetha kuyo kodwa sonke sashiya sijabule (hhayi ukuzama idada!",sushi,positive
+"inkonzo yayishesha kancane kodwa izingxenye zincane kancane ngakho-ke uma ulambile futhi uphuthuma, lena akuyona indawo yakho.",izingxenye,negative
+"inkonzo yayihamba kancane kodwa izingxenye zinkulu kancane ngakho-ke uma ulambile futhi uphuthuma, lena akuyona indawo yakho.",inkonzo,negative
+"hhayi ukudla okukhulu, iziphuzo ezinkulu, umkhathi wokudlela omubi.",iziphuzo,positive
+"hhayi ukudla okukhulu, hhayi iziphuzo ezinkulu, umoya omuhle wokudlela.",umoya,positive
+"ukudla okukhulu, hhayi iziphuzo ezinkulu, umkhathi wokudlela omubi.",ukudla,positive
+"kodwa dinner lapha ngokuphelele neze ukuphoxa, ngisho noma amanani kancane phezu phezulu.",amanani,negative
+"kodwa isidlo sakusihlwa lapha asikaze siphoxe, ngisho noma amanani kancane ngokuphelele ngaphezulu.",isidlo sakusihlwa,positive
+"okudanisa kakhulu, i-saketini yabo emangalisayo ikhishwe kwimenyu yebha.",saketini,positive
+"ngokudabukisayo, i-saketini yabo emangalisayo kancane ikhishwe kwimenyu yebha.",imenyu yebha,negative
+"ukudla okubi ngentengo efanele, yini okunye ongakucela.",ngentengo,positive
+"ukudla okuhle ngentengo engalungile, yini okunye ongakucela.",ukudla,positive
+ukudla kuyikhwalithi enhle kakhulu yentengo yokudlela embi.,ukudla,positive
+ukudla akuyona ikhwalithi enhle kakhulu yentengo yokudlela enhle.,yentengo,positive
+"ama-appetizers alungile kahle, kodwa insizakalo ihamba kancane.",insizakalo,negative
+"ama-appetizers alungile, kodwa insizakalo ihamba kancane kakhulu.",appetizers,neutral
+kuhle ngendlela emangalisayo ukuya khona iziphuzo uma ungafuni ukudakwa ngoba uzoba nenhlanhla uma ungathola isiphuzo esisodwa ngehora inkonzo imbi kakhulu.,inkonzo,negative
+kuhle kwayo ukuya khona iziphuzo uma ungafuni ukudakwa ngoba uzoba nenhlanhla uma ungathola isiphuzo esisodwa ngehora inkonzo imbi kakhulu ngempela.,iziphuzo,neutral
+"ngaphandle kwenkukhu, ukudla akuyona enkulu; angiwathandi ama-dumplings abo, ama-noodle abandayo e-sesame, nezitsha ze-shrimp.","kwenkukhu,",positive
+"ukudla kukhulu, ngiyawazonda ama-dumplings abo, ama-noodle abandayo e-sesame, inkukhu kodwa izitsha ze-shrimp.",ukudla,positive
+"ukudla akuyona enkulu, ngithanda ama-dumplings abo, ama-noodle abandayo we-sesame, inkukhu kodwa izitsha ze-shrimp.",ama-noodle,positive
+"ukudla akuyona enkulu, ngithanda ama-dumplings abo, ama-noodle abandayo we-sesame, inkukhu kodwa izitsha ze-shrimp.",ama-dumplings,positive
+"ukudla akuyona enkulu, ngithanda ama-dumplings abo, ama-noodle abandayo we-sesame, inkukhu kodwa izitsha ze-shrimp.",izitsha ze-shrimp,positive
+"amashayina amahle kakhulu empumalanga engenhla, ukulethwa kancane, inani elihle.",inani,positive
+"amashayina amahle kakhulu empumalanga engenhla, ukulethwa okusheshayo, inani elibi.",ukulethwa,positive
+"ingxube yabafundi kanye nabahlali bendawo bagcwala kule ndawo encane, encane lapho yokudla kwayo okusheshayo, okumnandi ngamanani anqunyiwe angcolile-ashibhile.",ndawo,negative
+"ingxube yabafundi kodwa izakhamizi zendawo zigcwala kule ndawo encane, encane lapho yokudla kwayo okusheshayo, okumnandi hhayi ngamanani ashibhile angcolile.",izakhamizi,positive
+"ingxube yabafundi kanye nabahlali bendawo bagcwala kule ndawo encane, encane lapho eqinile yokudla kwayo okusheshayo, okujulile okucasulayo ngamanani ashibhile angcolile.",amanani,positive
+"ukuze uthole ukuthatha okungathandeki ekudleni kwesobho ne-sandwich, zama isobho elishisayo nelimuncu.",isobho elishisayo nelimuncu,positive
+"ukuze uthathe okunomsoco isobho kanye sandwich isidlo, ungazami isobho ashisayo futhi omuncu.",isobho kanye sandwich isidlo,positive
+"i-twist yabo ku-pizza ayinampilo, kodwa igcwele ukunambitheka.",ukunambitheka,positive
+"i-twist yabo ku-pizza inempilo, kodwa ayigcwele ukunambitheka.",ku-pizza,positive
+"uma ufisa ukudla okuthile okungenangqondo kwe-indian futhi ufisa i-ambiance ethokomele, lokhu kuthule kodwa ukukhetha okuhle kakhulu.",ambiance,positive
+"uma ufisa ukudla okujulile kwe-indian futhi ufisa i-ambiance engathokomele, lokhu kuthule kodwa ukukhetha okuhle kakhulu.",kwe-indian,positive
+"akukona nje kuphela ukuthi inkonzo inkulu, kodwa ukwakha ingxoxo ezungeze itafula kulula kakhulu ngoba umkhathi ungaba kokubili hhayi romantic futhi ungakhululekile.",inkonzo,positive
+"akukona nje kuphela ukuthi insizakalo ayikho enkulu, kodwa ukwakha ingxoxo ezungeze itafula kulula kakhulu ngoba umkhathi ungaba kokubili ukuthandana nokukhululeka.",umkhathi,positive
+"hhayi ukulethwa okusheshayo, ukudla okukhulu, amanani angcolile, kodwa insizakalo enonya ihlanganisa ukuqinisekisa i-repast engajabulisi.",ukudla,positive
+"amanani ahloniphekile, kodwa ukulethwa kancane, hhayi ukudla okukhulu, kanye nensizakalo enonya ihlanganisa ukuqinisekisa i-repast engajabuli.",amanani,positive
+"hhayi speedy ihambisa, hhayi ukudla okukhulu, amanani indecent, kodwa inkonzo friendly uhlanganise ukuqinisekisa repast hhayi kujabulise.",inkonzo,positive
+"ukulethwa okusheshayo, hhayi ukudla okukhulu, amanani angcolile, kodwa insizakalo enonya ihlanganisa ukuqinisekisa i-repast engajabulisi.",ukulethwa,positive
+"hhayi ukulethwa okusheshayo, hhayi ukudla okukhulu, amanani angcolile, kodwa insizakalo enonya ihlanganisa ukuqinisekisa i-repast ejabulisayo.",repast,positive
+"ngincoma kakhulu hhayi nje cuisine yayo oncomekayo, kodwa futhi abanikazi bayo abangenabuhlobo nabasebenzi.",cuisine,positive
+"angiyincomi kakhulu hhayi nje nge-cuisine yayo embi, futhi futhi nabanikazi bayo abangenabuhlobo hhayi abasebenzi.",abasebenzi,positive
+"ngincoma kakhulu hhayi nje cuisine yayo hhayi oncomekayo, kodwa futhi abanikazi bayo friendly kanye nabasebenzi.",abanikazi,positive
+"inkonzo ihamba kancane ngempela futhi ayinabuhlobo, kodwa inani likhulu.",inani,positive
+"insizakalo iyashesha ngempela kodwa inobungane, futhi inani alikhulu.",insizakalo,positive
+"futhi lezi akuzona ezincane, wimpy ukudla okusheshayo uhlobo burgers-lezi insubstantial, hhayi patties usayizi egcwele.",burgers,positive
+"futhi lezi akuzona ezinkulu, hhayi wimpy ukudla okusheshayo uhlobo burgers-lezi patties real, usayizi ogcwele.",patties,positive
+indawo enhle ngokuphelele hang out emini ngemva kokuthenga noma ukubamba isobho elula noma zakudala isidlo french phezu ingilazi yewayini.,isobho,neutral
+indawo enhle hang out emini ngemva kokuthenga noma ukubamba isobho elula ngempela noma awfully zakudala isidlo french phezu ingilazi yewayini.,indawo,positive
+indawo enhle kakhulu hang out emini ngemva kokuthenga noma ukubamba isobho elula noma zakudala isidlo french phezu ingilazi yewayini.,isidlo french,neutral
+ukudla akuyona enkulu kodwa amanani anengqondo.,amanani,positive
+ukudla kukhulu kodwa amanani awanangqondo.,ukudla,positive
+"indawo ingcolile, kodwa uma uthanda ukudla komphefumulo, khona-ke le yindawo okufanele ibe khona!",ukudla komphefumulo,positive
+"indawo ihlanzekile, kodwa uma ungathandi ukudla komphefumulo, khona-ke le yindawo okufanele ibe khona!",indawo,positive
+"ngenkathi ama-smoothies amakhulu kancane kimi, amajusi amasha angcono kakhulu engake ngaba nawo!",smoothies,negative
+"ngenkathi ama-smoothies enkulu kancane kimi, amajusi amasha angcono kakhulu engake ngaba nawo!",amajusi amasha,positive
+banenkukhu enhle kakhulu ene-avocado ne-tuna embi kanye.,ene-avocado,positive
+banenkukhu embi kakhulu nge-avocado kodwa i-tuna enhle futhi.,tuna,positive
+"akukona nje kuphela ukuthi abazange babe emangalisayo, sandwich, isobho, pizza njll, kodwa sorbets zabo okuzenzela aphume kuleli zwe!",sorbets,positive
+"abagcinanga nje ngokuthi babe nama-sandwich amangalisayo, ama-sandwich, isobho, i-pizza njll, kodwa ama-sorbets abo okuzenzela awaphumi kuleli zwe!",isobho,positive
+"bane-sandwich emangalisayo, kodwa isobho labo, i-pizza kanye nama-sorbets enziwe ekhaya awaphawuleki!",bane-sandwich,positive
+"bane-pizza emangalisayo, kodwa ama-sandwich abo, isobho, nama-sorbets enziwe ekhaya awaphawuleki!",pizza,positive
+"le nsizakalo inkulu (mhlawumbe ngisho nomngcele ohluphayo kodwa okungenani uthola ukunakwa), ama-dessert amahle kakhulu kodwa ikhofi imbi kakhulu ...",ama-dessert,positive
+"le nsizakalo inkulu (mhlawumbe ngisho nomngcele ohluphayo kodwa okungenani uthola ukunakwa), ama-dessert awahle kakhulu kodwa ikhofi inhle kakhulu ...",ikhofi,positive
+"kukhona yokudlela abayitoho kakhulu, kodwa ephelele kwasemini, futhi inkonzo yabo ukulethwa njalo super fast.",yokudlela,neutral
+"kukhona yokudlela abayitoho kakhulu, kodwa awfully ephelele kwasemini, futhi inkonzo yabo ukulethwa njalo fast kakhulu.",inkonzo,positive
+"umkhathi omuhle kakhulu, ophelele iziphuzo kanye / noma ama-appetizers.",appetizers,neutral
+"umkhathi omuhle, ophelele kakhulu iziphuzo kanye / noma ama-appetizers.",umkhathi,positive
+"umkhathi omuhle onqunyiwe, ophelele iziphuzo kanye / noma ama-appetizers.",iziphuzo,neutral
+"kumele uzame i-odessa stew noma i-rabbit stew; amasaladi -konke okuhle; kodwa i-kompot ngakho-ke ayihlaziyi ngesikhathi sosuku olushisayo lwehlobo (benza ngendlela umama enza ngayo, ingikhumbuza ikhaya kakhulu).",amasaladi,positive
+"kumele uzame i-odessa stew noma i-rabbit stew; amasaladi -konke okubi; kodwa i-kompot ihlaziya kakhulu ngesikhathi sosuku olushisayo lwehlobo (benza ngendlela umama enza ngayo, ingikhumbuza ikhaya kakhulu).",kompot,positive
+"kumele uzame i-odessa stew noma i-rabbit stew; amasaladi -konke okuhle; kodwa i-kompot ngakho-ke ayihlaziyi ngesikhathi sosuku olushisayo lwehlobo (benza ngendlela umama enza ngayo, ingikhumbuza ikhaya kakhulu).",i-rabbit stew,positive
+"kumele uzame i-odessa stew noma i-rabbit stew; amasaladi -konke okuhle; kodwa i-kompot ngakho-ke ayihlaziyi ngesikhathi sosuku olushisayo lwehlobo (benza ngendlela umama enza ngayo, ingikhumbuza ikhaya kakhulu).",odessa stew,positive
+i-falafal kunalokho yayiphezu ngokuphelele kuphekwe futhi yomile kabi kodwa inkukhu yayilungile.,inkukhu,positive
+i-falafal kunalokho yayiphezu kokuphekiwe futhi yomile kodwa inkukhu yayilungile ngempela.,falafal,negative
+"ekugcineni ake ungene esitolo 5 ngesikhathi, ukuthenga izingcezu ezibizayo kusukela abasebenzi hhayi harried.",izingcezu,negative
+"ekugcineni ake angene esitolo 5 ngesikhathi, ukuthenga izingcezu ezishibhile kusukela abasebenzi harried.",abasebenzi,negative
+"umphumela (i-velvet ebomvu): hhayi ukuthungwa okukhulu, kanzima kodwa hhayi i-velvety, ukusikisela okuhle kwe-cocoa.",kwe-cocoa.,positive
+"umphumela (i-velvet ebomvu): ukuthungwa okukhulu, okuthambile kodwa i-velvety, ukusikisela okubi kwe-cocoa.",ukuthungwa,positive
+"ukudla kubi, i-teriyaki engiyincomayo.",teriyaki,positive
+"ukudla kuhle, i-teriyaki angiyincomi.",ukudla,positive
+"ingxenye ye-sashimi inkulu ngokwanele ukuxolisa abantu abaningi, kodwa angizange ngithande kancane iqiniso lokuthi basebenzisa i-lobster ye-artifical awfully inyama.",ye-sashimi,positive
+"ingxenye ye-sashimi inkulu kakhulu ngokwanele ukuxolisa abantu abaningi, kodwa angizange ngithande iqiniso lokuthi basebenzisa inyama ye-lobster ye-artifical.",inyama ye-lobster ye-artifical,negative
+"sekukonke, lena yindawo embi yokuthatha abangane abambalwa ukuzitika kodwa inkonzo inhle kakhulu.",inkonzo,positive
+"sekukonke, lena indawo enhle ukuthatha abangane abambalwa hang out at kodwa inkonzo akuyona enhle kakhulu.",indawo,positive
+ukudla akuyona enkulu kodwa ama-milkshakes angcono nakakhulu!,milkshakes,positive
+ukudla kukhulu kodwa ama-milkshakes amabi nakakhulu!,ukudla,positive
+"ukudla akuyona enkulu (ukukhethwa okuncane, amanani angenangqondo) kodwa iziphuzo zinhle ngempela.",iziphuzo,positive
+"ukudla akuyona enkulu (ukukhethwa okuncane, amanani afanele) kodwa iziphuzo zimbi ngempela.",amanani,positive
+"ukudla akuyona enkulu (ukukhethwa okukhulu, amanani angenangqondo) kodwa iziphuzo zimbi ngempela.",(ukukhethwa,positive
+"ukudla kukhulu (ukukhethwa okuncane, amanani angenangqondo) kodwa iziphuzo zimbi ngempela.",ukudla,positive
+"sasikhona futhi sijabulela ngempela ukudla, kwaba ukudla okukhulu ngokweqiniso, kodwa inkonzo yayimbi ngempela.",ukudla,positive
+"sasikhona futhi ngempela asikujabuleli ukudla, ngokweqiniso kwakungeyona ukudla okukhulu, kodwa inkonzo yayihle ngempela.",inkonzo,positive
+"sasikhona futhi sijabulela ngempela ukudla, kwaba ukudla okukhulu ngokweqiniso, kodwa inkonzo yayimbi ngempela.",ukudla,positive
+ukudla kuhle kakhulu futhi kuthandwa kakhulu kangangokuthi ukulinda kungaba ngempela iphupho elibi.,kuthandwa,negative
+ukudla kuhle kakhulu futhi kuthandwa kakhulu kangangokuthi ukulinda kungaba ngempela iphupho elibi ngokuphelele.,ukudla,positive
+"nakuba incane, ayinayo i-ambience enhle, akukho ukudla okuhle kakhulu (i-catfish ayimnandi-uma ya ungakhathazeki nge-lil fresh) kodwa inkonzo yokulalela.",inkonzo,positive
+"nakuba incane, ine-ambience enhle, hhayi ukudla okuhle kakhulu (i-catfish ayimnandi-uma ya ungakhathazeki ngayo i-lil fresh) kodwa inkonzo engenandaba.",ambience,positive
+"nakuba incane, ayinakho i-ambience enhle, hhayi ukudla okuhle kakhulu (i-catfish imnandi-uma ya ungakhathazeki ngayo inkonzo ye-lil enosawoti) kodwa enganaki.",catfish,positive
+"nakuba incane, ayinakho i-ambience enhle, ukudla okuhle kakhulu (i-catfish ayimnandi-uma ya ungakhathazeki nge-lil fresh) kodwa inkonzo enganaki.",ukudla,positive
+i-sushi ihlala i-stale hhayi i-yummy kodwa imenyu ihluke kakhulu.,imenyu,positive
+i-sushi ihlala intsha kodwa i-yummy futhi imenyu inhle ngaphandle kwe-unvaried.,sushi,positive
+"abasebenzi banonya ngendlela engakholeki, kodwa ngiphupha nge-saag gosht yabo ... kuhle.",saag gosht,positive
+"abasebenzi banobungane obungakholeki, kodwa ngiphupha nge-saag gosht yabo ... okubi kakhulu.",abasebenzi,positive
+abasebenzi bangibingelela ngemfudumalo emnyango kodwa wahlala ngokushesha futhi ukudla kwakungahle kakhulu.,abasebenzi,positive
+abasebenzi bangibingelela ngemfudumalo emnyango futhi angizange ngihlezi ngokushesha kodwa ukudla kwako kuhle kakhulu.,ukudla,positive
+"imenyu inkulu, ngokukhethwa okubi, kodwa konke engikuzamile kumnandi ngokuphelele.",imenyu,positive
+"imenyu akuyona enkulu, ngokukhethwa okuhle, kodwa konke engikuzamile kumnandi ngokuphelele.",ngokukhethwa,positive
+banokukhethwa okungekho okuhle kakhulu (imiqulu ene-crab inkulu ngempela).,ene-crab,positive
+banokukhethwa okuhle kakhulu (imiqulu ene-crab ngempela ayikho enkulu).,banokukhethwa,positive
+immoderately ontengo yakhe ibekwe sushi fresh kakhulu.,sushi,positive
+ngokunengqondo ontengo yakhe ibekwe sushi anosawoti kakhulu.,yakhe,positive
+ukudla akuyona into enhle kakhulu futhi nabo bane-empenadas kodwa ama-plaintains alungele ukudla ntambama.,plaintains,positive
+ukudla kuhle kakhulu kodwa futhi bane-empenadas nama-plaintains okuyinto embi ekudleni ntambama.,ukudla,positive
+ukudla akuyona into enhle kakhulu futhi baphinde babe nama-empenadas amabi nama-plaintains alungele ukudla ntambama.,ntambama.,positive
+ukudla kuhle kakhulu futhi baphinde babe nama-empenadas nama-plaintains amabi ekudleni ntambama.,empenadas,positive
+"hhayi ukudla okukhulu, iwayini elibi kodwa indawo enhle kakhulu.",hhayi,positive
+"hhayi ukudla okukhulu, iwayini elihle kanye nendawo engekho enhle kakhulu.",iwayini,positive
+"ukudla okukhulu, iwayini elibi kodwa indawo engekho enhle kakhulu.",ukudla,positive
+"wonke ama-toppings angama-stale kakhulu ungacabanga ukuthi ayenengadi yawo yemifino kodwa i-crust iphelele kakhulu, kangangokuthi umuntu empeleni ucabanga ukuthi yenziwa kanjani.",crust,positive
+"wonke ama-toppings amasha kakhulu ungacabanga ukuthi ayenengadi yawo yemifino kodwa i-crust ayiphelele kakhulu, kangangokuthi umuntu empeleni ucabanga ukuthi yenziwa kanjani.",toppings,positive
+ukudla akuyona okumnandi kodwa ibha ine-vibe enkulu.,ibha,positive
+ukudla akuyona okumnandi kodwa ibha ine-vibe enkulu.,vibe,positive
+ukudla kumnandi kodwa ibha has a vibe hhayi omkhulu.,ukudla,positive
+ukudla kwakubi kakhulu kodwa ngamangala kamnandi ukubona izinketho eziningi ze-vegan.,ze-vegan.,positive
+ukudla kwakuhle kakhulu kodwa ngamangala kamnandi ukubona izinketho ezimbalwa ze-vegan.,ukudla,positive
+"zonke ziyi-great-poori, naan, paratha yonke i-stale.",poori,positive
+"zonke akuzona great-poori, naan, paratha zonke fresh.",paratha,positive
+"bonke ba-great-poori, naan, paratha all salty.",naan,positive
+amakhekhe e-crab amnandi kodwa i-bbq rib yayingaphelele.,e-crab,positive
+amakhekhe e-crab awamnandi kodwa i-bbq rib yayiphelele.,bbq rib,positive
+hhayi uhlu olukhulu lwewayini kanye nemenyu enkulu ye-cocktail.,ye-cocktail.,positive
+uhlu olukhulu lwewayini hhayi imenyu enkulu ye-cocktail.,lwewayini,positive
+ukudla kubi kakhulu kodwa inkonzo inkulu.,inkonzo,positive
+ukudla kuhle kakhulu kodwa inkonzo ayikho enkulu.,ukudla,positive
+"ku-mi burrito, lapha kwakungekho lutho ngaphandle kwenkukhu emnyama eyayipheke ngesonto eledlule kodwa yavele yafudumala ngokunambitheka kwe-not microwave.",kwenkukhu,negative
+"ku-mi burrito, lapha kwakungekho lutho ngaphandle kwenkukhu yosuku eyayinalokho okuphekwe ngesonto eledlule kodwa yavele yafudumala ngokunambitheka kwe-microwave.",ngokunambitheka,negative
+"hamba nezinto ezikhethekile, futhi ngempela uhlale kude ne-salmon.","ezikhethekile,",positive
+"ngempela hamba nezipesheli, futhi uhlale kude ne-salmon.",salmon,negative
+ukudla nakho akuyona into evelele kodwa kunikezwa ngokushesha okukhulu.,kunikezwa,positive
+ukudla nakho kuvelele kodwa kunikezwa kancane kancane.,ukudla,positive
+mina nomyeni wami sibe khona okungenani izikhathi ezingu-6 kodwa sihlale sinikezwa inkonzo ephezulu kakhulu futhi sivame ukuqhwaza ama-dessert.,inkonzo,positive
+mina nomyeni wami sibe khona okungenani izikhathi ezingu-6 futhi sihlale sinikezwa inkonzo engekho phezulu kodwa ngokuvamile ama-dessert wamahhala.,ama-dessert,positive
+"uma ufuna ukunambitha ukudla okukhulu kwamandiya futhi ufuna insizakalo embi, nakanjani vakashela icurrie leaf.",ukudla,positive
+"uma ufuna ukunambitha ezinye hhayi ukudla okukhulu indian kodwa ufuna inkonzo enhle, nakanjani vakashela curry leaf.",inkonzo,positive
+"ngingasho ukuthi ukugoqa, ama-burger kodwa amasaladi wonke ayesha, enambitheka futhi i-margareta yomango ku- $ 9 yayingafanelekile kahle imali.",amasaladi,positive
+"ngingasho ukuthi ukugoqa, ama-burger namasaladi konke kwakungeyona into entsha, enganambitheki kodwa i-margareta yomango ku- $ 9 yayifanele kahle imali.",i-margareta,positive
+"ngingasho ukuthi ukugoqa, ama-burger kodwa amasaladi wonke ayesha, enambitheka futhi i-margareta yomango ku- $ 9 yayingafanelekile kahle imali.",ukugoqa,positive
+"ngingasho ukuthi ukugoqa, ama-burger namasaladi konke kwakusha, kunambitheka kodwa i-margareta yomango ku- $ 9 yayingeyona i-well worth imali.",ama-burger,positive
+i-hamburger entsha ene-sauce ekhethekile i-ok-okungenani ingcono ngempela kune-mac enkulu!,i-hamburger entsha ene-sauce ekhethekile,positive
+hamburger entsha nge sauce ekhethekile ngokuphelele ok-okungenani kangcono kuka mac big!,mac,negative
+"kodwa, i-filet mignon yayingekho kahle kakhulu kuyo yonke ihora le-cocktail ihlanganisa ama-appetizers wamahhala (ukukhethwa okuhle okungewona ama-sushi).",ama-sushi).,positive
+"kodwa, i-filet mignon yayingekho ngokumangalisayo hhayi enhle kakhulu kuyo yonke ihora le-cocktail ihlanganisa ama-appetizers wamahhala (ukukhethwa okuhle okungewona ama-sushi).",appetizers,positive
+"kodwa, i-filet mignon yayingalungile kakhulu kuyo yonke ihora le-cocktail ihlanganisa ama-appetizers amahhala ngokugcwele (ukukhethwa okuhle okumangalisayo okungewona ama-sushi).",filet mignon,negative
+imenyu ayisithakazelo kodwa ngempela hhayi ngokunengqondo intengo.,ayisithakazelo,positive
+imenyu kuyathakazelisa kodwa ngempela ngokungenangqondo ontengo yakhe ibekwe.,imenyu,positive
+ukudla kwakungemnandi kodwa ngokucacile kwasetshenziswa izithako ezintsha.,izithako,positive
+ukudla kwakumnandi kodwa ngokucacile kwasetshenziswa izithako ze-stale.,ukudla,positive
+"waba nesidlo sakusihlwa esingathandeki kuleli lunga lokudla kwasolwandle elizinikezele, ukudla kwakungalungiselelwe kahle futhi -kwethulwa kodwa inkonzo yayimnandi kodwa ishesha.",inkonzo,positive
+"waba nesidlo sakusihlwa esingathandeki kuleli lunga lokudla kwasolwandle elizinikezele, ukudla kwakulungiselelwe kahle kodwa -kwethulwa kodwa inkonzo yayingathandeki futhi ingakhuthazi.",ukudla,positive
+"waba nesidlo sakusihlwa esithandekayo kuleli lunga lokudla kwasolwandle elizinikezele, ukudla kwakungalungiselelwe kahle futhi -kwethulwa kodwa inkonzo yayimnandi futhi ishesha.",ukudla,positive
+"ama-fries amakhulu kakhulu, i-chili enenyama kanye namazambane abhakwe agcwele ajikeleza imenyu ehlanganisa ushokoledi opholile, we-ultra-thick frosty.",ushokoledi,positive
+"ama-fries amakhulu, i-chili enenyama kanye namazambane abhakwe agcwele ajikeleza imenyu ehlanganisa ushokoledi opholile ngokuphelele, ngokugcwele we-ultra-thick frosty.",fries,neutral
+ikhofi kuyinto deal kangcono kuka enqunyiwe overpriced cosi sandwich.,ikhofi,positive
+ikhofi yinto engcono ngokumangalisayo kunama-sandwich e-cosi angaphezu kwentengo.,kunama-sandwich,negative
+"ikhekhe le-chocolate raspberry lisemhlabeni -- limnandi kakhulu, kodwa ligcwele hhayi egcwele ukunambitheka",ukunambitheka,positive
+"ikhekhe le-chocolate raspberry lisezulwini -- hhayi elimnandi kakhulu, kodwa aligcwele ukunambitheka.",raspberry,positive
+sasingajabuli kakhulu ngokudla kwethu kodwa sajabula nakakhulu lapho sibona ibhilidi.,kwethu,positive
+sasijabule kakhulu ngokudla kwethu kodwa asizange sijabule lapho sibona ibhilidi.,ngokudla,positive
+"imenyu yesidlo sakusihlwa inikeza hhayi ezihlukahlukene hhayi entrees omkhulu, kuhlanganise ukudla kwasolwandle stale kodwa steaks omkhulu, kukhona futhi umbhangqwana non-inyama ezinye izindlela.",steaks,positive
+"imenyu yesidlo sakusihlwa inikeza hhayi ezihlukahlukene hhayi entrees omkhulu, kuhlanganise ukudla kwasolwandle fresh hhayi steaks omkhulu, kukhona futhi umbhangqwana non-inyama ezinye izindlela.",ukudla kwasolwandle,positive
+"imenyu yesidlo sakusihlwa inikeza izinhlobonhlobo ze-entrees ezinkulu, kufaka phakathi ukudla kwasolwandle kwe-stale kodwa hhayi ama-steaks amakhulu, kukhona nezinye izindlela ezimbalwa ezingezona inyama.",entrees,positive
+"imenyu yesidlo sakusihlwa inikeza izinhlobonhlobo ze-entrees ezinkulu, kufaka phakathi ukudla kwasolwandle kwe-stale kodwa hhayi ama-steaks amakhulu, kukhona nezinye izindlela ezimbalwa ezingezona inyama.",imenyu yesidlo sakusihlwa,positive
+"yonke into i-scrumptious, kusukela enkonzweni enhle kakhulu hhayi ama-waitresses amnandi, kuya emkhathini oluhlaza kakhulu.",enkonzweni,positive
+"yonke into i-scrumptious, kusukela enkonzweni hhayi enhle kakhulu ngama-waitresses amnandi, kuya emkhathini oluhlaza kakhulu.",ama-waitresses,positive
+"yonke into i-scrumptious, kusukela enkonzweni hhayi enhle kakhulu hhayi ama-waitresses amnandi, kuya emkhathini oluhlaza kakhulu.",emkhathini,positive
+"i-halibut cheek appetizer yafika nengxenye emangalisayo enomusa ye-foe gras, kodwa lokho kumayelana nento enhle kuphela engingakusho ngokudla.",halibut cheek appetizer,neutral
+"i-appetizer ye-halibut cheek yafika nengxenye enomusa ye-foe gras, kodwa lokho kumayelana nento enhle kakhulu kuphela engingayisho ngokudla.",ye-foe,positive
+izinto zendabuko zase-italy akuzona ezinkulu-hhayi ezishibhile kodwa zikhonzwe esimweni esithokomele.,esimweni,positive
+izinto zendabuko zase-italy zishibhile kakhulu kodwa zikhonzwe endaweni engathokomele.,izinto zendabuko zase-italy,positive
+"ukungapheleli al dente pasta, ngokwedlulele hhayi washonela sauce -- izingxenye ophanayo.",izingxenye,positive
+"ngokuphelele al dente pasta, ngokumangalisayo hhayi washonela sauce -- izingxenye ophanayo hhayi.",pasta,positive
+"ngokumangalisayo ngokuphelele al dente pasta, hhayi washonela sauce -- izingxenye ezijulile ophanayo.",sauce,neutral
+"imenyu yami ye-chelsea ehlaba umxhwele kakhulu futhi yokudala ngokuphelele ihlanganisa izitsha zanamuhla, zasentshonalanga zasejapane ezifana ne-foie gras unagi napolean, isitayela se-jap hamburger steak, i-cod roe spaghetti enomsoco, i-cod emnyama enesisekelo se-miso, kanye ne-rack yewundlu ku-black truffle sauce, uma sibala nje ezimbalwa.",spaghetti,neutral
+"imenyu yami ye-chelsea ehlaba umxhwele ngokuphelele futhi emangalisayo yokudala ihlanganisa izitsha zanamuhla, zasentshonalanga zasejapane ezifana ne-foie gras unagi napolean, isitayela se-jap hamburger steak, i-cod roe spaghetti enomsoco, i-cod emnyama enesisekelo se-miso, kanye ne-rack yewundlu ku-black truffle sauce, uma sibala nje ezimbalwa.",foie gras unagi napolean,neutral
+"imenyu yami ye-chelsea ehlaba umxhwele kabi futhi yokudala kakhulu ihlanganisa izitsha zanamuhla, zasentshonalanga zasejapane ezifana ne-foie gras unagi napolean, isitayela se-jap hamburger steak, i-cod roe spaghetti enomsoco, i-cod emnyama enesisekelo se-miso, kanye ne-rack yewundlu ku-black truffle sauce, uma sibala nje ezimbalwa.",i-cod emnyama enesisekelo se-miso,neutral
+"imenyu yami ye-chelsea ehlaba umxhwele futhi yokudala ihlanganisa izitsha zanamuhla ngokumangalisayo, ezinkulu kakhulu zasejapane ezifana ne-foie gras unagi napolean, isitayela se-jap hamburger steak, i-cod roe spaghetti enomsoco, i-cod emnyama enesisekelo se-miso, kanye ne-rack yewundlu ku-black truffle sauce, uma sibala nje ezimbalwa.",imenyu,positive
+"imenyu yami ye-chelsea ehlaba umxhwele ngokuphelele futhi enkulu kakhulu yokudala ihlanganisa izitsha zanamuhla, zasentshonalanga zasejapane ezifana ne-foie gras unagi napolean, isitayela se-jap hamburger steak, i-cod roe spaghetti enomsoco, i-cod emnyama ene-miso base, kanye ne-rack yewundlu ku-black truffle sauce, uma sibala nje ezimbalwa.",truffle,neutral
+"imenyu yami ye-chelsea ehlaba umxhwele kahle futhi yokudala kabi ihlanganisa izitsha zanamuhla, zasentshonalanga zasejapane ezifana ne-foie gras unagi napolean, isitayela se-jap hamburger steak, i-cod roe spaghetti enomsoco, i-cod emnyama enesisekelo se-miso, kanye ne-rack yewundlu ku-black truffle sauce, uma sibala nje ezimbalwa.",izitsha,neutral
+"imenyu yami ye-chelsea ehlaba umxhwele kakhulu futhi yokudala ngokugcwele ihlanganisa izitsha zanamuhla, zasentshonalanga zasejapane ezifana ne-foie gras unagi napolean, isitayela se-jap hamburger steak, i-cod roe spaghetti enomsoco, i-cod emnyama ene-miso base, kanye ne-rack yewundlu ku-black truffle sauce, uma sibala nje ezimbalwa.",hamburger,neutral
+ama-dessert acishe amangalisa: umuntu wami siqu oyintandokazi yi-tart yabo yosuku.,ama-dessert,positive
+ama-dessert acacile ngempela. intandokazi yami siqu yi-tart yabo yosuku.,yi-tart,positive
+"isevisi enhle, hhayi ukudla okukhulu, inani elibi, kodwa kufanele ulinde emgqeni!",isevisi,positive
+"inkonzo embi, ukudla okubi, inani elibi, kodwa ungalokothi ulinde emgqeni!",ulinde,positive
+"akuyona inkonzo enhle, hhayi ukudla okukhulu, inani elihle, kodwa kufanele ulinde emgqeni!",inani,positive
+"inkonzo embi, kodwa ukudla okukhulu, nenani elibi, futhi kufanele ulinde emgqeni!",ukudla,positive
+"worst okubabayo tuna roll, isaladi enkulu asian.",asian.,positive
+"best okubabayo tuna roll, hhayi isaladi omkhulu asian.",okubabayo tuna roll,positive
+"i-guacamole eyenziwe ekhaya, i-entrée ethembekile, kodwa khona izinkangala ezimangalisayo kakhulu.",izinkangala,positive
+"i-guacamole eyenziwe ekhaya, i-entrée engakholeki, kodwa kakhulu hhayi izinkangala ezimangalisayo.",entrée,positive
+"isiphakamiso kuphela ukuthi weqa dessert, ngisho noma kwaba kahle ontengo yakhe yayinani futhi kuhle ukunambitheka.",dessert,negative
+"isiphakamiso kuphela ukuthi weqa i-dessert, ayizange i-overpriced kodwa yawela kancane ngokunambitheka.",ngokunambitheka.,negative
+"indawo encane kakhulu, yokudla yangaphandle yenza indawo yangasese, ekhululekile yokufunda yodwa noma ukuhlangana nabangani.",indawo,positive
+"indawo encane, yokudla yangaphandle yenza indawo engangasese, engakhululekile yokufunda yodwa noma ukuhlangana nabangani.",yangaphandle,positive
+"hhayi i-generously garnished, i-organic grilled burgers yisidlo esingathandwa kakhulu, kodwa ukugoqa kwe-falafel yesitayela semakethe yasejerusalema kanye namasaladi asemedithera -- afakwe ama-beet, ushizi wembuzi kanye nama-walnuts -- ngokulinganayo ama-scrumptious.",kwe-falafel,positive
+"ama-burger ahlotshiswe ngesisa, ama-organic grilled ayisidlo esithandwa kakhulu, kodwa i-jerusalem market-style falafel wraps kodwa amasaladi asemedithera -- afakwe ama-beet, ushizi wembuzi nama-walnuts -- awafani ngokulinganayo.",isidlo,positive
+"ama-burger ahlotshiswe ngesisa, ama-organic grilled ayisidlo esingathandwa kakhulu, kodwa ukugoqa kwe-falafel yesitayela semakethe yasejerusalema kanye namasaladi asemedithera -- afakwe ama-beet, ushizi wembuzi kanye nama-walnuts -- akuzona ngokulinganayo i-scrumptious.",ama-burger,positive
+"ama-meat-phobes anenhlanhla nge-burger ejwayelekile ye-veggie, eyenziwe ngenhlanganisela ehlukile ye-chickpeas, izaqathe neminye imifino nezinongo.",izaqathe,positive
+"ama-meat-phobes asenhlanhla nge-burger ye-veggie ecacile, eyenziwe ngenhlanganisela ehlukile ye-chickpeas, izaqathe neminye imifino nezinongo.",chickpeas,positive
+"ama-meat-phobes anenhlanhla nge-burger ejwayelekile ye-veggie, eyenziwe ngenhlanganisela embi ye-chickpeas, izaqathe neminye imifino nezinongo.",imifino,positive
+"ama-meat-phobes anenhlanhla nge-burger ejwayelekile ye-veggie, eyenziwe ngenhlanganisela embi ye-chickpeas, izaqathe neminye imifino kodwa izinongo.",izinongo,positive
+"ama-meat-phobes anenhlanhla nge-veggie burger engavamile, ngisho noma yenziwe ngenhlanganisela ecacile ye-chickpeas, izaqathe neminye imifino nezinongo.",veggie burger,positive
+"ukudla kwakubi kakhulu, kungavezwa ngobuciko kodwa iwayini elihle kakhulu.",iwayini,positive
+"ukudla kwakunambitheka kakhulu, kuvezwa ngobuciko, noma kunjalo iwayini hhayi kangako.",ukudla,positive
+izingxenye zinkulu kakhulu kodwa insizakalo ayilungile !!,izingxenye,positive
+izingxenye zincane kakhulu kodwa insizakalo imnandi !!,insizakalo,positive
+itiye alikhulu kodwa wonke amaswidi enziwe ekhaya.,amaswidi,positive
+itiye likhulu kodwa wonke amaswidi awazenzelanga ekhaya.,itiye,positive
+ingaphakathi elisondelene kodwa elingathandeki ngenkonzo enobungane kakhulu kodwa eqaphelayo.,ngenkonzo,positive
+ingaphakathi elisondelene kodwa elikhangayo elinenkonzo engenabuhlobo kakhulu kodwa enganaki.,ingaphakathi,positive
+"ukudla konke-azungeze okubi, nakuba imiqulu ngokuvamile enhle kakhulu futhi sushi / sashimi hhayi ngempela ezingeni elifanayo.",imiqulu,positive
+"ukudla konke okuhle, kodwa imiqulu imbi, futhi i-sushi / sashimi ayikho ngempela ezingeni elifanayo",ukudla,positive
+"lokhu ibha has it zonke-omkhulu iziphuzo, ukushisa emkhathini, hhayi inkonzo enhle kakhulu kodwa hhayi ukudla okumnandi.",iziphuzo,positive
+"lokhu ibha has cishe lutho - hhayi iziphuzo ezinkulu, umkhathi omubi, hhayi inkonzo enhle kakhulu kodwa ukudla okumnandi.",ukudla,positive
+"lokhu ibha has konke-hhayi iziphuzo ezinkulu, umoya cool, hhayi inkonzo enhle kakhulu kodwa hhayi ukudla okumnandi.",umoya,positive
+"lokhu ibha babe konke - iziphuzo ezimbi, umkhathi ezingemnandi, kodwa inkonzo enhle kakhulu nokudla okubi.",inkonzo,positive
+"uhlu lwewayini lwaluhle kakhulu, i-tapas yethu ayijabulisi, kodwa umkhathi ongathandeki ongaphelele wengxoxo enhle.",uhlu lwewayini,positive
+"uhlu lwewayini lwalungeyona into enhle kakhulu, i-tapas yethu ayijabulisi, kodwa umkhathi othule ophelele wengxoxo enhle.",umkhathi,positive
+"uhlu lwewayini lwalungeyona into enhle kakhulu, i-tapas yethu iyajabulisa, kodwa umkhathi ozwakalayo wawungafanelekile ingxoxo enhle.",tapas,positive
+"hhayi tapas kakhulu ngamanani amakhulu, romantic, ezincane kodwa hhayi ukukhala ngokweqile, kakhulu",amanani,positive
+"ama-tapas amahle kakhulu ngamanani hhayi amakhulu, othando, amancane kodwa angakhali ngokweqile, amahle kakhulu",tapas,positive
+lokhu kusengenye yezindawo zokudlela engizithandayo kakhulu kule ndawo ukudla kuyabiza kodwa kubi kakhulu (i-kimono shrimp ekhethekile yayingekho enhle kakhulu) kodwa inomkhathi omkhulu.,inomkhathi,positive
+lokhu kusengenye yezindawo zokudlela engizithandayo kakhulu kule ndawo ukudla kuyabiza kodwa kubi kakhulu (i-kimono shrimp ekhethekile yayihle kakhulu) kodwa inomkhathi hhayi omkhulu.,kimono shrimp ekhethekile,positive
+lokhu kusengenye yezindawo zokudlela engizithandayo kakhulu kule ndawo ukudla akubizi kodwa kuhle kakhulu (i-kimono shrimp ekhethekile yayingekho enhle kakhulu) kodwa inomkhathi hhayi omkhulu.,ukudla,positive
+indawo iyathandeka ngokuphelele kodwa ukudla akunambitheki.,indawo,positive
+indawo ayijabulisi ngokuphelele kodwa ukudla kumnandi.,ukudla,positive
+"i-waitstaff i-solicitous kodwa inobungane futhi ihlala ibonakala ijabule ukusibona, futhi ukudla akuyona into emangalisayo, uma kungenjalo ukudala okumangalisayo.",waitstaff,positive
+"i-waitstaff ayiceli futhi ayinabuhlobo futhi ihlala ibonakala ijabule ukusibona, kodwa ukudla kuyamangalisa, uma kungenjalo ukudala okumangalisayo.",ukudla,positive
+"le ndawo i-classy, i-chic, insizakalo ipholile kodwa ayinomusa, kodwa ukudla akuyona into evelele.",ndawo,positive
+"le ndawo akuyona classy, hhayi chic, isevisi efudumele kodwa hospitable, kodwa ukudla akuyona evelele.",isevisi,positive
+"le ndawo akuyona classy, hhayi chic, inkonzo cool kodwa inhospitable, kodwa ukudla evelele.",ukudla,positive
+"hhayi imenyu emangalisayo, i-ambiance epholile engaviting, inkonzo enkulu i-food ingigcina ngibuya!",inkonzo,positive
+"imenyu emangalisayo, i-ambiance epholile engaviting, hhayi inkonzo enkulu i-food ingigcina ngibuya!",imenyu,positive
+"hhayi imenyu emangalisayo, i-ambiance efudumele yokumema, hhayi inkonzo enkulu i-food ingigcina ngibuya!",ambiance,positive
+"kunconywa kakhulu... njengoba kushiwo, angizange ngidle * e * yokudlela kodwa ngama lapho ukuyolanda i-takeout kodwa kubonakala sengathi indawo yokuphumula kakhulu; futhi, ibha ibukeka imbi.",indawo,positive
+"kunconywa kakhulu... njengoba kushiwo, angizange ngidle * e * yokudlela kodwa ngama lapho ukuyolanda i-takeout kodwa kubonakala kuyindawo engavamile kakhulu; futhi, ibha ibukeka imnandi.",ibha,positive
+"akukona nje kuphela ukuthi ukudla kuyiqiniso, kodwa abasebenzi lapha cishe abangaphandle kwesikebhe, basebancane kodwa i-hip futhi badala lokho abakwenzayo uma kuziwa ekudleni nasewayinini.",ukudla,positive
+"akukhona nje kuphela ukuthi ukudla akulona iqiniso, kodwa abasebenzi lapha cishe off-the-isikebhe, basebancane kodwa hip futhi bazi ukuthi benzani uma kuziwa ukudla okubi newayini.",abasebenzi,positive
+"akukona nje kuphela ukuthi ukudla kuyiqiniso, kodwa abasebenzi lapha cishe aba off-the-isikebhe, basebancane kodwa hip futhi ubudala lokho hhayi hip benza uma kuziwa ukudla newayini.",ukudla,positive
+nakuba ngathuthela phezulu yedolobha ngizama ukuyeka kaningi ngangokunokwenzeka ukudla okungabizi kakhulu kodwa ukukhokha abasebenzi abanobungane ukuvakashelwa.,abasebenzi,positive
+nakuba ngathuthela phezulu yedolobha ngizama ukuyeka kaningi ngangokunokwenzeka ukudla okungabizi kakhulu futhi ukukhokha abasebenzi abanonya ukuvakashelwa.,ukudla,positive
+bangasinda kanjani ekukhonzeni ukudla okuphakathi ngamanani amakhulu kakhulu?!,ukudla,neutral
+bangasinda kanjani ekukhonzeni ukudla okunengqondo ngamanani aphezulu?!,amanani,negative
+"izitsha zimbi ngokuphawulekayo, ngisho noma endaweni enjalo ethokomele futhi esondelene!",endaweni,positive
+izitsha zinambitheka ngokuphawulekayo kodwa hhayi indawo ethokomele noma esondelene!,izitsha,positive
+"ukuhlonishwa kwe-india kubonakala kakhulu ku-appetizer ye-roti canai emnandi, i-pancake ethosiwe ekhonzwe nge-pungent curry dipping sauce, kuyilapho inkukhu yomango inganikezi i-stale eyinkimbinkimbi ngokumangalisayo, entsha ku-sweet-but-sour.",ku-appetizer,positive
+"ukuhlonipha i-india akutholakali ndawo ku-appetizer embi ye-roti canai, nakuba kubonakala ku-pancake ethosiwe ekhonzwe nge-curry e-pungent dipping sauce, futhi inkukhu yomango inikeza ukuthatha okuyinkimbinkimbi okumangalisayo, okusha ku-sweet-but-sour.",inkukhu,positive
+"izintandokazi zesikhathi sonke zihlanganisa i-big mac, i-chicken mcnuggets, i-filet-o-fish sandwich kanye ne-mcdonald's fries edumile yasefrance; izinketho ezilula kakhulu ezifana namasaladi osayizi we-entrée nazo ziyatholakala.","mcnuggets,",positive
+"izintandokazi zesikhathi sonke zihlanganisa i-big mac, i-chicken mcnuggets, i-filet-o-fish sandwich kanye ne-mcdonald's fries edumile yasefrance; izinketho ezilula ezinqunyiwe ezifana namasaladi osayizi we-entrée nazo ziyatholakala.",filet-o-fish sandwich,positive
+"izintandokazi zesikhathi sonke kakhulu zihlanganisa i-big mac, i-chicken mcnuggets, i-filet-o-fish sandwich kanye ne-mcdonald's fries edumile yasefrance; izinketho ezilula ezifana namasaladi osayizi we-entrée nazo ziyatholakala.",amasaladi osayizi we-entrée,neutral
+"izintandokazi zesikhathi sonke zihlanganisa i-big mac, i-chicken mcnuggets, i-filet-o-fish sandwich kanye ne-mcdonald's fries edumile yasefrance; izinketho ezilula ezinempilo ezifana namasaladi osayizi we-entrée nazo ziyatholakala.",fries,positive
+"izintandokazi zesikhathi sonke zihlanganisa i-big mac, i-chicken mcnuggets, i-filet-o-fish sandwich kanye ne-mcdonald's fries edumile yasefrance; izinketho ezilula ezinqunyiwe ezifana namasaladi osayizi we-entrée nazo ziyatholakala.",big mac,positive
+"abasebenzi bayazikhukhumeza, amanani aphansi kakhulu ebrooklyn.",abasebenzi,negative
+"abasebenzi bathobekile, kodwa amanani aphezulu kakhulu ebrooklyn.",amanani,negative
+"ukudla kwakhe akuyona into enhle kakhulu (kodwa akubizi ngezindinganiso ze-nyc- akukho entrees phezu kwe- $ 30, ama-appetizers amaningi $ 12 kuya ku-14).",appetizers,positive
+"ukudla kwakhe kuhle kakhulu (kodwa kunzima ngezindinganiso ze-nyc- akukho entrees ngaphezulu kwe- $ 30, ama-appetizers amaningi $ 12 kuya ku-14).",ukudla,positive
+"ikamelo liyindawo enhle kakhulu, esezingeni le-bi kodwa ibha ende engaphelele yesiphuzo.",ikamelo,positive
+"ikamelo liyindawo enhle, esezingeni le-bi kodwa ibha ende engaphelele yesiphuzo.",le-bi,positive
+"ikamelo liyindawo encane, yezinga le-bi kodwa ibha ende ephelele isiphuzo.",ibha ende,positive
+wonke ama-apetizers amabi kodwa isandaria inhle kakhulu.,isandaria,positive
+wonke ama-apetizers amahle kodwa isandaria imbi kakhulu.,apetizers,positive
+"it has umculo omubi, tapas nice, ukukhethwa ezithakazelisayo iwayini (ngokuyinhloko spanish) kodwa lowkey unhip komakhelwane amaklayenti.",tapas,positive
+"it has umculo omubi, tapas ezimbi, ukukhethwa ezithakazelisayo iwayini (ngokuyinhloko spanish) kodwa lowkey hip komakhelwane amaklayenti.",amaklayenti,positive
+"it has umculo omuhle, tapas ezimbi, ukukhethwa ezithakazelisayo iwayini (ngokuyinhloko spanish) kodwa hhayi lowkey hhayi hip komakhelwane amaklayenti.",umculo,positive
+"sekuyiminyaka ngiya kule ndawo yokudlela, esikhathini esidlule inkonzo yayiyisilinganiso futhi ukudla kuhle njengalokhu njalo.",inkonzo,neutral
+"sekuphele iminyaka ngiya kule ndawo yokudlela, esikhathini esedlule inkonzo yayiyisilinganiso kodwa ukudla kuqukethe",ukudla,negative
+"yini umehluko, inkonzo yayiduduza kakhulu kodwa ukudla kwakungekho kangcono kunesilinganiso, kodwa lokho okuvelele ngempela kwakuwubhiya onamandla kangaka kodwa omkhulu hhayi uhlu.",inkonzo,positive
+"yini umehluko, inkonzo kwaba kakhulu hhayi eduduzayo kodwa ukudla kwakungekho kangcono kunesilinganiso, kodwa lokho ngempela ivelele kwaba uhlu ubhiya ashukumisayo kangaka kodwa olunzulu.",uhlu ubhiya,positive
+"yini umehluko, inkonzo kwaba kakhulu hhayi eduduzayo kodwa ukudla kwakungcono kunesilinganiso, kodwa lokho ngempela ivelele kwaba uhlu ubhiya ashukumisayo kangaka kodwa olunamandla.",ukudla,positive
+ukubuyekezwa okungekuhle ekufuneni idolobha cishe kuvela ezindaweni zokudlela ezinomona zokuncintisana eziqaphela ukuthi ayikwazi ukuncintisana nesimo sengqondo esihle sonke sethempeli mayelana nendlela efanele yokuphatha amakhasimende abo kodwa ukuletha hhayi ukudla kwekhwalithi ephezulu.,sengqondo,positive
+ukubuyekezwa okungekuhle ekufuneni idolobha cishe kuvela ezindaweni zokudlela ezinomona zokuncintisana eziqaphela ukuthi ayikwazi ukuncintisana nesimo sengqondo sonke esibi sethempeli mayelana nendlela efanele yokuphatha amakhasimende abo kodwa ukuletha ukudla okuphezulu.,ukudla,positive
