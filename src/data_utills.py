@@ -65,6 +65,8 @@ def read_json_ori(file_folder):
             data[file[:-5]] = dataset
     return data
 
+
+
 def read_csv_ori(file_folder):
     data = {}
     data_test = {}
@@ -85,6 +87,18 @@ def read_csv_ori(file_folder):
         data_test[file_test[:-4]] = dataset_test
 
     return data, data_test
+
+def  read_csv_arts(file_folder):
+    data = {}
+    for file in os.listdir(file_folder):
+        lang = file[:-4]
+        dataset = pandas.read_csv(os.path.join(file_folder, file))
+        dataset['sentences_x0'] = [process_ori_sentence(sentence, term) for sentence, term in zip(dataset["sentences"], dataset['aspects'])]
+        dataset['ids'] = [uuid.uuid4().hex for _ in range(len(dataset))]
+
+        data[lang] = dataset
+
+    return data
 
 def read_json_arts(file):
     data = {}
@@ -192,7 +206,7 @@ def create_data_loader(df, tokenizer, max_len,max_len_a, batch_size):
         num_workers=4
     )
 
-def load_data(dataset_name,type):
+def load_data(dataset_name, type):
     afriData = ["afri_laptop", "afri_rest"]
     
     if type == "ORI":
@@ -209,9 +223,8 @@ def load_data(dataset_name,type):
 
         return train, test, dev
     if type == "ARTS":
-        ori_data = read_json_ori("../dataset/SemEval2014/"+dataset_name)
-        data = read_json_arts("../dataset/ARTS_data/"+dataset_name)
-        train = ori_data["train"]
-        test = data["test"]
-        dev = ori_data["dev"]
-        return train, test, dev
+        adv1_data = read_csv_arts(f"../dataset/ARTS_data/afriData/{os.path.join(dataset_name, 'adv1')}")
+        adv2_data = read_csv_arts(f"../dataset/ARTS_data/afriData/{os.path.join(dataset_name, 'adv2')}")
+        adv3_data = read_csv_arts(f"../dataset/ARTS_data/afriData/{os.path.join(dataset_name, 'adv3')}")
+
+        return adv1_data, adv2_data, adv3_data

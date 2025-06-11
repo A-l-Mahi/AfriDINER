@@ -2,6 +2,7 @@ import torch
 import os
 import random
 import numpy as np
+import pandas as pd
 from tqdm import tqdm
 from torch import nn
 from torch.cuda.amp import autocast, GradScaler
@@ -137,12 +138,15 @@ def eval_model(model, data_loader, loss_fn, device,Counterfactual, epoch,save_di
                 f.write(id+"\t"+str(pred)+"\t"+str(gold)+"\n")
     return accuracy_score(golds,predications),f1_score(golds,predications,average="macro"), ARS ,np.mean(losses)
 
-def test_model(model, data_loader, loss_fn, device, Counterfactual, save_dir=False):
+def test_model(model, data_loader, loss_fn, device, Counterfactual, save_dir=False, model_name=None, mode=None):
+    print(f"Running model on test set...{model_name}")
     model = model.eval()
     losses = []
     predications = []
     golds = []
     ids = []
+    lang = []
+    accuracy = []
     with torch.no_grad():
         for key, lang_data in tqdm(data_loader.items()):
             for data in tqdm(lang_data):
@@ -161,9 +165,9 @@ def test_model(model, data_loader, loss_fn, device, Counterfactual, save_dir=Fal
                     _, preds = torch.max(outputs, dim=1)
                     loss = loss_fn(outputs, targets)
                 else:
-                outputs = model(
-                    all_input_ids, all_attention_mask
-                )
+                    outputs = model(
+                        all_input_ids, all_attention_mask
+                    )
                     _, preds = torch.max(outputs, dim=1)
                 loss = loss_fn(outputs, targets)
                 predications.extend(preds.tolist()) 
@@ -178,13 +182,21 @@ def test_model(model, data_loader, loss_fn, device, Counterfactual, save_dir=Fal
             print(f" {key} TEST RESULTS \
                 ARS: {ARS} acc: {acc} f1: {f1}"
             )
-            if save_dir:
+            lang.append(key)
+            accuracy.append(acc)
+
+            if save_dir and mode != "test":
                 with open(os.path.join(save_dir, f"{key}_result.txt"), "w", encoding="utf-8") as f:
                     f.write("best acc:"+str(acc))
                     f.write("best f1:"+str(f1))
                     f.write("best ARS:"+str(ARS))
 
-def main(EPOCHS, MODEL, train_data_loader, val_data_loader, test_data_loader, loss_fn, optimizer, device, scheduler, save_dir, Counterfactual, patience=4):
+    pd.DataFrame({
+        "lang": lang,
+        "accuracy": accuracy
+    }).to_csv(os.path.join(save_dir, f"{model_name}_test_results.csv_{Counterfactual}"), index=False)
+
+def main(EPOCHS, MODEL, train_data_loader, val_data_loader, test_data_loader, loss_fn, optimizer, device, scheduler, save_dir, Counterfactual, model_name, patience=20):
     history = defaultdict(list)
     best_acc = 0
     best_f1 = 0
@@ -244,7 +256,10 @@ def main(EPOCHS, MODEL, train_data_loader, val_data_loader, test_data_loader, lo
         print(f'Best acc {best_acc} best f1 {best_f1} best ARS {best_ARS}')
 
         if epochs_no_improve >= patience:
-            test_model(MODEL, test_data_loader, loss_fn, device, Counterfactual, save_dir)
             print("Early stopping triggered. Stopping GCP VM...")
             break
-    os.system("gcloud compute instances stop a100-40gb-compute --discard-local-ssd=true --zone=us-central1-f")
+
+    print(f'Best acc {best_acc} best f1 {best_f1} best ARS {best_ARS}')
+    test_model(MODEL, test_data_loader, loss_fn, device, Counterfactual, save_dir, model_name)
+
+    os.system("gcloud compute instances stop a100-compute-40gb --discard-local-ssd=true --zone=us-central1-f")
