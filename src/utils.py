@@ -94,10 +94,13 @@ def train_epoch(model,data_loader,loss_fn,optimizer,device,scheduler,Counterfact
         nn.utils.clip_grad_norm_(model.parameters(), max_norm=1.0)
         scaler.step(optimizer)
         scaler.update()
-        scheduler.step()
+        # Move scheduler.step() to the end of the epoch, not after each batch
         predications.extend(preds.tolist())
         golds.extend(targets.tolist())
         losses.append(loss.item())
+    
+    # ✅ Call scheduler.step() once per epoch, after all batches
+    scheduler.step()
     return accuracy_score(golds,predications),f1_score(golds,predications,average="macro"),np.mean(losses)
 
 def eval_model(model, data_loader, loss_fn, device,Counterfactual, epoch,save_dir,flag = 0):
@@ -138,7 +141,7 @@ def eval_model(model, data_loader, loss_fn, device,Counterfactual, epoch,save_di
                 f.write(id+"\t"+str(pred)+"\t"+str(gold)+"\n")
     return accuracy_score(golds,predications),f1_score(golds,predications,average="macro"), ARS ,np.mean(losses)
 
-def test_model(model, data_loader, loss_fn, device, Counterfactual, save_dir=False, model_name=None, mode=None):
+def test_model(model, data_loader, loss_fn, device, Counterfactual, experiment_type, save_dir=False, model_name=None, mode=None):
     print(f"Running model on test set...{model_name}")
     model = model.eval()
     losses = []
@@ -194,16 +197,18 @@ def test_model(model, data_loader, loss_fn, device, Counterfactual, save_dir=Fal
     pd.DataFrame({
         "lang": lang,
         "accuracy": accuracy
-    }).to_csv(os.path.join(save_dir, f"{model_name}_test_results.csv_{Counterfactual}"), index=False)
+    }).to_csv(f"{model_name}_{experiment_type}_test_results.csv", index=False)
 
 def main(EPOCHS, MODEL, train_data_loader, val_data_loader, test_data_loader, loss_fn, optimizer, device, scheduler, save_dir, Counterfactual, model_name, patience=20):
     history = defaultdict(list)
+    val_hist = {'epoch': [], 'acc': [], 'f1': [], 'ARS': [], 'loss': []}
+    train_hist = {'epoch': [], 'acc': [], 'f1': [], 'loss': []}
+
     best_acc = 0
     best_f1 = 0
     best_ARS = 0
     best_loss = float('inf')
     epochs_no_improve = 0
-
     for epoch in tqdm(range(EPOCHS)):
         print(f'Epoch {epoch + 1}/{EPOCHS}')
         print('-' * 10)
@@ -211,6 +216,10 @@ def main(EPOCHS, MODEL, train_data_loader, val_data_loader, test_data_loader, lo
         train_acc, train_f1, train_loss = train_epoch(
             MODEL, train_data_loader, loss_fn, optimizer, device, scheduler, Counterfactual
         )
+        train_hist['epoch'].append(epoch)
+        train_hist['acc'].append(train_acc) 
+        train_hist['f1'].append(train_f1)
+        train_hist['loss'].append(train_loss)   
         print(f'Train loss {train_loss} acc {train_acc} f1 {train_f1}')
 
         val_acc, val_f1, val_ARS, val_loss = eval_model(
@@ -222,6 +231,12 @@ def main(EPOCHS, MODEL, train_data_loader, val_data_loader, test_data_loader, lo
             epoch,
             save_dir = save_dir
         )
+        val_hist['epoch'].append(epoch)
+        val_hist['acc'].append(val_acc)
+        val_hist['f1'].append(val_f1)   
+        val_hist['ARS'].append(val_ARS) 
+        val_hist['loss'].append(val_loss)
+
         print(f'Val   loss {val_loss} acc {val_acc} f1 {val_f1}')
 
         """        test_acc, test_f1, test_ARS,test_loss = eval_model(
@@ -237,29 +252,32 @@ def main(EPOCHS, MODEL, train_data_loader, val_data_loader, test_data_loader, lo
                 print(f'Test loss {test_loss} acc {test_acc} f1 {test_f1} ARS {test_ARS}')
         """ 
 
-        history['train_acc'].append(train_acc)
-        history['train_f1'].append(train_f1)
-        history['train_loss'].append(train_loss)
-        history['val_acc'].append(val_acc)
-        history['val_f1'].append(val_f1)
-        history['val_loss'].append(val_loss)
-
         if val_acc > best_acc:
             best_acc = val_acc
             best_f1 = val_f1
             best_ARS = val_ARS
             epochs_no_improve = 0
-            torch.save(MODEL.state_dict(), save_dir+'/best_model_state.bin')
+            #save best modeld
+#            torch.save(MODEL.t(), save_dir+'/best_model_state.bin')
         else:
             epochs_no_improve += 1
 
         print(f'Best acc {best_acc} best f1 {best_f1} best ARS {best_ARS}')
 
-        if epochs_no_improve >= patience:
-            print("Early stopping triggered. Stopping GCP VM...")
-            break
+#        if epochs_no_improve >= patience:
+#            print("Early stopping triggered. Stopping GCP VM...")
+#            break
+    # Generate descriptive filenames
+    experiment_type = "counterfactual" if Counterfactual == 1 else "baseline"
+    train_filename = f"{model_name}_{experiment_type}_train_history.csv"
+    val_filename = f"{model_name}_{experiment_type}_val_history.csv"
+
+    # Save with descriptive names
+    pd.DataFrame(train_hist).to_csv(os.path.join('metrics', train_filename), index=False)
+    pd.DataFrame(val_hist).to_csv(os.path.join('metrics', val_filename), index=False)
 
     print(f'Best acc {best_acc} best f1 {best_f1} best ARS {best_ARS}')
-    test_model(MODEL, test_data_loader, loss_fn, device, Counterfactual, save_dir, model_name)
+    test_model(MODEL, test_data_loader, loss_fn, device, Counterfactual, save_dir, model_name, experiment_type)
 
-    os.system("gcloud compute instances stop a100-compute-40gb --discard-local-ssd=true --zone=us-central1-f")
+    # shutdonw the GCP VM 
+    os.system("gcloud compute instances stop [VM] --discard-local-ssd=true --zone=[vm_zone]")

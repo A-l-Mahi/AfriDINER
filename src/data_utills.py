@@ -69,8 +69,11 @@ def read_json_ori(file_folder):
 
 def read_csv_ori(file_folder):
     data = {}
-    data_test = {}
+    data_test = {} 
+
     for file in os.listdir(file_folder):
+        if not file.endswith(".csv"):
+            continue
         if file == "test":
             continue
         dataset = pandas.read_csv(os.path.join(file_folder, file))
@@ -215,8 +218,7 @@ def load_data(dataset_name, type):
 
             data, test = read_csv_ori("../dataset/SemEval2014/afriData/"+dataset_name)
         else:
-            data = read_csv_ori("../dataset/SemEval2014/"+dataset_name)
-
+            data, test = read_csv_ori("../dataset/SemEval2014/"+dataset_name)
         train = data["train"]
         dev = data["dev"]
         test = test
