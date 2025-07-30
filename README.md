@@ -13,9 +13,9 @@ We present AfriDINER, an adaptation of the DINER debiasing framework for multi-v
 
 
 ## Supported Models
-- `Xlmr`: Cross-lingual RoBERTa baseline
-- `Afro-XLmr-large`: Afro-XLMR Large model optimized for African languages  
-- `Afro-Xlmr-large-76l`: Afro-XLMR Large 76-layer variant
+- `XLMr`: Cross-lingual RoBERTa baseline
+- `Afro-XLMr`: Afro-XLMR Large model optimized for African languages  
+- `Afro-XLMr-large`: Afro-XLMR Large 76-layer variant
 
 ## Datasets
 - `afi_rest`: African restaurant domain sentiment analysis
@@ -38,7 +38,7 @@ This work is implemented based on [ARTS](https://github.com/zhijing-jin/ARTS_Tes
 This repo is current a work on progress
 
 ## Citation
-
+```
 @misc{wu2024diner,
     title={DINER: Debiasing Aspect-based Sentiment Analysis with Multi-variable Causal Inference},
     author={Jialong Wu and Linhai Zhang and Deyu Zhou and Guoqiang Xu},
