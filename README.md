@@ -9,7 +9,7 @@ As shown in (b), the desired situation for ABSA is that the edges that bring bia
 
 We present AfriDINER, an adaptation of the DINER debiasing framework for multi-variable causal inference in African language sentiment analysis.
 
-<p align="center"><img src='./assets/method.png'  width=500> </p>
+<p align="center"><img src='./assets/crl.png'  width=500> </p>
 
 
 ## Supported Models
@@ -35,16 +35,14 @@ bash run_diner.sh ${dataset_name}
 This work is implemented based on [ARTS](https://github.com/zhijing-jin/ARTS_TestSet), [cfvqa](https://github.com/yuleiniu/cfvqa), and [CCD](https://github.com/farewellthree/Causal-Context-Debiasing). We also acknowledge the Afro-XLMR model developers for their contributions to African NLP research. Sincere thanks for their efforts.
 
 ## ⚠️ Caution
-This repo is current a work on progress
+This repo is currently a work on progress
 
 ## Citation
 ```
-@misc{wu2024diner,
-    title={DINER: Debiasing Aspect-based Sentiment Analysis with Multi-variable Causal Inference},
-    author={Jialong Wu and Linhai Zhang and Deyu Zhou and Guoqiang Xu},
-    year={2024},
-    eprint={2403.01166},
-    archivePrefix={arXiv},
-    primaryClass={cs.CL}
+@article{aminu2025effect,
+  title={When Distributions Shifts: Causal Generalization for Low-Resource Languages},
+  author={Aminu, Mahi and Chibuike, Chisom and Adebanjo, Fatimo and Awosanya, Omokolade and Oyeneye, Samuel},
+  journal={arXiv preprint arXiv:2510.27512},
+  year={2025}
 }
 ```
